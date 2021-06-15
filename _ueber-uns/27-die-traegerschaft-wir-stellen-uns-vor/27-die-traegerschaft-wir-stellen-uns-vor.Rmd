@@ -1,0 +1,87 @@
+---
+title: Die Trägerschaft stellt sich vor
+description: |
+  Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare Zusammenarbeit während der kommenden Jahre.
+author: natursc
+date: 2014-01-08
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor
+---
+
+
+**Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg
+konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es
+sind dies sieben Sektionen des Bezirks Horgen des
+Dachverbandes [BirdLife Zürich](http://www.birdlife-zuerich.ch) und der
+Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare
+Zusammenarbeit während der kommenden Jahre.**
+
+------------------------------------------------------------------------
+
+<table data-border="0" data-cellpadding="10">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="header">
+<th>Logo (mit Link)</th>
+<th style="text-align: left;">Verein</th>
+<th style="text-align: left;">vertreten durch</th>
+</tr>
+
+<tr class="odd" data-valign="middle">
+<td style="text-align: center;"><a href="http://www.naturhirzel.ch"><img src="images/hirzel.png" width="151" height="78" /></a></td>
+<td style="text-align: left;">Natur- und Vogelschutzverein Hirzel<br />
+(2021 fusioniert mit Natur Horgen)</td>
+<td style="text-align: left;">Thomas Rubin</td>
+</tr>
+<tr class="even" data-valign="middle">
+<td style="text-align: center;"><img src="images/bilder/logos/NVH_Logo_neu_grau.jpg" /></td>
+<td style="text-align: left;">Natur Horgen</td>
+<td style="text-align: left;"><p>Thomas Rubin<br />
+(zuvor: Ruedi Streuli)</p></td>
+</tr>
+<tr class="odd" data-valign="middle">
+<td style="text-align: center;"><img src="images/bilder/logos/Logo_NK_RGB_150dpi.jpg" width="172" height="128" /></td>
+<td style="text-align: left;">Naturschutz Kilchberg</td>
+<td style="text-align: left;">Fabian Schwarzenbach</td>
+</tr>
+<tr class="even" data-valign="middle">
+<td style="text-align: center;"><a href="http://singdrossel.ch/"><img src="images/bilder/logos/singdrossel_2.jpg" width="220" height="101" /></a></td>
+<td style="text-align: left;">Singdrossel Langnau</td>
+<td style="text-align: left;">André Mauley</td>
+</tr>
+<tr class="odd" data-valign="middle">
+<td style="text-align: center;"><a href="http://www.nv-oberrieden.ch/"><img src="images/bilder/logos/nsv_oberrieden_2.jpg" width="123" height="110" /></a></td>
+<td style="text-align: left;">Natur- und Vogelschutzverein Oberrieden</td>
+<td style="text-align: left;"><p>Maurus Frei<br />
+(zuvor: Leo Vock)</p></td>
+</tr>
+<tr class="even" data-valign="middle">
+<td style="text-align: center;"><a href="http://www.naturschutz-r-s.ch/"><img src="images/bilder/logos/nsv_richterswil.png" width="220" height="79" /></a></td>
+<td style="text-align: left;">Naturschutz Richterswil-Samstagern</td>
+<td style="text-align: left;"><p>Regula Büchler<br />
+(zuvor: Nils Ratnaweera)</p></td>
+</tr>
+<tr class="odd" data-valign="middle">
+<td style="text-align: center;"><a href="http://www.nvthalwil.ch/"><img src="images/bilder/logos/nsv_thalwil_2.gif" width="90" height="110" /></a></td>
+<td style="text-align: left;">Natur- und Vogelschutzverein Thalwil</td>
+<td style="text-align: left;">Manuel Brändli<br />
+(zuvor: Barbara Gabriel)</td>
+</tr>
+<tr class="even" data-valign="middle">
+<td style="text-align: center;"><img src="images/bilder/logos/NW_Logo_grau_280px.jpg" /></td>
+<td style="text-align: left;">Naturschutz Wädenswil</td>
+<td style="text-align: left;">Sabina Stokar<br />
+(zuvor: Stefan Keller)</td>
+</tr>
+</tbody>
+</table>
+
+ 
+
+<!--http://wieselundco.ch/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor-->

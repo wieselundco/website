@@ -1,0 +1,16 @@
+---
+title: Erste Möglichkeiten zum Mitwirken im Winter 2017
+description: |
+  Heuer feiern wir einen der kältesten Januare seit Messbeginn. Dies sorgt einerseits für kalte Ohren, aber auch für beste Verhältnisse zur bodenschonenden Holzerei. Und auch das weisse Winterfell des Hermelins kann seine volle  Wirkung entfalten.  Wir vom Projekt Wiesel & Co am Zimmerberg erfreuen uns ob dem anfallenden Astmaterial und errichten an ausgewählten Standorten Asthaufen, so dass die Kleinraubtiere schützende Orte zum Versteck und zur Jungenaufzucht finden. Die ersten beiden Aktionstage finden an den Samstagen vom 4. und 11. Februar statt.  Wir freuen uns über ihr Mitwirken bei der Aufwertung dieser Naturräume! Einladung Aktionstag Ausee Samstag 4. Februar Einladung Aktionstag Im Moos (Schönenberg) Samstag 11. Februar
+author: wilderstefan
+date: 2017-01-26
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/29-erste-moeglichkeiten-zum-mitwirken-im-winter-2017
+---
+
+
+
+
+<!--http://wieselundco.ch/14-news/29-erste-moeglichkeiten-zum-mitwirken-im-winter-2017-->

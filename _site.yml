@@ -27,9 +27,12 @@ navbar:
         - text: "Externe Projekte"
           href: Externe-Projekte.html
     - text: "Mitwirken"
-      href: Mitwirken.html
+      menu:
+        - text: "Anpacken"
+          href: Anpacken.html
+        - text: "Beobachtung Melden"
+          href: Beobachtung-Melden.html
     - text: "Faszination Kleinraubitere"
-      href: Faszination-Kleinraubtiere.html
       menu:
       - text: "Unsere Zielarten"
         href: Unsere-Zielarten.html

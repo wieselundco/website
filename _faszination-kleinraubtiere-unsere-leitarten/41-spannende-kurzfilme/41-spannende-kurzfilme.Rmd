@@ -1,0 +1,34 @@
+---
+title: Spannende Kurzfilme
+description: |
+  Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl faszinierender Kurzfilme von Kleinraubtieren!
+author: natursc
+date: 2014-05-21
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme
+---
+
+
+**Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als
+tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl
+faszinierender Kurzfilme von Kleinraubtieren!  
+  
+Nebst den untenstehenden Sequenzen gibt es auch fortlaufend regionale
+Wiesel-Filmchen auf unserem
+[youtube-Kanal](https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ/videos).**
+
+------------------------------------------------------------------------
+
+ Unglaublich, was ein Hermelin an Beute machen kann!
+
+ 
+
+Auch das Mauswiesel hat Beute gewittert:
+
+ 
+
+ 
+
+<!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme-->

@@ -1,0 +1,16 @@
+---
+title: Bau von Nistkammern - und der Frühling kann beginnen
+description: |
+  Der Mai ist üblicherweise der Monat, wann Hermelin, Mauswiesel und Iltis Jungen zur Welt bringen. Entsprechend wollen wir den April noch zum Bau von Nistkammern und Deckungen nutzen.  Wie gewohnt bieten wir Ihnen Gelegenheit, an der frischen Luft etwas sinnvolles für die Naturwerte zu unternehmen. Die ganze Familie ist eingeladen zu erfreulichen Bekanntschaften, Lernerlebnissen und Taten. Natürlich offerieren wir währschafte Zwischenverpflegung ab Hof.      Am Samstag 8. April werden wir eine stattliche Baumhecke in Samstagern mit Asthaufen ausstatten. Ein weiteres Ziel ist die Förderung der Vielfalt von Strauch- und Baumarten.  DOWNLOAD DETAILS AKTIONSTAG OBERSCHWANDENHOF SAMSTAGERN   Am Samstag 29. April ist am östlichen Waldrand des Reidholzes eine umfassende Waldrandaufwertung angesagt. Buchten in der Waldrandlinie ermöglichen den Wechsel von Krautflächen, heckenartigem Dickicht sowie bäumigen Überhältern. Mit dem anfallenden Astmaterial bauen wir Wiesel-Burgen.  DOWNLOAD DETAILS AKTIONSTAG REIDHOLZ RICHTERSWIL
+author: wilderstefan
+date: 2017-04-03
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/95-aktionstage-april-2017
+---
+
+
+
+
+<!--http://wieselundco.ch/14-news/95-aktionstage-april-2017-->

@@ -1,0 +1,76 @@
+---
+title: Who is Who? Unsere Zielarten
+description: |
+  Flink hüpfen Hermelin und Mauswiesel über die Wiese. Hin und wieder verschwinden sie in der Erde. Hier jagen die geschickten Räuber langgestreckt und mit kurzen Beinen den Wühlmäusen in ihren Gängen nach.
+author: natursc
+date: 2014-01-28
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /faszination-kleinraubtiere/unsere-leitarten/12-who-is-who
+---
+
+
+**Flink hüpfen
+[Hermelin](https://www.blick.ch/storytelling/2018/hermelin/) und
+Mauswiesel über die Wiese. Hin und wieder verschwinden sie in der Erde.
+Hier jagen die geschickten Räuber langgestreckt und mit kurzen Beinen
+den Wühlmäusen in ihren Gängen nach.**
+
+------------------------------------------------------------------------
+
+In den engen Mäusebauten können die Wiesel sich keine Fettreserven
+erlauben und so sind sie im ständigen Wechsel von Ruhe- und
+Aktivitätsphasen. Daher lassen sich die neugierigen Tiere über das ganze
+Jahr und zu jeder Tages- und Nachtzeit beobachten.
+
+{gallery}bilder/arten/proportional{/gallery}
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Mauswiesel</strong><br />
+Kopf-Rumpf-Länge Ø 20 cm<br />
+Schwanz-Länge Ø 5 cm<br />
+Fellfärbung ganzjährig braun-weiss<br />
+Hals und Kopf lang gestreckt<br />
+Unruhige Trennlinie Ober-/Unterseite</td>
+<td><strong>Hermelin</strong><br />
+Kopf-Rumpf-Länge Ø 30 cm<br />
+Schwanz-Länge Ø 15 cm<br />
+Auffälliger Schwanz mit schwarzer Schwanzspitze<br />
+Im Winterhalbjahr weisses Fell<br />
+Scharfe Trennlinie Ober-/Unterseite im Sommerfell</td>
+<td><strong>Iltis</strong><br />
+Kopf-Rumpf-Länge Ø 40 cm<br />
+Schwanz-Länge Ø 15 cm<br />
+Unverkennbare Gesichtsmaske<br />
+Dunkle Grannenhaare<br />
+beige Unterwolle</td>
+</tr>
+</tbody>
+</table>
+
+ 
+
+ 
+
+[Kurzporträts aller Säugetiere der Schweiz finden Sie
+online](https://apps.wildtier.ch/mammals/) oder im 2021 erschienenen
+[Atlas der
+Säugetiere](https://www.haupt.ch/buecher/natur-garten/atlas-der-saeugetiere-schweiz-und-liechtenstein.html)
+der [Schweizerischen Gesellschaft für
+Wildtierbiologie](https://mitglied.scnat.ch/sgw-ssbf). 
+
+ 
+
+ 
+
+ 
+
+<!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/12-who-is-who-->

@@ -1,0 +1,36 @@
+---
+title: Souvenir Helferessen
+description: |
+  Vor dem wunderschönen Atelier Hinterrüti fand sich am 3. Juli ein aufgewecktes Grüppchen ein. Allesamt Menschen, die sich im bisherigen Verlauf des Projekts engagiert haben. Folgend einige Beispiel für ihr Engagement: Mitwirken bei Standaktionen, Exkursionen und Infoveranstaltungen. Tatkräftiges Anpacken beim Erstellen von Asthaufen für Kleinraubtiere. Betreuen von Spurentunneln, um festzustellen, ob die Massnahmen für Kleinraubtiere attraktiv sind.
+author: wilderstefan
+date: 2016-01-29
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/69-souvenir-helferessen
+---
+
+
+**Vor dem wunderschönen [Atelier
+Hinterrüti](http://www.hinterrueti.ch) fand sich am 3. Juli ein
+aufgewecktes Grüppchen ein.**
+
+**Allesamt Menschen, die sich im bisherigen Verlauf des Projekts
+engagiert haben. Folgend einige Beispiel für ihr Engagement: Mitwirken
+bei Standaktionen, Exkursionen und Infoveranstaltungen. Tatkräftiges
+Anpacken beim Erstellen von Asthaufen für Kleinraubtiere. Betreuen von
+Spurentunneln, um festzustellen, ob die Massnahmen für Kleinraubtiere
+attraktiv sind.**
+
+Als Dankeschön durften alle ein feines Nachtessen geniessen und ein
+Präsent in Form eines regionalen Hofprodukts in Empfang nehmen.
+
+Wir freuen uns auf ein Wiedersehen und ein anhaltendes Engagement aller
+Beteiligten!
+
+Die Trägerschaft bedankt sich herzlich bei allen Beteiligten und auch
+den [Sponsoren](ueber-uns/7-partner)!
+
+{gallery}fotos/2015\_07\_03\_Helferessen{/gallery}
+
+<!--http://wieselundco.ch/14-news/69-souvenir-helferessen-->

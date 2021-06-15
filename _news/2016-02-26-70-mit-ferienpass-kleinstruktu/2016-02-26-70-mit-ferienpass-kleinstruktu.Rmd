@@ -1,0 +1,36 @@
+---
+title: Mit Ferienpass Unterschlupf bauen
+description: |
+  SchülerInnen der 4.-9 Klassen von Wädenswil sind im Rahmen des Ferienpass eingeladen, einen spannenden Tag im Sagenholz zu erleben. Wir werden uns mit Handsägen ausgerüstet in ein Waldstück am Aabach begeben und den dortigen Lebensraum der Kleinraubtiere aufwerten. Natürlich können wir zusammen so einiges über die faszinierenden Kleinraubtierarten Hermelin, Mauswiesel und Iltis erfahren.
+author: wilderstefan
+date: 2016-02-26
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/70-mit-ferienpass-kleinstrukturen-bauen
+---
+
+
+**SchülerInnen der 4.-9 Klassen von Wädenswil sind im Rahmen des
+Ferienpass eingeladen, einen spannenden Tag mit Wiesel & Co am
+Zimmerberg zu erleben.**
+
+**Wir werden uns mit Handsägen ausgerüstet in ein Waldstück am Aabach
+begeben und den dortigen Lebensraum der Kleinraubtiere aufwerten.**
+
+**Natürlich können wir zusammen so einiges über die faszinierenden
+Kleinraubtierarten Hermelin, Mauswiesel und Iltis erfahren.**
+
+Ob später wohl ein Iltis in den von uns gebauten Deckungen Spuren
+hinterlassen wird? Dazu werden wir die gebauten Unterschlüpfe mit
+Spurentunneln versehen. 
+
+Zum Zmittag bräteln wir am Feuer.
+
+[Hier geht es zur Anmeldung](http://goo.gl/forms/p06Q4LO7VX) - wir
+freuen uns auf junge Menschen, die einen aktiven und respektvollen Tag
+im Wald erleben möchten! 
+
+ 
+
+<!--http://wieselundco.ch/14-news/70-mit-ferienpass-kleinstrukturen-bauen-->

@@ -1,0 +1,80 @@
+---
+title: Aststrukturen bauen am 12., 14. und 19. März
+description: |
+  Am kommenden Samstag (12.3) bekommen die Kleinraubtiere gleich in zwei verschiedenen Landschaftskammern (Horgen und Wädenswil) Kleinstrukturen gebaut. Am Montag (14.3) wie auch am Samstag darauf (19.3) werden weitere Massnahmen in Wädenswil umgesetzt. Es handelt sich bei diesen Gelegenheiten um die Erstellung von Unterschlupf und Jungenaufzuchtstätten aus Asthaufen mit Hohlraum im Innern. Momentan konzentrieren wir uns auf diese Massnahmentypen, denn sie sind bei bei Wiesel & Co sehr beliebt. Bald werden wir im Rahmen des Projektes auch Gebüschgruppen pflanzen und andere Massnahmen treffen. Wir freuen uns auf tatkräftige Untersützung! Zwischenverpflegung wird offeriert und darüber hinaus werden wir uns in Zukunft bei den HelferInnen mit einem Fest oder Geschenk bedanken. 
+author: wilderstefan
+date: 2016-03-08
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/71-aststrukturen-bauen-sa-12-maerz
+---
+
+
+**Am kommenden Samstag (12.3) bekommen die Kleinraubtiere gleich in zwei
+verschiedenen Landschaftskammern (Horgen und Wädenswil) Kleinstrukturen
+gebaut. Am Montag (14.3) wie auch am Samstag darauf (19.3) werden
+weitere Massnahmen in Wädenswil umgesetzt.**
+
+**Es handelt sich bei diesen Gelegenheiten um die Erstellung von
+Unterschlupf und Jungenaufzuchtstätten aus Asthaufen mit Hohlraum im
+Innern. Momentan konzentrieren wir uns auf diese Massnahmentypen, denn
+sie sind bei bei Wiesel & Co sehr beliebt. Bald werden wir im Rahmen des
+Projektes auch Gebüschgruppen pflanzen und andere Massnahmen treffen.**
+
+**Wir freuen uns auf tatkräftige Untersützung! Zwischenverpflegung wird
+offeriert und darüber hinaus werden wir uns in Zukunft bei den
+HelferInnen mit einem Fest oder Geschenk bedanken.**
+
+**Am Samstag Vormittag (12.3)** werden wir entlang dem verbliebenen
+Bachlauf zwischen Pappelweg und Neuhofstrasse im Langacher (Horgen)
+Strukturen errichten. Wir bewegen uns auf dem Land von der Familie
+Leuthold [www.chueweidli.ch](http://chueweidli.ch/), die die
+Kleinraubtiere mit der Bereitschaft zum Asthaufenbau unterstützt. Das
+Astmaterial stammt von der Durchforstung des Bachgehölz und wurde
+ausgeführt vom Werkhof der Gemeinde. Von 9 bis 12 Uhr nehmen wir uns
+Zeit, um das bereitliegende Astmaterial zu Haufen mit Nistkammer zu
+schichten. Der Einbau von Spurentunnel(n) soll nicht fehlen, um die
+Präsenz von Kleinraubtieren zu kontrollieren. Vielleicht möchten
+AnwohnerInnen die spannende Spurentunnel-Kontrolle für ein paar Male,
+d.h. Wochen übernehmen? Weitere Infos zum Treffpunkt und zur Ausrüstung
+bitte dem [Flyer vormittags Langacher
+Horgen](images/Einladungen/2016_03_12_Einladung_Langacher_e.pdf)
+entnehmen.
+
+**Am Samstag Nachmittag** **(12.3)** ab 13:30 Uhr sind unsere Kräfte im
+Chüefer (Wädenswil) gefragt. Gleich vis à vis dem kantonalen Werkhof am
+Autobahnanschluss Wädenswil stockt eine Hecke und dahinter tut sich
+saftiges Grünland mit guter Nahrungsgrundlage für Wiesel auf. Die
+Artenvielfalt der Hecke der Familie Höhn wird mit dem Pflegeeingriff
+verbessert. Das anfallende Astmaterial dient dann zum Decken von
+Kammern, die wir aus Wurzel- und Stammmaterial von gefallenen Obstbäumen
+zusammen stellen. Auch hier werden Zwischenverpflegung,
+Spurentunnel-Installation und Informationsaustausch für Auflockerung
+sorgen. Weitere Infos zum Treffpunkt und zur Ausrüstung bitte dem [Flyer
+nachmittags Chüefer
+Wädenswil](images/Einladungen/2016_03_12_Einladung_Chuefer.pdf)
+entnehmen.
+
+**Am Montag Vormittag (14.3)** werden ab 9:15 Uhr in der Steinweid
+(Wädenswil) weitere Asthaufen geschichtet. Das Ufergehölz von Aabach und
+Risibach wurde durch den Bewirtschafter Alfons Schuler ausgelichtet und
+schenkt in Zukunft dem Gewässer und der Krautschicht wieder mehr
+Sonnenlicht. Zur Freude der Kleinraubtiere wird das Angebot an Deckungen
+an diesem Ort weiter erhöht. Weitere Infos zum Treffpunkt und zur
+Ausrüstung bitte dem [Flyer Montag
+Steinweid, Wädenswil](images/Einladungen/2016_03_12_Einladung_Steinweid.pdf) entnehmen.
+
+**Am Samstag Vormittag (19.3) ** treffen wir uns um 9:15 in der Nähe des
+Restaurants Eichmüli, Wädenswil. Zusammen mit der Familie Stocker
+erstellen wir zwischen Landwirtschaftsfläche und Waldrand mehrere
+Asthaufen. Eine willkommene Ergänzung der Nistmöglichkeiten für die
+Hermeline, die dort schon gesichtet wurden! Weitere Infos zum Treffpunkt
+und zur Ausrüstung bitte dem [Flyer Samstag
+Eichhof](images/Einladungen/2016_03_16_Einladung_Eichhof.pdf) entnehmen.
+
+Wir freuen uns über Ihr Kommen!!
+
+ 
+
+<!--http://wieselundco.ch/14-news/71-aststrukturen-bauen-sa-12-maerz-->

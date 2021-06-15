@@ -1,0 +1,101 @@
+---
+title: Einladung zum Workshop am Fr 25. Okt. 2019 : «Wühlmäuse im Griff?»
+description: |
+   In manchen landwirtschaftlichen Kulturen kann man keine Wühlmäuse dulden und auch im Wiesland bereiten sie Probleme. Der Herbst ist ein guter Zeitpunkt, um einzugreifen.   Welches sind die effizientesten und nachhaltigsten Bekämpfungsmethoden? Wie vergrämt man Wühlmäuse? Wie fördert man die natürlichen Wühlmaus-Feinde und ihren Zugriff auf die Nager?   Der professionelle Mauser Matthias Wüst vermittelt seine Erfahrungen in Praxis & Theorie und bietet Raum für Diskussionen. Zudem thematisiert er aktuelle Entwicklungen zum Thema Wühlmäuse in der Landwirtschaft.   Das Angebot richtet sich im Speziellen an Personen aus der Landwirtschaft, dem Gartenbau, dem Naturschutz und andere Grünflächenbewirtschafter. Teilnehmende können bei der Anmeldung Anregungen und Fragen zu spezifischen Themen einbringen.   Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler Berg.  «Mehr erfahren» für Programm und Anmeldung. Wir freuen uns über Ihre Teilnahme!   
+author: natursc
+date: 2019-10-16
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/116-workshop-wuehlmaeuse-im-griff-2
+---
+
+
+**In manchen landwirtschaftlichen Kulturen kann man keine Wühlmäuse
+dulden und auch im Wiesland bereiten sie Probleme.**
+
+**Der Herbst ist ein guter Zeitpunkt, um einzugreifen.**
+
+** **
+
+**Welches sind die effizientesten und nachhaltigsten
+Bekämpfungsmethoden? Wie vergrämt man Wühlmäuse? Wie fördert man die
+natürlichen Wühlmaus-Feinde und ihren Zugriff auf die Nager?**
+
+** **
+
+**Der professionelle Mauser Matthias Wüst vermittelt seine Erfahrungen
+in Praxis & Theorie und bietet Raum für Diskussionen. Zudem thematisiert
+er aktuelle Entwicklungen zum [Thema Wühlmäuse in der
+Landwirtschaft.](faszination-kleinraubtiere/wuehlmaeuse)**
+
+** **
+
+**Das Angebot richtet sich im Speziellen an Personen aus der
+Landwirtschaft, dem Gartenbau, dem Naturschutz und andere
+Grünflächenbewirtschafter. Teilnehmende können bei der Anmeldung
+Anregungen und Fragen zu spezifischen Themen einbringen.**
+
+ 
+
+**Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler
+Berg.**
+
+ 
+
+Kosten: Fr. 50.-  inkl. Handout und Bio-Zmittag (Halbtag mit/ohne
+Zmittag: Fr. 40.-/30.-)  
+
+Teilnehmerzahl beschränkt – Berücksichtigung nach Eingang der Anmeldung.
+
+ 
+
+**Anmeldung via diesen Link 
+[ANMELDUNG](https://www.google.com/url?q=https://goo.gl/forms/6kydQp1sDhqOFjP33&sa=D&usd=2&usg=AOvVaw1JNT8VTkfOsrouo0vtxd29) oder
+<keller@wieselundco.ch> **
+
+**bis spätestens Dienstag 22. Oktober 2019**
+
+Wir freuen uns über Ihre Teilnahme! 
+
+ 
+
+Man kann ganztags oder nur am Vor- oder Nachmittag den Workshop besuchen
+– Beachten Sie das Programm: 
+
+ 
+
+**Programm** (kleine Änderungen vorbehalten)  
+
+ 
+
+  9.45 Uhr Türöffnung, Barbezahlung Kursgeld, Kafi & Zopf
+
+10.15 Uhr Theorie: Wühlmaus-Arten, Schadbilder, gängige Wühlmausfallen
+
+bis 12 Uhr Praxis: verschiedene Fallentypen stellen in Kulturen.
+
+ 
+
+Zmittag und Austausch
+
+ 
+
+13.30 Uhr Theorie: Fortsetzung Bekämpfungsmethoden, Möglichkeiten und
+Grenzen von natürlichen Feinden.
+
+14.00 Uhr Praxis: Gestellte Fallen kontrollieren. Möglichkeiten für
+Einsatz von natürlichen Feinde ansehen.
+
+15.00 Uhr Theorie: Forschung und Entwicklungen bzgl. Wühlmäuse und
+-bekämpfung
+
+15.30 Uhr Fördermassnahmen Wiesel & Co am Zimmerberg
+
+15.45 Uhr Diskussionen & Zusammenfassung
+
+ab 16 Uhr weiterer Austausch, wer Zeit & Lust hat
+
+ 
+
+<!--http://wieselundco.ch/14-news/116-workshop-wuehlmaeuse-im-griff-2-->

@@ -1,0 +1,34 @@
+---
+title: Exkursion: "Kleinraubtiere kennen keine Grenzen"
+description: |
+  Die Exkursion "Kleinraubtiere kennen keine Grenzen" war sehr erfreulich! Nicht, dass wir Wiesel oder Iltis sichten konnten - Doch der Blick in die Hirzellandschaft am Zimmerberg lässt ihre Existenz erahnen! Die aktiven Teilnehmer und der sympathische Austausch mit zwei weiteren Interessengruppen rund um die kleinen Raubtiere machen Mut für die künftige Zusammenarbeit! Man kann sagen - das Projekt ist lanciert! Überzeugen Sie sich selbst anhand einiger Bilder. 
+author: natursc
+date: 2014-01-29
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/16-exkursion-kleinraubtiere-kennen-keine-grenzen
+---
+
+
+**Die Exkursion "Kleinraubtiere kennen keine Grenzen" war sehr
+erfreulich! Nicht, dass wir Wiesel oder Iltis sichten konnten - Doch der
+Blick in die Hirzellandschaft am Zimmerberg lässt ihre Existenz erahnen!
+Die aktiven Teilnehmer und der sympathische Austausch mit zwei weiteren
+Interessengruppen rund um die kleinen Raubtiere machen Mut für die
+künftige Zusammenarbeit! Man kann sagen - das Projekt ist lanciert!
+Überzeugen Sie sich selbst anhand einiger Bilder.**
+
+------------------------------------------------------------------------
+
+ {gallery}fotos/2013\_10\_11\_Exkursion{/gallery}
+
+ 
+
+Auf die Trägerschaft kommt nun einige Arbeit zu - Wir informieren
+wieder, sobald wir Schritte einleiten, die Sie interessieren dürften.
+**Melden Sie uns bitte (weiterhin) alle Sichtungen von Klein-Musteliden
+in der Region!! Ihre Mithilfe bildet das Fundament für zukünftige
+Lebensraum-Aufwertungen!**
+
+<!--http://wieselundco.ch/14-news/16-exkursion-kleinraubtiere-kennen-keine-grenzen-->

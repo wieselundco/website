@@ -1,0 +1,55 @@
+---
+title: 'Kinderaugen, Äste, Wienerli und Tinte'
+description: |
+  'Was braucht es mehr für einen kompletten Aktionstag mit Wiesel & Co am Zimmerberg? Vielleicht Sonnenstrahlen? Auch diese segneten unser geschäftiges Treiben an den beiden ersten Einsätzen im 2017. Etwas zeigte sich uns wieder einmal auf erfreuliche Weise:'
+author: natursc
+date: 2017-02-15
+image_intro: images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/30_Ausee.jpg
+image_fulltext: images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /2-uncategorised/81-aktionstage-februar-2017
+---
+
+![](images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/30_Ausee.jpg) <!--image_intro-->
+![](images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg) <!--image_fulltext-->
+
+**Was braucht es mehr für einen kompletten Aktionstag mit Wiesel & Co am
+Zimmerberg? Vielleicht Sonnenstrahlen? Auch diese segneten unser
+geschäftiges Treiben an den beiden ersten Einsätzen im 2017.**
+
+**Etwas zeigte sich uns wieder einmal auf erfreuliche Weise:**
+
+Unsere jüngsten Teilnehmenden lieben es mit anzupacken.
+
+Schon mit gut 3 Jahren kann das Ausstatten von Nistkammern zur
+Leidenschaft werden, derweil die älteren Geschwister sich in der Technik
+mit der Handsäge üben und Astmaterial richten.
+
+Der Kontakt zur Erwachsenenwelt ist sehr greifbar. Ein Traktor mit
+Anhänger löst Bubenträume aus – schnell ist die Kabine voll besetzt.
+Ebenfalls wird gerne der Forsthelm aufgesetzt und ausprobiert wie schwer
+eine Motorsäge ist. Den Treibstoffkanister dürfen ruhig noch die
+Erwachsenen tragen.
+
+Mittagspause. Es wird gemunkelt, dass ganz egal ist, welche Suppe man
+den Kids vorsetzt, solange darin Wienerli schwimmen…
+
+Auf die frisch Gestärkten warten neue Aufgaben: Wie fertige ich aus
+wenigen Strohballen einen geschützten - das heisst sicheren und gut
+isolierten Raum - zum Ausruhen und zur Jungenaufzucht? Wie gestalten wir
+den Aussenraum, damit die Tiere möglichst stressfrei zwischen
+Unterschlupf und Jagdgrund wechseln können?
+
+Und woher wissen wir nun, ob unsere Arbeit von den Kleinraubtieren
+angenommen wird? Rasch ist klar, wie ein Spurentunnel funktioniert. Das
+Einrichten fordert reichlich Fingerspitzengefühl und stellt sogar einige
+grundlegende wissenschaftliche Fragen.
+
+Da kommt das Stempelspiel zum Abschluss wie gerufen. Schliesslich darf
+man ja noch Kind sein. 
+
+{gallery}fotos/Aktionstage\_Winter\_2015\_6/Moos\_Ausee\_Feb2017{/gallery}
+
+<!--http://wieselundco.ch/2-uncategorised/81-aktionstage-februar-2017-->
