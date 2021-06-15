@@ -1,0 +1,38 @@
+---
+title: Erste Gross-Strukturen bei Gittermasten 
+description: |
+  Inspiriert durch die Stiftung Lebensraum Linthebene und in Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen: Es handelt sich um Gross-Strukturen im Bereich von Gittermasten - Hintergründe und Absichten sind hier umrissen. Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope im Sinne der Ökologischen Infrastruktur.  Folgend einige Impressionen: 
+author: wilderstefan
+date: 2021-01-23
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/133-erste-mast-strukturen
+---
+
+
+**Inspiriert durch die Stiftung Lebensraum Linthebene und in
+Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den
+Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase
+des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen:**
+
+**Es handelt sich um Gross-Strukturen im Bereich von
+Gittermasten - [Hintergründe und Absichten sind hier
+umrissen.](projekt/massnahmen/132-gross-struktur)**
+
+**Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren
+Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope
+im Sinne der [Ökologischen
+Infrastruktur](https://www.oekologische-infrastruktur.ch/). **
+
+Diese Gross-Strukturen sind je 1 bis 3 Aren gross.   
+Als Strukturen werden Gebüschgruppen, Haufen mit Wurzelstöcken,
+Erdvertiefungen und Altgrasbereiche genutzt.  
+Diese Kombination kann nebst Kleinraubtieren auch Bodenbrütern,
+Amphibien oder Reptilien einen grossen Nutzen bringen.  
+
+Folgend einige Impressionen von der Erstellung und im ersten Standjahr: 
+
+ {gallery}bilder/Gross-Struktur{/gallery}
+
+<!--http://wieselundco.ch/projekt/resultate/133-erste-mast-strukturen-->

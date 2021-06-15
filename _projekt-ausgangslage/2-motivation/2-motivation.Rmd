@@ -1,0 +1,68 @@
+---
+title: Motivation
+description: |
+  Im Zentrum dieses Naturschutzprojekts stehen die marderartigen Arten Hermelin, Mauswiesel und Iltis.  Die genannten Arten sind im Schweizer Mittelland nach einheitlicher Beurteilung von Fachleuten in den letzten Jahrzehnten deutlich zurückgegangen. Iltis und Mauswiesel werden sogar auf der Roten Liste der gefährdeten Tierarten der Schweiz als verletzlich aufgeführt. Sichere Daten über die Bestände und deren Entwicklung fehlen allerdings. Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.
+author: natursc
+date: 2014-01-26
+categories:
+  - 
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/ausgangslage/2-motivation
+---
+
+
+**<span lang="DE" style="line-height: 13.984px;">Im Zentrum dieses
+Naturschutzprojekts stehen die marderartigen Arten[ Hermelin, Mauswiesel
+und
+Iltis](faszination-kleinraubtiere/unsere-leitarten/12-who-is-who). </span>**
+
+**<span lang="DE" style="line-height: 13.984px;">Die genannten Arten
+sind im Schweizer Mittelland nach einheitlicher Beurteilung von
+Fachleuten in den letzten Jahrzehnten deutlich zurückgegangen. Iltis und
+Mauswiesel werden sogar auf [der Roten
+Liste](http://www.artenschutz.ch/RLDetails/RL1_S%C3%A4uger.pdf) der
+gefährdeten Tierarten der Schweiz als verletzlich aufgeführt. Sichere
+Daten über die Bestände und deren Entwicklung fehlen
+allerdings.</span>**
+
+**<span lang="DE" style="line-height: 13.984px;">Der Bezirk
+Horgen bietet als Projektperimeter mit seiner graslandbasierten
+Landwirtschaft den Zielarten grundsätzlich
+gute Voraussetzungen.</span>**
+
+------------------------------------------------------------------------
+
+Damit der potentiellen Gefährdung von Wiesel & Co mehr Beachtung
+geschenkt wird, wurde vor rund 10 Jahren die Organisation [Wieselnetz
+(WIN)](http://www.wieselnetz.ch) ins Leben gerufen, die mittlerweile
+eine Stiftung verkörpert.
+
+<span lang="DE"
+style="mso-bidi-font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Arial;">Für
+die Kleinraubtiere im Bezirk Horgen ist von Gesetzes wegen die
+Fischerei- und Jagdverwaltung des Kantons Zürich zuständig. Dass die
+Tiere nicht jagdbar sondern geschützt sind, mag ein Grund dafür sein,
+weshalb diesen Tieren nur sehr wenig Beachtung geschenkt wird. Wiesel &
+Co sind ebenso wenig im Fokus der Fachstelle für Naturschutz des Kantons
+Zürich, da ihnen dazu Aufträge und Mittel fehlen.</span>
+
+<span lang="DE"
+style="mso-bidi-font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Arial;">Aus
+diesem Grund braucht es das vorliegende Projekt. Es widmet sich einer
+Artengruppe, die durch die aktuelle Entwicklung der Landschaft gefährdet
+ist.</span>
+
+<span lang="DE"
+style="mso-bidi-font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Arial;">Wiesel
+& Co am Zimmerberg kann beim Verfolgen der Ziele auf die Erfahrungswerte
+des Naturschutzvereins Schönenberg mit ihrem 2012 erfolgreich
+abgeschlossenen [Wieselförderprojekt der Gemeinde
+Schönenberg](projekt/ausgangslage/11-das-wieselfoerderprojekt-der-gemeinde-schoenenberg-2009-2012) </span><span
+style="line-height: 13.984000205993652px;">bauen. Von der Projektierung
+bis zum Umgang mit Instrumenten zur Wirkungskontrolle kann die
+Trägerschaft somit die Arbeit des NV Schönenberg auf bereits hohem
+Niveau weiterentwickeln.</span>
+
+<!--http://wieselundco.ch/projekt/ausgangslage/2-motivation-->

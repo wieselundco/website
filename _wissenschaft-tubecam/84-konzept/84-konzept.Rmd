@@ -1,0 +1,16 @@
+---
+title: Konzept
+description: |
+   Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! 
+author: natursc
+date: 2017-03-05
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /wissenschaft/tubecam/84-konzept
+---
+
+
+
+
+<!--http://wieselundco.ch/wissenschaft/tubecam/84-konzept-->

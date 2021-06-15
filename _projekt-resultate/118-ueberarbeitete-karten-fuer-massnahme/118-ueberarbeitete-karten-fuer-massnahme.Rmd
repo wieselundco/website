@@ -1,0 +1,123 @@
+---
+title: Überarbeitete Karten für Massnahmen und Sichtungen online!
+description: |
+  Die neuen Webkarten geben einen eindrücklichen Überblick und Einblick ins Projekt Wiesel & Co am Zimmerberg. Die Massahmenkarte zeigt stets den aktuellen Stand der realisierten Klein- und Grossstrukturen, der begleiteten faunagerechten Durchlasssanierungen und der sanierten Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es können auch einige weitere Infos abgefragt werden. Die Sichtungskarte erlaubt es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
+author: wilderstefan
+date: 2019-10-16
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/118-ueberarbeitete-karten-fuer-massnahmen-und-sichtungen-online
+---
+
+
+**Die neuen Webkarten geben einen eindrücklichen Überblick und
+Einblick ins Projekt Wiesel & Co am Zimmerberg.**
+
+**Die [Massahmenkarte](http://www.wieselundco.ch/massnahmenkarte) zeigt
+stets den aktuellen Stand der realisierten Klein- und Grossstrukturen,
+der begleiteten faunagerechten Durchlasssanierungen und der sanierten
+Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es
+können auch einige weitere Infos abgefragt werden.**
+
+**Die [Sichtungskarte](http://www.wieselundco.ch/sichtungskarte) erlaubt
+es, eigene Sichtungen von Kleinraubtieren zu melden und damit das
+Grundlagewissen zu dieser Artengruppe zu erweitern. **  
+**Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen
+angezeigt werden, die wir verifiziert haben bzw. als plausibel
+erachten. **
+
+In Zusammenarbeit mit Landwirten und anderen Interessengruppen
+werden seit 2014 u.a. gemäss den [Projektzielen](projekt/ausgangslage)
+und dem [projekteigenen
+Bonussystem](projekt/1-1-untersuetzung) verschiedene Kleinstrukturen
+erstellt, Feldscheunen in Stand gestellt und Gewässerdurchlässe
+faunagerecht saniert.
+
+**Diese Massnahmentypen werden auf
+der [Massahmenkarte](http://www.wieselundco.ch/massnahmenkarte) als
+Punkte mit verschiedenen Farben dargestellt.**
+
+Die Legende kann über das linke Bedienfeld "Aufzählung" oben rechts in
+der Kopfzeile eingesehen werden.  
+Beim Click auf einen Kartenpunkt werden Details zur realisierten
+Massnahme dargestellt.
+
+In der Layerliste (Bedienfeld "Ebenen" rechts davon) können die
+Planungsgrundlagen eingeblendet und transparent dargestellt werden.
+
+Abfragen können über das Bedienfeld "Lupe" getätigt und kombiniert
+werden. Das Ergebnis erscheint als Liste und als blaue Umrandung der
+zutreffenden Kartenpunkte.
+
+Zur kartographischen Orientierung kann im Bedienfeld "Kacheln" die
+gewünschte Grundkarte gewählt und im Suchfeld oben links nach
+geografischen Namen (Flurnamen, Adressen, Gemeinden etc.) gesucht
+werden.
+
+Sachdienliche Hinweise hinsichtlich weiterer Lebensraumaufwertungen sind
+sehr willkommen - das Projekt endet voraussichtlich Mitte 2021.  
+Kontakt: <keller@wieselundco.ch> 044 500 52 82
+
+ 
+
+**Mit Hilfe
+der [Sichtungskarte](http://www.wieselundco.ch/sichtungskarte) können
+Sie Sichtungsmeldungen von Kleinraubtieren erfassen und ansehen.**
+
+Bitte füllen Sie die geforderten Angaben möglichst gewissenhaft und
+vollständig aus. Dies erleichtert uns die spätere Auswertung.  
+Die Kontaktangaben werden nur intern für eventuelle Rückfragen verwendet
+und keinesfalls weitergegeben.
+
+Bitte melden Sie Ihre Beobachtung nicht gleichzeitig auf anderen
+Meldetools - Wiesel & Co wird Ihre Meldung an das nationale
+Datenzentrum [www.cscf.ch](http://www.cscf.ch/) weiterleiten.
+
+ 
+
+MELDUNG ERFASSEN:
+
+1.  Den gewünschten Ort aufsuchen
+
+-   Zoomen mit Mausrad oder + / -
+-   geografische Namen oder Adressen mit Suchfeld in Kopfzeile finden
+
+1.  Bei Bedarf unter "Hintergrundkarten" in Kopfzeile den Kartentyp
+    wechseln
+2.  In der Kopfzeile rechts oben auf "Sichtungsmeldung erfassen" klicken
+3.  Die gesichtete Tierart anklicken, wieder loslassen und am
+    gewünschten Ort platzieren.
+4.  Möglichst präzise Angaben und Kontaktmöglichkeit in Maske eintippen.
+    Unter Anlagen können Sie gerne auch ein Bild/Video anhängen.
+5.  Speichern. Die eigene Sichtungsmeldung verschwindet gleich nach der
+    Erfassung. Sie wird innert einem Monat validiert und danach (ohne
+    ihre Kontaktangaben!) öffentlich angezeigt.
+
+Bei den Farbpunkten auf der Karte handelt es sich ebenfalls um
+Sichtungsmeldungen.  
+Mit den weiteren Funktionen in der Kopfzeile können Sie übrigens auch
+Abfragen tätigen und andere Infos anzeigen. Der Layer "Korridore und
+Patches" bildet eine unserer
+[Planungsgrundlagen](http://www.wieselundco.ch/images/dokumente/beschrieb_umsetzungsphase/AnhangC_Patch_Vernetzungsplanung.pdf).
+ 
+
+ 
+
+Wir bedanken uns für Ihre Unterstützung.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<!--http://wieselundco.ch/projekt/resultate/118-ueberarbeitete-karten-fuer-massnahmen-und-sichtungen-online-->

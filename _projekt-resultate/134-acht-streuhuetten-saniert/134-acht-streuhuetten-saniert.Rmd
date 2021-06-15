@@ -1,0 +1,64 @@
+---
+title: Acht Torf- bzw. Streuhütten leben länger
+description: |
+  Die vergangenen beiden Winterhalbjahre brachten nochmals die Chance, kulturlandschaftlich und ökologisch bedeutende Kleinbauten in Stand zu stellen. Welchen Beteiligten ist es zu verdanken, dass fünf weitere Feldscheunen saniert werden können? Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen wurden: 
+author: wilderstefan
+date: 2021-01-15
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/134-acht-streuhuetten-saniert
+---
+
+
+**Die vergangenen beiden Winterhalbjahre brachten nochmals die Chance,
+kulturlandschaftlich und ökologisch bedeutende Kleinbauten in Stand zu
+stellen. **  
+**Verschiedenen Beteiligten ist es zu verdanken, dass 5 weitere
+Feldscheunen saniert werden können: **
+
+-   Den Besitzern, welche das Unternehmen ideell und finanziell
+    mittrugen - mindestens zur Hälfte der Aufwände.
+-   Den langjährigen Geldgebern und den Trägervereinen sowie BirdLife
+    Zürich, welche in der Schlussphase explizit für dieses Teilprojekt
+    noch einen Extraeffort geleistet haben. 
+-   Der Fachstelle Naturschutz, welche mit vernünftigem Augenmass
+    Grünlicht für die Vorhaben gab. 
+-   Und den kompetenten Holzbauern, welche es verstehen, altes Gebälk zu
+    richten, mit Biberschwänzen zu decken etc.
+
+Einzelne Streuhütten hatten ihren Zenit schon deutlich überschritten.
+Trotz undichter Dächer sowie morschen Schwellenbalken und anderen
+tragenden Elementen konnte die Substanz jeweils mit vertretbarem Aufwand
+gerettet werden. Angesichts dessen, dass im Bezirk Horgen nur noch
+wenige Dutzend authentische Streu- und Torfhütten sowie andere kleine
+Feldscheunen verbleiben, ein lohnender Einsatz für das Landschaftsbild. 
+
+Ein Objekt hat sich besonders herausgeputzt und darf sich in Zukunft
+über Besuch von Jugendlichen und anderen Interessierten freuen. Eine
+Torfziegelpresse und andere Werkzeuge erzählen vom Kontrast zwischen
+Kriegszeiten und der heutigen Wahrnehmung unter Naturschutz.  
+
+Natürlich profitieren auch Kleintiere vom Erhalt der Streuhütten.  
+Für Wiesel & Co werden in oder unter all diesen Objekten geeignete
+Unterschlüpfe (Winterquartiere) eingerichtet. Sei es
+mit verschnürten Strohballen oder mit kleinen Anpassungen im Bereich des
+Fussbodens (gepolsterte Zwischenböden, Schlupflöcher etc.).
+
+Sehen Sie nun anhand zweier Beispiele, wie die Bauten wieder dem Wetter
+gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen
+wurden: 
+
+{gallery}fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen{/gallery}
+
+ 
+
+ 
+
+** **
+
+ 
+
+** **
+
+<!--http://wieselundco.ch/projekt/resultate/134-acht-streuhuetten-saniert-->

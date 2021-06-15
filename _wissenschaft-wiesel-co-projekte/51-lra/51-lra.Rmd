@@ -1,0 +1,44 @@
+---
+title: Lebensraumanalyse für den Bezirk Horgen
+description: |
+  Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.
+author: natursc
+date: 2015-03-02
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /wissenschaft/wiesel-co-projekte/51-lra
+---
+
+
+**Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident
+des Vereins Naturschutz Richterswil - Samstagern und Mitglied der
+Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im
+Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund
+verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. [Das
+Resultate kann hier online begutachtet
+werden](https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21).**
+
+Die Dokumentation dieser Arbeit kann im obigen Link runtergeladen
+werden. Für Rückfragen zur Entstehungsweise und für Ihre Rückmeldungen
+zur Karte kontaktieren Sie bitte Nils Ratnaweera
+ratnaweera@wieselundco.ch.  
+  
+**Noch ein Hinweis für die Handhabung der online Karte:**  
+In der Grundeinstellung werden die Lebensraum-Potentiale aller drei
+Zielarten (Hermelin, Mauswiesel und Iltis) angezeigt. Für eine bessere
+Übersicht clicken Sie unterhalb dem Titel "Lebensraumanalyse" auf Layer,
+und wählen in der Folge die gewünschte Zielart aus. In der Menu-Leiste
+finden Sie zudem einige weitere praktische Einstellungsmöglichkeiten wie
+die Legende.
+
+ 
+
+**Urheberrechtshinweis**
+
+Das Resultat der studentischen Arbeit ist im Eigentum der [Zürcher
+Hochschule für Angewandte Wissenschaften](http://lsfm.zhaw.ch/de.html).
+
+[<img src="images/bilder/GIS/lra.png" width="265" height="122" alt="LRA" />](https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21)
+
+<!--http://wieselundco.ch/wissenschaft/wiesel-co-projekte/51-lra-->

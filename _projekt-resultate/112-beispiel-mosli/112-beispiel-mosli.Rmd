@@ -1,0 +1,56 @@
+---
+title: Wieselförderung am Beispiel "Mosli"
+description: |
+  Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel & Co am Zimmerberg zu zeigen:  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.  
+author: natursc
+date: 2017-10-22
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/112-beispiel-mosli
+---
+
+
+**Am Beispiel des Landwirtschaftsbetriebs der Familie Styger lässt sich
+die praktische Lebensraumaufwertung, die angewandte Forschung, die
+Umweltbildung und die Wirkungskontrolle von Wiesel & Co am Zimmerberg
+wunderbar zeigen: **
+
+Nicht zuletzt weil Stygers auf ihrem Land Wiesel gesichtet hatten,
+zeigten sie sich interessiert um u.a. entlang der Pferderundbahn auf
+offenem Wiesland Unterschlüpfe für Wiesel anzulegen.
+
+Im Frühling 2017 wurden in Zusammenarbeit mit der KLEINgruppenschule
+Wädenswil Gebüschgruppen gepflanzt und Kleinstrukturen aus Lesesteinen,
+Wurzelstöcken und Astmaterial gebaut. 
+
+Schon im folgenden Herbst vertieften wir im [Wieselwerk mit den
+SchülerInnen](http://www.wieselundco.ch/mithelfen-anpacken/mithelfen/108-wieselwerk-mit-schulklassen)
+die Beziehung zu den Wiesellebensräumen, indem wir gemeinsam u.a. die
+erfreulichen Spurenpapiere und Fotofallenbilder analysierten.   
+Denn Hermeline hatten die Kleinstrukturen schon kurz nach der
+Erstellung bewohnt!
+
+Untenstehende Fotogalerie illustriert die Aktionen mit den Kindern und
+zeigt Fotofallenbilder der Hermeline im Mosli. [Dazu hier kurze
+Filmsequenzen derselben
+Kleinraubtiere. ](https://www.youtube.com/playlist?list=PLilD7MYfI8xV9aLwFoTxpKfjO3Da2a8Nh) 
+
+{gallery}fotos/Fotofallenbilder/Mosli{/gallery}
+
+Im Sommer 2018 bot sich dann die Gelegenheit, eine [Kurzreportage mit
+"Schweiz
+aktuell](https://tp.srgssr.ch/p/portal?urn=urn:srf:video:7bb03a36-285a-42b7-ac32-135bccec30c7&autoplay=true&legacy=true&width=640&height=360&playerType=)" zu
+drehen, die die Journalistin Anita Cassese bestens realisierte. 
+
+Hauptthema ist die [Nachweismethodik
+Tubecam](https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/integrative-oekologie/wildtiermanagement/referenzprojekte/tubecam/) (in
+Entwicklung) am Standort Mosli.  
+Ausserdem zeigt die Reportage einige Aspekte der Lebensweise von Wieseln
+inkl. Statement des Landwirts zu den Wühlmausjägern sowie die Erstellung
+einer weiteren Kleinstruktur aus Wurzelstöcken.
+
+Die Beteiligten bleiben weiterhin im Einsatz für solche gelungene
+Wieselförderungen!
+
+<!--http://wieselundco.ch/projekt/resultate/112-beispiel-mosli-->

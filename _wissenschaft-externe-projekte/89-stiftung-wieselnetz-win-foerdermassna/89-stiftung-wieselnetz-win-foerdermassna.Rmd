@@ -1,0 +1,31 @@
+---
+title: Fördermassnahmen für Wiesel im Landwirtschaftsgebiet (Wieselnetz)
+description: |
+  Ziel dieses Projektes war es, Grundlagen zur Wieselförderung im gesamten Landwirtschaftsgebiet der Schweiz zur Verfügung zu stellen. Dabei wurden zusammen mit dem Partner Agrofutura interdisziplinär praktische Anleitungen erarbeitet, welche Landwirten und Landwirtschaftsberatern einen Überblick über wirkungsvolle Massnahmen zur Wieselförderung bieten.
+author: natursc
+date: 2017-03-05
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /wissenschaft/externe-projekte/89-stiftung-wieselnetz-win-foerdermassnahmen-fuer-wiesel-im-landwirtschaftsgebiet
+---
+
+
+**Ziel dieses Projektes war es, Grundlagen zur Wieselförderung im
+gesamten Landwirtschaftsgebiet der Schweiz zur Verfügung zu stellen.
+Dabei wurden zusammen mit dem Partner Agrofutura interdisziplinär
+praktische Anleitungen erarbeitet, welche Landwirten und
+Landwirtschaftsberatern einen Überblick über wirkungsvolle Massnahmen
+zur Wieselförderung bieten.**
+
+Die 2014 er- und 2018 überarbeitete Publikation (siehe Link oben)
+ermöglicht es Praktikerinnen und Praktikern, eigenständig zu überlegen
+und planen, welche Massnahmen zur Unterstützung der Wiesel auf einen
+Betrieb passen. Die Massnahmen können so auch ohne Hilfe von aussen mit
+der für Wiesel notwendigen Qualität und Wirksamkeit umgesetzt werden.
+Zudem zeigt das Heft mögliche finanzielle Beiträge für die getroffenen
+Massnahmen auf (Beitragsansätze Agrarpolitik 2018 – 2021).
+
+ 
+
+<!--http://wieselundco.ch/wissenschaft/externe-projekte/89-stiftung-wieselnetz-win-foerdermassnahmen-fuer-wiesel-im-landwirtschaftsgebiet-->

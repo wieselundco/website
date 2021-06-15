@@ -1,0 +1,16 @@
+---
+title: Plandarstellung zum Massnahmenstand Ende 2016
+description: |
+  Die kartografische Darstellung zeigt den fulminanten Start in die Phase 2 mit weit über 100 realisierten Lebensraumaufwertungen bis Ende des Jahres 2016.  Es lassen sich interessante Aspekte darstellen: Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  Plandarstellung öffnen
+author: wilderstefan
+date: 2017-01-23
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/100-massnahmenstande-ende-2016
+---
+
+
+
+
+<!--http://wieselundco.ch/projekt/resultate/100-massnahmenstande-ende-2016-->

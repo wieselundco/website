@@ -1,0 +1,54 @@
+---
+title: Phase 1: Schlussbericht
+description: |
+  Die Trägerschaft von Wiesel & Co am Zimmerberg (WiCoZ) hat in Phase 1 viel Energie investiert, um die Ziele und Projektinhalte für die kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher zu bringen und sie zur Partizipation einzuladen. Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel & Co wissen.
+author: natursc
+date: 2016-01-18
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/64-phase-1-schlussbericht
+---
+
+
+**Die Trägerschaft von Wiesel & Co am Zimmerberg (WiCoZ) hat in Phase 1
+viel Energie investiert, um die Ziele und Projektinhalte für die
+kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher
+zu bringen und sie zur Partizipation einzuladen. Durch persönliches
+Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass
+u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die
+interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen,
+Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der
+Förderung von Wiesel & Co wissen.**
+
+Die eigens organisierte Infoveranstaltung mit Workshop war bis auf den
+letzten Platz ausgebucht und ermöglichte den Interessengruppen
+Erfahrungsaustausch, Diskussionen und praktisches Kennenlernen von
+zielführenden Massnahmen. Sie brachte der Trägerschaft wertvolle
+Rückmeldungen für den weiteren Projektverlauf.
+
+So zum „Bonus-System zur Realisierung von Kleinraubtier-freundlichen
+Massnahmen im Bezirk Horgen“, das den Besitzern oder Bewirtschaftern von
+Grünflächen in Phase 2 finanziellen Anreiz geben soll, um Massnahmen
+umzusetzen. Je nach Standort und Wirkungsziel werden verschiedene
+Massnahmen-Typen gefragt sein.
+
+Um die Populationen der Zielarten Hermelin, Mauswiesel und Iltis
+langfristig zu stärken, entwickelte WiCoZ nach Vorbild des
+Förderkonzeptes der Stiftung Wieselnetz (WIN) als Planungshilfe zur
+Priorisierung der zukünftigen Massnahmenstandorte und –wahl eine
+Lebensraumanalyse und auf dieser Basis die „Patch- und
+Vernetzungsplanung von Hermelin-, Mauswiesel- und Iltishabitaten im
+Bezirk Horgen“
+
+Bereits wurde eine umfangreiche Pilotmassnahme in einer naturnahen
+Landschaftskammer am Aabach auf Wädenswiler Gemeindegebiet durchgeführt.
+Sie zeigte auf, wie die Erstellung von wirksamen Massnahmen realisiert
+werden kann und was sie für die künftige Bewirtschaftung des
+aufgewerteten Grünlandes bedeutet. Durch rege Beteiligung von
+Freiwilligen und sehr schnelle Frequentierung von Kleinraubtieren kann
+die Anlage von Asthaufen und Winter-Quartieren zugunsten des Iltis als
+sehr erfolgreich bezeichnet werden und stimmt zuversichtlich für den
+Start der Phase 2.
+
+<!--http://wieselundco.ch/projekt/resultate/64-phase-1-schlussbericht-->
