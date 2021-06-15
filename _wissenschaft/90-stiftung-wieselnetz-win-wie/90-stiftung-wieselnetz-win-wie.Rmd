@@ -1,0 +1,42 @@
+---
+title: Wiesel-Patchwork (Wieselnetz)
+description: |
+  „Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin- und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur Entwicklung und Prüfung der angewandten Methoden. Dabei stand von Anfang an die Förderung und Stützung ganzer Populationen im Fokus, unter Berücksichtigung der natürlichen zeitlichen und räumlichen Dynamik.
+author: natursc
+date: 2017-03-05
+categories:
+  - externe-projekte
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+ **„Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin-
+und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur
+Entwicklung und Prüfung der angewandten Methoden. Dabei stand von Anfang
+an die Förderung und Stützung ganzer Populationen im Fokus, unter
+Berücksichtigung der natürlichen zeitlichen und räumlichen Dynamik.**
+
+-   Als erstes wurden Populationsraumanalysen durchgeführt und die
+    Zielpopulation ausgewählt.
+-   Als nächstes folgten konkrete Lebensraumaufwertungen in ausgewählten
+    Patches oder Habitatflecken sowie die Verbesserung der Vernetzung.
+    Für die Umsetzung der Massnahmen arbeiteten wir eng mit
+    Naturschutzvereinen, Jagdgesellschaften, Landwirten und anderen
+    interessierten Kreisen zusammen.
+-   Erfolgskontrolle Wiesel-Patchwork: Die Besiedlung neuer und
+    verbesserter Patches und Vernetzungsachsen wurde in der dritten
+    Projektphase erfasst. Dynamische Prozesse in der Population sollten
+    besser erkennbar werden. Wichtig waren Ergebnisse über die
+    Wirksamkeit einzelner Massnahmen und die Bedeutung ihrer Merkmale.
+
+Das Projekt ist im Wesentlichen abgeschlossen und im Schlussbericht
+„Wiesel Patchwork Seetal (Aargau)“ publiziert (siehe Link oben).
+Ergänzungen der aufgewerteten Flächen oder Verbesserungen und Unterhalt
+von schon getroffenen Massnahmen können aber auch in Zukunft dazukommen.
+
+(Direkt übernommen von:
+[www.wieselnetz.ch](http://wieselnetz.ch/de/home/projekte-win/praxisprojekte/))
+
+<!--http://wieselundco.ch/wissenschaft/externe-projekte/90-stiftung-wieselnetz-win-wiesel-patchwork-->

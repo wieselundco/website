@@ -1,0 +1,42 @@
+---
+title: Untersuchung der Nutzung unterschiedlich strukturierter Lebensräume durch Kleinmusteliden und Schläfer
+description: |
+  Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil
+untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich
+strukturierten ...
+'natursc '
+date: 2017-03-05
+output:
+distill::distill_article:
+self_contained: false
+---
+
+
+Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil
+untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich
+strukturierten Lebensräumen vorkommen. Dabei galt es die Hypothese zu
+belegen, dass strukturgebundene kleinere Säugetiere in stark
+fragmentierten und isolierten Lebensräumen oft fehlen.
+
+
+**Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil
+untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich
+strukturierten Lebensräumen vorkommen. Dabei galt es die Hypothese zu
+belegen, dass strukturgebundene kleinere Säugetiere in stark
+fragmentierten und isolierten Lebensräumen oft fehlen.**
+
+Der Druck auf unsere Landschaft mit ihren Lebensräumen nimmt wegen der
+zunehmenden Bevöl-kerungsdichte und deren Bedarf an Fläche stark zu. Oft
+werden wertvolle Lebensräume durch den Bau von Strassen, Eisenbahnlinien
+oder Siedlungen getrennt und eine Vernetzung verunmöglicht. Die
+übrigbleibenden Lebensräume sind zudem oft intensiv genutzt und sehr
+strukturarm (Holzgang et al. 2001).
+
+Diesem Umstand des Strukturverlustes soll mit der Erhaltung sowie
+Neuschaffung von wertvollen Lebensräumen Abhilfe geschaffen werden. Bei
+zukünftigen Eingriffen in die Lebensräume soll man sich bewusst werden,
+welche Strukturen für die Erhaltung von Kleinmusteliden- und
+Schläferarten notwendig sind. Das Ziel der Bachelorarbeit war es
+deshalb, zu untersuchen wie häufig Kleinmusteliden und Schläfer in den
+unterschiedlich strukturierten Lebensräumen des Untersuchungsgebietes
+vorkommen.

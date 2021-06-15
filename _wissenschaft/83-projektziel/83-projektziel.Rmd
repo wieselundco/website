@@ -1,0 +1,35 @@
+---
+title: Projektziel
+description: |
+  Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.
+author: natursc
+date: 2017-03-05
+categories:
+  - tubecam
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+**Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung
+der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung
+geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und
+Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung
+von Fachleuten im Rückgang begriffen.**
+
+Neben Schutz- und Förderungsmassnahmen ist es dringend nötig,
+Informationen zu den Tierbeständen zu erfassen. Nur so können negative
+Tendenzen frühzeitig erkannt oder die Wirkung von Fördermassnamen
+geprüft werden. Aktuell ist die Erfassung von Kleinsäugern äusserst
+aufwendig und nur punktuell durchführbar.
+
+Das Projektziel verfolgt die Entwicklung einer Methode, die gegenüber
+der heute gängigen Praxis (Spurentunnel) folgende Vorteile aufweist:
+
+-   Geringerer Zeitaufwand und geringere Gesamtkosten
+-   Höhere Datenqualität und grössere Wissensausbeute
+-   Tierschutzgerecht
+-   Ermöglicht zuverlässige Datenerhebung und -auswertung durch Laien
+
+<!--http://wieselundco.ch/wissenschaft/tubecam/83-projektziel-->

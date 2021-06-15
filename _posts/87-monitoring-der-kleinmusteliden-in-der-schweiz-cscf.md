@@ -1,0 +1,62 @@
+---
+title: Monitoring der Kleinmusteliden in der Schweiz (CSCF)
+description: |
+  Die kleineren Vertreter der Musteliden (Marderartigen) sind eine
+Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz
+relativ wenig ...
+'natursc '
+date: 2017-03-05
+output:
+distill::distill_article:
+self_contained: false
+---
+
+
+Die kleineren Vertreter der Musteliden (Marderartigen) sind eine
+Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz
+relativ wenig bekannt ist. Es handelt sich dabei um das Mauswiesel, das
+Hermelin und der Iltis, die alle seit 1988 gemäss Bundesgesetz über die
+Jagd geschützt sind. Damit fallen die früher über die Jagd und den Fang
+für diese Arten anfallenden Daten weg, die bei einer Beurteilung
+hilfreich sein können. Mit einem gesamtschweizerischen Monitoring soll
+deshalb Vorkommen dieser Arten besser erfasst und dokumentiert werden.
+
+
+**Die kleineren Vertreter der Musteliden (Marderartigen) sind eine
+Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz
+relativ wenig bekannt ist. Es handelt sich dabei um das Mauswiesel, das
+Hermelin und der Iltis, die alle seit 1988 gemäss Bundesgesetz über die
+Jagd geschützt sind. Damit fallen die früher über die Jagd und den Fang
+für diese Arten anfallenden Daten weg, die bei einer Beurteilung
+hilfreich sein können. Mit einem gesamtschweizerischen Monitoring soll
+deshalb Vorkommen dieser Arten besser erfasst und dokumentiert werden
+(Marchesi et al., 2003, 2004a). Diese Bestandesaufnahme soll die
+Grundlage bilden, um Veränderungen im Vorkommen und der Verbreitung der
+untersuchten Arten feststellen zu können.**
+
+Da sich bei diesen heimlichen Arten ein gezielter Direktnachweis nicht
+sinnvoll realisieren lässt, erfolgen die Erhebungen mittels indirekten
+Nachweis von Spuren (Abdrücke von Trittsiegeln) in speziell dazu im
+Gelände ausgelegten Spurentunnel. Mit diesen Daten können Informationen
+über die An- und Abwesenheit der Zielarten und über deren relativen
+Häufigkeiten erhoben werden (Marchesi et al., 2004b). Die Methode soll
+es erlauben, markante Populationsschwankungen zwischen den einzelnen
+Kampagnen zu erfassen und Gebiete oder Landschaften mit einem Defizit im
+Vorkommen auszuweisen. Ausserdem soll das Programm auch die Grundlage
+für eine Beurteilung der Gefährdung der untersuchten Arten im Rahmen der
+Revision der Roten Liste der Säugetiere liefern (IUCN, 2001).
+
+Ein im Herbst 2009 vom CSCF im Auftrag des BAFU im Kanton Freiburg
+durchgeführter Pilotversuch zeigte die Praktikabilität der Methode auch
+über grossräumige Gebiete (Capt & Marchesi, 2010). Für das Jahr 2010
+wurde deshalb eine Ausweitung auf die ganze Schweiz geplant und
+umgesetzt. Es erfolgte eine Auswahl von 8 Untersuchungsgebieten nach
+folgenden Kriterien: (1) repräsentative Verteilung über die 6
+biogeografischen Regionen der Schweiz mit einem Schwergewicht auf das  
+Mittelland, (2) Berücksichtigung der Gewässereinzugsgebiete für die
+Grenzziehung und (3) Berücksichtigung der gemäss CSCF-Datenbank
+bekannten  Verbreitungsdaten der letzten 20 Jahre. Die Abbildung 1 zeigt
+die 8 bearbeiteten Gebiete.
+
+(direkt übernommen aus: Capt & Marchesi (2010): Monitoring der
+Kleinmusteliden in der Schweiz. Resultate der Erhebungen von 2010)

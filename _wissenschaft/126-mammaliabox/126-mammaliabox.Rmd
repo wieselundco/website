@@ -1,0 +1,54 @@
+---
+title: Entwicklung MammaliaBox
+description: |
+  Die Bachelorarbeit von Silvio Aegerter in Umweltingenieurwesen an der ZHAW Wädenswil drehte sich um die Weiterentwicklung der niederländischen 'Mostela'.In dem Sinne wird an der ZHAW weiterhin nach einer Modernisierung der Nachweismethodik geforscht; Weg von den Spurentunneln, die zwar effizient Resultate liefern, dessen Tinte aber zweifelhafte Substanzen enthält.
+Nachdem das Projekt TubeCam 2019 eingestellt wurde, sucht man weiter nach einer funktionalen Kombination der Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die Kleinraubtiere instinktiv anlockt.
+Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel & Co am Zimmerberg (Etappe 1) hat sich die MammaliaBox als sehr feldtauglich erwiesen.
+author: natursc
+date: 2020-01-01
+categories:
+  - externe-projekte
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+**Die Bachelorarbeit von Silvio Aegerter in Umweltingenieurwesen an der
+ZHAW Wädenswil drehte sich um die Weiterentwicklung der
+[niederländischen
+'Mostela'](https://stichtingkleinemarters.nl/mostela/).**  
+**In dem Sinne wird an der ZHAW weiterhin nach einer Modernisierung der
+Nachweismethodik geforscht; Weg von den Spurentunneln, die
+zwar effizient Resultate liefern, dessen Tinte aber zweifelhafte
+Substanzen enthält.**
+
+**Nachdem das [Projekt TubeCam](wissenschaft/tubecam) 2019 eingestellt
+wurde, sucht man weiter nach einer funktionalen Kombination der
+Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die
+Kleinraubtiere instinktiv anlockt.**
+
+**Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel & Co
+am Zimmerberg [(Etappe 1)](projekt/resultate/125-wk-etappe1) hat sich
+die MammaliaBox als sehr feldtauglich erwiesen.**<span
+style="font-size: 12.16px;"> </span>Alle 10 eingesetzten Geräte
+lieferten wertvolle Bilder von Kleinsäugern und Hermelinen, wenn auch
+die Detektabilität nicht den Wert der Spurentunnel erreichte. 
+
+Die MammaliaBox wird mir herkömmlichen Fotofallen betrieben, wobei
+allerdings dessen Optik auf den nahen Brennpunkt optimiert wird.  
+Bemerkenswert ist, dass Silvio Aegerter die Box so konstruierte, dass
+sie sich kompakt ins Feld transportieren und dort unkompliziert
+zusammenstecken lässt. 
+
+Erfahren Sie mehr auf dem Poster (Download Link oben) und in der
+Galerie.
+
+<span
+style="font-size: 12.16px;">{gallery}fotos/MammaliaBox{/gallery}</span>
+
+ 
+
+ 
+
+<!--http://wieselundco.ch/wissenschaft/externe-projekte/126-mammaliabox-->
