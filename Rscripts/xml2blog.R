@@ -28,8 +28,12 @@ html2markdown <- function(string){
   }
 }
 
-xml_content <- xml2::read_xml("articles/j2xml1920020210615075249.xml") %>%
+# xml_content <- xml2::read_xml("articles/j2xml1920020210615075249.xml") %>%
+#   xml2::xml_find_all("content")
+
+xml_content <- xml2::read_xml("articles/j2xml1920020210615075341.xml") %>%
   xml2::xml_find_all("content")
+
 
 canon <- map_chr(xml_content, ~get_text(.x, "canonical"))
 
