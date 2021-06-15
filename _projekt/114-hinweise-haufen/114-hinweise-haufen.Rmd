@@ -1,0 +1,99 @@
+---
+title: Hinweise zur Anlage von Holz- und Steinhaufen
+description: |
+  Fokussieren wir uns auf die Ansprüche von Wiesel & Co, so sollen Holz- und Steinhaufen zusammengefasst folgende Qualität aufweisen:  Grosszügige Strukturen aus Wurzelstöcken und/oder Steinen und/oder Ästen -> wirksam ab 1m Höhe und 2m Durchmesser Im Innern Hohlräume, die für viele Jahre beständig sind und vor Feinden und Witterung schützen ("Nistkammer") Lage in unmittelbarer Nähe von Nahrung (v.a. Wühlmäusen) und/oder weiteren Deckungsstrukturen  
+author: natursc
+date: 2016-01-08
+categories:
+  - massnahmen
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/massnahmen/114-hinweise-haufen
+---
+
+
+**Fokussieren wir uns auf die Ansprüche von Wiesel & Co, so sollen Holz-
+und Steinhaufen zusammengefasst folgende Qualität aufweisen: **
+
+-   **Grosszügige Strukturen aus Wurzelstöcken und/oder Steinen und/oder
+    Ästen  
+    -&gt; wirksam ab 1m Höhe und 2m Durchmesser**
+-   **Im Innern Hohlräume, die für viele Jahre beständig sind und vor
+    Feinden und Witterung schützen ("Nistkammer")**
+-   **Lage in unmittelbarer Nähe von Nahrung (v.a. Wühlmäusen) und/oder
+    weiteren Deckungsstrukturen **
+
+Diese Anforderungen zu erfüllen ist keine Hexerei!  
+[Das Forschungsinstitut für Biologischen Landbau (FiBL) stellt die
+Thematik in einem Video
+dar.  ](https://www.youtube.com/watch?v=8FfOk1k-eMk)
+
+Oft ist es sogar möglich, gleichzeitig geeigneten Unterschlupf für
+anspruchsvollere Artengruppen wie Amphibien oder Reptilien zu schaffen,
+wie es sich das
+[WIN-karch-Pilotprojekt](http://www.wieselundco.ch/news/2-uncategorised/88-musteliden-und-reptilien-win-karch-pilotprojekt)
+zum Ziel setzt.   
+Was bei der Förderung der Reptilienart "Zauneidechse" zu beachten ist,
+illustriert
+[Zauneidechse.ch](https://www.zauneidechse.ch/) hervorragend.  
+Sofern grosszügig angelegt, profitieren Wiesel & Co durchwegs von den
+[vorgeschlagenen
+Kleinstrukturen](https://www.zauneidechse.ch/kleinstrukturen/).
+
+Holz- und Steinhaufen können sowohl von Hand wie auch maschinell
+erstellt werden.
+
+**Fürs Handwerk** kann man sich gern an den bebilderten [Empfehlungen
+zur handwerklichen Anlage von Holz- und
+Steinhaufen](images/dokumente/Holz-Steinhaufen_Empfehlungen_WiCoZ_20190310_red.pdf) oder
+dem [Asthaufenbau-Zeitraffer](https://www.youtube.com/watch?v=xJ9-ijG-5SE) vom
+Aktionstag in der Kräh orientieren.
+
+  
+Ergänzend sei an dieser Stelle erwähnt, was bei der Anlage in Böschungen
+(z.B. Steilufer) zusätzlich beachtet werden soll: Um das Abrutschen z.B.
+aufgrund von Schneedruck zu vermeiden, gilt es talseitig
+Stützen/Widerlager in Form von Gehölzen, Baumstöcken oder Pfählen zu
+bestimmen. Der Aufbau beginnt in diesem Fall mit einer Lage Astmaterial,
+die für den talseitigen Schutz der bergseitig anschliessenden Nistkammer
+sorgen wird:
+
+<img src="images/fotos/Massnahmen-Page/WiCoZ-Schulklasse-Maerz-2018-2_red.jpg" width="330" height="440" />
+
+ 
+
+**Die maschinelle Anlage** von Haufen mit Hilfe von forstlichen
+Kranwagen o.ä. verfolgt die gleichen Prinzipien wie im PDF mit den
+Empfehlungen beschrieben.  
+Doch entstehen maschinell oft voluminöse Haufen, z.B. mit starkem,
+langem Astmaterial. Somit im Innern oft auch spontan mehrere geeignete
+Nistkammern, ohne dass zeitlich aufwändig "Blockhäuser" erstellt werden
+müssen.   
+Nichtsdestotrotz soll beim Maschineneinsatz stets bedacht werden, wie
+effektiv dauerhafte Hohlräume geschaffen werden können. Oft ist es schon
+zweckmässig, lange Äste über einen Baumstock zu legen, beispielsweise
+mit einem Mistkran (vgl. Foto zuoberst).
+
+ 
+
+**Wie untenstehend ersichtlich, beträgt die Distanz zur nächsten
+Deckungsstruktur idealerweise nicht mehr als 20 Meter.**  
+Hermeline und Mauswiesel nutzen auch gerne Wühlmausgänge als
+Schlupflöcher und wagen sich dadurch auch scheinbar fernab von
+Deckungsstrukturen auf Wiesen und Weiden - sofern Wühlmäuse sie
+besiedeln.   
+Allgemein bekannt ist, dass Wiesel fast ausschliesslich an Orten Junge
+zur Welt bringen, wo sie bei Störungen Ausweichmöglichkeiten haben.   
+Deshalb ist es zur Förderung von Wieseln (und damit auch zur Bejagung
+von Wühlmäusen) sehr wichtig, an ungestörten Orten mit Nahrungsvorkommen
+gleich etwa fünf Deckungsstrukturen wie z.B. Holz- oder Steinhaufen
+anzubieten.    
+
+ 
+
+ <img src="images/fotos/Massnahmen-Page/Lebensraum_Beispiel.png" width="381" height="216" />
+
+<img src="images/fotos/Massnahmen-Page/quelle.jpg" width="369" height="16" />
+
+<!--http://wieselundco.ch/projekt/massnahmen/114-hinweise-haufen-->

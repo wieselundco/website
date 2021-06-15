@@ -1,0 +1,76 @@
+---
+title: Drei Streuhütten sind saniert
+description: |
+  Im Frühling 2019 konnten die zum Teil sehr aufwändigen Instandstellungen dreier kulturlandschaftlich bedeutender Streuhütten in Schönenberg erfolgreich abgeschlossen werden.  Unser Projekt unterstützte die Sanierungen ideell und finanziell, doch zum Erfolg trugen hauptsächlich die initiativen Besitzer der Feldscheunen bei. Ihnen gilt ein grosses Dankeschön, dass uns diese regionaltypischen Bauten für weitere Jahrzehnte von der traditionellen Bewirtschaftung der Streuwiesen erzählen. Erfahren Sie in Bild und Wort, wie die Objekte saniert und ökologisch aufgewertet wurden.
+author: wilderstefan
+date: 2019-06-16
+categories:
+  - resultate
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/120-drei-streuhuetten-sind-saniert
+---
+
+
+**Im Frühling 2019 konnten die zum Teil sehr aufwändigen
+Instandstellungen dreier kulturlandschaftlich bedeutender Streuhütten in
+Schönenberg erfolgreich abgeschlossen werden. **  
+**Unser Projekt unterstützte die Sanierungen ideell und finanziell,
+doch zum Erfolg trugen hauptsächlich die initiativen Besitzer der
+Feldscheunen bei. Ihnen gilt ein grosses Dankeschön, dass uns
+diese regionaltypischen Bauten für weitere Jahrzehnte von der
+traditionellen Bewirtschaftung der Streuwiesen erzählen.**
+
+Wie die Bildergalerie zeigt, waren zwei der drei heute sanierten Objekte
+bei Kontaktaufnahme mit den Besitzern im Jahr 2015 in bedenklichem
+Zustand. Die Witterung und der naturgemäss feuchte Boden hatte den
+Streuhütten über Jahrzehnte stark zugesetzt. Punktuelle Fundamente
+hatten sich gesenkt, das Gerüst verzog sich und die Gebäudehülle war
+nicht mehr regendicht und damit die gesamte Bausubstanz bedroht.
+Entsprechend dringend zeigte sich der Handlungsbedarf. Besonders
+schutzwürdig wurden die Objekte auch deshalb eingestuft, weil sich in
+ihrer Umgebung noch weitere ähnliche Hütten befinden und sie damit im
+Ensemble eine besondere Ausstrahlung haben.   
+Da in der Landwirtschaftszone und erst Recht in Naturschutzzonen
+Bauaktivitäten sehr restriktiv behandelt werden, mussten die
+Feldscheunen zeitlich etappiert repariert werden.   
+Dank dem grossen praktischen Knowhow der Besitzer im Holzbau waren diese
+Instandstellungen überhaupt machbar und bezahlbar. Die Objekte wurden
+baugleich hergerichtet und dienen weiterhin zonenkonform der Einlagerung
+des Streuschnitts bzw. anderer landschaftlicher Güter wie Brennholz. Zum
+Teil konnten intakte, handbearbeitete Balken, Ziegel und Beschläge
+erhalten werden, die von der Entstehungszeit im 19. Jahrhundert zeugen. 
+
+[So wie die oben beschriebenen kulturlandschaftlichen Aspekte, wurden zu
+Projektbeginn auch ökologische Absichten im Rahmen der
+Feldscheunensanierungen formuliert.  
+](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen)Entsprechend
+installierten wir mit dem Abschluss der Reparaturen bei allen drei
+Hütten Winterquartiere für Kleinraubtiere. Sie sollen speziell dem Iltis
+an rauhen Wintertagen dazu dienen, Energiereserven zu sparen. Im
+Frühling können sie auch dem Hermelin als Nische zur Fortpflanzung
+dienen.    
+In 2 der 3 Objekte montierten wir zudem Nistkästen, die speziell auf die
+Schleiereule und den Turmfalken zugeschnitten sind.   
+Die Umgebung in der Naturschutzzone bietet ohnehin gute Voraussetzungen
+für Wildtiere und kann punktuell noch mit Kleinstrukturen wie
+Steinhaufen optimiert werden. 
+
+[Übrigens berichtete die Zürichseezeitung im März 2019 von unserem
+"Rettungsversuch für verlotterte
+Feldscheunen"](https://www.zsz.ch/horgen/ein-neues-leben-fuer-verwahrloste-feldscheunen/story/17783632)
+
+{gallery}fotos/Feldscheunen/Sanierungen/chronik\_Steinweid\_Hinterberg\_Chaltenboden{/gallery}
+
+ 
+
+ 
+
+** **
+
+ 
+
+** **
+
+<!--http://wieselundco.ch/projekt/resultate/120-drei-streuhuetten-sind-saniert-->

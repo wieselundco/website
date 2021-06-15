@@ -1,0 +1,18 @@
+---
+title: Wühlmaus-Dossier und Workshop
+description: |
+  Am 27. Oktober 2017 und 25. Oktober 2019 veranstaltete Wiesel & Co am Zimmerberg in Zusammenarbeit mit dem Wildtierbiologen und "Mauser" Matthias Wüst den Workshop "Wühlmäuse im Griff?". Das eigens für den Workshop zusammengestellte Info-Dossier "Wühlmäuse im Griff?" ist zum Download frei verfügbar. Darin wird das Thema umfassend beschrieben, beginnend bei der Beschreibung von Wühlmausarten und Schadbildern, über ökonomische und strategische Überlegungen bis hin zur Vorstellung der verschiedenen Präventions- und Bekämpfungsmassnahmen. Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 2017 für den Verein FRUCTUS mit Matthias Wüst ein Interview, das interessante Hintergrundinformationen liefert. Es erschien im FRUCTUS Bulletin Nr. 127 unter der Rubrik "Aus der Praxis" eingebettet in lesenswerte Zeilen zu den "Wühlern", den Schadbildern und ihren natürlichen Gegenspielern. Download der entsprechenden Seiten des FRUCTUS-Bulletins.   Die Galerie zeigt einige Impressionen der beiden Workshop-Ausgaben:  {gallery}fotos/Wuehlmaus-Workshops_17-19{/gallery}  
+author: wilderstefan
+date: 2018-02-12
+categories:
+  - wuehlmaeuse
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /faszination-kleinraubtiere/wuehlmaeuse/117-info-dossier-und-workshop-2
+---
+
+
+
+
+<!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/117-info-dossier-und-workshop-2-->
