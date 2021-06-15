@@ -28,7 +28,10 @@ html2markdown <- function(string){
   }
 }
 
-# xml_content <- xml2::read_xml("articles/j2xml1920020210615075249.xml") %>%
+xml_content <- xml2::read_xml("articles/j2xml1920020210615075249.xml") %>%
+  xml2::xml_find_all("content")
+
+# xml_content <- xml2::read_xml("articles/j2xml1920020210615075406.xml") %>%
 #   xml2::xml_find_all("content")
 
 xml_content <- xml2::read_xml("articles/j2xml1920020210615075341.xml") %>%
@@ -37,8 +40,8 @@ xml_content <- xml2::read_xml("articles/j2xml1920020210615075341.xml") %>%
 
 canon <- map_chr(xml_content, ~get_text(.x, "canonical"))
 
-
-xml_content[grepl("^/wissenschaft",canon)] %>%
+news <- TRUE
+xml_content[grepl("^/faszination",canon)] %>%
   # head(1) %>%
   map(function(x){
 
@@ -69,11 +72,13 @@ xml_content[grepl("^/wissenschaft",canon)] %>%
     if(fulltext == ""){fulltext <- introtext}
 
     dirnam <- map(str_split(str_replace(canonical, "^/", "_"), "/"), ~.x[1])
-    categ <- map(str_split(str_replace(canonical, "^/", "_"), "/"), ~.x[2])
+    categ <- if(news){""}else{map(str_split(str_replace(canonical, "^/", "_"), "/"), ~.x[2])}
+
 
 
     basenam <- basename(canonical)
     basenam <- str_sub(basenam, 1, 30)
+    if(news){basenam <- paste(publish_date,basenam, sep = "-")}
 
     filenam <- paste0(basenam, ".Rmd")
 
@@ -83,6 +88,7 @@ xml_content[grepl("^/wissenschaft",canon)] %>%
     print(filename_full)
 
     desription <- xml2::read_html(introtext) %>% xml2::xml_text()
+    desription <- str_replace_all(desription, "\n", " ")
 
     write_lines(
       glue(
@@ -92,8 +98,8 @@ xml_content[grepl("^/wissenschaft",canon)] %>%
         "  {desription}",
         "author: {created_by}",
         "date: {publish_date}",
-        "categories:",
-        "  - {categ}",
+        ifelse(news,"","categories:"),
+        ifelse(news,"", "  - {categ}"), # <- this does not work yet!
         "output:",
         "  distill::distill_article:",
         "    self_contained: false",

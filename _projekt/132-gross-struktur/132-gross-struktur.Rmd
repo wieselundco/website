@@ -1,0 +1,56 @@
+---
+title: Gross-Strukturen im Bereich von Gittermasten
+description: |
+  Eine extensiv bewirtschaftete Fläche ab einer Are Grundfläche, die mit mindestens 2 unterschiedlichen Deckungstypen strukturiert ist, kann gemäss unserem Bonus-System als Gross-Struktur gelten. Oftmals sind nicht nur ökologische, sondern auch betriebswirtschaftliche Aspekte entscheidend, ob solch eine Massnahme realisiert werden kann. Wo bereits Bewirtschaftungshindernisse bestehen, wird die Anlage aus der betrieblichen Sicht eher gutgeheissen. Unser Ziel sind solche Pilotmassnahmen nach folgendem Prinzip: 
+author: natursc
+date: 2016-01-09
+categories:
+  - massnahmen
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/massnahmen/132-gross-struktur
+---
+
+
+**Eine extensiv bewirtschaftete Fläche ab einer Are Grundfläche, die mit
+mindestens 2 unterschiedlichen Deckungstypen strukturiert ist, kann
+gemäss [unserem
+Bonus-System](images/dokumente/Bonussystem_WiCoZ.pdf) als Gross-Struktur
+gelten.**
+
+**Oftmals sind nicht nur ökologische, sondern auch
+betriebswirtschaftliche Aspekte entscheidend, ob eine solche Massnahme
+realisiert werden kann. Wo bereits Bewirtschaftungshindernisse bestehen,
+wird die Anlage aus der betrieblichen Sicht eher gutgeheissen.**
+
+**Unser Ziel sind [solche
+Pilotmassnahmen](projekt/resultate/133-erste-mast-strukturen) nach
+folgendem Prinzip:**
+
+Die aufwändig zu bewirtschaftenden Kleinflächen um die Stelen deutlich
+extensivieren und mit unterschiedlichen Elementen strukturieren. Was
+erlaubt ist, regeln einige Netzbetreiber in schriftlichen Dokumenten, so
+z.B. die swissgrid und die Elektizitätswerke der Stadt Zürich (EWZ).
+
+Die jeweilige Lage des Mastens zur Bewirtschaftungsrichtung,
+Parzellengrenze, Topografie etc. sind ebenso massgeblich für die
+Ausgestaltung wie die Aspekte der Arten- bzw. Biotopförderung. 
+
+Die Freileitungen von Stromnetzbetreiber queren nicht nur die Landschaft
+des Zimmerbergs über viele Kilometer Strecke. Alleine im Südteil des
+Bezirks Horgen stehen rund 30 Gittermasten in regelmässigen, linearen
+Abständen. Deshalb sehen wir in den Gross-Strukturen bei Gittermasten
+oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential
+für Trittsteinbiotope im Sinne der [Ökologischen
+Infrastruktur](https://www.oekologische-infrastruktur.ch/).
+
+Bereits sind auch in anderen Regionen Projekte mit derselben Absicht
+gestartet, [z.B. jenes von Pro
+Natura](https://www.pronatura.ch/de/gelbbauchunken-unter-strommasten).
+
+ 
+
+ 
+
+<!--http://wieselundco.ch/projekt/massnahmen/132-gross-struktur-->

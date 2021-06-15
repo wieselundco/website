@@ -12,7 +12,15 @@ navbar:
         href: about.html
     - text: "Wissenschaft"
       href: "Wissenschaft.html"
+    - text: "Projekt"
+      href: "Projekt.html"
+    - text: "Faszination Kleinraubitere"
+      href: "Faszination-Kleinraubtiere.html"
 collections:
   wissenschaft:
+    categories: true
+  projekt:
+    categories: true
+  faszination-kleinraubtiere:
     categories: true
 output: distill::distill_article

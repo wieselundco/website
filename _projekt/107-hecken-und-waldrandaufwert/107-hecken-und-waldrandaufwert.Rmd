@@ -1,0 +1,78 @@
+---
+title: Hecken- und Waldrandaufwertungen
+description: |
+  Hecken und Ufergehölze sind vielerorts die wichtigsten Deckungsstrukturen für Kleinraubtiere und unzählige andere Wildtiere. Zugleich bieten sie auch einen unverzichtbaren Teillebensraum z.B. als Nahrungsquelle und Wanderkorridore. Ufergehölze sind oftmals die einzigen weiltläufigen und wirkungsvollen Vernetzungselemente in der Zimmerberglandschaft. Gestufte und gebuchtete Waldränder bilden enorm wichtige Übergangslebensräume zwischen Wald und Offenland. Natürlich engagiert sich Wiesel & Co am Zimmerberg beratend und tatkräftig für den Erhalt, die Aufwertung und die Neuanlage solcher Gehölze. Greifen auch Sie gerne auf unser Knowhow zurück! Bis Mitte 2020 können wir diese Dienstleistung kostenlos anbieten. Das Angebot gilt nicht nur für Hecken in der Landwirtschaft, sondern auch für private oder öffentliche Anlagen mit Anschluss an Wildtierlebensräume. Folgend wird ein Beispiel einer Heckenpflege fotografisch vorgestellt. Ausserdem steht ein wertvolles Dossier rund um die Thematik von Hecken und Waldrändern zum Download bereit.
+author: wilderstefan
+date: 2014-04-04
+categories:
+  - massnahmen
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/massnahmen/107-hecken-und-waldrandaufwertungen
+---
+
+
+**Hecken und Ufergehölze sind vielerorts die wichtigsten
+Deckungsstrukturen für Kleinraubtiere und unzählige andere Wildtiere.
+Zugleich bieten sie auch einen unverzichtbaren Teillebensraum z.B. als
+Nahrungsquelle und Wanderkorridore. Ufergehölze sind oftmals die
+einzigen weiltläufigen und wirkungsvollen Vernetzungselemente in der
+Zimmerberglandschaft. Gestufte und gebuchtete Waldränder bilden enorm
+wichtige Übergangslebensräume zwischen Wald und Offenland.**
+
+**Natürlich engagiert sich Wiesel & Co am Zimmerberg beratend und
+tatkräftig für den Erhalt, die Aufwertung und die Neuanlage solcher
+Gehölze.**
+
+**Greifen auch Sie gerne auf unser Knowhow zurück! Bis Mitte 2020 können
+wir diese Dienstleistung kostenlos anbieten. Das Angebot gilt nicht nur
+für Hecken in der Landwirtschaft, sondern auch für private oder
+öffentliche Anlagen mit Anschluss an Wildtierlebensräume.**
+
+Bereits einige Male konnten mit Unterstützung von Wiesel & Co am
+Zimmerberg Hecken, Feld- und Ufergehölze auf landwirtschaftlichen
+Nutzflächen durch gezielte Pflegemassnahmen in die [Qualitätsstufe II
+der
+DZV](http://www.strickhof.ch/fachwissen/biodiversitaet/biodiversitaetsfoerderflaechen/in-dauerkulturen-gehoelze/hecken-feld-ufergehoelz/) überführt
+werden. Damit wird die vielfältige Zusammensetzung des Gehölzes und ihre
+ökologische Pflege durch 8-jährige Verträge auf Bundesebene entschädigt
+und gesichert. 
+
+ 
+
+Die folgenden Bilder zeigen beispielhaft, wie eine Niederhecke unter
+Einbezug ökologischer Gesichtspunkten gepflegt werden kann. Selektiver
+Stockschnitt schnellwachsender Arten fördert die Artenvielfalt,
+gezielter Kopfschnitt erzeugt Nistgehölze, Totholz wird toleriert, mit
+dem Schnittgut werden spezifische Kleinstrukturen angelegt etc. Werden
+letztere grosszügig z.B. auf Haselstöcken erstellt, so können langsam
+wachsende Gehölze und die Stufigkeit der Hecke zusätzlich gefördert
+werden.
+
+ 
+
+{gallery}Workshops\_Kurstage/Heckenpflege/Album-Heckenpflege{/gallery}
+
+In Zusammenarbeit mit dem Obstgartenprojekt Horgen–Wädenswil sowie dem
+Vernetzungsprojekt Horgen–Wädenswil und dem Forstrevier linkes
+Seeufer/Höhronen, wurde [Ende Januar 2017 ein Hecken- und
+Waldrandpflegekurs](news/2-uncategorised/79-hecken-und-waldrandpflegekurs-brachte-erfreuliche-rueckmeldungen)
+organisiert. Ein gelungener Mix aus Gruppenarbeiten,
+Informationsvermittlung und praktischer Gehölzpflege sorgte bei über 30
+TeilnehmerInnen für gute Stimmung.  
+
+Eigens für diesen Workshop wurde ein umfassendes Dossier erstellt, das
+im Tagesverlauf zur Anwendung kam und fortan als Nachschlagewerk dienen
+kann. 
+
+[Das im April 2018 aktualisierte Dossier steht hier zur freien
+Verfügung.](images/Workshops_Kurstage/Heckenpflege/Dossier-HeckenWaldrandPflegekurs_20180404.compressed.pdf)
+Es zeigt von der Pflanzenwahl über gesetzliche Grundlagen, das
+Beitragswesen, Nutzen, Checklisten bis hin zur ökologischen Aufwertung
+so ziemlich alles relevante bzgl. Hecken und Waldrändern in der
+Landschaft.
+
+ 
+
+<!--http://wieselundco.ch/projekt/massnahmen/107-hecken-und-waldrandaufwertungen-->
