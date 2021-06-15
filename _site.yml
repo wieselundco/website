@@ -2,7 +2,7 @@ name: "Joomla2md"
 title: "Wiesel und Co am Zimmerberg"
 description: |
   Wiesel und Co am Zimmerberg
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
