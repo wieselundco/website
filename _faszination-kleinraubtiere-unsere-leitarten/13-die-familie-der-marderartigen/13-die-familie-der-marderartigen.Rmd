@@ -1,7 +1,7 @@
 ---
 title: 'Die Familie der "Marderartigen"'
 description: |
-  'Zu den in der Schweiz lebenden Vertretern der Familie der Marderartigen (Mustelidae) gehören nebst unseren Zielarten Hermelin (Mustela erminea), Mauswiesel (Mustela nivalis) und Iltis (Mustela putorius) auch der Dachs (Meles meles), der Steinmarder (Martes foina) und der Baummarder (Martes martes). In der Schweiz ausgestorbenen sind Fischotter (Lutra lutra) und Europäischer Nerz (Mustela lutreola).'
+  Zu den in der Schweiz lebenden Vertretern der Familie der Marderartigen (Mustelidae) gehören nebst unseren Zielarten Hermelin (Mustela erminea), Mauswiesel (Mustela nivalis) und Iltis (Mustela putorius) auch der Dachs (Meles meles), der Steinmarder (Martes foina) und der Baummarder (Martes martes). In der Schweiz ausgestorbenen sind Fischotter (Lutra lutra) und Europäischer Nerz (Mustela lutreola).
 date: 2014-01-15
 preview: 3_Martes_martes.jpg
 image_intro: images/bilder/verwandschaft/3_Martes_martes.jpg

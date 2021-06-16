@@ -1,7 +1,7 @@
 ---
 title: 'zur interaktiven Karte'
 description: |
-  ''
+  
 date: 2014-05-20
 
 

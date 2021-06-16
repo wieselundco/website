@@ -1,7 +1,7 @@
 ---
 title: 'Newsletter abonnieren'
 description: |
-  'Der Newsletter erreicht Sie mit den interessantesten Aktivitäten und Plänen rund um Wiesel & Co am Zimmerberg - vor allem im Winterhalbjahr mit Möglichkeiten zum Mitwirken. Unsere Neuigkeiten verschicken wir ca. 4 Mal jährlich - Abmeldung jederzeit möglich. An- und Abmeldung bitte an mail@wieselundco.ch.'
+  Der Newsletter erreicht Sie mit den interessantesten Aktivitäten und Plänen rund um Wiesel & Co am Zimmerberg - vor allem im Winterhalbjahr mit Möglichkeiten zum Mitwirken. Unsere Neuigkeiten verschicken wir ca. 4 Mal jährlich - Abmeldung jederzeit möglich. An- und Abmeldung bitte an mail@wieselundco.ch.
 date: 2014-01-30
 
 

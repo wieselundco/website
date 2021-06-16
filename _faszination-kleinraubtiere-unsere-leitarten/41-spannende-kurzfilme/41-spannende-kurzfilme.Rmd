@@ -1,7 +1,7 @@
 ---
 title: 'Spannende Kurzfilme'
 description: |
-  'Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl faszinierender Kurzfilme von Kleinraubtieren!'
+  Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl faszinierender Kurzfilme von Kleinraubtieren!
 date: 2014-05-21
 preview: youtube.jpg
 image_intro: images/bilder/nahrung/youtube.jpg

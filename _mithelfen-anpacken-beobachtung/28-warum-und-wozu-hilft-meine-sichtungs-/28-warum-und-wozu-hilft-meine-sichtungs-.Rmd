@@ -1,7 +1,7 @@
 ---
 title: 'Warum hilft meine Beobachtungs-Meldung?'
 description: |
-  'Verlässliche Daten über die Kleinraubtier-Bestände und ihre Entwicklung fehlen schweizweit. Somit sind selbst die Verbreitungskarten, die das Centre Suisse de Cartographie de la Faune (CSCF) anhand den vorhandenen Daten zeigt, mit Vorsicht zu geniessen. Offensichtlich beeinflussen regionale Erhebungen die zitierten Verbreitungskarten so stark, dass sie ein falsches Abbild der Artvorkommen suggerieren könnten. So resultierte aus einem kürzlich erfolgten Monitoring im Kanton Aargau, dass der Baummarder dort weit verbreitet ist. Vergleichbare Landschaften angrenzender Kantone zeigen hingegen auf der Verbreitungskarte eine auffallend lückige Verbreitung. Das fehlende Wissen über das Vorkommen von Kleinraubtieren wird damit augenfällig. Welche Gründe gibt es dafür?'
+  Verlässliche Daten über die Kleinraubtier-Bestände und ihre Entwicklung fehlen schweizweit. Somit sind selbst die Verbreitungskarten, die das Centre Suisse de Cartographie de la Faune (CSCF) anhand den vorhandenen Daten zeigt, mit Vorsicht zu geniessen. Offensichtlich beeinflussen regionale Erhebungen die zitierten Verbreitungskarten so stark, dass sie ein falsches Abbild der Artvorkommen suggerieren könnten. So resultierte aus einem kürzlich erfolgten Monitoring im Kanton Aargau, dass der Baummarder dort weit verbreitet ist. Vergleichbare Landschaften angrenzender Kantone zeigen hingegen auf der Verbreitungskarte eine auffallend lückige Verbreitung. Das fehlende Wissen über das Vorkommen von Kleinraubtieren wird damit augenfällig. Welche Gründe gibt es dafür?
 date: 2014-02-01
 
 

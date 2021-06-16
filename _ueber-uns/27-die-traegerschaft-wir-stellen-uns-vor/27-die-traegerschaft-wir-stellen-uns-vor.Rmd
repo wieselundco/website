@@ -1,7 +1,7 @@
 ---
 title: 'Die Trägerschaft stellt sich vor'
 description: |
-  'Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare Zusammenarbeit während der kommenden Jahre.'
+  Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare Zusammenarbeit während der kommenden Jahre.
 date: 2014-01-08
 
 

@@ -256,7 +256,7 @@ c(
   # head(1) %>%
   imap(~xml2rmd(canonical_keyword = .y,makenews = .x))
 
- xml2rmd(canonical_keyword = "2-uncategorised",makenews = TRUE)
+xml2rmd(canonical_keyword = "2-uncategorised",makenews = TRUE)
 
 
 

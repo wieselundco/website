@@ -1,7 +1,7 @@
 ---
 title: 'Spurentunnel-Erhebungen'
 description: |
-  'Um verifizieren, ob unsere Lebensraumanalyse die Realität wiederspiegelt haben wir eine studentische Arbeit in unter der Obhut der Forschungsgruppe Wildtiermangagement lancieren können. Inga Laas Prüft mittels Spurentunnel, ob die Tiere tatsächlich dort vorkommen, wo wir sie vermuten.'
+  Um verifizieren, ob unsere Lebensraumanalyse die Realität wiederspiegelt haben wir eine studentische Arbeit in unter der Obhut der Forschungsgruppe Wildtiermangagement lancieren können. Inga Laas Prüft mittels Spurentunnel, ob die Tiere tatsächlich dort vorkommen, wo wir sie vermuten.
 date: 2017-03-05
 preview: DSC04639.JPG
 image_intro: images/bilder/diverse/DSC04639.JPG

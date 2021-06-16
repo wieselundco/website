@@ -1,7 +1,7 @@
 ---
 title: 'Netzwerk'
 description: |
-  'Gemäss den Projektzielen sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.'
+  Gemäss den Projektzielen sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.
 date: 2014-01-22
 
 

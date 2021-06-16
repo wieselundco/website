@@ -1,7 +1,7 @@
 ---
 title: 'Konzept'
 description: |
-  ' Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! '
+   Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! 
 date: 2017-03-05
 
 

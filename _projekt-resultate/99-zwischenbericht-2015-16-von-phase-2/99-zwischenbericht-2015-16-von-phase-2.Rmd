@@ -1,7 +1,7 @@
 ---
 title: 'Zwischenbericht 2015/16 von Phase 2'
 description: |
-  'Der Zwischenbericht gibt insbesondere Auskunft über die Resultate von Beginn der Projektphase 2 im Oktober 2015 bis Ende 2016. Er wagt ausserdem einen Ausblick auf das Jahr 2017 und zeigt Beweggründe und Organisationsform von Wiesel & Co am Zimmerberg auf.  Download Zwischenbericht 2015/16'
+  Der Zwischenbericht gibt insbesondere Auskunft über die Resultate von Beginn der Projektphase 2 im Oktober 2015 bis Ende 2016. Er wagt ausserdem einen Ausblick auf das Jahr 2017 und zeigt Beweggründe und Organisationsform von Wiesel & Co am Zimmerberg auf.  Download Zwischenbericht 2015/16
 date: 2017-01-23
 preview: titelbild_snipe.JPG
 image_intro: images/bilder/diverse/titelbild_snipe.JPG

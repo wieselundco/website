@@ -1,7 +1,7 @@
 ---
 title: 'Porträt und Ziele'
 description: |
-  '"Wiesel & Co am Zimmerberg" ist ein gemeinsames Projekt der Naturschutzvereine des Bezirks Horgen. Wir stärken und vernetzen seit 2014 die Lebensräume der Kleinraubtiere und werten damit auch jene vieler weiterer Arten auf. Die intensive Zusammenarbeit mit Landwirten, den Jagdgesellschaften, Schulklassen, Wissenschaftlern und weiteren Interessierten aus der Bevölkerung ist zentral für unser Projekt. Denn sie schafft Vertrauen zwischen den verschiedenen Interessengruppen, fördert ihr Knowhow und sorgt für eigeninitiativen, integrativen Naturschutz. '
+  "Wiesel & Co am Zimmerberg" ist ein gemeinsames Projekt der Naturschutzvereine des Bezirks Horgen. Wir stärken und vernetzen seit 2014 die Lebensräume der Kleinraubtiere und werten damit auch jene vieler weiterer Arten auf. Die intensive Zusammenarbeit mit Landwirten, den Jagdgesellschaften, Schulklassen, Wissenschaftlern und weiteren Interessierten aus der Bevölkerung ist zentral für unser Projekt. Denn sie schafft Vertrauen zwischen den verschiedenen Interessengruppen, fördert ihr Knowhow und sorgt für eigeninitiativen, integrativen Naturschutz. 
 date: 2014-01-26
 preview: Marc_Keller_wwwbilderundwortech.jpg
 image_intro: images/fotos/2014_05_24-25_Wildnissafari/Marc_Keller_wwwbilderundwortech.jpg

@@ -1,7 +1,7 @@
 ---
 title: 'Jagdstrategie'
 description: |
-  'Bei Hermelin und Mauswiesel liegt der Beuteanteil von Wühlmäusen bei rund 90%. Es ist ihre langgestreckte, kurzbeinige Statur, die ihnen das Monopol auf die Jagd in den Behausungen (Erdgängen) der Wühlmäuse sichert. Bei ihrer eifrigen Aktivität verbrennen Sie sehr viel Energie und sind darauf angewiesen täglich rund ein Drittel ihrer Körpermasse an Nahrung aufzunehmen. Ein Hermelin vertilgt entsprechend 1-2 Wühlmäuse pro Tag.'
+  Bei Hermelin und Mauswiesel liegt der Beuteanteil von Wühlmäusen bei rund 90%. Es ist ihre langgestreckte, kurzbeinige Statur, die ihnen das Monopol auf die Jagd in den Behausungen (Erdgängen) der Wühlmäuse sichert. Bei ihrer eifrigen Aktivität verbrennen Sie sehr viel Energie und sind darauf angewiesen täglich rund ein Drittel ihrer Körpermasse an Nahrung aufzunehmen. Ein Hermelin vertilgt entsprechend 1-2 Wühlmäuse pro Tag.
 date: 2014-01-01
 preview: hermelin_mit_beute_crop.jpg
 image_intro: images/bilder/nahrung/hermelin_mit_beute_crop.jpg

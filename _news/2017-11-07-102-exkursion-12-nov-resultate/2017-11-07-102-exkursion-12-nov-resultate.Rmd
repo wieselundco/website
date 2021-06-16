@@ -1,7 +1,7 @@
 ---
 title: 'Exkursion: Resultate bis dato'
 description: |
-  'Sonntag 12. November. Treffpunkt: 12.25 Uhr, Haltestelle Schönenberg, Tanne  2014 ist das Projekt zur Kleinraubtierförderung gestartet und seit 2 Jahren befindet es sich nun in der Umsetzungsphase. Wem die Erkenntnisse aus dem Zwischenbericht 2015/16 zu wenig aktuell und fassbar sind, der ist ganz herzlich eingeladen zu einem Augenschein in der Landschaft draussen.  '
+  Sonntag 12. November. Treffpunkt: 12.25 Uhr, Haltestelle Schönenberg, Tanne  2014 ist das Projekt zur Kleinraubtierförderung gestartet und seit 2 Jahren befindet es sich nun in der Umsetzungsphase. Wem die Erkenntnisse aus dem Zwischenbericht 2015/16 zu wenig aktuell und fassbar sind, der ist ganz herzlich eingeladen zu einem Augenschein in der Landschaft draussen.  
 date: 2017-11-07
 preview: 023_abMaerz2017.jpg
 image_intro: images/fotos/Saison_2016_7/023_abMaerz2017.jpg

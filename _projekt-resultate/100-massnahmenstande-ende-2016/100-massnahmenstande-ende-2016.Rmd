@@ -1,7 +1,7 @@
 ---
 title: 'Plandarstellung zum Massnahmenstand Ende 2016'
 description: |
-  'Die kartografische Darstellung zeigt den fulminanten Start in die Phase 2 mit weit über 100 realisierten Lebensraumaufwertungen bis Ende des Jahres 2016.  Es lassen sich interessante Aspekte darstellen: Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  Plandarstellung öffnen'
+  Die kartografische Darstellung zeigt den fulminanten Start in die Phase 2 mit weit über 100 realisierten Lebensraumaufwertungen bis Ende des Jahres 2016.  Es lassen sich interessante Aspekte darstellen: Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  Plandarstellung öffnen
 date: 2017-01-23
 preview: ausschnitt_MnGIS16.JPG
 image_intro: images/bilder/GIS/ausschnitt_MnGIS16.JPG

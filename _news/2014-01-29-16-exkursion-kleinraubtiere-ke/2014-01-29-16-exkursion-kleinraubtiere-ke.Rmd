@@ -1,7 +1,7 @@
 ---
 title: 'Exkursion: "Kleinraubtiere kennen keine Grenzen"'
 description: |
-  'Die Exkursion "Kleinraubtiere kennen keine Grenzen" war sehr erfreulich! Nicht, dass wir Wiesel oder Iltis sichten konnten - Doch der Blick in die Hirzellandschaft am Zimmerberg lässt ihre Existenz erahnen! Die aktiven Teilnehmer und der sympathische Austausch mit zwei weiteren Interessengruppen rund um die kleinen Raubtiere machen Mut für die künftige Zusammenarbeit! Man kann sagen - das Projekt ist lanciert! Überzeugen Sie sich selbst anhand einiger Bilder. '
+  Die Exkursion "Kleinraubtiere kennen keine Grenzen" war sehr erfreulich! Nicht, dass wir Wiesel oder Iltis sichten konnten - Doch der Blick in die Hirzellandschaft am Zimmerberg lässt ihre Existenz erahnen! Die aktiven Teilnehmer und der sympathische Austausch mit zwei weiteren Interessengruppen rund um die kleinen Raubtiere machen Mut für die künftige Zusammenarbeit! Man kann sagen - das Projekt ist lanciert! Überzeugen Sie sich selbst anhand einiger Bilder. 
 date: 2014-01-29
 preview: 23.JPG
 image_intro: images/fotos/2013_10_11_Exkursion/23.JPG

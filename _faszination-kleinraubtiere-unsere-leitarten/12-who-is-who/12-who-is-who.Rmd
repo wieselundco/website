@@ -1,7 +1,7 @@
 ---
 title: 'Who is Who? Unsere Zielarten'
 description: |
-  'Flink hüpfen Hermelin und Mauswiesel über die Wiese. Hin und wieder verschwinden sie in der Erde. Hier jagen die geschickten Räuber langgestreckt und mit kurzen Beinen den Wühlmäusen in ihren Gängen nach.'
+  Flink hüpfen Hermelin und Mauswiesel über die Wiese. Hin und wieder verschwinden sie in der Erde. Hier jagen die geschickten Räuber langgestreckt und mit kurzen Beinen den Wühlmäusen in ihren Gängen nach.
 date: 2014-01-28
 preview: 3_iltis.jpg
 image_intro: images/bilder/arten/proportional/3_iltis.jpg

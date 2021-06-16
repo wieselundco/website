@@ -1,7 +1,7 @@
 ---
 title: 'Souvenir Helferessen'
 description: |
-  'Vor dem wunderschönen Atelier Hinterrüti fand sich am 3. Juli ein aufgewecktes Grüppchen ein. Allesamt Menschen, die sich im bisherigen Verlauf des Projekts engagiert haben. Folgend einige Beispiel für ihr Engagement: Mitwirken bei Standaktionen, Exkursionen und Infoveranstaltungen. Tatkräftiges Anpacken beim Erstellen von Asthaufen für Kleinraubtiere. Betreuen von Spurentunneln, um festzustellen, ob die Massnahmen für Kleinraubtiere attraktiv sind.'
+  Vor dem wunderschönen Atelier Hinterrüti fand sich am 3. Juli ein aufgewecktes Grüppchen ein. Allesamt Menschen, die sich im bisherigen Verlauf des Projekts engagiert haben. Folgend einige Beispiel für ihr Engagement: Mitwirken bei Standaktionen, Exkursionen und Infoveranstaltungen. Tatkräftiges Anpacken beim Erstellen von Asthaufen für Kleinraubtiere. Betreuen von Spurentunneln, um festzustellen, ob die Massnahmen für Kleinraubtiere attraktiv sind.
 date: 2016-01-29
 preview: IMG_0899.JPG
 image_intro: images/fotos/2015_07_03_Helferessen/IMG_0899.JPG
