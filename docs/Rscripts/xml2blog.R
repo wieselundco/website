@@ -178,7 +178,7 @@ xml2rmd <- function(canonical_keyword, makenews = FALSE){
               "```{r,results='asis', echo = FALSE}",
               "pander::pandoc.horizontal.rule()",
               "",
-              "pander::pandoc.link.return(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')",
+              "pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')",
               "```",
               sep = "\n"
             )
@@ -194,7 +194,7 @@ xml2rmd <- function(canonical_keyword, makenews = FALSE){
               "---",
               "title: '{title}'",
               "description: |",
-              "  '{desription}'",
+              "  {desription}",
               # "author: {created_by}",
               "date: {publish_date}",
               image_preview,

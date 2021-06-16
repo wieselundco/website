@@ -1,5 +1,17 @@
 [
   {
+    "path": "mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte/",
+    "title": "zur interaktiven Karte",
+    "description": "''",
+    "author": [],
+    "date": "2014-05-20",
+    "categories": [],
+    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:27:03+02:00",
+    "input_file": {}
+  },
+  {
     "path": "mithelfen-anpacken-beobachtung/40-zum-kontaktformular/",
     "title": "zum Kontaktformular",
     "description": "'Email mit Beobachtungsmeldung senden   '",
@@ -9,19 +21,7 @@
     "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
     "preview": {},
     "last_modified": "2021-06-16T14:27:01+02:00",
-    "input_file": "40-zum-kontaktformular.knit.md"
-  },
-  {
-    "path": "mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte/",
-    "title": "zur interaktiven Karte",
-    "description": "''",
-    "author": [],
-    "date": "2014-05-20",
-    "categories": [],
-    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-06-16T14:27:02+02:00",
-    "input_file": "39-zur-interaktiven-karte.knit.md"
+    "input_file": {}
   },
   {
     "path": "mithelfen-anpacken-beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-/",
@@ -33,7 +33,19 @@
     "contents": "\nErstens: Das Verhalten.\nDie verschiedenen Kleinraubtierarten begegnen dem Menschen wenig, bedingt u.a. durch folgende Verhaltensweisen:\nZum Teil dämmerungs- und nachtaktiv\nAufenthalt und Fortbewegung oft in Deckung oder in Erdlöchern.\nflinke Fortbewegungsweise\nper se klein, somit auch der Ort für Unterschlupf und ihre Spuren.\nTote Tiere (auch Verkehrsopfer) werden übersehen und rasch von Aasfressern abgeräumt.\n-> Wenn wir auf ihre Sichtung zählen dürfen, erhöht sich die Zahl der registrierten Begegnungen und wir erfahren zumindest am Zimmerberg mehr über die Verbreitung und ansatzweise etwas über die Bestände der Kleinraubtiere.\nZweitens: Die öffentliche Hand kann zu wenig ihrer Verantwortung gegenüber gefährdeten Arten gerecht werden.\nJagd und Schutz der Kleinraubtiere unterstehen laut Gesetz der Jagd- und Fischereiverwaltung des Kantons Zürich. Sie interessiert sich im Wesentlichen für die attraktiven jagdbaren Arten, wozu die Kleinraubtiere nicht zählen.\nEine Aufgabe der Fachstelle für Naturschutz des Kantons Zürich besteht darin, dem Aussterben von Pflanzen- und Tierarten entgegenzuwirken. Angesichts der vielen bedrohten Arten und beschränkten Mittel werden aber momentan vor allem prioritäre Arten mit Aktionsplänen artspezifisch gefördert. Hier kommen Mauswiesel und Iltis zu kurz; Ein Aktionsplan scheint ausser Reichweite obwohl sie auf der Roten Liste erscheinen.\nDie Datenlücken der Kleinraubtier-Bestände dürften mit ein Grund sein dafür, dass ein gezielter Schutzbedarf gemäss der Liste der national prioritären Arten des Bundesamts für Umwelt für Mauswiesel und Iltis als „unsicher“ taxiert wird. Aus dem Text geht zumindest hervor, dass die Aufwertung des Lebensraums von Nöten ist, um den Rückgang der Population abzufangen:\n\nQuelle: Liste der National Prioritären Arten (BAFU 2011)\n-> Mit ihrer Sichtungs-Meldung versuchen wir die Datenlücken zu schliessen um damit den Handlungsbedarf in Bezug auf die Kleinraubtiere zu klären. Die erfassten Meldungen reichen wir regelmässig dem CSCF weiter, ihre persönlichen Daten reichen wir jedoch nicht an Dritte ausserhalb des Projekts Wiesel & Co am Zimmerberg weiter.\n\nArtikel bearbeiten\n\n\n\n\n\n",
     "preview": {},
     "last_modified": "2021-06-16T14:27:07+02:00",
-    "input_file": "28-warum-und-wozu-hilft-meine-sichtungs-.knit.md"
+    "input_file": {}
+  },
+  {
+    "path": "mithelfen-anpacken-beobachtung/32-eine-beobachtung-melden-2/",
+    "title": "via Mail",
+    "description": "'via Mail Bitte Kontaktmöglichkeit angeben, damit wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Es ist für uns sehr hilfreich, wenn wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Wir bitten deshalb um eine Kontaktinformation (Name, Tel. oder eMail). Diese Angaben bleiben bei uns und werde nicht für andere Zwecke missbraucht! Damit wir sichergehen können, dass es sich um eine seriöse Beobachtungsmeldung handelt, brauchen wir ein paar Worte welche die Beobachtung beschreibt. Neben der Tierart brauchen können dies Details zum Kleid (Sommer / Winter), Verhalten, Verlässlichkeit der Bestimmung oder Ähnliches sein. Ausserdem wichtig ist der Sichtungszeitpunkt (ungefähr oder genau) und der Ort: Landschaftsnamen, Beschreibungen oder gar die Koordinaten sind sehr erwünscht. '",
+    "author": [],
+    "date": "2014-01-26",
+    "categories": [],
+    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:27:06+02:00",
+    "input_file": {}
   },
   {
     "path": "mithelfen-anpacken-beobachtung/33-eine-beobachtung-melden-3/",
@@ -45,18 +57,6 @@
     "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
     "preview": {},
     "last_modified": "2021-06-16T14:27:04+02:00",
-    "input_file": "33-eine-beobachtung-melden-3.knit.md"
-  },
-  {
-    "path": "mithelfen-anpacken-beobachtung/32-eine-beobachtung-melden-2/",
-    "title": "via Mail",
-    "description": "'via Mail Bitte Kontaktmöglichkeit angeben, damit wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Es ist für uns sehr hilfreich, wenn wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Wir bitten deshalb um eine Kontaktinformation (Name, Tel. oder eMail). Diese Angaben bleiben bei uns und werde nicht für andere Zwecke missbraucht! Damit wir sichergehen können, dass es sich um eine seriöse Beobachtungsmeldung handelt, brauchen wir ein paar Worte welche die Beobachtung beschreibt. Neben der Tierart brauchen können dies Details zum Kleid (Sommer / Winter), Verhalten, Verlässlichkeit der Bestimmung oder Ähnliches sein. Ausserdem wichtig ist der Sichtungszeitpunkt (ungefähr oder genau) und der Ort: Landschaftsnamen, Beschreibungen oder gar die Koordinaten sind sehr erwünscht. '",
-    "author": [],
-    "date": "2014-01-26",
-    "categories": [],
-    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-06-16T14:27:05+02:00",
-    "input_file": "32-eine-beobachtung-melden-2.knit.md"
+    "input_file": {}
   }
 ]
