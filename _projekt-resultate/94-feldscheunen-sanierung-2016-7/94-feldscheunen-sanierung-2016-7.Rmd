@@ -1,15 +1,19 @@
 ---
-title: Instandstellung von Feldscheunen gestartet
+title: 'Instandstellung von Feldscheunen gestartet'
 description: |
-  Wiesel & Co am Zimmerberg unterstützt Besitzer von Feldscheunen finanziell, ideell und wo möglich auch handwerklich, wenn sie beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares Objekt baulich zu unterhalten. Dachschäden, sich senkende Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu Schäden, die diese kleinen Objekte bald substanziell betreffen. Im Frühjahr 2017 konnten erste Sanierungen starten. Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das Engagement der Besitzer und unseres Projekts. 
+  'Wiesel & Co am Zimmerberg unterstützt Besitzer von Feldscheunen finanziell, ideell und wo möglich auch handwerklich, wenn sie beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares Objekt baulich zu unterhalten. Dachschäden, sich senkende Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu Schäden, die diese kleinen Objekte bald substanziell betreffen. Im Frühjahr 2017 konnten erste Sanierungen starten. Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das Engagement der Besitzer und unseres Projekts. '
 author: natursc
 date: 2017-03-15
+image_intro: images/fotos/Feldscheunen/Sanierungen/Impr_FS_allg/Hinterberg_Sanierung.jpg
+image_fulltext: images/fotos/Feldscheunen/Sanierungen/Impr_FS_allg/Hinterberg_Sanierung_6.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/94-feldscheunen-sanierung-2016-7
 ---
 
+![](images/fotos/Feldscheunen/Sanierungen/Impr_FS_allg/Hinterberg_Sanierung.jpg) <!--image_intro-->
+![](images/fotos/Feldscheunen/Sanierungen/Impr_FS_allg/Hinterberg_Sanierung_6.jpg) <!--image_fulltext-->
 
 **Wiesel & Co am Zimmerberg unterstützt Besitzer von Feldscheunen
 finanziell, ideell und wo möglich auch handwerklich, wenn sie

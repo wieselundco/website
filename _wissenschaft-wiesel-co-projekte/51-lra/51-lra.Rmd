@@ -1,15 +1,17 @@
 ---
-title: Lebensraumanalyse für den Bezirk Horgen
+title: 'Lebensraumanalyse für den Bezirk Horgen'
 description: |
-  Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.
+  'Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.'
 author: natursc
 date: 2015-03-02
+image_intro: images/bilder/GIS/lra.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/wiesel-co-projekte/51-lra
 ---
 
+![](images/bilder/GIS/lra.png) <!--image_intro-->
 
 **Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident
 des Vereins Naturschutz Richterswil - Samstagern und Mitglied der

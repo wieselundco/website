@@ -1,15 +1,19 @@
 ---
-title: Phase 1: Schlussbericht
+title: 'Phase 1: Schlussbericht'
 description: |
-  Die Trägerschaft von Wiesel & Co am Zimmerberg (WiCoZ) hat in Phase 1 viel Energie investiert, um die Ziele und Projektinhalte für die kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher zu bringen und sie zur Partizipation einzuladen. Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel & Co wissen.
+  'Die Trägerschaft von Wiesel & Co am Zimmerberg (WiCoZ) hat in Phase 1 viel Energie investiert, um die Ziele und Projektinhalte für die kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher zu bringen und sie zur Partizipation einzuladen. Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel & Co wissen.'
 author: natursc
 date: 2016-01-18
+image_intro: images/fotos/diverse/0100a_b_20150131_136.JPG
+image_fulltext: images/fotos/diverse/Cdy00015.JPG
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/64-phase-1-schlussbericht
 ---
 
+![](images/fotos/diverse/0100a_b_20150131_136.JPG) <!--image_intro-->
+![](images/fotos/diverse/Cdy00015.JPG) <!--image_fulltext-->
 
 **Die Trägerschaft von Wiesel & Co am Zimmerberg (WiCoZ) hat in Phase 1
 viel Energie investiert, um die Ziele und Projektinhalte für die

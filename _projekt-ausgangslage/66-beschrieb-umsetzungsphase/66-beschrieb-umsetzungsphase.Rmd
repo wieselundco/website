@@ -1,17 +1,19 @@
 ---
-title: Umsetzungsphase bis Mitte 2021
+title: 'Umsetzungsphase bis Mitte 2021'
 description: |
-  Dank dem Erfolg der konzeptionellen ersten Projektphase (vgl. Schlussbericht Phase 1) konnte Wiesel & Co am Zimmerberg Ende 2015 wie geplant in die Umsetzungsphase starten. Sie wird von den Resultaten aus dem ersten Projektjahr profitieren; Kontakte mit verschiedenen Interessengruppen, Planungsinstrumente und Know-How bei der Erstellung von Massnahmen in der Landschaft sowie bei der Wirkungskontrolle sind beste Voraussetzung dafür.Das Projekt wird am 31. Mai 2021 beendet werden.Den Beschrieb der Phase 2 inkl. der referenzierten Anhänge finden Sie nachfolgend:
+  'Dank dem Erfolg der konzeptionellen ersten Projektphase (vgl. Schlussbericht Phase 1) konnte Wiesel & Co am Zimmerberg Ende 2015 wie geplant in die Umsetzungsphase starten. Sie wird von den Resultaten aus dem ersten Projektjahr profitieren; Kontakte mit verschiedenen Interessengruppen, Planungsinstrumente und Know-How bei der Erstellung von Massnahmen in der Landschaft sowie bei der Wirkungskontrolle sind beste Voraussetzung dafür.Das Projekt wird am 31. Mai 2021 beendet werden.Den Beschrieb der Phase 2 inkl. der referenzierten Anhänge finden Sie nachfolgend:'
 author: natursc
 date: 2016-01-18
-categories:
-  - 
+image_intro: images/Workshops_Kurstage/0100a_b_20150131_099_02.jpg
+image_fulltext: images/Workshops_Kurstage/0100a_b_20150131_194_02.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/ausgangslage/66-beschrieb-umsetzungsphase
 ---
 
+![](images/Workshops_Kurstage/0100a_b_20150131_099_02.jpg) <!--image_intro-->
+![](images/Workshops_Kurstage/0100a_b_20150131_194_02.jpg) <!--image_fulltext-->
 
 **Dank dem Erfolg der konzeptionellen ersten Projektphase ([vgl.
 Schlussbericht Phase

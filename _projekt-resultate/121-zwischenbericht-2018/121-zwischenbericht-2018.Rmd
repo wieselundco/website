@@ -1,15 +1,17 @@
 ---
-title: Zwischenbericht Ende 2018
+title: 'Zwischenbericht Ende 2018'
 description: |
-  Wir befinden uns in der zweiten Halbzeit der umsetzungsorientierten Projektphase 2. Bis Ende 2018 konnten bereits einige Projektziele übertroffen werden. Beispielsweise sind schon 315 von total 300 projektierten Klein- und Grossstrukturen umgesetzt worden! Doch es gilt noch andere Ziele zu erreichen und ohnehin ist das Potential vorhanden, mehr zu realisieren als geplant.  Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns den Ausblick auf das Jahr 2019. Download Zwischenbericht 2018  
+  'Wir befinden uns in der zweiten Halbzeit der umsetzungsorientierten Projektphase 2. Bis Ende 2018 konnten bereits einige Projektziele übertroffen werden. Beispielsweise sind schon 315 von total 300 projektierten Klein- und Grossstrukturen umgesetzt worden! Doch es gilt noch andere Ziele zu erreichen und ohnehin ist das Potential vorhanden, mehr zu realisieren als geplant.  Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns den Ausblick auf das Jahr 2019. Download Zwischenbericht 2018  '
 author: wilderstefan
 date: 2017-01-23
+image_intro: images/bilder/diverse/Zwischenbericht_WiCoZ_2018_Deckblatt.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/121-zwischenbericht-2018
 ---
 
+![](images/bilder/diverse/Zwischenbericht_WiCoZ_2018_Deckblatt.jpg) <!--image_intro-->
 
 
 

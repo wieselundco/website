@@ -1,15 +1,19 @@
 ---
-title: Impressionen von den Dezember-Aktionen
+title: 'Impressionen von den Dezember-Aktionen'
 description: |
-  Zeit für Impressionen von unseren Aktionstagen!Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. Die Aktionstage im Dezember waren wieder abwechslungsreich... Sehen Sie selbst:
+  'Zeit für Impressionen von unseren Aktionstagen!Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. Die Aktionstage im Dezember waren wieder abwechslungsreich... Sehen Sie selbst:'
 author: natursc
 date: 2019-12-21
+image_intro: images/fotos/diverse/2019-12-07_134428_red.jpg
+image_fulltext: images/fotos/Aktionstage_Dez_2019/z-buelenebnet_55.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/124-souvenir-dez-2019
 ---
 
+![](images/fotos/diverse/2019-12-07_134428_red.jpg) <!--image_intro-->
+![](images/fotos/Aktionstage_Dez_2019/z-buelenebnet_55.jpg) <!--image_fulltext-->
 
 **Zeit für Impressionen von unseren Aktionstagen!**  
 **Schliesslich folgen auf all die Einladungen jeweils gefreute

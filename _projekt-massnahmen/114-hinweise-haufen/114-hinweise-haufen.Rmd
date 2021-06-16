@@ -1,17 +1,19 @@
 ---
-title: Hinweise zur Anlage von Holz- und Steinhaufen
+title: 'Hinweise zur Anlage von Holz- und Steinhaufen'
 description: |
-  Fokussieren wir uns auf die Ansprüche von Wiesel & Co, so sollen Holz- und Steinhaufen zusammengefasst folgende Qualität aufweisen:  Grosszügige Strukturen aus Wurzelstöcken und/oder Steinen und/oder Ästen -> wirksam ab 1m Höhe und 2m Durchmesser Im Innern Hohlräume, die für viele Jahre beständig sind und vor Feinden und Witterung schützen ("Nistkammer") Lage in unmittelbarer Nähe von Nahrung (v.a. Wühlmäusen) und/oder weiteren Deckungsstrukturen  
+  'Fokussieren wir uns auf die Ansprüche von Wiesel & Co, so sollen Holz- und Steinhaufen zusammengefasst folgende Qualität aufweisen:  Grosszügige Strukturen aus Wurzelstöcken und/oder Steinen und/oder Ästen -> wirksam ab 1m Höhe und 2m Durchmesser Im Innern Hohlräume, die für viele Jahre beständig sind und vor Feinden und Witterung schützen ("Nistkammer") Lage in unmittelbarer Nähe von Nahrung (v.a. Wühlmäusen) und/oder weiteren Deckungsstrukturen  '
 author: natursc
 date: 2016-01-08
-categories:
-  - 
+image_intro: images/fotos/Massnahmen-Page/IMG_0173_red.jpg
+image_fulltext: images/fotos/Massnahmen-Page/2016-04-11_aufrecht.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/massnahmen/114-hinweise-haufen
 ---
 
+![](images/fotos/Massnahmen-Page/IMG_0173_red.jpg) <!--image_intro-->
+![](images/fotos/Massnahmen-Page/2016-04-11_aufrecht.jpg) <!--image_fulltext-->
 
 **Fokussieren wir uns auf die Ansprüche von Wiesel & Co, so sollen Holz-
 und Steinhaufen zusammengefasst folgende Qualität aufweisen: **

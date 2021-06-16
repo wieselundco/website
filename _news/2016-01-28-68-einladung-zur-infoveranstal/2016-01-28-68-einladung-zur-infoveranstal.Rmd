@@ -1,15 +1,19 @@
 ---
-title: Einladung zur Infoveranstaltung am Mi 10. Februar
+title: 'Einladung zur Infoveranstaltung am Mi 10. Februar'
 description: |
-  Landbesitzer und Anwohner freuen sich über ein gesundes Ökossystem, wozu auch Kleinraubtiere gehören.  Kommt dazu, dass eine Wieselfamilie 1-2 dicke Schermäuse pro Tag vertilgt und somit die Bestände der Wühlmäuse regulieren kann. Unterstützen also auch Sie die Massnahmen von Wiesel & Co! Das am Wiesel & Co Workshop im Januar 2015 diskutierte Bonus-System ist nun spruchreif.  Wir möchten Ihnen die Möglichkeiten persönlich vorstellen und auch draussen am Beispiel zeigen.   Sie sind am Mittwoch 10. Februar herzlich zur Infoveranstaltung und kostenlosem Mittagessen eingeladen. Die Veranstaltung richtet sich insbesondere an Bewirtschafter und Besitzer von Grünland am Rand bzw. ausserhalb der Siedlungszentren.   Start ist um 10 Uhr im Hofraum des Schluchtalhofes, Obere Bergstrasse 119, Wädenswil Bitte bis spätestens Samstag 6. Februar anmelden (044 500 52 82 / keller@wieselundco.ch) 
+  'Landbesitzer und Anwohner freuen sich über ein gesundes Ökossystem, wozu auch Kleinraubtiere gehören.  Kommt dazu, dass eine Wieselfamilie 1-2 dicke Schermäuse pro Tag vertilgt und somit die Bestände der Wühlmäuse regulieren kann. Unterstützen also auch Sie die Massnahmen von Wiesel & Co! Das am Wiesel & Co Workshop im Januar 2015 diskutierte Bonus-System ist nun spruchreif.  Wir möchten Ihnen die Möglichkeiten persönlich vorstellen und auch draussen am Beispiel zeigen.   Sie sind am Mittwoch 10. Februar herzlich zur Infoveranstaltung und kostenlosem Mittagessen eingeladen. Die Veranstaltung richtet sich insbesondere an Bewirtschafter und Besitzer von Grünland am Rand bzw. ausserhalb der Siedlungszentren.   Start ist um 10 Uhr im Hofraum des Schluchtalhofes, Obere Bergstrasse 119, Wädenswil Bitte bis spätestens Samstag 6. Februar anmelden (044 500 52 82 / keller@wieselundco.ch) '
 author: wilderstefan
 date: 2016-01-28
+image_intro: images/fotos/2015_01_31_Workshop/0100a_b_20150131_003.JPG
+image_fulltext: images/fotos/2015_01_31_Workshop/0100a_b_20150131_265_0.2.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/68-einladung-zur-infoveranstaltung-am-mi-10-februar
 ---
 
+![](images/fotos/2015_01_31_Workshop/0100a_b_20150131_003.JPG) <!--image_intro-->
+![](images/fotos/2015_01_31_Workshop/0100a_b_20150131_265_0.2.jpg) <!--image_fulltext-->
 
 Landbesitzer und Anwohner freuen sich über ein gesundes Ökossystem, wozu
 auch Kleinraubtiere gehören. 

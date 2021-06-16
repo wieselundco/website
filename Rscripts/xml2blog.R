@@ -177,7 +177,7 @@ c(
   "17-partner" = FALSE
   # "10-das-projekt" = FALSE,
   ) %>%
-  imap(~ml2rmd(canonical_keyword = .y,makenews = .x))
+  imap(~xml2rmd(canonical_keyword = .y,makenews = .x))
 
 xml2rmd(canonical_keyword = "2-uncategorised",makenews = TRUE)
 

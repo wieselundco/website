@@ -1,15 +1,17 @@
 ---
-title: Exkursion: "Klein ganz gross - den Wieseln auf der Spur"
+title: 'Exkursion: "Klein ganz gross - den Wieseln auf der Spur"'
 description: |
-  Sie sind mitten unter uns. Trotzdem sehen wir sie kaum. Kleinraubtiere sind nicht nur ausgezeichnete Jäger, sie können sich auch gut verstecken. Wir machen uns in Wädenswil auf die Suche nach ihren Verstecken und finden heraus, wo und wie sie leben. Anschliessend erwartet uns ein feiner Bio-Apéro auf dem Schluchtalhof.   Montag 28. Oktober 2019 – Start 15 Uhr Apéro ab 17 UhrAnmeldung bis 20.10.2019! Details unter www.dihei-unterwägs.ch  
+  'Sie sind mitten unter uns. Trotzdem sehen wir sie kaum. Kleinraubtiere sind nicht nur ausgezeichnete Jäger, sie können sich auch gut verstecken. Wir machen uns in Wädenswil auf die Suche nach ihren Verstecken und finden heraus, wo und wie sie leben. Anschliessend erwartet uns ein feiner Bio-Apéro auf dem Schluchtalhof.   Montag 28. Oktober 2019 – Start 15 Uhr Apéro ab 17 UhrAnmeldung bis 20.10.2019! Details unter www.dihei-unterwägs.ch  '
 author: wilderstefan
 date: 2019-10-16
+image_intro: images/bilder/arten/Hermelin_Sh_Sonnenberg_Foto_Alois_Oberlin_viaStefan_Inneichen_snip_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/119-exkursion-klein-ganz-gross-den-wieseln-auf-der-spur
 ---
 
+![](images/bilder/arten/Hermelin_Sh_Sonnenberg_Foto_Alois_Oberlin_viaStefan_Inneichen_snip_red.jpg) <!--image_intro-->
 
 
 

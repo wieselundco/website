@@ -1,15 +1,19 @@
 ---
-title: Erste Gross-Strukturen bei Gittermasten 
+title: 'Erste Gross-Strukturen bei Gittermasten '
 description: |
-  Inspiriert durch die Stiftung Lebensraum Linthebene und in Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen: Es handelt sich um Gross-Strukturen im Bereich von Gittermasten - Hintergründe und Absichten sind hier umrissen. Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope im Sinne der Ökologischen Infrastruktur.  Folgend einige Impressionen: 
+  'Inspiriert durch die Stiftung Lebensraum Linthebene und in Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen: Es handelt sich um Gross-Strukturen im Bereich von Gittermasten - Hintergründe und Absichten sind hier umrissen. Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope im Sinne der Ökologischen Infrastruktur.  Folgend einige Impressionen: '
 author: wilderstefan
 date: 2021-01-23
+image_intro: images/bilder/Gross-Struktur/2020-11-18_115126_1500px.jpg
+image_fulltext: images/bilder/Gross-Struktur/2019-12-16_152356_1000px.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/133-erste-mast-strukturen
 ---
 
+![](images/bilder/Gross-Struktur/2020-11-18_115126_1500px.jpg) <!--image_intro-->
+![](images/bilder/Gross-Struktur/2019-12-16_152356_1000px.jpg) <!--image_fulltext-->
 
 **Inspiriert durch die Stiftung Lebensraum Linthebene und in
 Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den

@@ -1,15 +1,19 @@
 ---
-title: Massnahmen sind nachweislich attraktiv
+title: 'Massnahmen sind nachweislich attraktiv'
 description: |
-  Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:
+  'Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:'
 author: wilderstefan
 date: 2017-01-31
+image_intro: images/Wirkungskontrolle/rebekkaIltis.PNG
+image_fulltext: images/Wirkungskontrolle/2017-01-3103.14.09_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv
 ---
 
+![](images/Wirkungskontrolle/rebekkaIltis.PNG) <!--image_intro-->
+![](images/Wirkungskontrolle/2017-01-3103.14.09_red.jpg) <!--image_fulltext-->
 
 **Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr
 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus.**

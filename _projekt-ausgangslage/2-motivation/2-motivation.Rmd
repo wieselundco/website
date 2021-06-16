@@ -1,17 +1,19 @@
 ---
-title: Motivation
+title: 'Motivation'
 description: |
-  Im Zentrum dieses Naturschutzprojekts stehen die marderartigen Arten Hermelin, Mauswiesel und Iltis.  Die genannten Arten sind im Schweizer Mittelland nach einheitlicher Beurteilung von Fachleuten in den letzten Jahrzehnten deutlich zurückgegangen. Iltis und Mauswiesel werden sogar auf der Roten Liste der gefährdeten Tierarten der Schweiz als verletzlich aufgeführt. Sichere Daten über die Bestände und deren Entwicklung fehlen allerdings. Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.
+  'Im Zentrum dieses Naturschutzprojekts stehen die marderartigen Arten Hermelin, Mauswiesel und Iltis.  Die genannten Arten sind im Schweizer Mittelland nach einheitlicher Beurteilung von Fachleuten in den letzten Jahrzehnten deutlich zurückgegangen. Iltis und Mauswiesel werden sogar auf der Roten Liste der gefährdeten Tierarten der Schweiz als verletzlich aufgeführt. Sichere Daten über die Bestände und deren Entwicklung fehlen allerdings. Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.'
 author: natursc
 date: 2014-01-26
-categories:
-  - 
+image_intro: images/bilder/diverse/Plakat_Gefaehrdung-Zielarten_snip.jpg
+image_fulltext: images/bilder/diverse/Plakat_Gefaehrdung-Zielarten_snip.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/ausgangslage/2-motivation
 ---
 
+![](images/bilder/diverse/Plakat_Gefaehrdung-Zielarten_snip.jpg) <!--image_intro-->
+![](images/bilder/diverse/Plakat_Gefaehrdung-Zielarten_snip.jpg) <!--image_fulltext-->
 
 **<span lang="DE" style="line-height: 13.984px;">Im Zentrum dieses
 Naturschutzprojekts stehen die marderartigen Arten[ Hermelin, Mauswiesel

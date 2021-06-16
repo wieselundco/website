@@ -1,15 +1,17 @@
 ---
-title: Kontaktformular
+title: 'Kontaktformular'
 description: |
-  Hier gelangen Sie zum Kontaktformular. Sie können uns auch per eMail oder Post kontaktieren.
+  'Hier gelangen Sie zum Kontaktformular. Sie können uns auch per eMail oder Post kontaktieren.'
 author: natursc
 date: 2014-01-30
+image_intro: images/bilder/icons/contakt_1/1391103200_Blog_Artdesigner.lv.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /mithelfen-anpacken/mithelfen/22-kontaktformular
 ---
 
+![](images/bilder/icons/contakt_1/1391103200_Blog_Artdesigner.lv.png) <!--image_intro-->
 
 { BreezingForms : 1}
 

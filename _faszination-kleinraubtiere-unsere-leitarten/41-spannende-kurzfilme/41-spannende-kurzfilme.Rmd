@@ -1,15 +1,17 @@
 ---
-title: Spannende Kurzfilme
+title: 'Spannende Kurzfilme'
 description: |
-  Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl faszinierender Kurzfilme von Kleinraubtieren!
+  'Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl faszinierender Kurzfilme von Kleinraubtieren!'
 author: natursc
 date: 2014-05-21
+image_intro: images/bilder/nahrung/youtube.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme
 ---
 
+![](images/bilder/nahrung/youtube.jpg) <!--image_intro-->
 
 **Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als
 tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl

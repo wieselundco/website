@@ -1,15 +1,19 @@
 ---
-title: Wiesel-Patchwork (Wieselnetz)
+title: 'Wiesel-Patchwork (Wieselnetz)'
 description: |
-  „Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin- und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur Entwicklung und Prüfung der angewandten Methoden. Dabei stand von Anfang an die Förderung und Stützung ganzer Populationen im Fokus, unter Berücksichtigung der natürlichen zeitlichen und räumlichen Dynamik.
+  '„Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin- und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur Entwicklung und Prüfung der angewandten Methoden. Dabei stand von Anfang an die Förderung und Stützung ganzer Populationen im Fokus, unter Berücksichtigung der natürlichen zeitlichen und räumlichen Dynamik.'
 author: natursc
 date: 2017-03-05
+image_intro: images/bilder/00_Wissenschaft/03_extern/WIN_patchwork.png
+image_fulltext: images/bilder/00_Wissenschaft/03_extern/WIN_patchwork.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/externe-projekte/90-stiftung-wieselnetz-win-wiesel-patchwork
 ---
 
+![](images/bilder/00_Wissenschaft/03_extern/WIN_patchwork.png) <!--image_intro-->
+![](images/bilder/00_Wissenschaft/03_extern/WIN_patchwork.png) <!--image_fulltext-->
 
  **„Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin-
 und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur

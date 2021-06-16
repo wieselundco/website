@@ -1,14 +1,16 @@
 ---
-title: Stand der Entwicklung (2021)
+title: 'Stand der Entwicklung (2021)'
 description: |
-  Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel erhältliche Wildtierkameras und modifiziert diese so, dass sie für Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.
+  'Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel erhältliche Wildtierkameras und modifiziert diese so, dass sie für Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.'
 author: natursc
 date: 2017-03-05
+
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/tubecam/85-stand-der-entwicklung
 ---
+
 
 
 **Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die

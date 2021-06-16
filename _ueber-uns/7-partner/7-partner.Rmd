@@ -1,14 +1,16 @@
 ---
-title: Geldgeber und Partner
+title: 'Geldgeber und Partner'
 description: |
-  Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können: Fonds Landschaft Schweiz, Stiftung Wieselnetz, Fachstelle Naturschutz Kanton Zürich, ZVS/Birdlife-Zürich, Forschungsgruppe Geoinformatik der ZHAW Wädenswil, Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil... Folgend vollständig aufgelistet: 
+  'Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können: Fonds Landschaft Schweiz, Stiftung Wieselnetz, Fachstelle Naturschutz Kanton Zürich, ZVS/Birdlife-Zürich, Forschungsgruppe Geoinformatik der ZHAW Wädenswil, Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil... Folgend vollständig aufgelistet: '
 author: natursc
 date: 2014-01-15
+
 output:
   distill::distill_article:
     self_contained: false
 canonical: /ueber-uns/7-partner
 ---
+
 
 
 **Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich,

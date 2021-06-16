@@ -1,17 +1,19 @@
 ---
-title: Kleinst-Strukturen in Form von "Winterquartieren"
+title: 'Kleinst-Strukturen in Form von "Winterquartieren"'
 description: |
-  Ein Unterschlupf für Kleinraubtiere ist im Idealfall sicher vor Feinden und anderen Störungen, regen- und windgeschützt sowie nahe an ergiebigen Jagdgründen und weiteren Unterschlüpfen. Dass ein solcher Unterschlupf klein und dennoch wirksam sein kann, beweisen sogenannte "Winterquartiere". Doch wie kommt es zu dieser Bezeichnung?
+  'Ein Unterschlupf für Kleinraubtiere ist im Idealfall sicher vor Feinden und anderen Störungen, regen- und windgeschützt sowie nahe an ergiebigen Jagdgründen und weiteren Unterschlüpfen. Dass ein solcher Unterschlupf klein und dennoch wirksam sein kann, beweisen sogenannte "Winterquartiere". Doch wie kommt es zu dieser Bezeichnung?'
 author: natursc
 date: 2016-01-01
-categories:
-  - 
+image_intro: images/bilder/Winterquartiere/2020-07-04_095858_1500px.jpg
+image_fulltext: images/bilder/Winterquartiere/510040255.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/massnahmen/135-winterquartier
 ---
 
+![](images/bilder/Winterquartiere/2020-07-04_095858_1500px.jpg) <!--image_intro-->
+![](images/bilder/Winterquartiere/510040255.jpg) <!--image_fulltext-->
 
 **Ein Unterschlupf für Kleinraubtiere ist im Idealfall sicher vor
 Feinden und anderen Störungen, regen- und windgeschützt sowie nahe an

@@ -1,15 +1,19 @@
 ---
-title: Einladung zum Workshop am Fr 25. Okt. 2019 : «Wühlmäuse im Griff?»
+title: 'Einladung zum Workshop am Fr 25. Okt. 2019 : «Wühlmäuse im Griff?»'
 description: |
-   In manchen landwirtschaftlichen Kulturen kann man keine Wühlmäuse dulden und auch im Wiesland bereiten sie Probleme. Der Herbst ist ein guter Zeitpunkt, um einzugreifen.   Welches sind die effizientesten und nachhaltigsten Bekämpfungsmethoden? Wie vergrämt man Wühlmäuse? Wie fördert man die natürlichen Wühlmaus-Feinde und ihren Zugriff auf die Nager?   Der professionelle Mauser Matthias Wüst vermittelt seine Erfahrungen in Praxis & Theorie und bietet Raum für Diskussionen. Zudem thematisiert er aktuelle Entwicklungen zum Thema Wühlmäuse in der Landwirtschaft.   Das Angebot richtet sich im Speziellen an Personen aus der Landwirtschaft, dem Gartenbau, dem Naturschutz und andere Grünflächenbewirtschafter. Teilnehmende können bei der Anmeldung Anregungen und Fragen zu spezifischen Themen einbringen.   Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler Berg.  «Mehr erfahren» für Programm und Anmeldung. Wir freuen uns über Ihre Teilnahme!   
+  ' In manchen landwirtschaftlichen Kulturen kann man keine Wühlmäuse dulden und auch im Wiesland bereiten sie Probleme. Der Herbst ist ein guter Zeitpunkt, um einzugreifen.   Welches sind die effizientesten und nachhaltigsten Bekämpfungsmethoden? Wie vergrämt man Wühlmäuse? Wie fördert man die natürlichen Wühlmaus-Feinde und ihren Zugriff auf die Nager?   Der professionelle Mauser Matthias Wüst vermittelt seine Erfahrungen in Praxis & Theorie und bietet Raum für Diskussionen. Zudem thematisiert er aktuelle Entwicklungen zum Thema Wühlmäuse in der Landwirtschaft.   Das Angebot richtet sich im Speziellen an Personen aus der Landwirtschaft, dem Gartenbau, dem Naturschutz und andere Grünflächenbewirtschafter. Teilnehmende können bei der Anmeldung Anregungen und Fragen zu spezifischen Themen einbringen.   Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler Berg.  «Mehr erfahren» für Programm und Anmeldung. Wir freuen uns über Ihre Teilnahme!   '
 author: natursc
 date: 2019-10-16
+image_intro: images/Workshops_Kurstage/Wuehlmaeuse_im_Griff/maulwurf_haufen_titel.jpg
+image_fulltext: images/Workshops_Kurstage/Wuehlmaeuse_im_Griff/2017-10-27_112236_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/116-workshop-wuehlmaeuse-im-griff-2
 ---
 
+![](images/Workshops_Kurstage/Wuehlmaeuse_im_Griff/maulwurf_haufen_titel.jpg) <!--image_intro-->
+![](images/Workshops_Kurstage/Wuehlmaeuse_im_Griff/2017-10-27_112236_red.jpg) <!--image_fulltext-->
 
 **In manchen landwirtschaftlichen Kulturen kann man keine Wühlmäuse
 dulden und auch im Wiesland bereiten sie Probleme.**

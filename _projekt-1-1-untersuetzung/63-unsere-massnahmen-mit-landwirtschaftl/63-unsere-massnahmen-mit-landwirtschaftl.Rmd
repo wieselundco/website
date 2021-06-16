@@ -1,0 +1,40 @@
+---
+title: 'Für Landwirte: Kumulierung mit DZV'
+description: |
+  'Unser Bonus-System gilt unabhängig von der Direktzahlungs-Verordnung, doch können Synergien genutzt werden.  Insbesondere sind zum Teil Strukturen wie Asthaufen eine Möglichkeit, um die Qualitätsstufe II bzw. den Vernetzungszuschlag von bestimmten Biodiversitätsförderflächen (BFF; früher "Ökoflächen") zu erlangen. Strukturen werden z.T. auch für Label vorausgesetzt. Das extra vom Strickhof Lindau erstellte Merkblatt zeigt dies in Stichworten.'
+author: natursc
+date: 2016-01-09
+image_intro: images/bilder/nahrung/hermelin_mit_beute.jpg
+image_fulltext: images/fotos/2013_10_11_Exkursion/51. Bachausdolung 2011.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/1-1-untersuetzung/63-unsere-massnahmen-mit-landwirtschaftlichen-direktzahlungen-kombinieren
+---
+
+![](images/bilder/nahrung/hermelin_mit_beute.jpg) <!--image_intro-->
+![](images/fotos/2013_10_11_Exkursion/51. Bachausdolung 2011.jpg) <!--image_fulltext-->
+
+**Unser Bonus-System gilt unabhängig von der Direktzahlungs-Verordnung,
+doch können Synergien genutzt werden. **
+
+**Insbesondere sind zum Teil Strukturen wie Asthaufen eine Möglichkeit,
+um die Qualitätsstufe II bzw. den Vernetzungszuschlag von bestimmten
+Biodiversitätsförderflächen (BFF; früher "Ökoflächen") zu erlangen.
+Strukturen werden z.T. auch für Label vorausgesetzt. Das extra [vom
+Strickhof Lindau erstellte
+Merkblatt](images/dokumente/Strukturen_DZV_Label_Staeheli2018.pdf) zeigt
+dies in Stichworten.**
+
+Weiter können [Massnahmen der Landschaftsqualitäts-Projekt Zürich
+Süd](images/dokumente/massnahmenliste_lqp_sued.pdf) sich gut mit unserem
+Bonus-System ergänzen: z.B. gibt "ZH31, Initialpflege Hecken, Feld- und
+Ufergehölze" geradezu Anstoss dazu, um mit dem anfallenden Astmaterial
+in oder ausserhalb des Gehölzes gleich mehrere Aststrukturen anzulegen.
+[Hier finden sich die Fakten zu den Zürcher
+Landschaftsqualitäts-Massnahmen auf Stand des Jahres
+2018.](images/dokumente/lq_massnahmenkatalog_achtzehn.pdf)
+
+Kontaktieren Sie uns ungeniert für Fragen dazu! 044 500 52 82
+
+<!--http://wieselundco.ch/projekt/1-1-untersuetzung/63-unsere-massnahmen-mit-landwirtschaftlichen-direktzahlungen-kombinieren-->
