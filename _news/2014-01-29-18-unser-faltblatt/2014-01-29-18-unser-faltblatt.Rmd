@@ -2,16 +2,20 @@
 title: 'Neues Faltblatt'
 description: |
   'Unsere "Visitenkarte" kommt frisch aus der Presse. Ein Faltblatt, das über das Projekt informiert, Die Zielarten vorstellt und Ihnen die Möglichkeit gibt, uns unkompliziert & bequem Ihre Kleinraubtier-Beobachtungen zu melden. Aber sehen Sie selbst! Die selben Informationen sind übrigens auch als pdf Projektflyer verfügbar. Wir freuen uns über dessen Verbreitung durch Sie!'
-author: natursc
 date: 2014-01-29
+preview: faltblatt.png
 image_intro: images/bilder/diverse/faltblatt.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/18-unser-faltblatt
+params:
+  rmdpath: _news/2014-01-29-18-unser-faltblatt/2014-01-29-18-unser-faltblatt.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/diverse/faltblatt.png) <!--image_intro-->
+
+
 
 **Unsere "Visitenkarte" kommt frisch aus der Presse. Ein Faltblatt, das
 über das Projekt informiert, Die Zielarten vorstellt und Ihnen die
@@ -25,5 +29,11 @@ freuen uns über dessen Verbreitung durch Sie!**
 ------------------------------------------------------------------------
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/14-news/18-unser-faltblatt-->

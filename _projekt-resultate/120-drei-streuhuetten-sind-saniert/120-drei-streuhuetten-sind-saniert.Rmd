@@ -2,18 +2,23 @@
 title: 'Drei Streuhütten sind saniert'
 description: |
   'Im Frühling 2019 konnten die zum Teil sehr aufwändigen Instandstellungen dreier kulturlandschaftlich bedeutender Streuhütten in Schönenberg erfolgreich abgeschlossen werden.  Unser Projekt unterstützte die Sanierungen ideell und finanziell, doch zum Erfolg trugen hauptsächlich die initiativen Besitzer der Feldscheunen bei. Ihnen gilt ein grosses Dankeschön, dass uns diese regionaltypischen Bauten für weitere Jahrzehnte von der traditionellen Bewirtschaftung der Streuwiesen erzählen. Erfahren Sie in Bild und Wort, wie die Objekte saniert und ökologisch aufgewertet wurden.'
-author: wilderstefan
 date: 2019-06-16
+preview: 807_FS-Steinweid_2019-04-01_092855_red.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/chronik_Steinweid_Hinterberg_Chaltenboden/807_FS-Steinweid_2019-04-01_092855_red.jpg
 image_fulltext: images/fotos/Feldscheunen/Sanierungen/chronik_Steinweid_Hinterberg_Chaltenboden/Hinterberg_Sanierung_14_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/120-drei-streuhuetten-sind-saniert
+params:
+  rmdpath: _projekt-resultate/120-drei-streuhuetten-sind-saniert/120-drei-streuhuetten-sind-saniert.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/Feldscheunen/Sanierungen/chronik_Steinweid_Hinterberg_Chaltenboden/807_FS-Steinweid_2019-04-01_092855_red.jpg) <!--image_intro-->
-![](images/fotos/Feldscheunen/Sanierungen/chronik_Steinweid_Hinterberg_Chaltenboden/Hinterberg_Sanierung_14_red.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('Hinterberg_Sanierung_14_red.jpg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/chronik_Steinweid_Hinterberg_Chaltenboden/Hinterberg_Sanierung_14_red.jpg
+```
 
 **Im Frühling 2019 konnten die zum Teil sehr aufwändigen
 Instandstellungen dreier kulturlandschaftlich bedeutender Streuhütten in
@@ -74,5 +79,11 @@ Feldscheunen"](https://www.zsz.ch/horgen/ein-neues-leben-fuer-verwahrloste-felds
  
 
 ** **
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/120-drei-streuhuetten-sind-saniert-->

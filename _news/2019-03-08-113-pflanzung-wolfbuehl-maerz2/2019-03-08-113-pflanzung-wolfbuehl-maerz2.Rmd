@@ -2,19 +2,30 @@
 title: 'Einladung zur Pflanzung im Wolfbühl am 16. & 23. März'
 description: |
   'Stattliche 280 Meter Hecken will Landwirt Christian Hauser in Schönenberg initiieren und natürlich unterstützen wir ihn dabei.  An den Samstagen 16. & 23. März treffen sich Interessierte Einzelpersonen oder Familien um 9.45 Uhr im Wolfbühl 2, Schönenberg.Gepflanzt werden "leichte Büsche" aus der Forstbaumschule Rüti ZH und bei Gelegenheit ergänzen wir die Gebüschgruppen gleich mit kleinen Deckungsstrukturen. Übrigens wurde vor Ort ein Hermelin gesehen bei der Heckenplanung im Dezember 2018...  Wie immer gibt es begleitend einiges zu erfahren über Wiesel & Co - übrigens auch am Abend des 16. März an einem Vortrag in Schindellegi.  Um die Organisation des offerierten Zmittags zu vereinfachen, ist vorgängig eine Anmeldung erwünscht an keller@wieselundco.ch.  DOWNLOAD DETAILS AKTIONSTAG WOLFBÜHL SCHÖNENBERG'
-author: natursc
 date: 2019-03-08
+preview: 11_rietwies_red.jpg
 image_intro: images/Workshops_Kurstage/Heckenpflege/Album-Heckenpflege/11_rietwies_red.jpg
 image_fulltext: images/fotos/Aktionstage_2017-19/Aktionstag-VorderWiden-17-03-2018_5_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /2-uncategorised/113-pflanzung-wolfbuehl-maerz2019
+params:
+  rmdpath: _news/2019-03-08-113-pflanzung-wolfbuehl-maerz2/2019-03-08-113-pflanzung-wolfbuehl-maerz2.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/Workshops_Kurstage/Heckenpflege/Album-Heckenpflege/11_rietwies_red.jpg) <!--image_intro-->
-![](images/fotos/Aktionstage_2017-19/Aktionstag-VorderWiden-17-03-2018_5_red.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('Aktionstag-VorderWiden-17-03-2018_5_red.jpg', error = FALSE) #images/fotos/Aktionstage_2017-19/Aktionstag-VorderWiden-17-03-2018_5_red.jpg
+```
 
 
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/2-uncategorised/113-pflanzung-wolfbuehl-maerz2019-->

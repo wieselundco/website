@@ -2,16 +2,20 @@
 title: 'Gemischtes Doppel'
 description: |
   'Vor einigen Jahren konnte Familie Baruffol in Kilchberg mehrere Wiesel sichten. Lesen Sie selbst die Geschichte einer erstaunlichen Beobachtung von Wieseln.'
-author: natursc
 date: 2014-01-27
+preview: Frau_Baruffol.jpg
 image_intro: images/fotos/2014_01_27_Gemischtes_Doppel/Frau_Baruffol.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /faszination-kleinraubtiere/mensch-wiesel/8-gemischtes-doppel
+params:
+  rmdpath: _faszination-kleinraubtiere-mensch-wiesel/8-gemischtes-doppel/8-gemischtes-doppel.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/2014_01_27_Gemischtes_Doppel/Frau_Baruffol.jpg) <!--image_intro-->
+
+
 
 **Vor einigen Jahren konnte Familie Baruffol in Kilchberg mehrere Wiesel
 sichten. Lesen Sie selbst die Geschichte einer erstaunlichen Beobachtung
@@ -72,5 +76,11 @@ noch viele vergnügliche „gemischte Doppel“.
 Interview: Susanne Heusser
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/mensch-wiesel/8-gemischtes-doppel-->

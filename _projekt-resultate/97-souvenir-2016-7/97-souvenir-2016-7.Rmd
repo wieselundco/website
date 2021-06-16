@@ -2,18 +2,23 @@
 title: 'Souvenir! Taten der Saison 2016/7.'
 description: |
   'Der Rückblick auf die Saison lohnt auch dieses Jahr! Engagierte Naturfreunde sorgten für weitere Dutzende Aufwertungsmassnahmen und zwar an 16 Orten im Bezirk Horgen. Seit dem Frühjahr 2016 bieten damit stolze 174 neu erstellte Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen Wiesel & Co Unterschlupf.'
-author: natursc
 date: 2017-06-21
+preview: 027_abMaerz2017.jpg
 image_intro: images/fotos/Saison_2016_7/027_abMaerz2017.jpg
 image_fulltext: images/fotos/Feldscheunen/Sanierungen/Steinweid/63_steinweid_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/97-souvenir-2016-7
+params:
+  rmdpath: _projekt-resultate/97-souvenir-2016-7/97-souvenir-2016-7.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/Saison_2016_7/027_abMaerz2017.jpg) <!--image_intro-->
-![](images/fotos/Feldscheunen/Sanierungen/Steinweid/63_steinweid_red.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('63_steinweid_red.jpg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/Steinweid/63_steinweid_red.jpg
+```
 
 **Der Rückblick auf die Saison lohnt auch dieses Jahr!**
 
@@ -40,5 +45,11 @@ hinterlassen haben...
 Und jetzt zu den Souvenirs - in Form unverstaubter Bilder:
 
 {gallery}fotos/Saison\_2016\_7{/gallery}
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/97-souvenir-2016-7-->

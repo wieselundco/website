@@ -2,18 +2,23 @@
 title: 'Erste Gross-Strukturen bei Gittermasten '
 description: |
   'Inspiriert durch die Stiftung Lebensraum Linthebene und in Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen: Es handelt sich um Gross-Strukturen im Bereich von Gittermasten - Hintergründe und Absichten sind hier umrissen. Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope im Sinne der Ökologischen Infrastruktur.  Folgend einige Impressionen: '
-author: wilderstefan
 date: 2021-01-23
+preview: 2020-11-18_115126_1500px.jpg
 image_intro: images/bilder/Gross-Struktur/2020-11-18_115126_1500px.jpg
 image_fulltext: images/bilder/Gross-Struktur/2019-12-16_152356_1000px.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/133-erste-mast-strukturen
+params:
+  rmdpath: _projekt-resultate/133-erste-mast-strukturen/133-erste-mast-strukturen.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/Gross-Struktur/2020-11-18_115126_1500px.jpg) <!--image_intro-->
-![](images/bilder/Gross-Struktur/2019-12-16_152356_1000px.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('2019-12-16_152356_1000px.jpg', error = FALSE) #images/bilder/Gross-Struktur/2019-12-16_152356_1000px.jpg
+```
 
 **Inspiriert durch die Stiftung Lebensraum Linthebene und in
 Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den
@@ -38,5 +43,11 @@ Amphibien oder Reptilien einen grossen Nutzen bringen.  
 Folgend einige Impressionen von der Erstellung und im ersten Standjahr: 
 
  {gallery}bilder/Gross-Struktur{/gallery}
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/133-erste-mast-strukturen-->

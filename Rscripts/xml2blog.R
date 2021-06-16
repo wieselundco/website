@@ -38,6 +38,27 @@ canonicals <- list.files("articles_xml2/",full.names = TRUE) %>%
     tibble(canonic = canonic, x = x)
   })
 
+images_df <- list.files("articles_xml2/",full.names = TRUE) %>%
+  map_dfr(function(x){
+    cont <- x %>%
+      xml2::read_xml() %>%
+      xml2::xml_find_all("content")
+
+
+    map(cont, function(x){get_text(x, "images") %>% jsonlite::fromJSON()})
+
+  })
+
+
+images_df %>%
+  select(image_intro, image_fulltext) %>%
+  pivot_longer(c(image_intro, image_fulltext)) %>%
+  filter(value != "") %>%
+  pull(value) %>%
+  map_dfr(~tibble(file = .x, exists = file.exists(.x))) %>%
+  filter(!exists) %>%
+  pull(file) %>% cat(sep = "\n")
+
 
 map_chr(str_split(canonicals$canonic, "/"), ~.x[2]) %>%
   unique() %>%
@@ -82,15 +103,6 @@ xml2rmd <- function(canonical_keyword, makenews = FALSE){
             publish_up <- parse_datetime(publish_up,locale = locale(tz = "CET"))
             publish_date <- as.Date(publish_up)
 
-            images <- get_text(x, "images")%>%
-              jsonlite::fromJSON()
-
-            images <- images[map_lgl(images, ~.x != "")]
-
-            images_chr0 <- paste(imap_chr(images, ~glue("![]({.x}) <!--{.y}-->")), collapse = "\n")
-
-            images_chr <- paste(imap_chr(images, ~glue("{.y}: {.x}")),collapse = "\n")
-
 
             created_by <- get_text(x, "created_by")
             canonical <- get_text(x, "canonical")
@@ -105,7 +117,6 @@ xml2rmd <- function(canonical_keyword, makenews = FALSE){
             canonical2 <- str_replace(canonical, "^/", "_")
             dirnam <- case_when(
               grepl("ueber-uns",canonical_keyword)~map_chr(str_split(canonical2, "/"), ~.x[1]),
-              grepl("1-1-untersuetzung",canonical_keyword)~"projekt-bonus",
               makenews~"_news",
               TRUE~map_chr(str_split(canonical2, "/"), ~paste(.x[1],.x[2], sep = "-"))
             )
@@ -124,31 +135,92 @@ xml2rmd <- function(canonical_keyword, makenews = FALSE){
             file.create2(filename_full)
             print(filename_full)
 
+            ## Get Images ######################################################
+            images <- get_text(x, "images")%>%
+              jsonlite::fromJSON()
+
+            images <- images[map_lgl(images, ~.x != "")]
+
+            if(length(images)>0){
+              imap(images, function(image_name_old,y){
+                if(file.exists(image_name_old)){
+                  image_new <- file.path(dirnam, basenam, basename(image_name_old))
+                  file.copy(image_name_old,image_new)
+                } else{
+                  paste("Image not found:",image_name_old)
+                }
+
+              })
+            }
+
+            image_chunk <- if(!is.null(images$image_fulltext)){
+              paste(
+                paste0("```{r ", ", echo = FALSE}"),
+                paste0("knitr::include_graphics('", basename(images$image_fulltext), "', error = FALSE) #",images$image_fulltext),
+                paste0("```"),
+                sep = "\n"
+              )
+            } else{""}
+
+            image_preview <- if(!is.null(images$image_intro)){
+              glue("preview: {basename(images$image_intro)}")
+            } else{""}
+
+
+
+            images_chr <- paste(imap_chr(images, ~glue("{.y}: {.x}")),collapse = "\n")
+
+            ####################################################################
+
+
+
+            urlchunk <- paste(
+              "```{r,results='asis', echo = FALSE}",
+              "pander::pandoc.horizontal.rule()",
+              "",
+              "pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')",
+              "```",
+              sep = "\n"
+            )
+
+
+
+
+            ####################################################################
             desription <- xml2::read_html(introtext) %>% xml2::xml_text()
             desription <- str_replace_all(desription, "\n", " ")
 
+            mylines <- glue(
+              "---",
+              "title: '{title}'",
+              "description: |",
+              "  {desription}",
+              # "author: {created_by}",
+              "date: {publish_date}",
+              image_preview,
+              images_chr,
+              "output:",
+              "  distill::distill_article:",
+              "    self_contained: false",
+              "canonical: {canonical}",
+              "params:",
+              "  rmdpath: {filename_full}",
+              "  editurl: https://github.com/wieselundco/website/edit/master/",
+              "---",
+              "",
+              "",
+              "{image_chunk}",
+              "",
+              "{fulltext_md}",
+              "",
+              "{urlchunk}",
+              "",
+              "<!--http://wieselundco.ch{canonical}-->",
+              .sep= "\n"
+            )
+
             write_lines(
-              glue(
-                "---",
-                "title: '{title}'",
-                "description: |",
-                "  '{desription}'",
-                "author: {created_by}",
-                "date: {publish_date}",
-                images_chr,
-                "output:",
-                "  distill::distill_article:",
-                "    self_contained: false",
-                "canonical: {canonical}",
-                "---",
-                "",
-                images_chr0,
-                "",
-                "{fulltext_md}",
-                "",
-                "<!--http://wieselundco.ch{canonical}-->",
-                .sep= "\n"
-              ),
+              mylines,
               file = filename_full,
               append = FALSE
             )
@@ -163,6 +235,10 @@ xml2rmd <- function(canonical_keyword, makenews = FALSE){
 }
 
 
+# trashdirs <- list.files(pattern = "^_")
+
+
+
 c(
   "14-news" = TRUE,
   "2-uncategorised" = TRUE,
@@ -173,13 +249,19 @@ c(
   # "impressum" = FALSE,
   # "" = FALSE,
   # "login" = FALSE,
-  "ueber-uns" = FALSE,
-  "17-partner" = FALSE
+  "ueber-uns" = FALSE
+  # "17-partner" = FALSE
   # "10-das-projekt" = FALSE,
-  ) %>%
+) %>%
+  # head(1) %>%
   imap(~xml2rmd(canonical_keyword = .y,makenews = .x))
 
-xml2rmd(canonical_keyword = "2-uncategorised",makenews = TRUE)
+ xml2rmd(canonical_keyword = "2-uncategorised",makenews = TRUE)
+
+
+
+list.files(path = "_news", pattern = "\\.+Rmd$", recursive = TRUE,full.names = TRUE) %>%
+  map_chr(~tryCatch(rmarkdown::render(.x), error = function(x){.x}))
 
 
 

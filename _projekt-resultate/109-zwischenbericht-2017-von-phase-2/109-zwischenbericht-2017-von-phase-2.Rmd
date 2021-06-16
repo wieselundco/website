@@ -2,17 +2,27 @@
 title: 'Zwischenbericht und Massnahmenkarte Ende 2017'
 description: |
   'Bereits ist Halbzeit in der umsetzungsorientierten Phase 2 unseres Projekts. Erneut können wir eine sehr positive Bilanz ziehen. Was die Realisierung der bis Projektende zum Ziel gesetzten 300 Klein- und Grossstrukturen angeht, sind bereits 215 erstellt.  Glücklicherweise haben wir für die zweite Halbzeit klare Perspektiven und grosse Motivation sowohl für kommende Lebensraumaufwertungen wie auch für weitere Ziele wie die Wieselwerke mit Schulklassen. Gerne zählen wir weiterhin auf das Interesse und die Aktivität der Bevölkerung. Lesen sie von den wichtigsten Errungenschaften bis Ende 2017 und wagen sie mit uns den Ausblick auf das Jahr 2018. Download Zwischenbericht 2017   Öffnen sie ausserdem die Karte mit der eindrücklichen Übersicht über die bis Ende 2017 realisierten Massnahmen von Wiesel & Co am Zimmerberg.'
-author: wilderstefan
 date: 2017-01-23
+preview: mn2017_bezirk_schmal.JPG
 image_intro: images/dokumente/Berichte/mn2017_bezirk_schmal.JPG
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/109-zwischenbericht-2017-von-phase-2
+params:
+  rmdpath: _projekt-resultate/109-zwischenbericht-2017-von-phase-2/109-zwischenbericht-2017-von-phase-2.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/dokumente/Berichte/mn2017_bezirk_schmal.JPG) <!--image_intro-->
 
 
+
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/109-zwischenbericht-2017-von-phase-2-->

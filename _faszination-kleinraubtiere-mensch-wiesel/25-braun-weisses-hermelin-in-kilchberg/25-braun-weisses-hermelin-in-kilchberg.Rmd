@@ -2,16 +2,20 @@
 title: 'Braun-weisses Hermelin'
 description: |
   'Dass die Wiesel wieder im Gebiet der Tennisplätze in Kilchberg anzutreffen sind, zeigen die zwei nachfolgenden Erlebnisse der Schreibenden:'
-author: natursc
 date: 2014-01-30
+preview: PICT_20120722_32711.jpg
 image_intro: images/fotos/2014_01_28_braun-weisses_hermelin/PICT_20120722_32711.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /faszination-kleinraubtiere/mensch-wiesel/25-braun-weisses-hermelin-in-kilchberg
+params:
+  rmdpath: _faszination-kleinraubtiere-mensch-wiesel/25-braun-weisses-hermelin-in-kilchberg/25-braun-weisses-hermelin-in-kilchberg.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/2014_01_28_braun-weisses_hermelin/PICT_20120722_32711.jpg) <!--image_intro-->
+
+
 
 **Dass die Wiesel wieder im Gebiet der Tennisplätze in Kilchberg
 anzutreffen sind zeigen die zwei nachfolgenden Erlebnisse der
@@ -65,5 +69,11 @@ umgesetzten Lebensraum Aufwertungen wie ganzjährige Säume,
 Altgrasstreifen und Steinhaufen haben sicher einiges dazu beigetragen.
 
 Susanne Heusser
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/mensch-wiesel/25-braun-weisses-hermelin-in-kilchberg-->

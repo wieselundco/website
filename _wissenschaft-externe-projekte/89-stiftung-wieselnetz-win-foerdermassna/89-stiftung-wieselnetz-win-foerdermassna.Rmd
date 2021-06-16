@@ -2,18 +2,23 @@
 title: 'Fördermassnahmen für Wiesel im Landwirtschaftsgebiet (Wieselnetz)'
 description: |
   'Ziel dieses Projektes war es, Grundlagen zur Wieselförderung im gesamten Landwirtschaftsgebiet der Schweiz zur Verfügung zu stellen. Dabei wurden zusammen mit dem Partner Agrofutura interdisziplinär praktische Anleitungen erarbeitet, welche Landwirten und Landwirtschaftsberatern einen Überblick über wirkungsvolle Massnahmen zur Wieselförderung bieten.'
-author: natursc
 date: 2017-03-05
+preview: WIN_foerdermassnahmen.png
 image_intro: images/bilder/00_Wissenschaft/03_extern/WIN_foerdermassnahmen.png
 image_fulltext: images/bilder/00_Wissenschaft/03_extern/WIN_foerdermassnahmen.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/externe-projekte/89-stiftung-wieselnetz-win-foerdermassnahmen-fuer-wiesel-im-landwirtschaftsgebiet
+params:
+  rmdpath: _wissenschaft-externe-projekte/89-stiftung-wieselnetz-win-foerdermassna/89-stiftung-wieselnetz-win-foerdermassna.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/00_Wissenschaft/03_extern/WIN_foerdermassnahmen.png) <!--image_intro-->
-![](images/bilder/00_Wissenschaft/03_extern/WIN_foerdermassnahmen.png) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('WIN_foerdermassnahmen.png', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/WIN_foerdermassnahmen.png
+```
 
 **Ziel dieses Projektes war es, Grundlagen zur Wieselförderung im
 gesamten Landwirtschaftsgebiet der Schweiz zur Verfügung zu stellen.
@@ -31,5 +36,11 @@ Zudem zeigt das Heft mögliche finanzielle Beiträge für die getroffenen
 Massnahmen auf (Beitragsansätze Agrarpolitik 2018 – 2021).
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/89-stiftung-wieselnetz-win-foerdermassnahmen-fuer-wiesel-im-landwirtschaftsgebiet-->

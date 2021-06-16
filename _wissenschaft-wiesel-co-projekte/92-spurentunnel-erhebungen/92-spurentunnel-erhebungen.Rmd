@@ -2,18 +2,23 @@
 title: 'Spurentunnel-Erhebungen'
 description: |
   'Um verifizieren, ob unsere Lebensraumanalyse die Realität wiederspiegelt haben wir eine studentische Arbeit in unter der Obhut der Forschungsgruppe Wildtiermangagement lancieren können. Inga Laas Prüft mittels Spurentunnel, ob die Tiere tatsächlich dort vorkommen, wo wir sie vermuten.'
-author: natursc
 date: 2017-03-05
+preview: DSC04639.JPG
 image_intro: images/bilder/diverse/DSC04639.JPG
 image_fulltext: images/bilder/diverse/DSC04639.JPG
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/wiesel-co-projekte/92-spurentunnel-erhebungen
+params:
+  rmdpath: _wissenschaft-wiesel-co-projekte/92-spurentunnel-erhebungen/92-spurentunnel-erhebungen.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/diverse/DSC04639.JPG) <!--image_intro-->
-![](images/bilder/diverse/DSC04639.JPG) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('DSC04639.JPG', error = FALSE) #images/bilder/diverse/DSC04639.JPG
+```
 
 **<span lang="DE">Um verifizieren, ob unsere [Lebensraumanalyse](LRA)
 die Realität wiederspiegelt haben wir eine studentische Arbeit in unter
@@ -219,5 +224,11 @@ wird wieder als  Ballaststoffe der Schnecken dienen und mancher
 Tunnelgang wird vielleicht etwas mühsam.  
 Ich hoffe auf ganz schnell wieder ganz gutes Wetter und Danke Euch
 schonmal im Vorab.
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/wiesel-co-projekte/92-spurentunnel-erhebungen-->

@@ -2,17 +2,27 @@
 title: 'Kontakt'
 description: |
   'Sie können uns auf folgende Weise kontaktieren:   Wiesel & Co am Zimmerberg  c/o Stefan Keller Aeschstrasse 239122 Mogelsberg Tel: 044 500 52 82     allgemeine Fragen:mail@wieselundco.ch GIS, Website, IT: ratnaweera@wieselundco.ch   Anmeldung Newsletter: mail@wieselundco.ch   '
-author: natursc
 date: 2014-01-01
+
 
 output:
   distill::distill_article:
     self_contained: false
 canonical: /ueber-uns/24-kontakt
+params:
+  rmdpath: _ueber-uns/24-kontakt/24-kontakt.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
 
 
 
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/ueber-uns/24-kontakt-->

@@ -2,16 +2,20 @@
 title: 'Souvenir Helferessen'
 description: |
   'Vor dem wunderschönen Atelier Hinterrüti fand sich am 3. Juli ein aufgewecktes Grüppchen ein. Allesamt Menschen, die sich im bisherigen Verlauf des Projekts engagiert haben. Folgend einige Beispiel für ihr Engagement: Mitwirken bei Standaktionen, Exkursionen und Infoveranstaltungen. Tatkräftiges Anpacken beim Erstellen von Asthaufen für Kleinraubtiere. Betreuen von Spurentunneln, um festzustellen, ob die Massnahmen für Kleinraubtiere attraktiv sind.'
-author: wilderstefan
 date: 2016-01-29
+preview: IMG_0899.JPG
 image_intro: images/fotos/2015_07_03_Helferessen/IMG_0899.JPG
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/69-souvenir-helferessen
+params:
+  rmdpath: _news/2016-01-29-69-souvenir-helferessen/2016-01-29-69-souvenir-helferessen.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/2015_07_03_Helferessen/IMG_0899.JPG) <!--image_intro-->
+
+
 
 **Vor dem wunderschönen [Atelier
 Hinterrüti](http://www.hinterrueti.ch) fand sich am 3. Juli ein
@@ -34,5 +38,11 @@ Die Trägerschaft bedankt sich herzlich bei allen Beteiligten und auch
 den [Sponsoren](ueber-uns/7-partner)!
 
 {gallery}fotos/2015\_07\_03\_Helferessen{/gallery}
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/14-news/69-souvenir-helferessen-->

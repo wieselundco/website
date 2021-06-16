@@ -2,17 +2,27 @@
 title: 'Kleine Tiere - grosse Fragen'
 description: |
   'Auch wenn in den letzten 30 Jahren viel zu diesen Tieren geforscht wurde - einiges ist noch unbekannt.  Einerseits fehlt es an lokalem Wissen (z.B: Wo kommen diese Tiere bei uns im Bezirk vor?), andererseits gilt es praxisrelevante Fragen zu verfolgen (z.B. Werden die Asthaufen zu Nistzwecken verwendet?). In enger Zusammenarbeit mit der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) lanciert Wiesel & Co Projekte, um diese Fragen zu erforschen.   Projekt TubeCam Das Projekt TubeCam wurde 2016 durch Wiesel & Co lanciert. Es handelt sich hierbei um die Entwicklung einer neuen Nachweismethodik für Kleinsäuger mit dem Fokus auf Musteliden und Schläfer. Die Idee wird an der ZHAW Wädenswil mit unserer Unterstützung weiterverfolgt.    Weitere Wiesel & Co Projekte Rund um das Thema "Musteliden", "Kleinstrukturen" und "Monitoring" wurden einige spannende Projekte von Wiesel & Co lanciert und / oder unterstützt.    Relevante externe Projekte Hier finden Sie weitere spannende Projekte zum Thema Kleinraubtiere, die nicht in direktem Zusammenhang mit Wiesel & Co stehen.    '
-author: natursc
 date: 2017-03-05
+
 
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft
+params:
+  rmdpath: _wissenschaft-NA/wissenschaft/wissenschaft.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
 
 
 
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft-->

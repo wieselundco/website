@@ -2,18 +2,23 @@
 title: 'Kinderaugen, Äste, Wienerli und Tinte'
 description: |
   'Was braucht es mehr für einen kompletten Aktionstag mit Wiesel & Co am Zimmerberg? Vielleicht Sonnenstrahlen? Auch diese segneten unser geschäftiges Treiben an den beiden ersten Einsätzen im 2017. Etwas zeigte sich uns wieder einmal auf erfreuliche Weise:'
-author: natursc
 date: 2017-02-15
+preview: 30_Ausee.jpg
 image_intro: images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/30_Ausee.jpg
 image_fulltext: images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /2-uncategorised/81-aktionstage-februar-2017
+params:
+  rmdpath: _news/2017-02-15-81-aktionstage-februar-2017/2017-02-15-81-aktionstage-februar-2017.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/30_Ausee.jpg) <!--image_intro-->
-![](images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('18_Ausee.jpg', error = FALSE) #images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg
+```
 
 **Was braucht es mehr für einen kompletten Aktionstag mit Wiesel & Co am
 Zimmerberg? Vielleicht Sonnenstrahlen? Auch diese segneten unser
@@ -51,5 +56,11 @@ Da kommt das Stempelspiel zum Abschluss wie gerufen. Schliesslich darf
 man ja noch Kind sein. 
 
 {gallery}fotos/Aktionstage\_Winter\_2015\_6/Moos\_Ausee\_Feb2017{/gallery}
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/2-uncategorised/81-aktionstage-februar-2017-->

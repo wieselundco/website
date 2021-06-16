@@ -2,18 +2,23 @@
 title: 'Untersuchung der Nutzung unterschiedlich strukturierter Lebensräume durch Kleinmusteliden und Schläfer'
 description: |
   'Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich strukturierten Lebensräumen vorkommen. Dabei galt es die Hypothese zu belegen, dass strukturgebundene kleinere Säugetiere in stark fragmentierten und isolierten Lebensräumen oft fehlen.'
-author: natursc
 date: 2017-03-05
+preview: engelerpng.png
 image_intro: images/bilder/00_Wissenschaft/03_extern/engelerpng.png
 image_fulltext: images/bilder/00_Wissenschaft/03_extern/engelerpng.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/externe-projekte/91-untersuchung-der-nutzung-unterschiedlich-strukturierter-lebensraeume-durch-kleinmusteliden-und-schlaefer
+params:
+  rmdpath: _wissenschaft-externe-projekte/91-untersuchung-der-nutzung-unterschiedl/91-untersuchung-der-nutzung-unterschiedl.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/00_Wissenschaft/03_extern/engelerpng.png) <!--image_intro-->
-![](images/bilder/00_Wissenschaft/03_extern/engelerpng.png) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('engelerpng.png', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/engelerpng.png
+```
 
 **Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil
 untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich
@@ -36,5 +41,11 @@ Schläferarten notwendig sind. Das Ziel der Bachelorarbeit war es
 deshalb, zu untersuchen wie häufig Kleinmusteliden und Schläfer in den
 unterschiedlich strukturierten Lebensräumen des Untersuchungsgebietes
 vorkommen.
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/91-untersuchung-der-nutzung-unterschiedlich-strukturierter-lebensraeume-durch-kleinmusteliden-und-schlaefer-->

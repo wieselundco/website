@@ -2,18 +2,23 @@
 title: 'Massnahmen sind nachweislich attraktiv'
 description: |
   'Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:'
-author: wilderstefan
 date: 2017-01-31
+preview: rebekkaIltis.PNG
 image_intro: images/Wirkungskontrolle/rebekkaIltis.PNG
 image_fulltext: images/Wirkungskontrolle/2017-01-3103.14.09_red.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv
+params:
+  rmdpath: _projekt-resultate/80-massnahmen-sind-nachweislich-attrakti/80-massnahmen-sind-nachweislich-attrakti.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/Wirkungskontrolle/rebekkaIltis.PNG) <!--image_intro-->
-![](images/Wirkungskontrolle/2017-01-3103.14.09_red.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('2017-01-3103.14.09_red.jpg', error = FALSE) #images/Wirkungskontrolle/2017-01-3103.14.09_red.jpg
+```
 
 **Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr
 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus.**
@@ -40,5 +45,11 @@ geforscht und getüftelt. In wenigen Monaten werden wir weitere Details
 Preis geben können. 
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv-->

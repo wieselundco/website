@@ -2,16 +2,20 @@
 title: 'Ermittlung des Mauswieselvorkommens im Bezirk Horgen'
 description: |
   'Das Mauswiesel Mustela nivalis ist ein kleines, überaus agiles Raubtier und als solches sogar der kleinste Angehörige der Ordnung Carnivora. Neben dem Hermelin M. erminea ist es die einzige Wieselart der Schweiz. Als Lebensraum bevorzugt das Mauswiesel offenes strukturreiches Grünland, welches noch vor wenigen Jahrzehnten durch die traditionelle Landwirtschaft weit verbreitet war. Darin fand das Mauswiesel genügend Futter, Schutz vor Feinden und konnte seine Jungen grossziehen.'
-author: natursc
 date: 2017-03-05
+preview: 1_Mustela_nivalis_3.jpg
 image_intro: images/bilder/verwandschaft/1_Mustela_nivalis_3.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/wiesel-co-projekte/86-ermittlung-des-mauswieselvorkommens-mustela-nivalis-im-bezirk-horgen
+params:
+  rmdpath: _wissenschaft-wiesel-co-projekte/86-ermittlung-des-mauswieselvorkommens-m/86-ermittlung-des-mauswieselvorkommens-m.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/verwandschaft/1_Mustela_nivalis_3.jpg) <!--image_intro-->
+
+
 
 **Das Mauswiesel Mustela nivalis ist ein kleines, überaus agiles
 Raubtier und als solches sogar der kleinste Angehörige der Ordnung
@@ -35,5 +39,11 @@ Hermelin nicht auszuschliessen ist. Ziele der Arbeit sind:
     Nachweismethoden im Feld (Fotofallen / Spurentunnel / Tubecam..)
 
 Die Arbeit findet im Zeitraum Februar - Juni 2017 statt
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/wiesel-co-projekte/86-ermittlung-des-mauswieselvorkommens-mustela-nivalis-im-bezirk-horgen-->

@@ -2,18 +2,23 @@
 title: 'Bonussystem zur Massnahmen-Realisierung'
 description: |
   'Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds.  Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.'
-author: natursc
 date: 2016-01-09
+preview: bonussystem.png
 image_intro: images/bonussystem.png
 image_fulltext: images/bonussystem.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massnahmen
+params:
+  rmdpath: _projekt-1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massn/61-bonus-system-zur-verguetung-von-massn.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bonussystem.png) <!--image_intro-->
-![](images/bonussystem.png) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('bonussystem.png', error = FALSE) #images/bonussystem.png
+```
 
 **[Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von
 Kleinraubtier-freundlichen
@@ -52,5 +57,11 @@ davon.](images/dokumente/Verguetungs-Rechner_web.xlsx) 
 Der Projektfond wird übrigens hauptsächlich ermöglicht durch Gelder, die
 für gemeinnützige Zwecke vorgesehen sind und belastet insofern nicht das
 Budget der öffentlichen Hand.
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massnahmen-->

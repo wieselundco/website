@@ -2,14 +2,18 @@
 title: 'Netzwerk'
 description: |
   'Gemäss den Projektzielen sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.'
-author: natursc
 date: 2014-01-22
+
 
 output:
   distill::distill_article:
     self_contained: false
 canonical: /ueber-uns/23-organigramm
+params:
+  rmdpath: _ueber-uns/23-organigramm/23-organigramm.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
+
 
 
 
@@ -104,5 +108,11 @@ Forschung
     Wädenswil](http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html)
 -   [Forschungsgruppe Geoinformatik der ZHAW
     Wädenswil](http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html)
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/ueber-uns/23-organigramm-->

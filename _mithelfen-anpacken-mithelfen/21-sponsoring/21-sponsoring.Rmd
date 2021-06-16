@@ -2,17 +2,27 @@
 title: 'Sponsoring'
 description: |
   'Spenden Sie zugunsten von Wiesel & Co am Zimmerberg! CHF 60.- für ein Iltis Winterquartier (Kosten von Strohballen u.a.) CHF 100.- für Bau und Ausstattung eines Spurentunnels CHF 200.- für eine Hecke, die Wiesel & Co Schutz bieten (10m Länge, Kosten für Sträucher aus Forstbaumschule) Unsere Spendenkonto-Verbindung lautet IBAN CH76 0900 0000 6138 1148 0 Naturschutz Wädenswil, Wieselprojekt, 8820 Wädenswil   Treten Sie als Sponsor unseres gemeinnützigen Projekts auf! Es gibt noch freien Platz auf unseren zukünftigen Drucksachen und Werbemöglichkeiten im Rahmen unserer Öffentlichkeitsarbeit! Ein Sponsoring von Wiesel & Co kann auch für Sie Vorteile haben. Auf Anfrage zeigen wir Ihnen diese gerne auf.'
-author: natursc
 date: 2014-01-30
+
 
 output:
   distill::distill_article:
     self_contained: false
 canonical: /mithelfen-anpacken/mithelfen/21-sponsoring
+params:
+  rmdpath: _mithelfen-anpacken-mithelfen/21-sponsoring/21-sponsoring.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
 
 
 
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/mithelfen-anpacken/mithelfen/21-sponsoring-->

@@ -2,17 +2,27 @@
 title: 'Ihr Team in Aktion'
 description: |
   'Im Winterhalbjahr bietet Wiesel & Co am Zimmerberg Aktionstage exklusiv für Teams an.  Für Gruppen (z.B. Mitarbeiter von Unternehmen), die Ihre Gemeinschaft einmal anders erleben möchten, bietet die tatkräftige Lebensraumaufwertung im Bezirk Horgen eine ideale Gelegenheit. Wir gehen auf Ihre Bedürfnisse ein und finden für Ihr Team den geeigneten Aktionsort. Erfahren sie hier mehr, welche Gründe für das Angebot von Wiesel & Co am Zimmerberg sprechen. '
-author: wilderstefan
 date: 2016-04-08
+preview: Team_in_Aktion_WiCoZ.JPG
 image_intro: images/dokumente/Team_in_Aktion_WiCoZ.JPG
 output:
   distill::distill_article:
     self_contained: false
 canonical: /mithelfen-anpacken/mithelfen/75-teamtraining-mit-wiesel-co-am-zimmerberg-2
+params:
+  rmdpath: _mithelfen-anpacken-mithelfen/75-teamtraining-mit-wiesel-co-am-zimmerb/75-teamtraining-mit-wiesel-co-am-zimmerb.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/dokumente/Team_in_Aktion_WiCoZ.JPG) <!--image_intro-->
 
 
+
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/mithelfen-anpacken/mithelfen/75-teamtraining-mit-wiesel-co-am-zimmerberg-2-->

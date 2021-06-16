@@ -2,18 +2,23 @@
 title: 'Gross-Strukturen im Bereich von Gittermasten'
 description: |
   'Eine extensiv bewirtschaftete Fläche ab einer Are Grundfläche, die mit mindestens 2 unterschiedlichen Deckungstypen strukturiert ist, kann gemäss unserem Bonus-System als Gross-Struktur gelten. Oftmals sind nicht nur ökologische, sondern auch betriebswirtschaftliche Aspekte entscheidend, ob solch eine Massnahme realisiert werden kann. Wo bereits Bewirtschaftungshindernisse bestehen, wird die Anlage aus der betrieblichen Sicht eher gutgeheissen. Unser Ziel sind solche Pilotmassnahmen nach folgendem Prinzip: '
-author: natursc
 date: 2016-01-09
+preview: 2021-03-02_100045_1000px.jpg
 image_intro: images/bilder/Gross-Struktur/2021-03-02_100045_1000px.jpg
 image_fulltext: images/bilder/Gross-Struktur/2020-11-18_115141_1500px.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/massnahmen/132-gross-struktur
+params:
+  rmdpath: _projekt-massnahmen/132-gross-struktur/132-gross-struktur.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/Gross-Struktur/2021-03-02_100045_1000px.jpg) <!--image_intro-->
-![](images/bilder/Gross-Struktur/2020-11-18_115141_1500px.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('2020-11-18_115141_1500px.jpg', error = FALSE) #images/bilder/Gross-Struktur/2020-11-18_115141_1500px.jpg
+```
 
 **Eine extensiv bewirtschaftete Fläche ab einer Are Grundfläche, die mit
 mindestens 2 unterschiedlichen Deckungstypen strukturiert ist, kann
@@ -54,5 +59,11 @@ Natura](https://www.pronatura.ch/de/gelbbauchunken-unter-strommasten).
  
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/massnahmen/132-gross-struktur-->

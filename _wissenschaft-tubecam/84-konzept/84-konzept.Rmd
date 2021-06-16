@@ -2,17 +2,27 @@
 title: 'Konzept'
 description: |
   ' Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! '
-author: natursc
 date: 2017-03-05
+
 
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/tubecam/84-konzept
+params:
+  rmdpath: _wissenschaft-tubecam/84-konzept/84-konzept.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
 
 
 
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/tubecam/84-konzept-->

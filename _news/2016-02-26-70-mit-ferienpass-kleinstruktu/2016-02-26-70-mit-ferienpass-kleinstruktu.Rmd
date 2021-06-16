@@ -2,18 +2,23 @@
 title: 'Mit Ferienpass Unterschlupf bauen'
 description: |
   'SchülerInnen der 4.-9 Klassen von Wädenswil sind im Rahmen des Ferienpass eingeladen, einen spannenden Tag im Sagenholz zu erleben. Wir werden uns mit Handsägen ausgerüstet in ein Waldstück am Aabach begeben und den dortigen Lebensraum der Kleinraubtiere aufwerten. Natürlich können wir zusammen so einiges über die faszinierenden Kleinraubtierarten Hermelin, Mauswiesel und Iltis erfahren.'
-author: wilderstefan
 date: 2016-02-26
+preview: IMG_0209_0.2.jpg
 image_intro: images/fotos/2015_03_14-15_Aktionstage/IMG_0209_0.2.jpg
 image_fulltext: images/Wirkungskontrolle/Iltis_Steinweid_Ah3.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/70-mit-ferienpass-kleinstrukturen-bauen
+params:
+  rmdpath: _news/2016-02-26-70-mit-ferienpass-kleinstruktu/2016-02-26-70-mit-ferienpass-kleinstruktu.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/2015_03_14-15_Aktionstage/IMG_0209_0.2.jpg) <!--image_intro-->
-![](images/Wirkungskontrolle/Iltis_Steinweid_Ah3.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('Iltis_Steinweid_Ah3.jpg', error = FALSE) #images/Wirkungskontrolle/Iltis_Steinweid_Ah3.jpg
+```
 
 **SchülerInnen der 4.-9 Klassen von Wädenswil sind im Rahmen des
 Ferienpass eingeladen, einen spannenden Tag mit Wiesel & Co am
@@ -36,5 +41,11 @@ freuen uns auf junge Menschen, die einen aktiven und respektvollen Tag
 im Wald erleben möchten! 
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/14-news/70-mit-ferienpass-kleinstrukturen-bauen-->

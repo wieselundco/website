@@ -2,14 +2,18 @@
 title: 'Projektziel'
 description: |
   'Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.'
-author: natursc
 date: 2017-03-05
+
 
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/tubecam/83-projektziel
+params:
+  rmdpath: _wissenschaft-tubecam/83-projektziel/83-projektziel.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
+
 
 
 
@@ -32,5 +36,11 @@ der heute gängigen Praxis (Spurentunnel) folgende Vorteile aufweist:
 -   Höhere Datenqualität und grössere Wissensausbeute
 -   Tierschutzgerecht
 -   Ermöglicht zuverlässige Datenerhebung und -auswertung durch Laien
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/tubecam/83-projektziel-->

@@ -2,19 +2,30 @@
 title: 'Erste Möglichkeiten zum Mitwirken im Winter 2017'
 description: |
   'Heuer feiern wir einen der kältesten Januare seit Messbeginn. Dies sorgt einerseits für kalte Ohren, aber auch für beste Verhältnisse zur bodenschonenden Holzerei. Und auch das weisse Winterfell des Hermelins kann seine volle  Wirkung entfalten.  Wir vom Projekt Wiesel & Co am Zimmerberg erfreuen uns ob dem anfallenden Astmaterial und errichten an ausgewählten Standorten Asthaufen, so dass die Kleinraubtiere schützende Orte zum Versteck und zur Jungenaufzucht finden. Die ersten beiden Aktionstage finden an den Samstagen vom 4. und 11. Februar statt.  Wir freuen uns über ihr Mitwirken bei der Aufwertung dieser Naturräume! Einladung Aktionstag Ausee Samstag 4. Februar Einladung Aktionstag Im Moos (Schönenberg) Samstag 11. Februar'
-author: wilderstefan
 date: 2017-01-26
+preview: natur-portrait.de-daniel_hoeher.jpg
 image_intro: images/bilder/arten/natur-portrait.de-daniel_hoeher.jpg
 image_fulltext: images/bilder/arten/natur-portrait.de-daniel.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /14-news/29-erste-moeglichkeiten-zum-mitwirken-im-winter-2017
+params:
+  rmdpath: _news/2017-01-26-29-erste-moeglichkeiten-zum-mi/2017-01-26-29-erste-moeglichkeiten-zum-mi.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/arten/natur-portrait.de-daniel_hoeher.jpg) <!--image_intro-->
-![](images/bilder/arten/natur-portrait.de-daniel.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('natur-portrait.de-daniel.jpg', error = FALSE) #images/bilder/arten/natur-portrait.de-daniel.jpg
+```
 
 
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/14-news/29-erste-moeglichkeiten-zum-mitwirken-im-winter-2017-->

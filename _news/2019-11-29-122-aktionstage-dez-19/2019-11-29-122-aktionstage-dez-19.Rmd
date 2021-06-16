@@ -2,17 +2,27 @@
 title: 'Einladung zu Aktions-Samstagen 7. & 14. Dezember'
 description: |
   'Am 7. Dezember sind Sie herzlich zum Mitwirken eingeladen auf den Hirzel, am 14. Dezember nach Wädenswil:  Sa 7. Dezember ab 9.15 Uhr, Chrutzelenmoos(FINDET STATT, ES SIND NUR WENIGE REGENTROPFEN PROGNOSTIZIERT):Zum ersten Mal gibt es die Möglichkeit, sich im Zusammenhang mit einer Feldscheunensanierung zu engagieren und informieren. Und zwar werden wir an diesem Tag für die Vorbereitungen zur Instandstellung einer Hütte sorgen, die früher der Einlagerung von gestochenem Torf diente. Im gleichen Zug bauen wir einen Unterschlupf für Wiesel & Co. DOWNLOAD DETAILS AKTIONSTAG CHRUTZELENMOOS, HIRZEL  Sa 14. Dezember ab 9.35 Uhr, Büelenebnet: WETTER HERBSTLICH - AKTIONSTAG FINDET STATTUnweit oberhalb dem Wädenswiler Siedlungsraum beginnt die Rietlandschaft. Wo bis vor 100 Jahren die alte Büelenebnetstrasse entlang einem Wassergraben führte, befindet sich heute ein naturnahes Stück Land von ca. 1/3 ha Grösse. Das Feldgehölz wird heute dominiert von Hasel & Hartriegel. Mit unserem Pflegeeingriff und einer Pflanzung möchten wir die Arten- und Strukturvielfalt erhöhen. DOWNLOAD DETAILS AKTIONSTAG BÜELENEBNET, WÄDENSWIL Um die Organisation des jeweils offerierten Zmittags zu vereinfachen, ist vorgängig eine Anmeldung erwünscht an keller@wieselundco.ch.  Wir freuen uns auf Ihr Mitwirken! ...und wenn Sie an diesen Tagen verhindert sind, so merken Sie sich bitte den 22. Februar 2020 vor.'
-author: natursc
 date: 2019-11-29
+preview: IMG_0130_02_schmal.jpg
 image_intro: images/fotos/diverse/IMG_0130_02_schmal.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /2-uncategorised/122-aktionstage-dez-19
+params:
+  rmdpath: _news/2019-11-29-122-aktionstage-dez-19/2019-11-29-122-aktionstage-dez-19.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/diverse/IMG_0130_02_schmal.jpg) <!--image_intro-->
 
 
+
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/2-uncategorised/122-aktionstage-dez-19-->

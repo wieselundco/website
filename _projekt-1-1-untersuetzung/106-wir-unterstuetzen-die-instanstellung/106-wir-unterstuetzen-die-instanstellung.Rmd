@@ -2,18 +2,23 @@
 title: 'Feldscheunen in Stand stellen'
 description: |
   'Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt, so dass sie zerfallen. Der Erhalt von schützenswerten Feldscheunen wird deshalb ideell und finanziell unterstützt werden. Eine Ausstattung mit Winterquartieren oder Kombination mit anderen Massnahmen-Typen ist unter Umständen ebenfalls erwünscht! Sie besitzen oder wissen von Feldscheunen mit Sanierungsbedarf bzw. ökologischem Aufwertungspotential? Hier finden Sie die Rahmenbedingungen und Kontaktangaben.'
-author: natursc
 date: 2016-01-09
+preview: Feldscheune_SonnenwegHorgen.jpg
 image_intro: images/bilder/Feldscheunen/Feldscheune_SonnenwegHorgen.jpg
 image_fulltext: images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/1-1-untersuetzung/106-wir-unterstuetzen-die-instanstellung-von-feldscheunen-2
+params:
+  rmdpath: _projekt-1-1-untersuetzung/106-wir-unterstuetzen-die-instanstellung/106-wir-unterstuetzen-die-instanstellung.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/Feldscheunen/Feldscheune_SonnenwegHorgen.jpg) <!--image_intro-->
-![](images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('Feldscheune_Rinderweid.jpg', error = FALSE) #images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg
+```
 
 **Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr
 unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt und sie
@@ -65,5 +70,11 @@ Zimmermann/Holzbearbeiter zu werben. Als Gegenleistung ist vorgesehen,
 dass die Holzbaufirmen 10% der Sanierungskosten z.B. in Form von
 Eigenleistung übernehmen können, womit der Besitzer nur noch zu 40% der
 Aufwände aufkommen muss.
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/1-1-untersuetzung/106-wir-unterstuetzen-die-instanstellung-von-feldscheunen-2-->

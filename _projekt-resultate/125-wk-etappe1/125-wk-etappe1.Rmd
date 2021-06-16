@@ -2,18 +2,23 @@
 title: 'Systematische Wirkungskontrolle, Etappe 1von2'
 description: |
   'Entsprechend unseren Projektzielen wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem Patch- und Vernetzungsplan auf den schematischen Korridoren liegen. Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. Aus den Jahresberichten geht hervor, dass wir an ca. 2 von 3 Standorten der "spontanen Wirkungskontrolle" [Zusammenfassung von 2015/16] die Zielarten Hermelin und/oder Iltis nachweisen konnten.  Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1von2.'
-author: natursc
 date: 2020-01-06
+preview: steinmarder_wq_Oberfelsen.jpg
 image_intro: images/fotos/Fotofallenbilder/systematische-WK_Etappe1/steinmarder_wq_Oberfelsen.jpg
 image_fulltext: images/fotos/Fotofallenbilder/systematische-WK_Etappe1/RCNX0029.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/125-wk-etappe1
+params:
+  rmdpath: _projekt-resultate/125-wk-etappe1/125-wk-etappe1.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/Fotofallenbilder/systematische-WK_Etappe1/steinmarder_wq_Oberfelsen.jpg) <!--image_intro-->
-![](images/fotos/Fotofallenbilder/systematische-WK_Etappe1/RCNX0029.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('RCNX0029.jpg', error = FALSE) #images/fotos/Fotofallenbilder/systematische-WK_Etappe1/RCNX0029.jpg
+```
 
 **Entsprechend [unseren
 Projektzielen](http://www.wieselundco.ch/images/dokumente/beschrieb_umsetzungsphase/WiCoZ_Phase_2_Projektbeschrieb.pdf)
@@ -100,5 +105,11 @@ style="font-size: 12.16px;">{gallery}fotos/Fotofallenbilder/systematische-WK\_Et
  
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/125-wk-etappe1-->

@@ -2,18 +2,23 @@
 title: 'Streuhütte im Hinterbergried steht wieder auf dem Trockenen'
 description: |
   'Sanierungsetappe 2 der Streuhütte im Hinterbergried: Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung. '
-author: natursc
 date: 2017-10-22
+preview: Hinterberg_Sanierung_5.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/Hinterberg_Sanierung_5.jpg
 image_fulltext: images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/2017-10-22/20.00.47.jpeg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/101-feldscheunen-sanierung-2017-10
+params:
+  rmdpath: _projekt-resultate/101-feldscheunen-sanierung-2017-10/101-feldscheunen-sanierung-2017-10.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/Hinterberg_Sanierung_5.jpg) <!--image_intro-->
-![](images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/2017-10-22/20.00.47.jpeg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('20.00.47.jpeg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/2017-10-22/20.00.47.jpeg
+```
 
 **Sanierungsetappe 2 der Streuhütte im Hinterbergried:**
 
@@ -48,5 +53,11 @@ auf den Finish. 
 Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
 
 {gallery}fotos/Feldscheunen/Sanierungen/Hinterberg2016\_7/2017-10-22{/gallery}
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/101-feldscheunen-sanierung-2017-10-->

@@ -2,19 +2,30 @@
 title: 'Was unterstützen wir auch finanziell?'
 description: |
   'Unsere Pilot-Massnahme zeigte Erfolg: Die erstellten Asthaufen mit Nistkammer wurden sogleich vom Iltis und dem Hermelin regelmässig besucht! Erstellt wurden sie gemäss dieser Bauanleitung und sind so zweckmässig und anrechenbar nach unserem Bonus-System. Eine solche Struktur kann auch maschinell erstellt werden; wichtig sind letztlich Schutz, Trockenheit und beständiger Hohlraum! Für die kommenden Jahre wollen wir die nützlichen Kleinraubiere mit fünf ausgewählten Massnahmen-Typen fördern. Können solche Elemente auf ihrem Land realisiert werden? Wir unterstützen Sie beratend, tatkräftig und finanziell! Übersicht zu unterstützten Massnahmen mit Rechnungsbeispiel'
-author: natursc
 date: 2016-01-09
+preview: finanzielle_unterstuetzung.png.PNG
 image_intro: images/bilder/diverse/finanzielle_unterstuetzung.png.PNG
 image_fulltext: images/bilder/diverse/finanzielle_unterstuetzung.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterstuetzen
+params:
+  rmdpath: _projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/60-massnahmen-die-wir-finanziell-unterst.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/diverse/finanzielle_unterstuetzung.png.PNG) <!--image_intro-->
-![](images/bilder/diverse/finanzielle_unterstuetzung.png) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('finanzielle_unterstuetzung.png', error = FALSE) #images/bilder/diverse/finanzielle_unterstuetzung.png
+```
 
 
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterstuetzen-->

@@ -2,16 +2,20 @@
 title: 'Spannende Kurzfilme'
 description: |
   'Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl faszinierender Kurzfilme von Kleinraubtieren!'
-author: natursc
 date: 2014-05-21
+preview: youtube.jpg
 image_intro: images/bilder/nahrung/youtube.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme
+params:
+  rmdpath: _faszination-kleinraubtiere-unsere-leitarten/41-spannende-kurzfilme/41-spannende-kurzfilme.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/nahrung/youtube.jpg) <!--image_intro-->
+
+
 
 **Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als
 tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl
@@ -32,5 +36,11 @@ Auch das Mauswiesel hat Beute gewittert:
  
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme-->

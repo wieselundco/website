@@ -2,18 +2,23 @@
 title: 'Hecken- und Waldrandaufwertungen'
 description: |
   'Hecken und Ufergehölze sind vielerorts die wichtigsten Deckungsstrukturen für Kleinraubtiere und unzählige andere Wildtiere. Zugleich bieten sie auch einen unverzichtbaren Teillebensraum z.B. als Nahrungsquelle und Wanderkorridore. Ufergehölze sind oftmals die einzigen weiltläufigen und wirkungsvollen Vernetzungselemente in der Zimmerberglandschaft. Gestufte und gebuchtete Waldränder bilden enorm wichtige Übergangslebensräume zwischen Wald und Offenland. Natürlich engagiert sich Wiesel & Co am Zimmerberg beratend und tatkräftig für den Erhalt, die Aufwertung und die Neuanlage solcher Gehölze. Greifen auch Sie gerne auf unser Knowhow zurück! Bis Mitte 2020 können wir diese Dienstleistung kostenlos anbieten. Das Angebot gilt nicht nur für Hecken in der Landwirtschaft, sondern auch für private oder öffentliche Anlagen mit Anschluss an Wildtierlebensräume. Folgend wird ein Beispiel einer Heckenpflege fotografisch vorgestellt. Ausserdem steht ein wertvolles Dossier rund um die Thematik von Hecken und Waldrändern zum Download bereit.'
-author: wilderstefan
 date: 2014-04-04
+preview: 03_rietwies_red.jpg
 image_intro: images/Workshops_Kurstage/Heckenpflege/03_rietwies_red.jpg
 image_fulltext: images/Workshops_Kurstage/Heckenpflege/1Heckenlandschaft_bei_Almens.JPG
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/massnahmen/107-hecken-und-waldrandaufwertungen
+params:
+  rmdpath: _projekt-massnahmen/107-hecken-und-waldrandaufwertungen/107-hecken-und-waldrandaufwertungen.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/Workshops_Kurstage/Heckenpflege/03_rietwies_red.jpg) <!--image_intro-->
-![](images/Workshops_Kurstage/Heckenpflege/1Heckenlandschaft_bei_Almens.JPG) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('1Heckenlandschaft_bei_Almens.JPG', error = FALSE) #images/Workshops_Kurstage/Heckenpflege/1Heckenlandschaft_bei_Almens.JPG
+```
 
 **Hecken und Ufergehölze sind vielerorts die wichtigsten
 Deckungsstrukturen für Kleinraubtiere und unzählige andere Wildtiere.
@@ -76,5 +81,11 @@ so ziemlich alles relevante bzgl. Hecken und Waldrändern in der
 Landschaft.
 
  
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/massnahmen/107-hecken-und-waldrandaufwertungen-->

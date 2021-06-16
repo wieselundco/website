@@ -2,17 +2,27 @@
 title: 'Exkursion "Wiesel & Co ziehen Bilanz" am 25. April 2021..!'
 description: |
   'Es freut uns sehr, dass vor Projektabschluss noch ein letzter gemeinsamer Austausch mit einer Exkursion und anschliessendem Zmittag möglich ist! -> am Sonntag, 25. April, 9.30 bis ca. 12 Uhr am Wädenswiler Berg   Wir werden allen Typen von Lebensraum-Massnahmen begegnen, die unser Projekt «Wiesel & Co am Zimmerberg» zum Ziel hat. Seit 2014 wurden mehr als 450 Klein- und Grossstrukturen realisiert und acht Streuhütten in Stand gestellt. Was bewog die Landwirte sich zu beteiligen und wie haben die Kleinraubtiere auf die Aufwertungen angesprochen? Die gewonnenen Erkenntnisse sollen auch einen Blick für die Zukunft ermöglichen. Die Einladung richtet sich an alle beteiligten Sektoren: interessierte Bevölkerung, Landwirtschaft, Behörden, Jagd, Naturschutz, Forschung & Planung etc. Wir freuen uns über eine rege Beteiligung an diesem finalen Informationsaustausch! Aufgrund den herrschenden Einschränkungen ist eine Anmeldung für die Exkursion und den anschliessenden, optionalen Zmittag vorausgesetzt - Teilnehmerzahl auf 42 beschränkt. Anmeldeschluss Do 22.4 um 10 Uhr. Details im Anmeldeformular. Der Plan für den Rückweg kann hier heruntergeladen werden. Auf Wiedersehen am Wädenswiler Berg!   Die Präsenzveranstaltung mit Berichterstattungen und Podiumsdiskussion am 20. März konnte leider nicht stattfinden. Schade, denn Wiesel & Co am Zimmerberg befindet sich im 7ten und letzten Jahr und wird ab Mitte 2021 nicht mehr in dieser Form aktiv sein. Um die Erkenntnisse dennoch lustvoll zu vermitteln und einen Ausblick zu wagen, werden als Ersatz für die Präsenzveranstaltungen kurze Videos geschnitten. Dazu durften wir bereits mit 15 Beteiligten ein Interview führen. Sie dürfen mit uns gespannt sein, wie die Publikation auf unserer Website bzw. via Newsletter ausschauen wird. '
-author: natursc
 date: 2021-03-14
+preview: ExkRaum_MnKarte-sehr-hoch.jpg
 image_intro: images/bilder/diverse/ExkRaum_MnKarte-sehr-hoch.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /2-uncategorised/128-wicoz-bilanz
+params:
+  rmdpath: _news/2021-03-14-128-wicoz-bilanz/2021-03-14-128-wicoz-bilanz.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/diverse/ExkRaum_MnKarte-sehr-hoch.jpg) <!--image_intro-->
 
 
+
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/2-uncategorised/128-wicoz-bilanz-->

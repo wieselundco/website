@@ -2,18 +2,23 @@
 title: 'Monitoring der Kleinmusteliden in der Schweiz (CSCF)'
 description: |
   'Die kleineren Vertreter der Musteliden (Marderartigen) sind eine Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz relativ wenig bekannt ist. Es handelt sich dabei um das Mauswiesel, das Hermelin und der Iltis, die alle seit 1988 gemäss Bundesgesetz über die Jagd geschützt sind. Damit fallen die früher über die Jagd und den Fang für diese Arten anfallenden Daten weg, die bei einer Beurteilung hilfreich sein können. Mit einem gesamtschweizerischen Monitoring soll deshalb Vorkommen dieser Arten besser erfasst und dokumentiert werden.'
-author: natursc
 date: 2017-03-05
+preview: CSCF.png
 image_intro: images/bilder/00_Wissenschaft/03_extern/CSCF.png
 image_fulltext: images/bilder/00_Wissenschaft/03_extern/CSCF.png
 output:
   distill::distill_article:
     self_contained: false
 canonical: /wissenschaft/externe-projekte/87-monitoring-der-kleinmusteliden-in-der-schweiz-cscf
+params:
+  rmdpath: _wissenschaft-externe-projekte/87-monitoring-der-kleinmusteliden-in-der/87-monitoring-der-kleinmusteliden-in-der.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/bilder/00_Wissenschaft/03_extern/CSCF.png) <!--image_intro-->
-![](images/bilder/00_Wissenschaft/03_extern/CSCF.png) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('CSCF.png', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/CSCF.png
+```
 
 **Die kleineren Vertreter der Musteliden (Marderartigen) sind eine
 Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz
@@ -53,5 +58,11 @@ die 8 bearbeiteten Gebiete.
 
 (direkt übernommen aus: Capt & Marchesi (2010): Monitoring der
 Kleinmusteliden in der Schweiz. Resultate der Erhebungen von 2010)
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/87-monitoring-der-kleinmusteliden-in-der-schweiz-cscf-->

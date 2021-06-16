@@ -2,19 +2,30 @@
 title: 'Einladung zum Strukturenbau am 14. April'
 description: |
   'Am Samstag 14. April ab 10.15 Uhr nehmen wir uns u.a. der Herausforderung "Zugerstrasse" an. Durchschnittlich 17'000 Fahrzeuge verkehren täglich über die Hirzel Passstrasse. Da u.a. Kleinraubtiere gelegentlich die Strasse  queren müssen, versuchen wir Deckungsmöglichkeiten entlang der Strasse zu schaffen. Somit haben sie eine Alternative zur "Flucht nach vorne", wenn ein Fahrzeug naht.  Der Landwirt in der Kräh (Horgen) freut sich aber auch über tatkräftige Unterstützung, um die nützlichen Mäusejäger mittels Strukturenbau näher an die "geplagten" Wiesen heranzuführen.   Damit wir den Aktiven einen Zmittag offerieren können, ist eine Anmeldung bis 12. April erwünscht.  DOWNLOAD DETAILS AKTIONSTAG KRÄH HORGEN'
-author: natursc
 date: 2017-02-15
+preview: P9200016_red.jpg
 image_intro: images/fotos/diverse/P9200016_red.jpg
 image_fulltext: images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /2-uncategorised/111-strukturenbau-14-april
+params:
+  rmdpath: _news/2017-02-15-111-strukturenbau-14-april/2017-02-15-111-strukturenbau-14-april.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/diverse/P9200016_red.jpg) <!--image_intro-->
-![](images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('18_Ausee.jpg', error = FALSE) #images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/18_Ausee.jpg
+```
 
 
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/2-uncategorised/111-strukturenbau-14-april-->

@@ -2,18 +2,23 @@
 title: 'Impressionen von den Dezember-Aktionen'
 description: |
   'Zeit für Impressionen von unseren Aktionstagen!Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. Die Aktionstage im Dezember waren wieder abwechslungsreich... Sehen Sie selbst:'
-author: natursc
 date: 2019-12-21
+preview: 2019-12-07_134428_red.jpg
 image_intro: images/fotos/diverse/2019-12-07_134428_red.jpg
 image_fulltext: images/fotos/Aktionstage_Dez_2019/z-buelenebnet_55.jpg
 output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/124-souvenir-dez-2019
+params:
+  rmdpath: _projekt-resultate/124-souvenir-dez-2019/124-souvenir-dez-2019.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-![](images/fotos/diverse/2019-12-07_134428_red.jpg) <!--image_intro-->
-![](images/fotos/Aktionstage_Dez_2019/z-buelenebnet_55.jpg) <!--image_fulltext-->
+
+```{r , echo = FALSE}
+knitr::include_graphics('z-buelenebnet_55.jpg', error = FALSE) #images/fotos/Aktionstage_Dez_2019/z-buelenebnet_55.jpg
+```
 
 **Zeit für Impressionen von unseren Aktionstagen!**  
 **Schliesslich folgen auf all die Einladungen jeweils gefreute
@@ -50,5 +55,11 @@ Folgend die Impressionen, welche z.T. Volker Jäger beisteuerte - vielen
 Dank dafür!
 
 {gallery}fotos/Aktionstage\_Dez\_2019{/gallery}
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
 
 <!--http://wieselundco.ch/projekt/resultate/124-souvenir-dez-2019-->
