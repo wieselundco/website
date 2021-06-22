@@ -1,4 +1,4 @@
 ---
-title: "Ausgangslage-und-Ziele"
+title: "Ausgangslage und Ziele"
 listing: projekt-ausgangslage
 ---
