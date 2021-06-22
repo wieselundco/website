@@ -14,24 +14,15 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-
-
-
-**Vor einigen Jahren konnte Familie Baruffol in Kilchberg mehrere Wiesel
-sichten. Lesen Sie selbst die Geschichte einer erstaunlichen Beobachtung
-von Wieseln.**
-
-------------------------------------------------------------------------
-
 Wiesel und Co, Interview mit Martha Baruffol, Kilchberg  
   
 Martha Baruffol, Wann haben Sie die Wiesel erstmals beobachtet?  
   
 *Das war vor gut 25 Jahren. Damals spielte noch unsere ganze Familie
-Tennis. Wir waren also oft  im Gebiet Chirchmoos dort wo auch die
+Tennis. Wir waren also oft  im Gebiet Chirchmoos dort wo auch die
 Tennisplätze sind.*
 
-{vsig}fotos/2014\_01\_27\_Gemischtes\_Doppel{/vsig}
+<!-- {vsig}fotos/2014\_01\_27\_Gemischtes\_Doppel{/vsig} -->
 
 {vsig\_c}0|Frau\_Baruffol.jpg|Frau Baruffol zeigt die Wasser-Rinne wo
 die Wiesel herauskamen|{/vsig\_c}
@@ -43,7 +34,7 @@ Wie genau haben sich die Wiesel gezeigt?
   
 *Während die Kinder Tennis spielten, lugten plötzlich die Köpfchen von
 drei kleinen Wieseln aus der Wasserrinne am Rand des Spielfelds. Sie
-sprangen hinaus und hinein und  rannten auf dem Platz den Bällen nach.
+sprangen hinaus und hinein und  rannten auf dem Platz den Bällen nach.
 Es waren drei kleinere, also Junge und ein oder zwei Erwachsene.*
 
   
@@ -75,7 +66,7 @@ noch viele vergnügliche „gemischte Doppel“.
   
 Interview: Susanne Heusser
 
- 
+ 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
