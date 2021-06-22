@@ -14,28 +14,18 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-
-
-
-**Bilder sagen bekanntlich mehr als tausend Worte. Sagen Filme mehr als
-tausend Bilder? Überzeugen Sie sich selbst in dieser Auswahl
-faszinierender Kurzfilme von Kleinraubtieren!  
-  
 Nebst den untenstehenden Sequenzen gibt es auch fortlaufend regionale
 Wiesel-Filmchen auf unserem
 [youtube-Kanal](https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ/videos).**
 
-------------------------------------------------------------------------
 
- Unglaublich, was ein Hermelin an Beute machen kann!
+Unglaublich, was ein Hermelin an Beute machen kann!
 
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HNbqvqf3-14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Auch das Mauswiesel hat Beute gewittert:
 
- 
-
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U7Y_oMRnAy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

@@ -15,37 +15,26 @@ params:
 ---
 
 
+<!-- {vsig} bilder/verwandschaft{/vsig} -->
 
+<!-- {vsig\_c}1|1\_Mustela\_nivalis\_1.jpg|Mauswiesel|*Mustela -->
+<!-- nivalis*{/vsig\_c} -->
 
-**Zu den in der Schweiz lebenden Vertretern der Familie der
-Marderartigen (Mustelidae) gehören nebst unseren Zielarten Hermelin
-(Mustela erminea), Mauswiesel (Mustela nivalis) und Iltis (Mustela
-putorius) auch der Dachs (Meles meles), der Steinmarder (Martes foina)
-und der Baummarder (Martes martes). In der Schweiz ausgestorbenen sind
-Fischotter (Lutra lutra) und Europäischer Nerz (Mustela lutreola).**
+<!-- {vsig\_c}1|1\_Mustela\_nivalis\_2.jpg|Mauswiesel|*Mustela -->
+<!-- nivalis*{/vsig\_c} -->
 
-------------------------------------------------------------------------
+<!-- {vsig\_c}1|1\_Mustela\_nivalis\_3.jpg|Mauswiesel|*Mustela -->
+<!-- nivalis*{/vsig\_c} -->
 
-{vsig} bilder/verwandschaft{/vsig}
+<!-- {vsig\_c}1|2\_Mustela\_erminea.jpg|Hermelin|*Mustela erminea*{/vsig\_c} -->
 
-{vsig\_c}1|1\_Mustela\_nivalis\_1.jpg|Mauswiesel|*Mustela
-nivalis*{/vsig\_c}
+<!-- {vsig\_c}1|3\_Martes\_martes.jpg|Baummarder|*Martes martes*{/vsig\_c} -->
 
-{vsig\_c}1|1\_Mustela\_nivalis\_2.jpg|Mauswiesel|*Mustela
-nivalis*{/vsig\_c}
+<!-- {vsig\_c}1|4\_Martes\_foina.jpg|Steinmarder|*Martes foina*{/vsig\_c} -->
 
-{vsig\_c}1|1\_Mustela\_nivalis\_3.jpg|Mauswiesel|*Mustela
-nivalis*{/vsig\_c}
+<!-- {vsig\_c}1|5\_Mustela\_putorius.jpg|Iltis|*Mustela putorius*{/vsig\_c} -->
 
-{vsig\_c}1|2\_Mustela\_erminea.jpg|Hermelin|*Mustela erminea*{/vsig\_c}
-
-{vsig\_c}1|3\_Martes\_martes.jpg|Baummarder|*Martes martes*{/vsig\_c}
-
-{vsig\_c}1|4\_Martes\_foina.jpg|Steinmarder|*Martes foina*{/vsig\_c}
-
-{vsig\_c}1|5\_Mustela\_putorius.jpg|Iltis|*Mustela putorius*{/vsig\_c}
-
-{vsig\_c}1|6\_Meles\_meles.jpg|Dachs|*Meles meles*{/vsig\_c}
+<!-- {vsig\_c}1|6\_Meles\_meles.jpg|Dachs|*Meles meles*{/vsig\_c} -->
 
 Sie alle sind Raubtiere, charakterisiert durch frontal augerichtete
 Augen, einen muskulösen Körper, ihr Gebiss mit Reisszähnen und
@@ -53,8 +42,6 @@ hauptsächlich fleischliche Nahrung.
 
 Können Sie die Bilder den verschiedenen Marderartigen zuordnen? Es sind
 alle in der Schweiz bis anhin überlebenden Arten vertreten.
-
- 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

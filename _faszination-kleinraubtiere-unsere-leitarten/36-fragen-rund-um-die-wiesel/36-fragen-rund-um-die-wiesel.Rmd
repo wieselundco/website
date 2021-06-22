@@ -1,10 +1,8 @@
 ---
 title: 'Frage - Antwort Spiel'
 description: |
-  Wie alt wird ein Hermelin? Was für Geräusche machen Mauswiesel? Teste dein Wissen in diesem spannenden Quiz zu den Wieseln! Klicke hier um den Test durchzuführen. Bist du fertig? Hier sind die richtigen Antworten.
+  Wie alt wird ein Hermelin? Was für Geräusche machen Mauswiesel? Teste dein Wissen in diesem spannenden Quiz zu den Wieseln! 
 date: 2014-05-07
-
-
 output:
   distill::distill_article:
     self_contained: false
@@ -14,10 +12,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-
-
-
-
+Klicke [hier](http://wieselundco.ch/images/dokumente/wiselquiz/Wieselfragen_web.pdf) um den Test durchzuführen. Bist du fertig? [Hier](http://wieselundco.ch/images/dokumente/wiselquiz/Wieselantworten_Web.pdf) sind die richtigen Antworten.
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
