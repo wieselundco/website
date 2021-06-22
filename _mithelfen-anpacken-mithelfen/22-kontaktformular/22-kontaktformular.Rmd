@@ -1,7 +1,7 @@
 ---
 title: 'Kontaktformular'
 description: |
-  'Hier gelangen Sie zum Kontaktformular. Sie können uns auch per eMail oder Post kontaktieren.'
+  Hier gelangen Sie zum Kontaktformular. Sie können uns auch per eMail oder Post kontaktieren.
 date: 2014-01-30
 preview: 1391103200_Blog_Artdesigner.lv.png
 image_intro: images/bilder/icons/contakt_1/1391103200_Blog_Artdesigner.lv.png

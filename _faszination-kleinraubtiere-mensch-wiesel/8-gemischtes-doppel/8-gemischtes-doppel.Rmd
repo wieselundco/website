@@ -1,7 +1,7 @@
 ---
 title: 'Gemischtes Doppel'
 description: |
-  'Vor einigen Jahren konnte Familie Baruffol in Kilchberg mehrere Wiesel sichten. Lesen Sie selbst die Geschichte einer erstaunlichen Beobachtung von Wieseln.'
+  Vor einigen Jahren konnte Familie Baruffol in Kilchberg mehrere Wiesel sichten. Lesen Sie selbst die Geschichte einer erstaunlichen Beobachtung von Wieseln.
 date: 2014-01-27
 preview: Frau_Baruffol.jpg
 image_intro: images/fotos/2014_01_27_Gemischtes_Doppel/Frau_Baruffol.jpg

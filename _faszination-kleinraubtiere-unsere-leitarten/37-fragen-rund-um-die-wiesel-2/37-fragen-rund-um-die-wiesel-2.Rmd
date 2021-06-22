@@ -1,7 +1,7 @@
 ---
 title: 'Finde die Unterschiede'
 description: |
-  'Grosses oder kleines Wiesel, Hermelin oder Mauswiesel? Klicke hier und erkenne die drei wichtigen Unterschiede! Hier findest Du die Lösung.'
+  Grosses oder kleines Wiesel, Hermelin oder Mauswiesel? Klicke hier und erkenne die drei wichtigen Unterschiede! Hier findest Du die Lösung.
 date: 2014-05-07
 
 

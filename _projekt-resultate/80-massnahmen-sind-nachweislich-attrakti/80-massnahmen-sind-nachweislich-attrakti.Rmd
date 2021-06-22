@@ -1,7 +1,7 @@
 ---
 title: 'Massnahmen sind nachweislich attraktiv'
 description: |
-  'Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:'
+  Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:
 date: 2017-01-31
 preview: rebekkaIltis.PNG
 image_intro: images/Wirkungskontrolle/rebekkaIltis.PNG

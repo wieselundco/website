@@ -1,7 +1,7 @@
 ---
 title: 'Braun-weisses Hermelin'
 description: |
-  'Dass die Wiesel wieder im Gebiet der Tennisplätze in Kilchberg anzutreffen sind, zeigen die zwei nachfolgenden Erlebnisse der Schreibenden:'
+  Dass die Wiesel wieder im Gebiet der Tennisplätze in Kilchberg anzutreffen sind, zeigen die zwei nachfolgenden Erlebnisse der Schreibenden:
 date: 2014-01-30
 preview: PICT_20120722_32711.jpg
 image_intro: images/fotos/2014_01_28_braun-weisses_hermelin/PICT_20120722_32711.jpg

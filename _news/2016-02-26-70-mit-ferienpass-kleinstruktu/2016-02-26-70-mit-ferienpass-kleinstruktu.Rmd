@@ -1,7 +1,7 @@
 ---
 title: 'Mit Ferienpass Unterschlupf bauen'
 description: |
-  'SchülerInnen der 4.-9 Klassen von Wädenswil sind im Rahmen des Ferienpass eingeladen, einen spannenden Tag im Sagenholz zu erleben. Wir werden uns mit Handsägen ausgerüstet in ein Waldstück am Aabach begeben und den dortigen Lebensraum der Kleinraubtiere aufwerten. Natürlich können wir zusammen so einiges über die faszinierenden Kleinraubtierarten Hermelin, Mauswiesel und Iltis erfahren.'
+  SchülerInnen der 4.-9 Klassen von Wädenswil sind im Rahmen des Ferienpass eingeladen, einen spannenden Tag im Sagenholz zu erleben. Wir werden uns mit Handsägen ausgerüstet in ein Waldstück am Aabach begeben und den dortigen Lebensraum der Kleinraubtiere aufwerten. Natürlich können wir zusammen so einiges über die faszinierenden Kleinraubtierarten Hermelin, Mauswiesel und Iltis erfahren.
 date: 2016-02-26
 preview: IMG_0209_0.2.jpg
 image_intro: images/fotos/2015_03_14-15_Aktionstage/IMG_0209_0.2.jpg

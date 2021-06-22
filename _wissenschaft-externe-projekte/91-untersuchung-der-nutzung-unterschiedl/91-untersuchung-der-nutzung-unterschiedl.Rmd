@@ -1,7 +1,7 @@
 ---
 title: 'Untersuchung der Nutzung unterschiedlich strukturierter Lebensräume durch Kleinmusteliden und Schläfer'
 description: |
-  'Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich strukturierten Lebensräumen vorkommen. Dabei galt es die Hypothese zu belegen, dass strukturgebundene kleinere Säugetiere in stark fragmentierten und isolierten Lebensräumen oft fehlen.'
+  Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich strukturierten Lebensräumen vorkommen. Dabei galt es die Hypothese zu belegen, dass strukturgebundene kleinere Säugetiere in stark fragmentierten und isolierten Lebensräumen oft fehlen.
 date: 2017-03-05
 preview: engelerpng.png
 image_intro: images/bilder/00_Wissenschaft/03_extern/engelerpng.png

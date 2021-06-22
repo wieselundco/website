@@ -1,7 +1,7 @@
 ---
 title: 'Vernetzungsideen ...'
 description: |
-  'Dem engagierten Personal, das die Garten- und Forschungs-anlage des Campus Grüental der ZHAW in Wädenswil bewirtschaftet, sind nicht nur ökologische Aufwertungen, sondern auch faszinierende Videoaufnahmen gelungen.   Sie zeigen eine interessante Verhaltensweise, die auch schon manch Lokomotivführer in ähnlicher Form gesehen hat.'
+  Dem engagierten Personal, das die Garten- und Forschungs-anlage des Campus Grüental der ZHAW in Wädenswil bewirtschaftet, sind nicht nur ökologische Aufwertungen, sondern auch faszinierende Videoaufnahmen gelungen.   Sie zeigen eine interessante Verhaltensweise, die auch schon manch Lokomotivführer in ähnlicher Form gesehen hat.
 date: 2019-03-05
 preview: 53270766_1997054483750104_9073979648232128512_n.jpg
 image_intro: images/fotos/2019_03_14_Vernetzungsideen_Gruental/53270766_1997054483750104_9073979648232128512_n.jpg

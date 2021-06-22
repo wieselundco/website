@@ -1,0 +1,62 @@
+[
+  {
+    "path": "mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte/",
+    "title": "zur interaktiven Karte",
+    "description": {},
+    "author": [],
+    "date": "2014-05-20",
+    "categories": [],
+    "contents": "\ntitle: ‘zur interaktiven Karte’ description: |\ndate: 2014-05-20\noutput: distill::distill_article: self_contained: false canonical: /mithelfen-anpacken/beobachtung/39-zur-interaktiven-karte params: rmdpath: _mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte/39-zur-interaktiven-karte.Rmd editurl: https://github.com/wieselundco/website/edit/master/\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:41:21+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "mithelfen-anpacken-beobachtung/40-zum-kontaktformular/",
+    "title": "zum Kontaktformular",
+    "description": "Email mit Beobachtungsmeldung senden   ",
+    "author": [],
+    "date": "2014-05-20",
+    "categories": [],
+    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:41:19+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "mithelfen-anpacken-beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-/",
+    "title": "Warum hilft meine Beobachtungs-Meldung?",
+    "description": "Verlässliche Daten über die Kleinraubtier-Bestände und ihre Entwicklung fehlen schweizweit. Somit sind selbst die Verbreitungskarten, die das Centre Suisse de Cartographie de la Faune (CSCF) anhand den vorhandenen Daten zeigt, mit Vorsicht zu geniessen. Offensichtlich beeinflussen regionale Erhebungen die zitierten Verbreitungskarten so stark, dass sie ein falsches Abbild der Artvorkommen suggerieren könnten. So resultierte aus einem kürzlich erfolgten Monitoring im Kanton Aargau, dass der Baummarder dort weit verbreitet ist. Vergleichbare Landschaften angrenzender Kantone zeigen hingegen auf der Verbreitungskarte eine auffallend lückige Verbreitung. Das fehlende Wissen über das Vorkommen von Kleinraubtieren wird damit augenfällig. Welche Gründe gibt es dafür?",
+    "author": [],
+    "date": "2014-02-01",
+    "categories": [],
+    "contents": "\nErstens: Das Verhalten.\nDie verschiedenen Kleinraubtierarten begegnen dem Menschen wenig, bedingt u.a. durch folgende Verhaltensweisen:\nZum Teil dämmerungs- und nachtaktiv\nAufenthalt und Fortbewegung oft in Deckung oder in Erdlöchern.\nflinke Fortbewegungsweise\nper se klein, somit auch der Ort für Unterschlupf und ihre Spuren.\nTote Tiere (auch Verkehrsopfer) werden übersehen und rasch von Aasfressern abgeräumt.\n-> Wenn wir auf ihre Sichtung zählen dürfen, erhöht sich die Zahl der registrierten Begegnungen und wir erfahren zumindest am Zimmerberg mehr über die Verbreitung und ansatzweise etwas über die Bestände der Kleinraubtiere.\nZweitens: Die öffentliche Hand kann zu wenig ihrer Verantwortung gegenüber gefährdeten Arten gerecht werden.\nJagd und Schutz der Kleinraubtiere unterstehen laut Gesetz der Jagd- und Fischereiverwaltung des Kantons Zürich. Sie interessiert sich im Wesentlichen für die attraktiven jagdbaren Arten, wozu die Kleinraubtiere nicht zählen.\nEine Aufgabe der Fachstelle für Naturschutz des Kantons Zürich besteht darin, dem Aussterben von Pflanzen- und Tierarten entgegenzuwirken. Angesichts der vielen bedrohten Arten und beschränkten Mittel werden aber momentan vor allem prioritäre Arten mit Aktionsplänen artspezifisch gefördert. Hier kommen Mauswiesel und Iltis zu kurz; Ein Aktionsplan scheint ausser Reichweite obwohl sie auf der Roten Liste erscheinen.\nDie Datenlücken der Kleinraubtier-Bestände dürften mit ein Grund sein dafür, dass ein gezielter Schutzbedarf gemäss der Liste der national prioritären Arten des Bundesamts für Umwelt für Mauswiesel und Iltis als „unsicher“ taxiert wird. Aus dem Text geht zumindest hervor, dass die Aufwertung des Lebensraums von Nöten ist, um den Rückgang der Population abzufangen:\n\nQuelle: Liste der National Prioritären Arten (BAFU 2011)\n-> Mit ihrer Sichtungs-Meldung versuchen wir die Datenlücken zu schliessen um damit den Handlungsbedarf in Bezug auf die Kleinraubtiere zu klären. Die erfassten Meldungen reichen wir regelmässig dem CSCF weiter, ihre persönlichen Daten reichen wir jedoch nicht an Dritte ausserhalb des Projekts Wiesel & Co am Zimmerberg weiter.\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:41:26+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "mithelfen-anpacken-beobachtung/32-eine-beobachtung-melden-2/",
+    "title": "via Mail",
+    "description": "via Mail Bitte Kontaktmöglichkeit angeben, damit wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Es ist für uns sehr hilfreich, wenn wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Wir bitten deshalb um eine Kontaktinformation (Name, Tel. oder eMail). Diese Angaben bleiben bei uns und werde nicht für andere Zwecke missbraucht! Damit wir sichergehen können, dass es sich um eine seriöse Beobachtungsmeldung handelt, brauchen wir ein paar Worte welche die Beobachtung beschreibt. Neben der Tierart brauchen können dies Details zum Kleid (Sommer / Winter), Verhalten, Verlässlichkeit der Bestimmung oder Ähnliches sein. Ausserdem wichtig ist der Sichtungszeitpunkt (ungefähr oder genau) und der Ort: Landschaftsnamen, Beschreibungen oder gar die Koordinaten sind sehr erwünscht.",
+    "author": [],
+    "date": "2014-01-26",
+    "categories": [],
+    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:41:24+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "mithelfen-anpacken-beobachtung/33-eine-beobachtung-melden-3/",
+    "title": "via interaktive Karte",
+    "description": "via interaktive Karte Den gewünschten Ort aufsuchen Zoomen mit Mausrad oder + / -  geografische Namen oder Adressen mit Suchfeld in Kopfzeile finden  Bei Bedarf unter \"Grundkarte\" in Kopfzeile den Kartentyp wechseln In der Kopfzeile rechts oben auf \"Smart Editor\" klicken Die gesichtete Tierart anklicken, wieder loslassen und am gewünschten Ort platzieren. möglichst präzise Angaben und Kontaktmöglichkeit in Maske eintippen. Unter Anlagen können Sie gerne auch ein Bild/Video anhängen. Speichern. Die eigene Sichtungsmeldung verschwindet gleich nach der Erfassung. Sie wird innert einem Monat validiert und danach (ohne ihre Kontaktangaben!) öffentlich angezeigt. Bei den weiteren Farbpunkten auf der Karte handelt es sich ebenfalls um Sichtungsmeldungen. Mit den weiteren Funktionen in der Kopfzeile können Sie übrigens auch Abfragen tätigen und andere Infos anzeigen. Der Layer \"Korridore und Patches\" bildet eine unserer Planungsgrundlagen. ",
+    "author": [],
+    "date": "2014-01-26",
+    "categories": [],
+    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-16T14:41:22+02:00",
+    "input_file": {}
+  }
+]

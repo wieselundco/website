@@ -1,7 +1,7 @@
 ---
 title: 'Projektziel'
 description: |
-  'Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.'
+  Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.
 date: 2017-03-05
 
 

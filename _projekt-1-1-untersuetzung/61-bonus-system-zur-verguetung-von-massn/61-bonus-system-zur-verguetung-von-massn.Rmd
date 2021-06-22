@@ -1,7 +1,7 @@
 ---
 title: 'Bonussystem zur Massnahmen-Realisierung'
 description: |
-  'Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds.  Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.'
+  Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds.  Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.
 date: 2016-01-09
 preview: bonussystem.png
 image_intro: images/bonussystem.png

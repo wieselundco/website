@@ -1,7 +1,7 @@
 ---
 title: 'Feldscheunen in Stand stellen'
 description: |
-  'Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt, so dass sie zerfallen. Der Erhalt von schützenswerten Feldscheunen wird deshalb ideell und finanziell unterstützt werden. Eine Ausstattung mit Winterquartieren oder Kombination mit anderen Massnahmen-Typen ist unter Umständen ebenfalls erwünscht! Sie besitzen oder wissen von Feldscheunen mit Sanierungsbedarf bzw. ökologischem Aufwertungspotential? Hier finden Sie die Rahmenbedingungen und Kontaktangaben.'
+  Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt, so dass sie zerfallen. Der Erhalt von schützenswerten Feldscheunen wird deshalb ideell und finanziell unterstützt werden. Eine Ausstattung mit Winterquartieren oder Kombination mit anderen Massnahmen-Typen ist unter Umständen ebenfalls erwünscht! Sie besitzen oder wissen von Feldscheunen mit Sanierungsbedarf bzw. ökologischem Aufwertungspotential? Hier finden Sie die Rahmenbedingungen und Kontaktangaben.
 date: 2016-01-09
 preview: Feldscheune_SonnenwegHorgen.jpg
 image_intro: images/bilder/Feldscheunen/Feldscheune_SonnenwegHorgen.jpg
