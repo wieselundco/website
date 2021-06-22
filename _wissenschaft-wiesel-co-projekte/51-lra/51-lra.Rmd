@@ -1,7 +1,7 @@
 ---
 title: 'Lebensraumanalyse für den Bezirk Horgen'
 description: |
-  Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.
+  Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.
 date: 2015-03-02
 preview: lra.png
 image_intro: images/bilder/GIS/lra.png
@@ -14,14 +14,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-
-
-
-**Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident
-des Vereins Naturschutz Richterswil - Samstagern und Mitglied der
-Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im
-Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund
-verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. [Das
+[Das
 Resultate kann hier online begutachtet
 werden](https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21).**
 
@@ -30,7 +23,7 @@ werden. Für Rückfragen zur Entstehungsweise und für Ihre Rückmeldungen
 zur Karte kontaktieren Sie bitte Nils Ratnaweera
 ratnaweera@wieselundco.ch.  
   
-**Noch ein Hinweis für die Handhabung der online Karte:**  
+**Noch ein Hinweis für die Handhabung der online Karte:**  
 In der Grundeinstellung werden die Lebensraum-Potentiale aller drei
 Zielarten (Hermelin, Mauswiesel und Iltis) angezeigt. Für eine bessere
 Übersicht clicken Sie unterhalb dem Titel "Lebensraumanalyse" auf Layer,
@@ -38,7 +31,7 @@ und wählen in der Folge die gewünschte Zielart aus. In der Menu-Leiste
 finden Sie zudem einige weitere praktische Einstellungsmöglichkeiten wie
 die Legende.
 
- 
+ 
 
 **Urheberrechtshinweis**
 

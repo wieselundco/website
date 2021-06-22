@@ -20,33 +20,27 @@ params:
 knitr::include_graphics('DSC04639.JPG', error = FALSE) #images/bilder/diverse/DSC04639.JPG
 ```
 
-**<span lang="DE">Um verifizieren, ob unsere [Lebensraumanalyse](LRA)
-die Realität wiederspiegelt haben wir eine studentische Arbeit in unter
-der Obhut der Forschungsgruppe Wildtiermangagement lancieren können.
-Inga Laas Prüft mittels Spurentunnel, ob die Tiere tatsächlich dort
-vorkommen, wo wir sie vermuten.</span>**
 
-<span lang="DE">Mit Spurentunnel werden Trittsiegel von Kleinsäugern
+Mit Spurentunnel werden Trittsiegel von Kleinsäugern
 erfasst. Dabei laufen die Tiere durch einen ca. 1m langen Holztunnel, in
 dessen Mitte ein Tintenkissen integriert ist, und hinterlassen so auf
-einem Papier ihre Spuren. Diese Methode ist spannend und wichtig  für
+einem Papier ihre Spuren. Diese Methode ist spannend und wichtig  für
 das Monitoring von Kleinsäugern. In den Monaten April bis Juni 2015
 wurden im Rahmen einer Arbeit an der Semesterarbeit 49 Spurenfallen in
 der Region Wädenswil/Richterswil auslegen. Dabei halfen zahlreiche
 freiwilligen mit, wöchtentlich die Spurentunnel zu prüfen. Die Kontrolle
 beinhaltete:  
-</span>
+ 
 
-1.  <span lang="DE" style="line-height: 150%;">noch ausreichend Tinte im
-    Spurenkissen ist</span>
-2.  <span lang="DE">das Spurenpapier wechseln und mir schicken (ich
-    übernehme natürlich das Porto)</span>
-3.  <span lang="DE">ob die Falle intakt und ihr Standort sicher/
-    ungestört/ optimal ist.</span>
+1. noch ausreichend Tinte im Spurenkissen ist
+2. das Spurenpapier wechseln und mir schicken (ich
+    übernehme natürlich das Porto) 
+3.   ob die Falle intakt und ihr Standort sicher/
+    ungestört/ optimal ist. 
 
-### <span lang="DE">Rückblick Woche 1 </span>
+### Rückblick Woche 1  
 
-<span lang="DE">Nun ist die erste Woche des Versuchs um und es liegen
+ Nun ist die erste Woche des Versuchs um und es liegen
 wundervolle Frühlingstage hinter uns. Auch wenn bisher noch kein
 Hermelin unsere Tunnel besucht hat, sind wir doch überrascht, wie
 beliebt die Tunnel sind. Das scheint ganz besonders auf die Nagetiere
@@ -61,7 +55,7 @@ werden.
   
 Ein Tunnel hat mit aufregend "haarigen" Spuren überrascht - zuerst
 dachten wir an eine etwas verschmierte Katzenspur. Aber warum waren dort
-noch so viele feine Abdrücke zwischen den Ballen...?  Die Fauna
+noch so viele feine Abdrücke zwischen den Ballen...?  Die Fauna
 Helvetica gibt Aufschluss: Der Baummarder hinterlässt nicht nur einen
 Pfotenabdruck, sein Zehenfell kommt auch noch gleich mit auf den
 Stempel. Ein wichtiges Merkmal, was ihn auch von seinem Artbruder, dem
@@ -73,16 +67,11 @@ Die meisten von Euch haben so niedliche, nicht ganz so kleine Spuren
 entdeckt und es wurde schon die Hoffnung laut, ob das wohl ein Hermelin
 sein möge...Dafür sind sie jedoch zu klein. Wer mag, kann sich beim
 nächsten Einsammeln mal mithilfe der beigelegten Spurensammlung in der
-hohen Kunst des Spurenlesens versuchen!</span>
+hohen Kunst des Spurenlesens versuchen! 
 
- 
-
-**<span lang="DE">Rückblick Woche 2</span>**
-
- 
 
 Die letzte Woche war von wechselhaften bis regnerischen Tagen
-durchzogen, bis der Sonntag schliesslich seinem Namen alle Ehre machte
+durchzogen, bis der Sonntag schliesslich seinem Namen alle Ehre machte
 und die Sonne rauslockte. Seither geht's rund im Tunnelprojekt: Tunnel
 11 und 17 dürfen doch tatsächlich mit HERMELINSPUREN
 aufwarten!Anscheinend ist uns hier das Tier "auf die Tinte gegangen",
@@ -90,16 +79,16 @@ welches just in dieser Region schon gesichtet wurde! Wir hoffen, es
 findet auch diese Woche Gefallen dran, den Tunnel zu besuchen...?!
 
 Apropo Sichtung: Reiter berichteten, in der näheren Umgebung von Tunnel
-5, 8 und 10 ein Hermelin gesichtet zu haben - es leibt also spannend!
+5, 8 und 10 ein Hermelin gesichtet zu haben - es leibt also spannend!
 
 Manche berichten von "Vandalismus" an den Spurenpapieren. Die Blätter
-liegen nicht mehr an ihrem Platz, sondern einige Meter vom Tunnel
+liegen nicht mehr an ihrem Platz, sondern einige Meter vom Tunnel
 entfernt. Weil die Paten die Papiere trotzdem eingesammelt und geschickt
-haben (Danke dafür!), konnte ich es mir mal genauer anschauen. Und wenn
+haben (Danke dafür!), konnte ich es mir mal genauer anschauen. Und wenn
 man ganz genau hinsieht, bemerkt man eine leichte Spur von Schimmer...-
 ja genau! Schneckenschleim. Auch Weichtiere hinterlassen Spuren. Nicht
 zu wenig sogar. Eine Rückfrage bei den Experten ergab: Schnecken fressen
-durchaus die Spurenpapiere an. Anscheinend war hier eine Schnecke auf
+durchaus die Spurenpapiere an. Anscheinend war hier eine Schnecke auf
 der Suche nach Ballaststoffen für eine angeregte Verdauung. Bon Appetit!
 Hoffen wir nur, dass ihr das mit Tannin getränkte Papier gut bekommen
 ist! Ich denke, für die Verschleppung vom Papier sind Wind und Wetter
@@ -108,34 +97,34 @@ verantwortlich.
 Wollen wir zeigen, dass wir da waren, drücken wir den "like-Button" bei
 Facebook, ritzen unseren Namen in die Parkbank (ja, ich weiss, das ist
 auch eine Form von Vandalismus ;-) oder schreiben ganz einfach eine
-Notiz "ich war hier". Aber manche machen\`s anders: Sie erledigen ihr
+Notiz "ich war hier". Aber manche machen\`s anders: Sie erledigen ihr
 Geschäft an Ort und Stelle - z.B. auf dem Dach von Tunnel 31. Das "Ich
-war hier" wird somit zu einer unverkennbaren Geruchsprobe :-). Danke an
+war hier" wird somit zu einer unverkennbaren Geruchsprobe :-). Danke an
 den Tunnelpaten, dass er sich nicht gescheut hat, die Losung mit
-einzupacken.  Leider kann ich keine genaue Kotanalyse liefern, da zum
+einzupacken.  Leider kann ich keine genaue Kotanalyse liefern, da zum
 einen der Geruch zu stark von dem des Tintenbeutels übertüncht wird zum
 anderen die Ressourcen fehlen. Da der Kot jedoch nicht so stark
 strukturiert ist wie beim Iltis, an erhöhter Stelle platziert, wie der
 Steinmarder es gerne tut und Haare enthält wie es beim Baummarder
 vorkommt, tippe ich mal vage auf eine Losung der
-Marderartigen. Verstärkt wird die These dadurch, dass Tunnel 30, der
-in Laufweite liegt, schon von einem Steinmarder besucht wurde. :-)
+Marderartigen. Verstärkt wird die These dadurch, dass Tunnel 30, der
+in Laufweite liegt, schon von einem Steinmarder besucht wurde. :-)
 
-Viele von Euch entdecken Spuren mit 4-5 um einen
-Hauptballen fächerförmig angeordneten Abdrücken oder mit 33 vor dem
+Viele von Euch entdecken Spuren mit 4-5 um einen
+Hauptballen fächerförmig angeordneten Abdrücken oder mit 33 vor dem
 Hauptballen und 2 seitlich des Hauptballens sitzenden Abdrücken. Bei
 diesen Spuren handelt es sich eigentlich immer um Insektenfresser
 (Spitzmäuse) und/oder Nagetiere. Wer seinen Tunnel im Wald hat, und
 solche Spuren trifft, darf davon ausgehen, dass die männliche Waldmaus
-mit ihren riesigen Pranken (und die hat sie relativ gesehen wirklich!
-<span style="text-decoration: underline;">&gt;</span>2cm!) die Lage im
+mit ihren riesigen Pranken (und die hat sie relativ gesehen wirklich!
+ 2cm!) die Lage im
 Tunnel abgecheckt hat.
 
 Am Samstag ist Frühlingsmarkt in Richterswil - wir sind auch da und
 stellen ein paar von den Spurenpapieren und noch viel mehr vor. Kommt
 doch auch!
 
- 
+ 
 
 ### Rückblick Woche 3
 
@@ -150,7 +139,7 @@ erkunden.
 Der starke Regen der letzten Woche führt bei manchen Tunneln zu einem
 förmlichen aufquellen der Tinte. Das ist nicht besorgniserregend,
 sondern normal. Die Zusammensetzung der Tinte soll genau dies bewirken
-und so Austrocknen vermeiden. Deswegen  - bitte seid bei starkem
+und so Austrocknen vermeiden. Deswegen  - bitte seid bei starkem
 Niederschlag lieber sparsam mit dem Nachfülllen der Tinte...Bei manchen
 hat es sogar die Papiere "versaut". Das ist erstmal nicht so schlimm, so
 lange nicht das ganze Papier schwarz angelaufen ist. Einfach mal
@@ -191,7 +180,7 @@ Kulturlandschaft im Zürcher Ober-/Unterland wieder attraktiv zu
 machen...  
 Einen guten Start in die Woche und bis bald!
 
- 
+ 
 
 ### Rückblick Woche 4/5
 
@@ -220,7 +209,7 @@ sein Papier am Rand angenagt vor, von Schneckenschleim aber keine
 Spur...vielleicht ist da auch einfach nur Neugier im Spiel....?  
   
 Die nächsten Tage werden wieder ganz grau und regnerisch. Das Papier
-wird wieder als  Ballaststoffe der Schnecken dienen und mancher
+wird wieder als  Ballaststoffe der Schnecken dienen und mancher
 Tunnelgang wird vielleicht etwas mühsam.  
 Ich hoffe auf ganz schnell wieder ganz gutes Wetter und Danke Euch
 schonmal im Vorab.
