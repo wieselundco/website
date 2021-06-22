@@ -1,7 +1,7 @@
 ---
 title: 'Massnahmen sind nachweislich attraktiv'
 description: |
-  Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:
+  Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:
 date: 2017-01-31
 preview: rebekkaIltis.PNG
 image_intro: images/Wirkungskontrolle/rebekkaIltis.PNG
@@ -20,17 +20,8 @@ params:
 knitr::include_graphics('2017-01-3103.14.09_red.jpg', error = FALSE) #images/Wirkungskontrolle/2017-01-3103.14.09_red.jpg
 ```
 
-**Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr
-2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus.**
-
-**Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand
-für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die
-Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken
-nicht ganz gerecht wurden, liessen sich die BetreuerInnen der
-Spurentunnel positiv überraschen:**
-
-An der Hälfte der Standorte wurde mindestens eine der Zielarten Iltis
-oder Hermelin festgestellt.
+An der Hälfte der Standorte wurde mindestens eine der Zielarten Iltis
+oder Hermelin festgestellt.
 
 An zwei Standorten konnten zudem Siebenschläfer nachgewiesen werden.
 
@@ -38,13 +29,13 @@ Bei den untersuchten Massnahmentypen handelt es sich hauptsächlich um
 Asthaufen, zum Teil aber auch um Gebüschgruppen und Winterquartiere.
 
 Hier gehts
-zur [Tabelle ](http://www.wieselundco.ch/images/Wirkungskontrolle/WK_Master_2016.xlsx)
+zur [Tabelle ](http://www.wieselundco.ch/images/Wirkungskontrolle/WK_Master_2016.xlsx)
 
 Unterdessen wird intensiv an der Weiterentwicklung der Nachweismethodik
 geforscht und getüftelt. In wenigen Monaten werden wir weitere Details
-Preis geben können. 
+Preis geben können. 
 
- 
+ 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

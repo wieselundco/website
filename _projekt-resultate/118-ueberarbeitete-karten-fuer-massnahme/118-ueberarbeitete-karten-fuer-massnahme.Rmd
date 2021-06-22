@@ -1,7 +1,7 @@
 ---
 title: 'Überarbeitete Karten für Massnahmen und Sichtungen online!'
 description: |
-  Die neuen Webkarten geben einen eindrücklichen Überblick und Einblick ins Projekt Wiesel & Co am Zimmerberg. Die Massahmenkarte zeigt stets den aktuellen Stand der realisierten Klein- und Grossstrukturen, der begleiteten faunagerechten Durchlasssanierungen und der sanierten Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es können auch einige weitere Infos abgefragt werden. Die Sichtungskarte erlaubt es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
+  Die neuen Webkarten geben einen eindrücklichen Überblick und Einblick ins Projekt Wiesel & Co am Zimmerberg. Die Massahmenkarte zeigt stets den aktuellen Stand der realisierten Klein- und Grossstrukturen, der begleiteten faunagerechten Durchlasssanierungen und der sanierten Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es können auch einige weitere Infos abgefragt werden. Die Sichtungskarte erlaubt es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
 date: 2019-10-16
 preview: sichtung.jpg
 image_intro: images/bilder/GIS/sichtung.jpg
@@ -20,31 +20,15 @@ params:
 knitr::include_graphics('sichtung.jpg', error = FALSE) #images/bilder/GIS/sichtung.jpg
 ```
 
-**Die neuen Webkarten geben einen eindrücklichen Überblick und
-Einblick ins Projekt Wiesel & Co am Zimmerberg.**
-
-**Die [Massahmenkarte](http://www.wieselundco.ch/massnahmenkarte) zeigt
-stets den aktuellen Stand der realisierten Klein- und Grossstrukturen,
-der begleiteten faunagerechten Durchlasssanierungen und der sanierten
-Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es
-können auch einige weitere Infos abgefragt werden.**
-
-**Die [Sichtungskarte](http://www.wieselundco.ch/sichtungskarte) erlaubt
-es, eigene Sichtungen von Kleinraubtieren zu melden und damit das
-Grundlagewissen zu dieser Artengruppe zu erweitern. **  
-**Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen
-angezeigt werden, die wir verifiziert haben bzw. als plausibel
-erachten. **
-
 In Zusammenarbeit mit Landwirten und anderen Interessengruppen
-werden seit 2014 u.a. gemäss den [Projektzielen](projekt/ausgangslage)
+werden seit 2014 u.a. gemäss den [Projektzielen](projekt/ausgangslage)
 und dem [projekteigenen
-Bonussystem](projekt/1-1-untersuetzung) verschiedene Kleinstrukturen
+Bonussystem](projekt/1-1-untersuetzung) verschiedene Kleinstrukturen
 erstellt, Feldscheunen in Stand gestellt und Gewässerdurchlässe
 faunagerecht saniert.
 
 **Diese Massnahmentypen werden auf
-der [Massahmenkarte](http://www.wieselundco.ch/massnahmenkarte) als
+der [Massahmenkarte](http://www.wieselundco.ch/massnahmenkarte) als
 Punkte mit verschiedenen Farben dargestellt.**
 
 Die Legende kann über das linke Bedienfeld "Aufzählung" oben rechts in
@@ -66,12 +50,12 @@ werden.
 
 Sachdienliche Hinweise hinsichtlich weiterer Lebensraumaufwertungen sind
 sehr willkommen - das Projekt endet voraussichtlich Mitte 2021.  
-Kontakt: <keller@wieselundco.ch> 044 500 52 82
+Kontakt: <keller@wieselundco.ch> 044 500 52 82
 
- 
+ 
 
 **Mit Hilfe
-der [Sichtungskarte](http://www.wieselundco.ch/sichtungskarte) können
+der [Sichtungskarte](http://www.wieselundco.ch/sichtungskarte) können
 Sie Sichtungsmeldungen von Kleinraubtieren erfassen und ansehen.**
 
 Bitte füllen Sie die geforderten Angaben möglichst gewissenhaft und
@@ -81,9 +65,9 @@ und keinesfalls weitergegeben.
 
 Bitte melden Sie Ihre Beobachtung nicht gleichzeitig auf anderen
 Meldetools - Wiesel & Co wird Ihre Meldung an das nationale
-Datenzentrum [www.cscf.ch](http://www.cscf.ch/) weiterleiten.
+Datenzentrum [www.cscf.ch](http://www.cscf.ch/) weiterleiten.
 
- 
+ 
 
 MELDUNG ERFASSEN:
 
@@ -109,25 +93,25 @@ Mit den weiteren Funktionen in der Kopfzeile können Sie übrigens auch
 Abfragen tätigen und andere Infos anzeigen. Der Layer "Korridore und
 Patches" bildet eine unserer
 [Planungsgrundlagen](http://www.wieselundco.ch/images/dokumente/beschrieb_umsetzungsphase/AnhangC_Patch_Vernetzungsplanung.pdf).
- 
+ 
 
- 
+ 
 
 Wir bedanken uns für Ihre Unterstützung.
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

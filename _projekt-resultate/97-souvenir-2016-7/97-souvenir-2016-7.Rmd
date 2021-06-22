@@ -1,7 +1,7 @@
 ---
 title: 'Souvenir! Taten der Saison 2016/7.'
 description: |
-  Der Rückblick auf die Saison lohnt auch dieses Jahr! Engagierte Naturfreunde sorgten für weitere Dutzende Aufwertungsmassnahmen und zwar an 16 Orten im Bezirk Horgen. Seit dem Frühjahr 2016 bieten damit stolze 174 neu erstellte Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen Wiesel & Co Unterschlupf.
+  Der Rückblick auf die Saison lohnt auch dieses Jahr! Engagierte Naturfreunde sorgten für weitere Dutzende Aufwertungsmassnahmen und zwar an 16 Orten im Bezirk Horgen. Seit dem Frühjahr 2016 bieten damit stolze 174 neu erstellte Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen Wiesel & Co Unterschlupf.
 date: 2017-06-21
 preview: 027_abMaerz2017.jpg
 image_intro: images/fotos/Saison_2016_7/027_abMaerz2017.jpg
@@ -20,20 +20,11 @@ params:
 knitr::include_graphics('63_steinweid_red.jpg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/Steinweid/63_steinweid_red.jpg
 ```
 
-**Der Rückblick auf die Saison lohnt auch dieses Jahr!**
-
-**Engagierte Naturfreunde sorgten für weitere Dutzende
-Aufwertungsmassnahmen und zwar an 16 Orten im Bezirk Horgen.**
-
-**Seit dem Frühjahr 2016 bieten damit stolze 174 neu erstellte
-Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen Wiesel &
-Co Unterschlupf. **
-
 [Wie bereits
-berichtet](projekt/resultate/94-feldscheunen-sanierung-2016-7) starteten
-zudem erste Sanierungen von Feldscheunen. 
+berichtet](projekt/resultate/94-feldscheunen-sanierung-2016-7) starteten
+zudem erste Sanierungen von Feldscheunen. 
 
-Die zunehmende Vernetzung der Lebensräume haben wir weitsichtigen
+Die zunehmende Vernetzung der Lebensräume haben wir weitsichtigen
 Landwirten, Schulklassen, Jugendlichen von Jungwacht Blauring,
 Landschaftspflegern der öffentlichen Hand, interessierten
 KursteilnehmerInnen und vielen weiteren tollen Personen zu verdanken.

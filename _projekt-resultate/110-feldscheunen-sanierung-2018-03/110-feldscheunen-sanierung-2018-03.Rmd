@@ -1,7 +1,7 @@
 ---
 title: 'Die Streuhütte in der Steinweid lebt auf '
 description: |
-  Auch die Streuhütte in der Steinweid erfuhr die zweite Sanierungsetappe. Wie im Fall des Objekts im Hinterbergried ist auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige Stunden zur Restauration des Holzbaus.  Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der Instandstellung ist. 
+  Auch die Streuhütte in der Steinweid erfuhr die zweite Sanierungsetappe. Wie im Fall des Objekts im Hinterbergried ist auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige Stunden zur Restauration des Holzbaus.  Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der Instandstellung ist. 
 date: 2017-10-22
 preview: 1430314439048_red.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Steinweid/1430314439048_red.jpg
@@ -20,44 +20,35 @@ params:
 knitr::include_graphics('09_FS-Steinweid_Maerz18.jpg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/Steinweid/Maerz2018/09_FS-Steinweid_Maerz18.jpg
 ```
 
-**Auch die Streuhütte in der Steinweid erfuhr die zweite
-Sanierungsetappe. Wie im Fall des [Objekts im
-Hinterbergried](http://www.wieselundco.ch/projekt/resultate/101-feldscheunen-sanierung-2017-10) ist
-auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige
-Stunden zur Restauration des Holzbaus. **
-
-**Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der
-Instandstellung ist. **
-
 Durch das rechtzeitige Abstützen und "Vertauen" überstand die stark
 baufällige Hütte die Winterstürme der letzten drei Jahre.
 
 Mit grosser Sorgfalt wurden in der ersten Etappe die Schwellenbalken
 ersetzt und auf den bestehenden Fundamentsteinen ausgerichtet. Um den
-geschützten, moorigen Untergrund nicht zu beeinträchtigen, wurden die
-Fundamentsteine  nur wo notwendig ab Oberkante aufgemörtelt.
+geschützten, moorigen Untergrund nicht zu beeinträchtigen, wurden die
+Fundamentsteine  nur wo notwendig ab Oberkante aufgemörtelt.
 
-Vergangenes Winterhalbjahr bekam die Streuhütte nach alter
+Vergangenes Winterhalbjahr bekam die Streuhütte nach alter
 Handwerkskunst neue Fetten und Sparren eingepasst. Möglicherweise werden
 die ursprünglichen Beschläge und Scharniere wieder für die künftigen
-Tore verwendet. 
+Tore verwendet. 
 
 {gallery}fotos/Feldscheunen/Sanierungen/Steinweid/Maerz2018/Album{/gallery}
 
 Während die Hälfte der Fassadenseiten bereits neue, sägerohe
 Verschalungsbretter verpasst bekam, ist die andere Hälfte noch
 ausstehend für die kommende, voraussichtlich abschliessende
-Sanierungsetappe. Auch für das Eindecken des Daches sind noch einige
-Arbeiten am Unterdach ausstehend. 
+Sanierungsetappe. Auch für das Eindecken des Daches sind noch einige
+Arbeiten am Unterdach ausstehend. 
 
-Für die abschliessenden Arbeiten wünschen wir den engagierten
+Für die abschliessenden Arbeiten wünschen wir den engagierten
 Hüttenbesitzern in der Steinweid und dem Hinterbergried beste äussere
 Bedingungen und viel Erfolg!
 
-[Hintergründe zur Sanierung von
-Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
+[Hintergründe zur Sanierung von
+Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
 
- 
+ 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

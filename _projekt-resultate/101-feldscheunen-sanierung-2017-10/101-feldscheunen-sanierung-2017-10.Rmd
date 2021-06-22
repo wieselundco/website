@@ -1,7 +1,7 @@
 ---
 title: 'Streuhütte im Hinterbergried steht wieder auf dem Trockenen'
 description: |
-  Sanierungsetappe 2 der Streuhütte im Hinterbergried: Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung. 
+  Sanierungsetappe 2 der Streuhütte im Hinterbergried: Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung. 
 date: 2017-10-22
 preview: Hinterberg_Sanierung_5.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/Hinterberg_Sanierung_5.jpg
@@ -20,37 +20,26 @@ params:
 knitr::include_graphics('20.00.47.jpeg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/2017-10-22/20.00.47.jpeg
 ```
 
-**Sanierungsetappe 2 der Streuhütte im Hinterbergried:**
-
-**Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die
-meisten Hölzer den schnellen Zerfall.**
-
-**Streuhütten haben dementsprechend sprichwörtlich einen schlechten
-Stand.**
-
-**Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das
-prächtige Herbstwetter für die Fortführung der Instandstellung. **
-
 Durch das Anheben der Dachkonstruktion konnte die Erneuerung der
-tragenden Elemente vollendet werden:
+tragenden Elemente vollendet werden:
 
 In erster Linie müssen dazu die teilweise über die
-Jahrzehnte regelrecht abgetauchten Fundamentsteine gerichtet und
+Jahrzehnte regelrecht abgetauchten Fundamentsteine gerichtet und
 aufgemauert werden.
 
-Bereits wurde der Schwellenkranz vervollständigt und die verbliebenen
+Bereits wurde der Schwellenkranz vervollständigt und die verbliebenen
 alten Eckständer, Streben etc. ersetzt.
 
 Die montierten Bretter der Fassade leuchten auffällig aus der
 Rietlandschaft. Bereits sind sie dem herbstlichen Wetter ausgesetzt.
 Noch ist die Sanierung nicht abgeschlossen - wir dürfen gespannt sein
-auf den Finish. 
+auf den Finish. 
 
 [Bericht zum Start der Instandstellung im Frühling
 2017.](http://www.wieselundco.ch/projekt/resultate/94-feldscheunen-sanierung-2016-7)
 
-[Hintergründe zur Sanierung von
-Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
+[Hintergründe zur Sanierung von
+Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
 
 {gallery}fotos/Feldscheunen/Sanierungen/Hinterberg2016\_7/2017-10-22{/gallery}
 

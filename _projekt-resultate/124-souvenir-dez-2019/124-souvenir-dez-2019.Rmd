@@ -20,14 +20,6 @@ params:
 knitr::include_graphics('z-buelenebnet_55.jpg', error = FALSE) #images/fotos/Aktionstage_Dez_2019/z-buelenebnet_55.jpg
 ```
 
-**Zeit für Impressionen von unseren Aktionstagen!**  
-**Schliesslich folgen auf all die Einladungen jeweils gefreute
-Aktivitäten mit Erwachsenen sowie Kindern. **  
-**Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme
-Verpflegung - alles hat seinen Platz.**
-
-**Die Aktionstage im Dezember waren wieder abwechslungsreich:** 
-
 Im Chrutzelenmoos konnten wir erfolgreich mit einem erfahrenen
 Baggerführer und Landwirten ans Werk gehen. Die Bestockung um das
 baufällige Torfhüttli wurde mit dem nötigen Fingerspitzengefühl

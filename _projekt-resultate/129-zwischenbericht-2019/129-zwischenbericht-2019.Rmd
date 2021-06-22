@@ -1,7 +1,7 @@
 ---
 title: 'Zwischenbericht Ende 2019'
 description: |
-  Bis Ende 2019 konnten die meisten Projektziele deutlich übertroffen werden. Beispielsweise sind schon ca. 450 statt total 300 projektierte Klein- und Grossstrukturen realisiert! Die letzten 18 Monate fokussieren sich auf die Instandstellung von Feldscheunen und die Erstellung von Gross-Strukturen. Ebenso wird auf eine nachhaltige Anschlusslösung für die regionale Natur- und Landschaftsförderung hingearbeitet. Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns einen Rück- und Ausblick. Download Zwischenbericht 2019 
+  Bis Ende 2019 konnten die meisten Projektziele deutlich übertroffen werden. Beispielsweise sind schon ca. 450 statt total 300 projektierte Klein- und Grossstrukturen realisiert! Die letzten 18 Monate fokussieren sich auf die Instandstellung von Feldscheunen und die Erstellung von Gross-Strukturen. Ebenso wird auf eine nachhaltige Anschlusslösung für die regionale Natur- und Landschaftsförderung hingearbeitet. Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns einen Rück- und Ausblick. Download Zwischenbericht 2019 
 date: 2020-01-23
 preview: Zwbericht19_Deckblatt.jpg
 image_intro: images/bilder/diverse/Zwbericht19_Deckblatt.jpg

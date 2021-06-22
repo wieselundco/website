@@ -1,7 +1,7 @@
 ---
 title: 'Instandstellung von Feldscheunen gestartet'
 description: |
-  Wiesel & Co am Zimmerberg unterstützt Besitzer von Feldscheunen finanziell, ideell und wo möglich auch handwerklich, wenn sie beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares Objekt baulich zu unterhalten. Dachschäden, sich senkende Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu Schäden, die diese kleinen Objekte bald substanziell betreffen. Im Frühjahr 2017 konnten erste Sanierungen starten. Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das Engagement der Besitzer und unseres Projekts. 
+  Wiesel & Co am Zimmerberg unterstützt Besitzer von Feldscheunen finanziell, ideell und wo möglich auch handwerklich, wenn sie beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares Objekt baulich zu unterhalten. Dachschäden, sich senkende Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu Schäden, die diese kleinen Objekte bald substanziell betreffen. Im Frühjahr 2017 konnten erste Sanierungen starten. Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das Engagement der Besitzer und unseres Projekts. 
 date: 2017-03-15
 preview: Hinterberg_Sanierung.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Impr_FS_allg/Hinterberg_Sanierung.jpg
@@ -20,36 +20,24 @@ params:
 knitr::include_graphics('Hinterberg_Sanierung_6.jpg', error = FALSE) #images/fotos/Feldscheunen/Sanierungen/Impr_FS_allg/Hinterberg_Sanierung_6.jpg
 ```
 
-**Wiesel & Co am Zimmerberg unterstützt Besitzer von Feldscheunen
-finanziell, ideell und wo möglich auch handwerklich, wenn sie
-beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares
-Objekt baulich zu unterhalten. Dachschäden, sich senkende
-Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu
-Schäden, die diese kleinen Objekte bald substanziell betreffen.**
-
-**Im Frühjahr 2017 konnten erste Sanierungen starten.**
-
-**Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das
-Engagement der Besitzer und unseres Projekts. **
-
 Der Wert der Zimmerberglandschaft besteht zu einem wichtigen Teil aus
 der Kulturlandschaft, die der Mensch geschaffen hat. Waldungen, Weiden,
 viele weitere Landschaftselemente wie auch Rietwiesen und ihre
 Feldscheunen erfreuen unser Auge und bieten Lebensraum für eine reiche
 Tier- und Pflanzenwelt. Kleinraubtieren bieten die kleinen
 landwirtschaftlichen Gebäude Schutz vor eisigen Wintertagen, Deckung vor
-Greifvögel, eine interessante Jagdnische u.a. 
+Greifvögel, eine interessante Jagdnische u.a. 
 
-Der Vergleich zwischen Dufourkarte und aktueller Landeskarte zeigt: Nur
+Der Vergleich zwischen Dufourkarte und aktueller Landeskarte zeigt: Nur
 ein kleiner Prozentsatz solcher Gebäude ist bis heute erhalten
 geblieben. Auch wenn Wiesel & Co am Zimmerberg das Rad der Zeit nicht
 zurückdrehen kann und will - der Erhalt der letzten Feldscheunen am
 Zimmerberg erscheint uns wertvoll. Denn jene Feldscheunen, die heute
 abgerissen werden oder zerfallen verschwinden für immer aus der
-Landschaft. 
+Landschaft. 
 
-[Hintergründe zur Sanierung von
-Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
+[Hintergründe zur Sanierung von
+Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
 
 {gallery}fotos/Feldscheunen/Sanierungen/Hinterberg2016\_7{/gallery}
 
