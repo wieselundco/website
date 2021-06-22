@@ -1,7 +1,7 @@
 ---
 title: 'Demnächst letzte Aktionstage des Winterhalbjahres 2015/6'
 description: |
-  Uns ists Recht, dass der Frühling und damit das Wachstum der Wiesen und Gehölze durch die moderaten Temperaturen etwas gebremst wurde.  Damit herrschen im April ideale Bedingungen für die Pflanzung von Gebüschgruppen und die Anlage von diversen Strukturen! Die Vielfalt unser Tätigkeiten vermehrt sich durch die Pflanzaktionen. Weiterhin gilt: Verpflegung wird stets offeriert, es wartet eine Menge von Wissenswertem auf die TeilnehmerInnen und die Wertschöpfung in der Natur und zwischen den Beteiligten ist gewiss.  Clicken sie weiter für die Details zu den Aktionstagen - wir freuen uns auf ihr Mitwirken, auch halbtägige Einsätze sind sehr willkommen!
+  Uns ists Recht, dass der Frühling und damit das Wachstum der Wiesen und Gehölze durch die moderaten Temperaturen etwas gebremst wurde.  Damit herrschen im April ideale Bedingungen für die Pflanzung von Gebüschgruppen und die Anlage von diversen Strukturen! Die Vielfalt unser Tätigkeiten vermehrt sich durch die Pflanzaktionen. Weiterhin gilt: Verpflegung wird stets offeriert, es wartet eine Menge von Wissenswertem auf die TeilnehmerInnen und die Wertschöpfung in der Natur und zwischen den Beteiligten ist gewiss.  Klicken sie weiter für die Details zu den Aktionstagen - wir freuen uns auf ihr Mitwirken, auch halbtägige Einsätze sind sehr willkommen!
 date: 2016-03-07
 preview: 29_Aktiontage_Winter15_6.JPG
 image_intro: images/fotos/Aktionstage_Winter_2015_6/29_Aktiontage_Winter15_6.JPG
@@ -20,36 +20,22 @@ params:
 knitr::include_graphics('26_Aktiontage_Winter15_6.JPG', error = FALSE) #images/fotos/Aktionstage_Winter_2015_6/26_Aktiontage_Winter15_6.JPG
 ```
 
-**Uns ists Recht, dass der Frühling und damit das Wachstum der Wiesen
-und Gehölze durch die moderaten Temperaturen etwas gebremst wurde. **
 
-**Damit herrschen im April ideale Bedingungen für die Pflanzung von
-Gebüschgruppen und die Anlage von diversen Strukturen!**
-
-**Die Vielfalt unser Tätigkeiten vermehrt sich durch die
-Pflanzaktionen.**
-
-**Was hingegen bleibt: Verpflegung wird stets offeriert, es wartet eine
-Menge von Wissenswertem auf die TeilnehmerInnen und die Wertschöpfung in
-der Natur und zwischen den Beteiligten ist gewiss. **
-
- 
-
-**Am Montag Nachmittag/Abend (11. April)** werden wir gemeinsam mit
+**Am Montag Nachmittag/Abend (11. April)** werden wir gemeinsam mit
 Landwirt Hansueli Leuthold in der **Gwandlen (Horgen)** eine extensive
-Wiese mit Gebüschgruppen ergänzen - eine ideale Lebensraumergänzung für
+Wiese mit Gebüschgruppen ergänzen - eine ideale Lebensraumergänzung für
 Kleinraubtiere und diverse weitere Tierarten! Im Anschluss werden wir
 auch Asthaufen und andere Unterschlüpfe ("Winterquartiere) bauen -
 solange die Kräfte und das Tageslicht reicht. Ca. um 18:30Uhr gibt es
 Znacht vom Feuer inkl. Beilagen - ein Angebot für klassische
-Arbeitstätige, die uns nach der Arbeit noch unterstützen möchten. 
+Arbeitstätige, die uns nach der Arbeit noch unterstützen möchten. 
 
-[DOWNLOAD DETAILS AKTIONSTAG
+[DOWNLOAD DETAILS AKTIONSTAG
 GWANDLEN](images/Einladungen/2016_04_11_Einladung_Gwandlen.pdf)
 
- 
+ 
 
-**Am Freitag (15. April)** ist am Grundhofweg in **Herrlisberg,
+**Am Freitag (15. April)** ist am Grundhofweg in **Herrlisberg,
 Wädenswil** eine umfassende Heckenaufwertung mit Besitzer Philipp Styger
 angesagt. Damit in Zukunft die Vielfalt an Gehölzen in der Hecke eher
 steigt, denn sinkt, schaffen wir Licht. Mit dem anfallenden Astmaterial
@@ -57,15 +43,15 @@ bauen wir veritable Wiesel-Burgen. Darüber hinaus gilt es, gewisse
 "Gartenflüchtlinge" einzudämmen, da sie Überträger von Feuerbrand sind
 und das heimische Ökosystem schwächen. Dass die Schweiz nicht
 ausländerfeindlich sein soll, leben wir vor: An diesem Aktionstag
-kriegen wir Unterstützung von Flüchtlingen der Asyl-Organisation
-Zürich. Sie sind herzlich eingeladen, mitzuwirken! 
+kriegen wir Unterstützung von Flüchtlingen der Asyl-Organisation
+Zürich. Sie sind herzlich eingeladen, mitzuwirken! 
 
-[DOWNLOAD DETAILS AKTIONSTAG
+[DOWNLOAD DETAILS AKTIONSTAG
 GRUNDHOFWEG](images/Einladungen/2016_04_15_Einladung_Grundhof.pdf)
 
- 
+ 
 
-**Am Samstag (16. April)** vollenden wir, was der lokale Forstbetrieb
+**Am Samstag (16. April)** vollenden wir, was der lokale Forstbetrieb
 professionell vorbereitet hat. Die Aufwertung der Bahnböschung in der
 **Geissau, Gattikon**. Hier öffnen wir unseren Biodiversitäts-Horizont
 besonders weit und pflanzen rare Strauchrosen-Arten, die für die Region
@@ -75,28 +61,28 @@ Kleinstrukturen aus und - so Petrus will - werden wir die Böschung
 ansäen, so dass eine vielfältige Wildblumenwiese entstehen kann. In
 Zusammenarbeit mit der Gemeinde Thalwil, der Sihltal Zürich Üetliberg
 Bahn (SZU), dem Camping Geissau und natürlich den lokalen
-Narturschutzvereinen. Wir zählen auf Ihre Unterstützung! 
+Narturschutzvereinen. Wir zählen auf Ihre Unterstützung! 
 
 [DOWNLOAD DETAILS
-AKTIONSTAG GEISSAU](images/Einladungen/2016_04_16_Einladung_Geissau.pdf)
+AKTIONSTAG GEISSAU](images/Einladungen/2016_04_16_Einladung_Geissau.pdf)
 
- 
+ 
 
-**Am Montag darauf (18. April)** zeigt der Mondkalender gute Bedingungen
+**Am Montag darauf (18. April)** zeigt der Mondkalender gute Bedingungen
 zur Pflanzung an! Beste Voraussetzungen also für das künftige Gedeihen
 der Gebüschgruppen in der Schafweide in der **Büelenebnet (Wädenswil)**.
 In Ergänzung organisiert Bewirtschafter Willy Streuli diverse Elemente,
 um Kleinstrukturen einrichten zu können. Lassen Sie sich überraschen und
 voraussichtlich verwöhnen mit einer Schafsbratwurst direkt ab Hof. Auch
 an diesem Tag werden wir glücklicherweise unterstützt durch
-die Asyl-Organisation Zürich. 
+die Asyl-Organisation Zürich. 
 
-[DOWNLOAD DETAILS AKTIONSTAG
+[DOWNLOAD DETAILS AKTIONSTAG
 BÜELENEBNET](images/Einladungen/2016_04_18_Einladung_Buelenebnet.pdf)
 
- 
+ 
 
-**Am Donnerstag darauf (21. April)** wird uns die 6te Klasse von Hr.
+**Am Donnerstag darauf (21. April)** wird uns die 6te Klasse von Hr.
 Solenthaler -der Lehrer vertreten durch Lehrerinnen in Ausbildung- bei
 der Anlage einer lückigen Hecke und beim Bau von Asthaufen unterstützen.
 Die Bewirtschafter in der **Dächenwis (Wädenswil)** Ernst Brändli und
@@ -104,16 +90,16 @@ Hansruedi Hottinger packen ebenfalls mit an. Falls Sie ebenfalls Lust
 haben mitzuwirken, Sie sind herzlich dazu eingeladen - bringen sie aber
 bitte ein **Flair für die Zusammenarbeit mit Teenies** mit!
 
-[DOWNLOAD DETAILS AKTIONSTAG DÄCHENWIS, MIT 6. KLASSE
+[DOWNLOAD DETAILS AKTIONSTAG DÄCHENWIS, MIT 6. KLASSE
 EIDMATT](images/Einladungen/2016_04_21_Einladung_Daechenwis.pdf)
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

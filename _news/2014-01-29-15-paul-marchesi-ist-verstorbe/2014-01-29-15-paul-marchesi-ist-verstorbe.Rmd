@@ -1,7 +1,7 @@
 ---
 title: 'Paul Marchesi ist verstorben'
 description: |
-  Vor kurzem hat uns diese tragische Nachricht von Wildtier Schweiz erreicht: "Bestürzt und mit grosser Trauer müssen wir Euch mitteilen, dass Paul Marchesi plötzlich verstorben ist. (...) Wir nehmen von Paul Abschied am 11.10.2013."   Paul Marchesi war ein angesehener Biologe und einer der profundesten Musteliden-Kenner der Schweiz. Wir sprechen seinen Angehörigen unser tiefstes Beileid aus.
+  Vor kurzem hat uns diese tragische Nachricht von Wildtier Schweiz erreicht: "Bestürzt und mit grosser Trauer müssen wir Euch mitteilen, dass Paul Marchesi plötzlich verstorben ist. (...) Wir nehmen von Paul Abschied am 11.10.2013."   Paul Marchesi war ein angesehener Biologe und einer der profundesten Musteliden-Kenner der Schweiz. Wir sprechen seinen Angehörigen unser tiefstes Beileid aus.
 date: 2014-01-29
 
 
@@ -13,10 +13,6 @@ params:
   rmdpath: _news/2014-01-29-15-paul-marchesi-ist-verstorbe/2014-01-29-15-paul-marchesi-ist-verstorbe.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
-
-
-
-
 
 
 ```{r,results='asis', echo = FALSE}

@@ -16,20 +16,6 @@ params:
 
 
 
-
-**Unsere "Visitenkarte" kommt frisch aus der Presse. Ein Faltblatt, das
-über das Projekt informiert, Die Zielarten vorstellt und Ihnen die
-Möglichkeit gibt, uns unkompliziert & bequem Ihre
-Kleinraubtier-Beobachtungen zu melden. Aber sehen Sie selbst!**
-
-**Die selben Informationen sind übrigens auch als [pdf
-Projektflyer](images/dokumente/Aufruf_WiCoZ_Web.pdf) verfügbar. Wir
-freuen uns über dessen Verbreitung durch Sie!**
-
-------------------------------------------------------------------------
-
- 
-
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
 
