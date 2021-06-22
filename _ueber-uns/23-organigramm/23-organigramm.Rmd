@@ -12,7 +12,11 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-<img src="images/bilder/diverse/Organigramm_WiCoZ.png" width="553" height="305" alt="Organigramm Wiesel &amp; Co am Zimmerberg" />
+```{r, echo = FALSE}
+
+knitr::include_graphics("Organigramm_WiCoZ.png")
+```
+
 
 Unter anderem mit folgenden Interessengruppen ist schon eine
 Zusammenarbeit angelaufen bzw. ist der Kontakt hergestellt und Synergien
