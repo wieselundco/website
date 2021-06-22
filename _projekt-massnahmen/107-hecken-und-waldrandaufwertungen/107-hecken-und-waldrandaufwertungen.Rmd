@@ -1,7 +1,7 @@
 ---
 title: 'Hecken- und Waldrandaufwertungen'
 description: |
-  Hecken und Ufergehölze sind vielerorts die wichtigsten Deckungsstrukturen für Kleinraubtiere und unzählige andere Wildtiere. Zugleich bieten sie auch einen unverzichtbaren Teillebensraum z.B. als Nahrungsquelle und Wanderkorridore. Ufergehölze sind oftmals die einzigen weiltläufigen und wirkungsvollen Vernetzungselemente in der Zimmerberglandschaft. Gestufte und gebuchtete Waldränder bilden enorm wichtige Übergangslebensräume zwischen Wald und Offenland. Natürlich engagiert sich Wiesel & Co am Zimmerberg beratend und tatkräftig für den Erhalt, die Aufwertung und die Neuanlage solcher Gehölze. Greifen auch Sie gerne auf unser Knowhow zurück! Bis Mitte 2020 können wir diese Dienstleistung kostenlos anbieten. Das Angebot gilt nicht nur für Hecken in der Landwirtschaft, sondern auch für private oder öffentliche Anlagen mit Anschluss an Wildtierlebensräume. Folgend wird ein Beispiel einer Heckenpflege fotografisch vorgestellt. Ausserdem steht ein wertvolles Dossier rund um die Thematik von Hecken und Waldrändern zum Download bereit.
+  Hecken und Ufergehölze sind vielerorts die wichtigsten Deckungsstrukturen für Kleinraubtiere und unzählige andere Wildtiere. Zugleich bieten sie auch einen unverzichtbaren Teillebensraum z.B. als Nahrungsquelle und Wanderkorridore. Ufergehölze sind oftmals die einzigen weiltläufigen und wirkungsvollen Vernetzungselemente in der Zimmerberglandschaft. Gestufte und gebuchtete Waldränder bilden enorm wichtige Übergangslebensräume zwischen Wald und Offenland. Natürlich engagiert sich Wiesel & Co am Zimmerberg beratend und tatkräftig für den Erhalt, die Aufwertung und die Neuanlage solcher Gehölze. Greifen auch Sie gerne auf unser Knowhow zurück! 
 date: 2014-04-04
 preview: 03_rietwies_red.jpg
 image_intro: images/Workshops_Kurstage/Heckenpflege/03_rietwies_red.jpg
@@ -19,6 +19,8 @@ params:
 ```{r , echo = FALSE}
 knitr::include_graphics('1Heckenlandschaft_bei_Almens.JPG', error = FALSE) #images/Workshops_Kurstage/Heckenpflege/1Heckenlandschaft_bei_Almens.JPG
 ```
+
+Bis Mitte 2020 können wir diese Dienstleistung kostenlos anbieten. Das Angebot gilt nicht nur für Hecken in der Landwirtschaft, sondern auch für private oder öffentliche Anlagen mit Anschluss an Wildtierlebensräume. Folgend wird ein Beispiel einer Heckenpflege fotografisch vorgestellt. Ausserdem steht ein wertvolles Dossier rund um die Thematik von Hecken und Waldrändern zum Download bereit.
 
 Bereits einige Male konnten mit Unterstützung von Wiesel & Co am
 Zimmerberg Hecken, Feld- und Ufergehölze auf landwirtschaftlichen
