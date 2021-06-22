@@ -20,18 +20,6 @@ params:
 knitr::include_graphics('CSCF.png', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/CSCF.png
 ```
 
-**Die kleineren Vertreter der Musteliden (Marderartigen) sind eine
-Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz
-relativ wenig bekannt ist. Es handelt sich dabei um das Mauswiesel, das
-Hermelin und der Iltis, die alle seit 1988 gemäss Bundesgesetz über die
-Jagd geschützt sind. Damit fallen die früher über die Jagd und den Fang
-für diese Arten anfallenden Daten weg, die bei einer Beurteilung
-hilfreich sein können. Mit einem gesamtschweizerischen Monitoring soll
-deshalb Vorkommen dieser Arten besser erfasst und dokumentiert werden
-(Marchesi et al., 2003, 2004a). Diese Bestandesaufnahme soll die
-Grundlage bilden, um Veränderungen im Vorkommen und der Verbreitung der
-untersuchten Arten feststellen zu können.**
-
 Da sich bei diesen heimlichen Arten ein gezielter Direktnachweis nicht
 sinnvoll realisieren lässt, erfolgen die Erhebungen mittels indirekten
 Nachweis von Spuren (Abdrücke von Trittsiegeln) in speziell dazu im

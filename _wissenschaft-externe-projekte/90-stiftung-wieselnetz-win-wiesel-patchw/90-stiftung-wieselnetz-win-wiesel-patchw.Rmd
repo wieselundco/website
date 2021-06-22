@@ -20,12 +20,6 @@ params:
 knitr::include_graphics('WIN_patchwork.png', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/WIN_patchwork.png
 ```
 
- **„Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin-
-und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur
-Entwicklung und Prüfung der angewandten Methoden. Dabei stand von Anfang
-an die Förderung und Stützung ganzer Populationen im Fokus, unter
-Berücksichtigung der natürlichen zeitlichen und räumlichen Dynamik.**
-
 -   Als erstes wurden Populationsraumanalysen durchgeführt und die
     Zielpopulation ausgewählt.
 -   Als nächstes folgten konkrete Lebensraumaufwertungen in ausgewählten
