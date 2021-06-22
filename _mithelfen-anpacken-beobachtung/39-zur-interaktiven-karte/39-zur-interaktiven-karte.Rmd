@@ -1,10 +1,7 @@
 ---
 title: 'zur interaktiven Karte'
 description: |
-  
 date: 2014-05-20
-
-
 output:
   distill::distill_article:
     self_contained: false
@@ -13,10 +10,6 @@ params:
   rmdpath: _mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte/39-zur-interaktiven-karte.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
-
-
-
-
 
 
 ```{r,results='asis', echo = FALSE}

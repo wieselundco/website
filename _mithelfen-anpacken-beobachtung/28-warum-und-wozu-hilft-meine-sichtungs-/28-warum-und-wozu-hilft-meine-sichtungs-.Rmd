@@ -14,22 +14,19 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-
-
-
 ### Erstens: Das Verhalten.
 
 Die verschiedenen Kleinraubtierarten begegnen dem Menschen wenig,
 bedingt u.a. durch folgende Verhaltensweisen:
 
--   Zum Teil dämmerungs- und nachtaktiv
--   Aufenthalt und Fortbewegung oft in Deckung oder in Erdlöchern.
--   flinke Fortbewegungsweise
--   per se klein, somit auch der Ort für Unterschlupf und ihre Spuren.
--   Tote Tiere (auch Verkehrsopfer) werden übersehen und rasch von
+- Zum Teil dämmerungs- und nachtaktiv
+- Aufenthalt und Fortbewegung oft in Deckung oder in Erdlöchern.
+- flinke Fortbewegungsweise
+- per se klein, somit auch der Ort für Unterschlupf und ihre Spuren.
+- Tote Tiere (auch Verkehrsopfer) werden übersehen und rasch von
     Aasfressern abgeräumt.
 
--&gt; Wenn wir auf [ihre Sichtung](index.php/beobachtung-melden) zählen
+Wenn wir auf [ihre Sichtung](index.php/beobachtung-melden) zählen
 dürfen, erhöht sich die Zahl der registrierten Begegnungen und wir
 erfahren zumindest am Zimmerberg mehr über die Verbreitung und
 ansatzweise etwas über die Bestände der Kleinraubtiere.
@@ -53,15 +50,15 @@ erscheinen.
 Die Datenlücken der Kleinraubtier-Bestände dürften mit ein Grund sein
 dafür, dass ein gezielter Schutzbedarf gemäss der Liste der national
 prioritären Arten des Bundesamts für Umwelt für Mauswiesel und Iltis als
-„unsicher“ taxiert wird. Aus dem Text geht zumindest hervor, dass die
+"unsicher" taxiert wird. Aus dem Text geht zumindest hervor, dass die
 Aufwertung des Lebensraums von Nöten ist, um den Rückgang der Population
 abzufangen:
 
 <img src="images/bilder/diverse/massnahmenbedarf_listepriorarten.JPG" width="646" height="153" />
 
-    Quelle: Liste der National Prioritären Arten (BAFU 2011)
+Quelle: Liste der National Prioritären Arten (BAFU 2011)
 
--&gt; Mit [ihrer Sichtungs-Meldung](index.php/beobachtung-melden)
+Mit [ihrer Sichtungs-Meldung](index.php/beobachtung-melden)
 versuchen wir die Datenlücken zu schliessen um damit den Handlungsbedarf
 in Bezug auf die Kleinraubtiere zu klären. Die erfassten Meldungen
 reichen wir regelmässig dem CSCF weiter, ihre persönlichen Daten reichen
