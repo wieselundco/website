@@ -15,36 +15,16 @@ params:
 ---
 
 
+<!-- [{vsig}fotos/2014\_01\_28\_NSV\_Schoenenberg{/vsig}](http://www.nv-schoenenberg.ch/joomla/index.php)   -->
+<!-- {vsig\_c}0|haufenbau.jpg|Bau von Asthaufen nach -->
+<!-- Wieselnetz-Art|{/vsig\_c}   -->
+<!-- {vsig\_c}0|hermelin\_fotofalle.jpg|Normalerweise sind Hermeline zu flink -->
+<!-- für die Fotofalle - dieser Nachweis bildet eine erfreuliche -->
+<!-- Ausnahme!|{/vsig\_c}{vsig\_c}0|iltis\_spurenfalle.jpg|Ilits und Mäuse -->
+<!-- haben Spuren hinterlassen|{/vsig\_c} -->
 
-
-**<span style="line-height: 1.3em;">Der NVS profitierte von der
-Zusammenarbeit mit WIN u.a. vom Netzwerk von Fachpersonen und von einem
-erprobten Förderkonzept, welches messbare Erfolge brachte: Potentielle
-Lebensräume wurden ausgeschieden, förderliche Kleinstrukturen wie
-Asthaufen im Rahmen von öffentlichen Arbeitseinsätzen erstellt und die
-Wirkungskontrolle zeigte deutlich, dass nach der Aufwertung die
-entsprechenden Lebensräume von den Zielarten besucht wurden. Rege
-Öffentlichkeitsarbeit leistete einen Beitrag zur Vermittlung der Inhalte
-des Förderprojekts weit über die Vereinsgrenzen hinaus.</span>**
-
-------------------------------------------------------------------------
-
-[{vsig}fotos/2014\_01\_28\_NSV\_Schoenenberg{/vsig}](http://www.nv-schoenenberg.ch/joomla/index.php)  
-{vsig\_c}0|haufenbau.jpg|Bau von Asthaufen nach
-Wieselnetz-Art|{/vsig\_c}  
-{vsig\_c}0|hermelin\_fotofalle.jpg|Normalerweise sind Hermeline zu flink
-für die Fotofalle - dieser Nachweis bildet eine erfreuliche
-Ausnahme!|{/vsig\_c}{vsig\_c}0|iltis\_spurenfalle.jpg|Ilits und Mäuse
-haben Spuren hinterlassen|{/vsig\_c}
-
-<span style="line-height: 1.3em;">Interessierten Lesern steht der
-Schlussbericht des Projekts zum
-</span>[Download](images/dokumente/Schlussbericht_Schoenenberg.pdf)<span
-style="line-height: 1.3em;"> bereit. Die Website des
-</span>[Naturschutzvereins
-Schönenberg](http://www.nv-schoenenberg.ch/)<span
-style="line-height: 1.3em;"> vermittelt zudem eindrückliche Bilder und
-Worte.</span>
+Interessierten Lesern steht der Schlussbericht des Projekts zum [Download](images/dokumente/Schlussbericht_Schoenenberg.pdf) bereit. Die Website des
+[Naturschutzvereins Schönenberg](http://www.nv-schoenenberg.ch/) vermittelt zudem eindrückliche Bilder und Worte.
 
   
 Das erfolgreiche Projekt zeigte schon während seiner Laufzeit Wirkung in

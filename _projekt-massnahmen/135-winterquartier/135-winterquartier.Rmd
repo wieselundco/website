@@ -1,7 +1,7 @@
 ---
 title: 'Kleinst-Strukturen in Form von "Winterquartieren"'
 description: |
-  Ein Unterschlupf für Kleinraubtiere ist im Idealfall sicher vor Feinden und anderen Störungen, regen- und windgeschützt sowie nahe an ergiebigen Jagdgründen und weiteren Unterschlüpfen. Dass ein solcher Unterschlupf klein und dennoch wirksam sein kann, beweisen sogenannte "Winterquartiere". Doch wie kommt es zu dieser Bezeichnung?
+  Ein Unterschlupf für Kleinraubtiere ist im Idealfall sicher vor Feinden und anderen Störungen, regen- und windgeschützt sowie nahe an ergiebigen Jagdgründen und weiteren Unterschlüpfen. Dass ein solcher Unterschlupf klein und dennoch wirksam sein kann, beweisen sogenannte "Winterquartiere". Doch wie kommt es zu dieser Bezeichnung?
 date: 2016-01-01
 preview: 2020-07-04_095858_1500px.jpg
 image_intro: images/bilder/Winterquartiere/2020-07-04_095858_1500px.jpg
@@ -20,14 +20,6 @@ params:
 knitr::include_graphics('510040255.jpg', error = FALSE) #images/bilder/Winterquartiere/510040255.jpg
 ```
 
-**Ein Unterschlupf für Kleinraubtiere ist im Idealfall sicher vor
-Feinden und anderen Störungen, regen- und windgeschützt sowie nahe an
-ergiebigen Jagdgründen und weiteren Unterschlüpfen.**
-
-**Dass ein solcher Unterschlupf klein und dennoch wirksam sein kann,
-beweisen sogenannte "Winterquartiere".**  
-**Doch wie kommt es zu dieser Bezeichnung?**
-
 Hermelin, Mauswiesel und Iltis halten weder Winterruhe noch
 Winterschlaf. Witterungsgeschützte Unterschlüpfe lassen sie jedoch
 gerade im Winterhalbjahr viel Energie einsparen, sind doch ihre
@@ -35,30 +27,30 @@ Körperproportionen denkbar ungünstig für den Wärmehaushalt. Während
 Iltisse Fettreserven anlegen können, sind die Wiesel zwingend auf
 tägliche Nahrungszufuhr angewiesen.
 
-Darius Weber stellte im Rahmen seiner Dissertation von 1988 fest, dass
+Darius Weber stellte im Rahmen seiner Dissertation von 1988 fest, dass
 Iltisse im Winter (u.a. in der Hirzel Moorlandschaft) geschützte
 Streuhütten während Tagen und sogar Wochen nicht verliessen, um im
 Schutz des Gebäudes möglichst wenig ihrer Reserven zu verbrennen.  
-Die Hütten, in welchen traditionell Streu (getrockneter
-Rietschnitt) eingelagert wurde, können offenbar als vorzügliche
+Die Hütten, in welchen traditionell Streu (getrockneter
+Rietschnitt) eingelagert wurde, können offenbar als vorzügliche
 Unterschlüpfe dienen.  
 Mit dem Aufkommen von effizienten Ladewagen wurde das Streu mehrheitlich
 zum Hof geführt und eingelagert, so dass in den letzten Jahrzehnten
 viele Streuhütten ungenutzt zerfielen. Die Verbleibenden werden aktuell
-eher als Lagerraum für Holz, Ziegel o.ä. genutzt, womit der Wert als
-Unterschlupf gegenüber der traditioinellen Streuhütten kleiner ist. 
+eher als Lagerraum für Holz, Ziegel o.ä. genutzt, womit der Wert als
+Unterschlupf gegenüber der traditioinellen Streuhütten kleiner ist. 
 
 Inspiriert von der Empfehlung eines "Iltisnests" von Darius Weber (S. 57
-in ["Schutz der kleinen Säugetiere - eine
+in ["Schutz der kleinen Säugetiere - eine
 Arbeitshilfe"](http://www.wieselundco.ch/images/Dokus_Faktenblaetter/Schutz_der_kleinen_saeugetiere_-_eine_arbeitshilfe_red.pdf);
-Sonderausgabe von Umwelt Aargau) leitet Wiesel & Co am Zimmerberg die
+Sonderausgabe von Umwelt Aargau) leitet Wiesel & Co am Zimmerberg die
 Erstellung von "Winterquartieren" ab, deren Erstellung durch das
 [projekteigene Bonus-System](images/dokumente/Bonussystem_WiCoZ.pdf)
 gefördert wird.
 
-In der Regel wurden sie mit 5-6 Strohballen (je ca. 35 x 50 x 90 cm)
+In der Regel wurden sie mit 5-6 Strohballen (je ca. 35 x 50 x 90 cm)
 zusammengestellt.  
-In der unteren Lage liegen 3 Ballen als Dreieck zueinander, so dass an
+In der unteren Lage liegen 3 Ballen als Dreieck zueinander, so dass an
 den Stössen ein daumenbreiter Spalt bleibt. Der Hohlraum wird mit
 isolierendem Stroh o.ä. ausgebettet. 2-3 Ballen bilden das Dach, so dass
 nirgends mehr wie daumenbreite Einschlüpfe bleiben.  
@@ -68,26 +60,26 @@ regengeschützten Stelle ist diese Bauweise sehr dauerhaft.
 
 Wo die Platzverhältnisse noch enger sind (z.B. unter Fussböden) können
 auch mit Stroh gefüllte und umgedrehte Obstharassen dienen, die
-allerdings fixiert bzw. beschwert werden müssen. 
+allerdings fixiert bzw. beschwert werden müssen. 
 
 Unsere [Wirkungskontrolle (Etappe 1 von
-2)](projekt/resultate/125-wk-etappe1) zeigt auf schwacher Datenlage,
+2)](projekt/resultate/125-wk-etappe1) zeigt auf schwacher Datenlage,
 dass knapp 50% der Winterquartiere besucht wurden, wobei der Iltis
 proportional häufiger bei den Winterquartieren als Asthaufen
-festgestellt wurde. 
+festgestellt wurde. 
 
 Augenzeugenberichte weisen darauf hin, dass ein Winterquartier ebenso
 gut im Frühling als Fortpflanzungsort wie im Winter als Witterungsschutz
 dienen kann, sofern eingangs genannte Bedingungen stimmen.
 
 Die folgende Bildergalerie zeigt einige Beispiele der realisierten
-Winterquartiere und ihre Attraktivität auf unsere Zielarten. 
+Winterquartiere und ihre Attraktivität auf unsere Zielarten. 
 
 {gallery}bilder/Winterquartiere{/gallery}
 
- 
+ 
 
- 
+ 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
