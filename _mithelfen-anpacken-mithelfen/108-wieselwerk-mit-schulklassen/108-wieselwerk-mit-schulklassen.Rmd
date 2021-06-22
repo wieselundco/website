@@ -1,7 +1,7 @@
 ---
 title: 'Wieselwerk mit Schulklassen'
 description: |
-  Wiesel & Co am Zimmerberg bietet Schulklassen ein systemisches Lernfeld direkt vor der Haustür. Handwerkliches Geschick, Austausch mit Bauern und ihren Betrieben, Beziehung zur Natur, Teamfähigkeit, wildtierbiologisches Verständnis, Erfolgserlebnisse in ungewohnten Handlungsfeldern ... - all diese zum Teil essentiellen Erlebnisse und Fähigkeiten können mit einem Wieselwerk gefördert und miteinander in Verbindung gebracht werden. Für die verbleibenden Winterhalbjahre bis April 2021 suchen wir Schulklassen (insbesondere der Oberstufe), die sich auf dieses Lernfeld einlassen möchten! Bereits sind wieder einige konkrete Wieselwerke geplant mit Landwirten in der Region, die sich für die Jugend Zeit nehmen. Entscheiden Sie anhand den folgenden Bildern und Informationen, ob das Angebot für Ihre Klasse in Frage kommt:
+  Wiesel & Co am Zimmerberg bietet Schulklassen ein systemisches Lernfeld direkt vor der Haustür. Handwerkliches Geschick, Austausch mit Bauern und ihren Betrieben, Beziehung zur Natur, Teamfähigkeit, wildtierbiologisches Verständnis, Erfolgserlebnisse in ungewohnten Handlungsfeldern ... - all diese zum Teil essentiellen Erlebnisse und Fähigkeiten können mit einem Wieselwerk gefördert und miteinander in Verbindung gebracht werden. Für die verbleibenden Winterhalbjahre bis April 2021 suchen wir Schulklassen (insbesondere der Oberstufe), die sich auf dieses Lernfeld einlassen möchten! Bereits sind wieder einige konkrete Wieselwerke geplant mit Landwirten in der Region, die sich für die Jugend Zeit nehmen. Entscheiden Sie anhand den folgenden Bildern und Informationen, ob das Angebot für Ihre Klasse in Frage kommt:
 date: 2018-04-05
 preview: 2018-03-26-13.17.29_red.jpg
 image_intro: images/fotos/Wieselwerk-div/2018-03-26-13.17.29_red.jpg
@@ -20,51 +20,35 @@ params:
 knitr::include_graphics('P8160049_adjust_snipe.jpg', error = FALSE) #images/fotos/Wieselwerk-div/P8160049_adjust_snipe.jpg
 ```
 
-**Wiesel & Co am Zimmerberg bietet Schulklassen ein systemisches
-Lernfeld direkt vor der Haustür.**
-
-**Handwerkliches Geschick, Austausch mit Bauern und ihren Betrieben,
-Beziehung zur Natur, Teamfähigkeit, wildtierbiologisches Verständnis,
-Erfolgserlebnisse in ungewohnten Handlungsfeldern ... - all diese zum
-Teil essentiellen Erlebnisse und Fähigkeiten können mit einem Wieselwerk
-gefördert und miteinander in Verbindung gebracht werden.**
-
-**Für die verbleibenden Winterhalbjahre bis April 2021 suchen wir
-Schulklassen (insbesondere der Oberstufe), die sich auf dieses Lernfeld
-einlassen möchten!**
-
-**Bereits sind wieder einige konkrete Wieselwerke geplant mit Landwirten
-in der Region, die sich für die Jugend Zeit nehmen.**
-
 Die folgenden Fotos zeigen Wieselwerke mit Schulklassen verschiedener
-Altersstufen. 
+Altersstufen. 
 
 {gallery}fotos/WieselwerkeBis17-18{/gallery}
 
-Besonders wertvoll ist, wenn die SchülerInnen den vielfältigen Feldtag
+Besonders wertvoll ist, wenn die SchülerInnen den vielfältigen Feldtag
 nach einigen Monaten mit einem erneuten Besuch vor Ort vertiefen können.
 Bei dieser Gelegenheit können sie darauf zurückblicken, was
-sie geleistet und bewirkt haben. Z.B. lohnt sich der Versuch, die Spuren
+sie geleistet und bewirkt haben. Z.B. lohnt sich der Versuch, die Spuren
 und Fotos von inzwischen erfolgten Wildtierbesuchen zu bestimmen und
-diskutieren. 
+diskutieren. 
 
-Unsere Projektierung sieht vor, dass dieses seriöse
-Umweltbildungsangebot nicht gratis ist. Für Schulklassen richtet sich
+Unsere Projektierung sieht vor, dass dieses seriöse
+Umweltbildungsangebot nicht gratis ist. Für Schulklassen richtet sich
 der Preis nach der Hälfte der effektiven Kosten. Erfreulich ist, dass
 wir auch für enge Budgetverhältnisse stets zufriedenstellende Lösungen
-finden konnten. Und was für Lehrpersonen zwischendurch auch willkommen
-sein dürfte: Sie können die Organisation fast vollständig dem
-eingespielten Team von Wiesel & Co am Zimmerberg überlassen. Die
+finden konnten. Und was für Lehrpersonen zwischendurch auch willkommen
+sein dürfte: Sie können die Organisation fast vollständig dem
+eingespielten Team von Wiesel & Co am Zimmerberg überlassen. Die
 Leitungspersonen bringen viel Empathie sowie pädagogisches
-und landwirtschaftliches Knowhow mit und bieten damit
-erlebnisreiches Lernen in einem echten (Arbeits-)Umfeld.
+und landwirtschaftliches Knowhow mit und bieten damit
+erlebnisreiches Lernen in einem echten (Arbeits-)Umfeld.
 
 Sie wünschen Erfahrungsberichte aus dem Berufskollegium? Die
-Klassenlehrpersonen [Karin
+Klassenlehrpersonen [Karin
 Wildberger](mailto:karin.wildberger@oswaedenswil.ch) vom Schulhaus Fuhr
-und [Tom Künsch](mailto:thomas.kuensch@oswaedenswil.ch) vom Schulhaus
-Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft
-über ihre Wieselwerk-Erfahrungen.
+und [Tom Künsch](mailto:thomas.kuensch@oswaedenswil.ch) vom Schulhaus
+Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft
+über ihre Wieselwerk-Erfahrungen.
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

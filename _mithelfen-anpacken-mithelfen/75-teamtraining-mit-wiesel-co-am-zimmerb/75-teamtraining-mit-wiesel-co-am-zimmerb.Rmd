@@ -1,7 +1,7 @@
 ---
 title: 'Ihr Team in Aktion'
 description: |
-  Im Winterhalbjahr bietet Wiesel & Co am Zimmerberg Aktionstage exklusiv für Teams an.  Für Gruppen (z.B. Mitarbeiter von Unternehmen), die Ihre Gemeinschaft einmal anders erleben möchten, bietet die tatkräftige Lebensraumaufwertung im Bezirk Horgen eine ideale Gelegenheit. Wir gehen auf Ihre Bedürfnisse ein und finden für Ihr Team den geeigneten Aktionsort. Erfahren sie hier mehr, welche Gründe für das Angebot von Wiesel & Co am Zimmerberg sprechen. 
+  Im Winterhalbjahr bietet Wiesel & Co am Zimmerberg Aktionstage exklusiv für Teams an.  Für Gruppen (z.B. Mitarbeiter von Unternehmen), die Ihre Gemeinschaft einmal anders erleben möchten, bietet die tatkräftige Lebensraumaufwertung im Bezirk Horgen eine ideale Gelegenheit. Wir gehen auf Ihre Bedürfnisse ein und finden für Ihr Team den geeigneten Aktionsort. Erfahren sie hier mehr, welche Gründe für das Angebot von Wiesel & Co am Zimmerberg sprechen. 
 date: 2016-04-08
 preview: Team_in_Aktion_WiCoZ.JPG
 image_intro: images/dokumente/Team_in_Aktion_WiCoZ.JPG
@@ -14,9 +14,21 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+Im Winterhalbjahr bietet Wiesel & Co am Zimmerberg Aktionstage exklusiv für Teams an. 
 
+Für Gruppen (z.B. Mitarbeiter von Unternehmen), die Ihre Gemeinschaft einmal anders erleben möchten, stellt die tatkräftige Lebensraumaufwertung im Bezirk Horgen eine ideale Gelegenheit dar.
 
+Für viele Menschen findet der Alltag in Gebäuden statt, öfters vor dem Computer. So auch bei Ihnen?
 
+Wünschten Sie sich einen Tag mit Ihren KameradInnen unter freiem Himmel? 
+
+Mit Wiesel & Co am Zimmerberg ist dies möglich und gleichzeitig schaffen Sie mit Ihren eigenen Händen wertvolle Verstecke und Nistmöglichkeiten für Kleinraubtiere.
+
+Tauchen Sie ein in die Lebenswelt von Wiesel & Co, nutzen Sie den Raumwechsel und schöpfen Sie im Feld Inspiration & Lust für die weitere Gemeinschaft im Team.
+
+Das Angebot für solche gemeinsame "Wieselwerke" ist in der Regel in den Monaten November bis März möglich. Wir gehen auf Ihre Bedürfnisse ein und finden für Ihr Team den geeigneten Aktionsort. 
+
+Kontaktieren Sie uns unverbindlich. 
 
 
 ```{r,results='asis', echo = FALSE}
