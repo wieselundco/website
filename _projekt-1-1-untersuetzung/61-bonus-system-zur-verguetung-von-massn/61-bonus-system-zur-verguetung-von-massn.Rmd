@@ -1,7 +1,7 @@
 ---
 title: 'Bonussystem zur Massnahmen-Realisierung'
 description: |
-  Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds.  Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.
+  Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds. Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.
 date: 2016-01-09
 preview: bonussystem.png
 image_intro: images/bonussystem.png
@@ -20,20 +20,14 @@ params:
 knitr::include_graphics('bonussystem.png', error = FALSE) #images/bonussystem.png
 ```
 
-**[Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von
-Kleinraubtier-freundlichen
-Massnahmen](images/dokumente/Bonussystem_WiCoZ.pdf) definiert
-eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im
-Rahmen des Projektfonds. Zahlungen sind beispielsweise an Landwirte
-möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung
-unabhängig von dessen Anforderungen ergänzen können.**
 
-Die 4 Typen von Strukturen mit Möglichkeit zur finanziellen Abgeltung
+
+Die 4 Typen von Strukturen mit Möglichkeit zur finanziellen Abgeltung
 werden auf Seite 2 und 3 in je einer durchgehenden Spalte beschrieben
 (Feldscheunen-Sanierungen werden im Einzelfall behandelt,
-[vgl. diesem Beitrag](http://wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen));
+[vgl. diesem Beitrag](http://wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen));
 In den Spalten folgen den baulichen Anforderungen auf Seite 2 die
-Vergütungen für die Erstellung und der Bonus für den Erhalt (&
+Vergütungen für die Erstellung und der Bonus für den Erhalt (&
 Unterhalt) nach jeweils zwei Jahren auf Seite 3.
 
 Bei den Vergütungen für die Erstellung wird zudem unterschieden, ob die
@@ -43,18 +37,18 @@ die Trägerschaft (WiCoZ) für die Erstellung zuständig, so entfällt die
 Erstvergütung, nach 2 Jahren kann der Bonus dennoch geltend gemacht
 werden.
 
-Wird die Struktur weiter als 10m von der nächsten zweckmässigen
+Wird die Struktur weiter als 10m von der nächsten zweckmässigen
 Deckungsstruktur für Kleinraubtiere erstellt, so kann ein
-grösserer (dunkelgelb hinterlegter) Betrag gesprochen werden, als wenn
-innerhalb 10m bereits andere Deckungsstrukturen Schutz bieten (hellgelb
-hinterlegter Betrag)<span
-style="font-size: 12.16px; line-height: 1.3em;">.</span>
+grösserer (dunkelgelb hinterlegter) Betrag gesprochen werden, als wenn
+innerhalb 10m bereits andere Deckungsstrukturen Schutz bieten (hellgelb
+hinterlegter Betrag) 
+ 
 
 [Der Vergütungs-Rechner vereinfacht die Berechnung stark - machen Sie
 sich hier eine Vorstellung
-davon.](images/dokumente/Verguetungs-Rechner_web.xlsx) 
+davon.](images/dokumente/Verguetungs-Rechner_web.xlsx) 
 
-Der Projektfond wird übrigens hauptsächlich ermöglicht durch Gelder, die
+Der Projektfond wird übrigens hauptsächlich ermöglicht durch Gelder, die
 für gemeinnützige Zwecke vorgesehen sind und belastet insofern nicht das
 Budget der öffentlichen Hand.
 

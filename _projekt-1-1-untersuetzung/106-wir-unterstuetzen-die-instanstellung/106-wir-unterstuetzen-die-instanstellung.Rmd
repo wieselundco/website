@@ -1,7 +1,7 @@
 ---
 title: 'Feldscheunen in Stand stellen'
 description: |
-  Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt, so dass sie zerfallen. Der Erhalt von schützenswerten Feldscheunen wird deshalb ideell und finanziell unterstützt werden. Eine Ausstattung mit Winterquartieren oder Kombination mit anderen Massnahmen-Typen ist unter Umständen ebenfalls erwünscht! Sie besitzen oder wissen von Feldscheunen mit Sanierungsbedarf bzw. ökologischem Aufwertungspotential? Hier finden Sie die Rahmenbedingungen und Kontaktangaben.
+  Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt, so dass sie zerfallen. Der Erhalt von schützenswerten Feldscheunen wird deshalb ideell und finanziell unterstützt werden. Eine Ausstattung mit Winterquartieren oder Kombination mit anderen Massnahmen-Typen ist unter Umständen ebenfalls erwünscht! Sie besitzen oder wissen von Feldscheunen mit Sanierungsbedarf bzw. ökologischem Aufwertungspotential? Hier finden Sie die Rahmenbedingungen und Kontaktangaben.
 date: 2016-01-09
 preview: Feldscheune_SonnenwegHorgen.jpg
 image_intro: images/bilder/Feldscheunen/Feldscheune_SonnenwegHorgen.jpg
@@ -20,15 +20,8 @@ params:
 knitr::include_graphics('Feldscheune_Rinderweid.jpg', error = FALSE) #images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg
 ```
 
-**Feldscheunen erfüllen in der modernen Landwirtschaft kaum mehr
-unverzichtbare Funktionen und ihr Unterhalt wird vernachlässigt und sie
-zerfallen. Der Erhalt von schützenswerten Feldscheunen wird deshalb
-finanziell und ideell unterstützt werden. Eine Ausstattung mit
-Winterquartieren oder Kombination mit anderen Massnahmen-Typen ist unter
-Umständen ebenfalls erwünscht.**
-
 Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu
-haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate
+haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate
 berichtet.](projekt/resultate)
 
 Die Schutzwürdigkeit der Feldscheunen steigt mit ihrer ökologischen
@@ -45,8 +38,8 @@ Bedeutung ist dort besonders hoch wo u.a. folgende Punkte gegeben sind:
 Die ökologische Bedeutung von Feldscheunen ist es, dass sie insbesondere
 im Winter den Kleinraubtieren als essentielle Jagdgründe und
 Deckungsmöglichkeiten dienen. Historisch ist belegt (z.B. vgl. „Die
-wilden Tiere in der Stadt“ (S. Inneichen, 1997), dass die Zielarten von
-WiCoZ stets auch die Behausungen von Menschen und ihren Nutztieren nach
+wilden Tiere in der Stadt“ (S. Inneichen, 1997), dass die Zielarten von
+WiCoZ stets auch die Behausungen von Menschen und ihren Nutztieren nach
 Nahrung, Deckung und Brutstätten besucht haben.
 
 Der Handlungs- bzw. Sanierungsbedarf von rund 120 durch WiCoZ
