@@ -3,8 +3,6 @@ title: 'Stand der Entwicklung (2021)'
 description: |
   Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel erhältliche Wildtierkameras und modifiziert diese so, dass sie für Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.
 date: 2017-03-05
-
-
 output:
   distill::distill_article:
     self_contained: false
@@ -15,25 +13,17 @@ params:
 ---
 
 
-
-
-**Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die
-Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel
-erhältliche Wildtierkameras und modifiziert diese so, dass sie für
-Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher
-bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.**
-
 Diese Herangehensweise ermöglicht eine kostengünstigere Produktion
-solcher Fotofallensysteme. Sie beruht auf dem Konzept ["Mostela" von Mos
+solcher Fotofallensysteme. Sie beruht auf dem Konzept ["Mostela" von Mos
 und Hofmeester
 (2020)](https://link.springer.com/content/pdf/10.1007/s13364-020-00513-y.pdf).
 
-[Hier ist beschrieben wie sich die daraus entwickelte MammaliaBox im
+[Hier ist beschrieben wie sich die daraus entwickelte MammaliaBox im
 Feld
 bewährt](http://wieselundco.ch/wissenschaft/externe-projekte/126-mammaliabox)
 (Bild unten).
 
- 
+ 
 
 ![](images/bilder/mostela_interior_small.png)
 

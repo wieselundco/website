@@ -1,10 +1,8 @@
 ---
 title: 'Konzept'
 description: |
-   Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! 
+   Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! 
 date: 2017-03-05
-
-
 output:
   distill::distill_article:
     self_contained: false
@@ -14,9 +12,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5h00LSAyMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ```{r,results='asis', echo = FALSE}
