@@ -14,7 +14,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-Wiesel und Co, Interview mit Martha Baruffol, Kilchberg  
+Wiesel & Co, Interview mit Martha Baruffol, Kilchberg  
   
 Martha Baruffol, Wann haben Sie die Wiesel erstmals beobachtet?  
   

@@ -1,7 +1,7 @@
-name: "Joomla2md"
-title: "Wiesel und Co am Zimmerberg"
+name: "Wiesel & Co am Zimmerberg"
+title: "Wiesel & Co am Zimmerberg"
 description: |
-  Wiesel und Co am Zimmerberg
+  Wiesel & Co am Zimmerberg
 output_dir: "docs"
 navbar:
   left:
@@ -30,9 +30,9 @@ navbar:
       menu:
         - text: "Anpacken"
           href: Anpacken.html
-        - text: "Beobachtung Melden"
+        - text: "Beobachtung melden"
           href: Beobachtung-Melden.html
-    - text: "Faszination Kleinraubitere"
+    - text: "Faszination Kleinraubtiere"
       menu:
       - text: "Unsere Zielarten"
         href: Unsere-Zielarten.html
