@@ -14,7 +14,9 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 2017 für den Verein FRUCTUS mit Matthias Wüst ein Interview, das interessante Hintergrundinformationen liefert. Es erschien im FRUCTUS Bulletin Nr. 127 unter der Rubrik "Aus der Praxis" eingebettet in lesenswerte Zeilen zu den "Wühlern", den Schadbildern und ihren natürlichen Gegenspielern. Download der entsprechenden Seiten des FRUCTUS-Bulletins. Die Galerie zeigt einige Impressionen der beiden Workshop-Ausgaben:  {gallery}fotos/Wuehlmaus-Workshops_17-19{/gallery}  
+Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 2017 für den Verein FRUCTUS mit Matthias Wüst ein Interview, das interessante Hintergrundinformationen liefert. Es erschien im FRUCTUS Bulletin Nr. 127 unter der Rubrik "Aus der Praxis" eingebettet in lesenswerte Zeilen zu den "Wühlern", den Schadbildern und ihren natürlichen Gegenspielern. Download der entsprechenden Seiten des FRUCTUS-Bulletins. Die Galerie zeigt einige Impressionen der beiden Workshop-Ausgaben:  
+
+<!-- {gallery}fotos/Wuehlmaus-Workshops_17-19{/gallery}   -->
 
 
 
