@@ -18,6 +18,12 @@ Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 20
 
 
 
+```{r, echo = FALSE}
+library(tidyverse)
+list.files(path = "gallery", pattern = ".jpg$",full.names = TRUE) %>%
+  tibble(src = .) %>%
+  gallerier::lightbox_gallery("source", width = 200, display = TRUE)
+```
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
