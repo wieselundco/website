@@ -19,23 +19,44 @@ erlauben und so sind sie im ständigen Wechsel von Ruhe- und
 Aktivitätsphasen. Daher lassen sich die neugierigen Tiere über das ganze
 Jahr und zu jeder Tages- und Nachtzeit beobachten.
 
-{gallery}bilder/arten/proportional{/gallery}
 
-
-|                  	| Mauswiesel                                                  	| Hermelin                                                                                                              	| Iltis                                                             	|
-|------------------	|-------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|
-| Kopf-Rumpf-Länge 	| 20cm                                                        	| 30cm                                                                                                                  	| 40cm                                                              	|
-| Schwanz Länge    	| 5cm                                                         	| 15cm                                                                                                                  	| 15cm                                                              	|
-| Fellfärbung      	| Ganzjährig braun-weiss Unruhige Trennlinie Ober-/Unterseite 	| Auffälliger Schwanz mit schwarzer Schwanzspitze Weisses Winterfell  Scharfe Trennlinie Ober-/Unterseite im Sommerfell 	| Unverkennbare Gesichtsmaske Dunkle Grannenhaare, beige Unterwolle 	|
-|                  	|                                                             	|                                                                                                                       	|                                                                   	|
  
-
-[Kurzporträts aller Säugetiere der Schweiz finden Sie
-online](https://apps.wildtier.ch/mammals/) oder im 2021 erschienenen
-[Atlas der
-Säugetiere](https://www.haupt.ch/buecher/natur-garten/atlas-der-saeugetiere-schweiz-und-liechtenstein.html)
-der [Schweizerischen Gesellschaft für
-Wildtierbiologie](https://mitglied.scnat.ch/sgw-ssbf). 
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> Mauswiesel </th>
+   <th style="text-align:left;"> Hermelin </th>
+   <th style="text-align:left;"> Iltis </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Kopf-Rumpf-Länge </td>
+   <td style="text-align:left;"> 20cm </td>
+   <td style="text-align:left;"> 30cm </td>
+   <td style="text-align:left;"> 40cm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Schwanz Länge </td>
+   <td style="text-align:left;"> 5cm </td>
+   <td style="text-align:left;"> 15cm </td>
+   <td style="text-align:left;"> 15cm </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Fellfärbung </td>
+   <td style="text-align:left;"> Ganzjährig braun-weiss Unruhige Trennlinie Ober-/Unterseite </td>
+   <td style="text-align:left;"> Auffälliger Schwanz mit schwarzer Schwanzspitze Weisses Winterfell Scharfe Trennlinie Ober-/Unterseite im Sommerfell </td>
+   <td style="text-align:left;"> Unverkennbare Gesichtsmaske Dunkle Grannenhaare, beige Unterwolle </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"></td>
+   <td style="text-align:left;"> <img src="1_mauswiesel.jpg" width = "200"> </td>
+   <td style="text-align:left;"> <img src="2_hermelin.jpg" width = "200"> </td>
+   <td style="text-align:left;"> <img src="3_iltis.jpg" width = "200"> </td>
+  </tr>
+</tbody>
+</table>
 
  
 
