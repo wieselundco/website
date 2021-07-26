@@ -23,7 +23,17 @@ knitr::include_graphics('P8160049_adjust_snipe.jpg', error = FALSE) #images/foto
 Die folgenden Fotos zeigen Wieselwerke mit Schulklassen verschiedener
 Altersstufen. 
 
-{gallery}fotos/WieselwerkeBis17-18{/gallery}
+<!-- {gallery}fotos/WieselwerkeBis17-18{/gallery} -->
+
+```{r, echo = FALSE}
+library(tidyverse)
+library(gallerier)
+
+gallerier:::lightbox_rmd()
+list.files(path = "gallery", pattern = ".jpg$",full.names = TRUE) %>%
+  tibble(src = .) %>%
+  gallerier::lightbox_gallery("source", width = 200, display = TRUE)
+```
 
 Besonders wertvoll ist, wenn die SchülerInnen den vielfältigen Feldtag
 nach einigen Monaten mit einem erneuten Besuch vor Ort vertiefen können.
