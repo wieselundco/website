@@ -75,8 +75,9 @@ dienen kann, sofern eingangs genannte Bedingungen stimmen.
 Die folgende Bildergalerie zeigt einige Beispiele der realisierten
 Winterquartiere und ihre Attraktivität auf unsere Zielarten. 
 
-{gallery}bilder/Winterquartiere{/gallery}
+<!-- {gallery}bilder/Winterquartiere{/gallery} -->
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719604176371" title="Winterquartiere"><img src="https://live.staticflickr.com/65535/51340669403_d234d2f766_z.jpg" width="640" height="480" alt="Winterquartiere"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
 
  

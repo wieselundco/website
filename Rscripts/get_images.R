@@ -1,15 +1,30 @@
-images <- list.files(pattern = ".Rmd", recursive = TRUE, full.names = TRUE) %>%
-  map(function(x){
+
+library(tidyverse)
+
+all_rmds <- list.files(pattern = ".Rmd", recursive = TRUE, full.names = TRUE)
+
+res <- map_dfr(all_rmds, function(x){
     rl <- read_lines(x)
 
-    rl[str_detect(rl, "images")]
+    cha <- rl[str_detect(rl, "\\{gallery\\}")]
+
+    if(length(cha) == 0){cha <- NA}
+
+    data.frame(file = x, gallery = cha)
 
   }) %>%
-  unlist()
+  filter(!is.na(gallery))
 
+res <- res %>%
+  mutate(g = str_replace_all(str_match(gallery, "\\}(.+)\\{")[,2], fixed("\\"),""))
+
+res %>%
+  mutate(
+    fd = paste0("- [ ] ",file, " (", g, ")")
+  ) %>% pull(fd) %>% cat(sep = "\n")
 
 imagess <- str_match(images, "(images(/\\w+)*\\.\\w+)")[,2]
 
 imagess[!is.na(imagess)]
 
-cat(images, sep = "\n")
+cat(paste("- [ ]", images), sep = "\n")

@@ -81,9 +81,9 @@ sogar noch zunehmen werden.
 Besten Dank unserem Praktikanten Silvio Aegerter für die hervorragende
 Durchführung der Etappe 1! 
 
-<span
-style="font-size: 12.16px;">{gallery}fotos/Fotofallenbilder/systematische-WK\_Etappe1{/gallery}</span>
+<!-- <span style="font-size: 12.16px;">{gallery}fotos/Fotofallenbilder/systematische-WK\_Etappe1{/gallery}</span> -->
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719611423612" title="systematische-WK_Etappe1"><img src="https://live.staticflickr.com/65535/51340445641_cd9ef511ae_z.jpg" width="640" height="480" alt="systematische-WK_Etappe1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
 
  

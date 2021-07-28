@@ -14,9 +14,9 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-{gallery}fotos/2013\_10\_11\_Exkursion{/gallery}
+<!-- {gallery}fotos/2013\_10\_11\_Exkursion{/gallery} -->
 
- 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719648892350" title="2013_10_11_Exkursion"><img src="https://live.staticflickr.com/65535/51339008455_bab0223491.jpg" width="640" height="480" alt="2013_10_11_Exkursion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Auf die Trägerschaft kommt nun einige Arbeit zu - Wir informieren
 wieder, sobald wir Schritte einleiten, die Sie interessieren dürften.

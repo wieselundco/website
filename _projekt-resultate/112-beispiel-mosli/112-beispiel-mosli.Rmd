@@ -40,7 +40,9 @@ zeigt Fotofallenbilder der Hermeline im Mosli. [Dazu hier kurze
 Filmsequenzen derselben
 Kleinraubtiere. ](https://www.youtube.com/playlist?list=PLilD7MYfI8xV9aLwFoTxpKfjO3Da2a8Nh) 
 
-{gallery}fotos/Fotofallenbilder/Mosli{/gallery}
+<!-- {gallery}fotos/Fotofallenbilder/Mosli{/gallery}-->
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719611410057" title="Mosli"><img src="https://live.staticflickr.com/65535/51339714417_80eeac56ed_z.jpg" width="640" height="480" alt="Mosli"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Im Sommer 2018 bot sich dann die Gelegenheit, eine [Kurzreportage mit
 "Schweiz

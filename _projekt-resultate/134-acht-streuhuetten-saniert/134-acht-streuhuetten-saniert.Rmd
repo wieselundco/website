@@ -52,8 +52,9 @@ Sehen Sie nun anhand zweier Beispiele, wie die Bauten wieder dem Wetter
 gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen
 wurden: 
 
-{gallery}fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen{/gallery}
+<!-- {gallery}fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen{/gallery} -->
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719598724693" title="Seeli-Chrutzelen"><img src="https://live.staticflickr.com/65535/51340443746_90b1625a5e.jpg" width="640" height="480" alt="Seeli-Chrutzelen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ```{r,results='asis', echo = FALSE}

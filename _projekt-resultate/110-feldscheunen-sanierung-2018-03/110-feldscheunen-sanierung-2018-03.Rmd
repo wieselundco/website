@@ -33,7 +33,9 @@ Handwerkskunst neue Fetten und Sparren eingepasst. Möglicherweise werden
 die ursprünglichen Beschläge und Scharniere wieder für die künftigen
 Tore verwendet. 
 
-{gallery}fotos/Feldscheunen/Sanierungen/Steinweid/Maerz2018/Album{/gallery}
+<!-- {gallery}fotos/Feldscheunen/Sanierungen/Steinweid/Maerz2018/Album{/gallery} -->
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719598339363" title="Album"><img src="https://live.staticflickr.com/65535/51340519213_f5fc5fc05d_z.jpg" width="640" height="480" alt="Album"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Während die Hälfte der Fassadenseiten bereits neue, sägerohe
 Verschalungsbretter verpasst bekam, ist die andere Hälfte noch

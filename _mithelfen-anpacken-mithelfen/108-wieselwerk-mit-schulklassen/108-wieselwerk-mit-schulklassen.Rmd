@@ -25,6 +25,10 @@ Altersstufen.
 
 <!-- {gallery}fotos/WieselwerkeBis17-18{/gallery} -->
 
+
+<link rel="stylesheet" href="www/lightbox-2-2.11.3/css/lightbox.min.css">
+<script src="www/lightbox-2-2.11.3/js/lightbox.min.js"></script>
+
 ```{r, echo = FALSE}
 library(tidyverse)
 library(gallerier)

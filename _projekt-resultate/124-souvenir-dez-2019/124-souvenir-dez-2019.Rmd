@@ -1,7 +1,7 @@
 ---
 title: 'Impressionen von den Dezember-Aktionen'
 description: |
-  Zeit für Impressionen von unseren Aktionstagen!Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. Die Aktionstage im Dezember waren wieder abwechslungsreich... Sehen Sie selbst:
+  Zeit für Impressionen von unseren Aktionstagen! Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. Die Aktionstage im Dezember waren wieder abwechslungsreich... Sehen Sie selbst:
 date: 2019-12-21
 preview: 2019-12-07_134428_red.jpg
 image_intro: images/fotos/diverse/2019-12-07_134428_red.jpg
@@ -46,7 +46,8 @@ Elan gesägt und Nistkammern gebaut haben!
 Folgend die Impressionen, welche z.T. Volker Jäger beisteuerte - vielen
 Dank dafür!
 
-{gallery}fotos/Aktionstage\_Dez\_2019{/gallery}
+<!-- {gallery}fotos/Aktionstage\_Dez\_2019{/gallery} -->
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719610849007" title="Aktionstage_Dez_2019"><img src="https://live.staticflickr.com/65535/51339493872_cdfb60705b_z.jpg" width="640" height="480" alt="Aktionstage_Dez_2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

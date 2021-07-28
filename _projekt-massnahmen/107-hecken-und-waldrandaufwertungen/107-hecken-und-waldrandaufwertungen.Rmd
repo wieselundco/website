@@ -44,7 +44,9 @@ werden.
 
  
 
-{gallery}Workshops\_Kurstage/Heckenpflege/Album-Heckenpflege{/gallery}
+<!-- {gallery}Workshops\_Kurstage/Heckenpflege/Album-Heckenpflege{/gallery} -->
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719598681353" title="Album-Heckenpflege"><img src="https://live.staticflickr.com/65535/51340427556_b7ca324fb9_z.jpg" width="640" height="480" alt="Album-Heckenpflege"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In Zusammenarbeit mit dem Obstgartenprojekt Horgen–Wädenswil sowie dem
 Vernetzungsprojekt Horgen–Wädenswil und dem Forstrevier linkes
