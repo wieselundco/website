@@ -25,7 +25,7 @@ knitr::include_graphics('bonussystem.png', error = FALSE) #images/bonussystem.pn
 Die 4 Typen von Strukturen mit Möglichkeit zur finanziellen Abgeltung
 werden auf Seite 2 und 3 in je einer durchgehenden Spalte beschrieben
 (Feldscheunen-Sanierungen werden im Einzelfall behandelt,
-[vgl. diesem Beitrag](http://wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen));
+[vgl. diesem Beitrag](/projekt-massnahmen/62-wir-unterstuetzen-die-instanstellung-/));
 In den Spalten folgen den baulichen Anforderungen auf Seite 2 die
 Vergütungen für die Erstellung und der Bonus für den Erhalt (&
 Unterhalt) nach jeweils zwei Jahren auf Seite 3.

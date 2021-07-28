@@ -14,9 +14,9 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-[Klicke hier](http://wieselundco.ch/images/dokumente/wiselquiz/WieselUndWiesel.pdf) und erkenne die drei wichtigen Unterschiede!
+[Klicke hier](WieselUndWiesel.pdf) und erkenne die drei wichtigen Unterschiede!
 
-[Hier findest Du die Lösung](http://wieselundco.ch/images/dokumente/wiselquiz/WieselUndWiesel-gelost.pdf).
+[Hier findest Du die Lösung](WieselUndWiesel-gelost.pdf).
 
 
 ```{r,results='asis', echo = FALSE}

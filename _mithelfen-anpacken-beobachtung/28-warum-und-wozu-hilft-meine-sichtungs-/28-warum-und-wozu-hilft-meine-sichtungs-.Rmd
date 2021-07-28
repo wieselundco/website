@@ -24,10 +24,7 @@ bedingt u.a. durch folgende Verhaltensweisen:
 - Tote Tiere (auch Verkehrsopfer) werden übersehen und rasch von
     Aasfressern abgeräumt.
 
-Wenn wir auf [ihre Sichtung](index.php/beobachtung-melden) zählen
-dürfen, erhöht sich die Zahl der registrierten Begegnungen und wir
-erfahren zumindest am Zimmerberg mehr über die Verbreitung und
-ansatzweise etwas über die Bestände der Kleinraubtiere.
+Wenn wir auf ihre Sichtung zählen dürfen, erhöht sich die Zahl der registrierten Begegnungen und wir erfahren zumindest am Zimmerberg mehr über die Verbreitung und ansatzweise etwas über die Bestände der Kleinraubtiere.
 
 ### Zweitens: Die öffentliche Hand kann zu wenig ihrer Verantwortung gegenüber gefährdeten Arten gerecht werden.
 
@@ -56,7 +53,7 @@ abzufangen:
 
 Quelle: Liste der National Prioritären Arten (BAFU 2011)
 
-Mit [ihrer Sichtungs-Meldung](index.php/beobachtung-melden)
+Mit ihrer Sichtungs-Meldung
 versuchen wir die Datenlücken zu schliessen um damit den Handlungsbedarf
 in Bezug auf die Kleinraubtiere zu klären. Die erfassten Meldungen
 reichen wir regelmässig dem CSCF weiter, ihre persönlichen Daten reichen

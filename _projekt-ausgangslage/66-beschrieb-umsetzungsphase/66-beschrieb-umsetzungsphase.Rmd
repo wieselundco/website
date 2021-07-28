@@ -20,24 +20,15 @@ params:
 knitr::include_graphics('0100a_b_20150131_194_02.jpg', error = FALSE) #images/Workshops_Kurstage/0100a_b_20150131_194_02.jpg
 ```
 
--   [Phase 2:
-    Projektbeschrieb](images/dokumente/beschrieb_umsetzungsphase/WiCoZ_Phase_2_Projektbeschrieb.pdf)
--   [Anhang A - Schlussbericht Phase
-    1](images/dokumente/AnhangA_WiCoZ_Phase_1_Schlussbericht_2015_06_20.pdf)
--   [Anhang B -
-    Lebensraumanalyse](images/dokumente/beschrieb_umsetzungsphase/AnhangB_Ratnaweera_Tutorial_II_red.pdf)
--   [Anhang C - Patch- und
-    Vernetzungsplanung](images/dokumente/beschrieb_umsetzungsphase/AnhangC_Patch_Vernetzungsplanung.pdf)
--   [Anhang D - Strukturen in der Direktzahlungsverordnung und in
-    Label-Programmen](images/dokumente/beschrieb_umsetzungsphase/Strukturen_DZV_Label_Staeheli2016.pdf)
--   [Anhang E - Massnahmenliste Landschaftsqualitätsprojekt Zürich
-    Süd](images/dokumente/beschrieb_umsetzungsphase/AnhangE_massnahmenliste_lqp_sued.pdf)
--   [Anhang F - Bonussystem](images/dokumente/Bonussystem_WiCoZ.pdf)
+-   [Phase 2: Projektbeschrieb](WiCoZ_Phase_2_Projektbeschrieb.pdf)
+-   [Anhang A - Schlussbericht Phase 1](AnhangA_WiCoZ_Phase_1_Schlussbericht_2015_06_20.pdf)
+-   [Anhang B - Lebensraumanalyse](AnhangB_Ratnaweera_Tutorial_II_red.pdf)
+-   [Anhang C - Patch- und Vernetzungsplanung](AnhangC_Patch_Vernetzungsplanung.pdf)
+-   [Anhang D - Strukturen in der Direktzahlungsverordnung und in    Label-Programmen](Strukturen_DZV_Label_Staeheli2016.pdf)
+-   [Anhang E - Massnahmenliste Landschaftsqualitätsprojekt Zürich Süd](AnhangE_massnahmenliste_lqp_sued.pdf)
+-   [Anhang F - Bonussystem](Bonussystem_WiCoZ.pdf)
 
-Gemäss [Projektbeschrieb der Projektphase
-2](projekt/ausgangslage/66-beschrieb-umsetzungsphase) war das bisherige
-offizielle Projektende der 31. Mai 2020.   
-Es ist eine Tatsache, dass die Trägerschaft gut mit seinem Budget
+Gemäss [Projektbeschrieb der Projektphase 2](projekt-ausgangslage/66-beschrieb-umsetzungsphase/) war das bisherige offizielle Projektende der 31. Mai 2020. Es ist eine Tatsache, dass die Trägerschaft gut mit seinem Budget
 gehaushaltet und dennoch bereits viele seiner Ziele erreicht hat.   
 Dies erlaubt dem Projekt bei gleichbleibendem Finanzierungsplan und
 unveränderten Projektzielen 1 Jahr länger die Lebensräume von Wiesel &

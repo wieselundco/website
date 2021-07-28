@@ -21,15 +21,12 @@ knitr::include_graphics('sichtung.jpg', error = FALSE) #images/bilder/GIS/sichtu
 ```
 
 In Zusammenarbeit mit Landwirten und anderen Interessengruppen
-werden seit 2014 u.a. gemäss den [Projektzielen](projekt/ausgangslage)
-und dem [projekteigenen
-Bonussystem](projekt/1-1-untersuetzung) verschiedene Kleinstrukturen
+werden seit 2014 u.a. gemäss den [Projektzielen](/Ausgangslage-und-Ziele.html)
+und dem [projekteigenen Bonussystem](/projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/) verschiedene Kleinstrukturen
 erstellt, Feldscheunen in Stand gestellt und Gewässerdurchlässe
 faunagerecht saniert.
 
-**Diese Massnahmentypen werden auf
-der [Massahmenkarte](http://www.wieselundco.ch/massnahmenkarte) als
-Punkte mit verschiedenen Farben dargestellt.**
+**Diese Massnahmentypen werden auf der [Massahmenkarte](http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=07f55f0607b7403ba9b937a546d285eb) als Punkte mit verschiedenen Farben dargestellt.**
 
 Die Legende kann über das linke Bedienfeld "Aufzählung" oben rechts in
 der Kopfzeile eingesehen werden.  
@@ -55,7 +52,7 @@ Kontakt: <keller@wieselundco.ch> 044 500 52 82
  
 
 **Mit Hilfe
-der [Sichtungskarte](http://www.wieselundco.ch/sichtungskarte) können
+der [Sichtungskarte](http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36b8f1202244b7bdcc860e06be2270) können
 Sie Sichtungsmeldungen von Kleinraubtieren erfassen und ansehen.**
 
 Bitte füllen Sie die geforderten Angaben möglichst gewissenhaft und
@@ -92,7 +89,7 @@ Sichtungsmeldungen.
 Mit den weiteren Funktionen in der Kopfzeile können Sie übrigens auch
 Abfragen tätigen und andere Infos anzeigen. Der Layer "Korridore und
 Patches" bildet eine unserer
-[Planungsgrundlagen](http://www.wieselundco.ch/images/dokumente/beschrieb_umsetzungsphase/AnhangC_Patch_Vernetzungsplanung.pdf).
+[Planungsgrundlagen](AnhangC_Patch_Vernetzungsplanung.pdf).
  
 
  

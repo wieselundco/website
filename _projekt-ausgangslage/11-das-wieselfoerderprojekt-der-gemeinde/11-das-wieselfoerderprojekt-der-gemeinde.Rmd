@@ -23,7 +23,7 @@ params:
 <!-- Ausnahme!|{/vsig\_c}{vsig\_c}0|iltis\_spurenfalle.jpg|Ilits und Mäuse -->
 <!-- haben Spuren hinterlassen|{/vsig\_c} -->
 
-Interessierten Lesern steht der Schlussbericht des Projekts zum [Download](images/dokumente/Schlussbericht_Schoenenberg.pdf) bereit. Die Website des
+Interessierten Lesern steht der Schlussbericht des Projekts zum [Download](Schlussbericht_Schoenenberg.pdf) bereit. Die Website des
 [Naturschutzvereins Schönenberg](http://www.nv-schoenenberg.ch/) vermittelt zudem eindrückliche Bilder und Worte.
 
   

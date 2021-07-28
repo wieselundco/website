@@ -6,14 +6,16 @@ all_rmds <- list.files(pattern = ".Rmd", recursive = TRUE, full.names = TRUE)
 res <- map_dfr(all_rmds, function(x){
     rl <- read_lines(x)
 
-    cha <- rl[str_detect(rl, "\\{gallery\\}")]
+    cha <- rl[str_detect(rl, "\\[.+\\]")]
 
     if(length(cha) == 0){cha <- NA}
 
-    data.frame(file = x, gallery = cha)
+    data.frame(file = x, char = cha)
 
   }) %>%
-  filter(!is.na(gallery))
+  filter(!is.na(char))
+
+cat(res$char, sep = "\n")
 
 res <- res %>%
   mutate(g = str_replace_all(str_match(gallery, "\\}(.+)\\{")[,2], fixed("\\"),""))

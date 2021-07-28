@@ -12,7 +12,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-Klicke [hier](http://wieselundco.ch/images/dokumente/wiselquiz/Wieselfragen_web.pdf) um den Test durchzuführen. Bist du fertig? [Hier](http://wieselundco.ch/images/dokumente/wiselquiz/Wieselantworten_Web.pdf) sind die richtigen Antworten.
+Klicke [hier](Wieselfragen_web.pdf) um den Test durchzuführen. Bist du fertig? [Hier](Wieselantworten_Web.pdf) sind die richtigen Antworten.
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

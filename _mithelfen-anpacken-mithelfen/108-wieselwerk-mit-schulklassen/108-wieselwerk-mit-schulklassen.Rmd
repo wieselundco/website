@@ -45,12 +45,7 @@ Leitungspersonen bringen viel Empathie sowie pädagogisches
 und landwirtschaftliches Knowhow mit und bieten damit
 erlebnisreiches Lernen in einem echten (Arbeits-)Umfeld.
 
-Sie wünschen Erfahrungsberichte aus dem Berufskollegium? Die
-Klassenlehrpersonen [Karin
-Wildberger](mailto:karin.wildberger@oswaedenswil.ch) vom Schulhaus Fuhr
-und [Tom Künsch](mailto:thomas.kuensch@oswaedenswil.ch) vom Schulhaus
-Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft
-über ihre Wieselwerk-Erfahrungen.
+Sie wünschen Erfahrungsberichte aus dem Berufskollegium? Die Klassenlehrpersonen [Karin Wildberger](mailto:karin.wildberger@oswaedenswil.ch) vom Schulhaus Fuhr und [Tom Künsch](mailto:thomas.kuensch@oswaedenswil.ch) vom Schulhaus Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft über ihre Wieselwerk-Erfahrungen.
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

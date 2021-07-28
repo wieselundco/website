@@ -45,7 +45,7 @@ in ["Schutz der kleinen Säugetiere - eine
 Arbeitshilfe"](http://www.wieselundco.ch/images/Dokus_Faktenblaetter/Schutz_der_kleinen_saeugetiere_-_eine_arbeitshilfe_red.pdf);
 Sonderausgabe von Umwelt Aargau) leitet Wiesel & Co am Zimmerberg die
 Erstellung von "Winterquartieren" ab, deren Erstellung durch das
-[projekteigene Bonus-System](images/dokumente/Bonussystem_WiCoZ.pdf)
+[projekteigene Bonus-System](Bonussystem_WiCoZ.pdf)
 gefördert wird.
 
 In der Regel wurden sie mit 5-6 Strohballen (je ca. 35 x 50 x 90 cm)
