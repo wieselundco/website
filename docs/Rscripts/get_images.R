@@ -3,17 +3,23 @@ library(tidyverse)
 
 all_rmds <- list.files(pattern = ".Rmd", recursive = TRUE, full.names = TRUE)
 
-res <- map_dfr(all_rmds, function(x){
+map_dfr(all_rmds, function(x){
     rl <- read_lines(x)
 
-    cha <- rl[str_detect(rl, "\\{gallery\\}")]
+    cha <- rl[str_detect(rl, "\\[.+\\]")]
 
-    if(length(cha) == 0){cha <- NA}
+    res <- str_match(rl, "\\[(.+)\\]\\((.+)\\)")
 
-    data.frame(file = x, gallery = cha)
+    as.data.frame(res) %>%
+      mutate(file = x) %>%
+      select(-V1, -V2)
+
 
   }) %>%
-  filter(!is.na(gallery))
+  filter(!is.na(V3)) %>%
+  knitr::kable(format = "pipe")
+
+cat(res$char, sep = "\n")
 
 res <- res %>%
   mutate(g = str_replace_all(str_match(gallery, "\\}(.+)\\{")[,2], fixed("\\"),""))

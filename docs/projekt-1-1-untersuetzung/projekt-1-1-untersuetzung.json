@@ -24,6 +24,18 @@
     "input_file": {}
   },
   {
+    "path": "projekt-1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massn/",
+    "title": "Bonussystem zur Massnahmen-Realisierung",
+    "description": "Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds. Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.",
+    "author": [],
+    "date": "2016-01-09",
+    "categories": [],
+    "contents": "\n\n\n\nDie 4 Typen von Strukturen mit Möglichkeit zur finanziellen Abgeltung werden auf Seite 2 und 3 in je einer durchgehenden Spalte beschrieben (Feldscheunen-Sanierungen werden im Einzelfall behandelt, vgl. diesem Beitrag); In den Spalten folgen den baulichen Anforderungen auf Seite 2 die Vergütungen für die Erstellung und der Bonus für den Erhalt (& Unterhalt) nach jeweils zwei Jahren auf Seite 3.\nBei den Vergütungen für die Erstellung wird zudem unterschieden, ob die Strukturen eigens vom Bewirtschafter oder in Zusammenarbeit mit Freiwilligen von Wiesel & Co am Zimmerberg erstellt werden. Zeigt sich die Trägerschaft (WiCoZ) für die Erstellung zuständig, so entfällt die Erstvergütung, nach 2 Jahren kann der Bonus dennoch geltend gemacht werden.\nWird die Struktur weiter als 10m von der nächsten zweckmässigen Deckungsstruktur für Kleinraubtiere erstellt, so kann ein grösserer (dunkelgelb hinterlegter) Betrag gesprochen werden, als wenn innerhalb 10m bereits andere Deckungsstrukturen Schutz bieten (hellgelb hinterlegter Betrag)\nDer Vergütungs-Rechner vereinfacht die Berechnung stark - machen Sie sich hier eine Vorstellung davon.\nDer Projektfond wird übrigens hauptsächlich ermöglicht durch Gelder, die für gemeinnützige Zwecke vorgesehen sind und belastet insofern nicht das Budget der öffentlichen Hand.\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": "projekt-1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massn/bonussystem.png",
+    "last_modified": "2021-07-28T14:45:57+02:00",
+    "input_file": {}
+  },
+  {
     "path": "projekt-1-1-untersuetzung/63-unsere-massnahmen-mit-landwirtschaftl/",
     "title": "Für Landwirte: Kumulierung mit DZV",
     "description": "Unser Bonus-System gilt unabhängig von der Direktzahlungs-Verordnung, doch können Synergien genutzt werden.  Insbesondere sind zum Teil Strukturen wie Asthaufen eine Möglichkeit, um die Qualitätsstufe II bzw. den Vernetzungszuschlag von bestimmten Biodiversitätsförderflächen (BFF; früher \"Ökoflächen\") zu erlangen. Strukturen werden z.T. auch für Label vorausgesetzt. Das extra vom Strickhof Lindau erstellte Merkblatt zeigt dies in Stichworten.",
@@ -34,17 +46,5 @@
     "preview": "projekt-1-1-untersuetzung/63-unsere-massnahmen-mit-landwirtschaftl/hermelin_mit_beute.jpg",
     "last_modified": "2021-06-22T22:44:08+02:00",
     "input_file": {}
-  },
-  {
-    "path": "projekt-1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massn/",
-    "title": "Bonussystem zur Massnahmen-Realisierung",
-    "description": "Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds. Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.",
-    "author": [],
-    "date": "2016-01-09",
-    "categories": [],
-    "contents": "\n\n\n\nDie 4 Typen von Strukturen mit Möglichkeit zur finanziellen Abgeltung werden auf Seite 2 und 3 in je einer durchgehenden Spalte beschrieben (Feldscheunen-Sanierungen werden im Einzelfall behandelt, vgl. diesem Beitrag); In den Spalten folgen den baulichen Anforderungen auf Seite 2 die Vergütungen für die Erstellung und der Bonus für den Erhalt (& Unterhalt) nach jeweils zwei Jahren auf Seite 3.\nBei den Vergütungen für die Erstellung wird zudem unterschieden, ob die Strukturen eigens vom Bewirtschafter oder in Zusammenarbeit mit Freiwilligen von Wiesel & Co am Zimmerberg erstellt werden. Zeigt sich die Trägerschaft (WiCoZ) für die Erstellung zuständig, so entfällt die Erstvergütung, nach 2 Jahren kann der Bonus dennoch geltend gemacht werden.\nWird die Struktur weiter als 10m von der nächsten zweckmässigen Deckungsstruktur für Kleinraubtiere erstellt, so kann ein grösserer (dunkelgelb hinterlegter) Betrag gesprochen werden, als wenn innerhalb 10m bereits andere Deckungsstrukturen Schutz bieten (hellgelb hinterlegter Betrag)\nDer Vergütungs-Rechner vereinfacht die Berechnung stark - machen Sie sich hier eine Vorstellung davon.\nDer Projektfond wird übrigens hauptsächlich ermöglicht durch Gelder, die für gemeinnützige Zwecke vorgesehen sind und belastet insofern nicht das Budget der öffentlichen Hand.\n\nArtikel bearbeiten\n\n\n\n\n\n",
-    "preview": "projekt-1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massn/bonussystem.png",
-    "last_modified": "2021-07-28T14:45:56+02:00",
-    "input_file": "61-bonus-system-zur-verguetung-von-massn.knit.md"
   }
 ]
