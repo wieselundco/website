@@ -25,19 +25,7 @@ Altersstufen.
 
 <!-- {gallery}fotos/WieselwerkeBis17-18{/gallery} -->
 
-
-<link rel="stylesheet" href="www/lightbox-2-2.11.3/css/lightbox.min.css">
-<script src="www/lightbox-2-2.11.3/js/lightbox.min.js"></script>
-
-```{r, echo = FALSE}
-library(tidyverse)
-library(gallerier)
-
-gallerier:::lightbox_rmd()
-list.files(path = "gallery", pattern = ".jpg$",full.names = TRUE) %>%
-  tibble(src = .) %>%
-  gallerier::lightbox_gallery("source", width = 200, display = TRUE)
-```
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719653759135" title="WieselwerkeBis17-18"><img src="https://live.staticflickr.com/65535/51340668708_63e0a15403.jpg" width="640" height="480" alt="WieselwerkeBis17-18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Besonders wertvoll ist, wenn die SchülerInnen den vielfältigen Feldtag
 nach einigen Monaten mit einem erneuten Besuch vor Ort vertiefen können.

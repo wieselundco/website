@@ -18,16 +18,8 @@ Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 20
 
 <!-- {gallery}fotos/Wuehlmaus-Workshops_17-19{/gallery}   -->
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719600636784" title="Wuehlmaus-Workshops_17-19"><img src="https://live.staticflickr.com/65535/51341187854_28b6d18394.jpg" width="640" height="480" alt="Wuehlmaus-Workshops_17-19"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-```{r, echo = FALSE}
-library(tidyverse)
-library(gallerier)
-
-gallerier:::lightbox_rmd()
-list.files(path = "gallery", pattern = ".jpg$",full.names = TRUE) %>%
-  tibble(src = .) %>%
-  gallerier::lightbox_gallery("source", width = 200, display = TRUE)
-```
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

@@ -23,6 +23,20 @@ res %>%
     fd = paste0("- [ ] ",file, " (", g, ")")
   ) %>% pull(fd) %>% cat(sep = "\n")
 
+
+
+res %>%
+  mutate(web = map_chr(str_split(file, "/"), ~paste(.x[2:3], collapse = "/"))) %>%
+  mutate(web = paste0("https://wieselundco.github.io/website/",str_remove(web, "_"))) %>%
+  pull(web) %>%
+  paste("- [ ]",.) %>%
+  cat(sep = "\n")
+
+
+
+
+
+
 imagess <- str_match(images, "(images(/\\w+)*\\.\\w+)")[,2]
 
 imagess[!is.na(imagess)]
