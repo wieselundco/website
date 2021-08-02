@@ -5,7 +5,7 @@ description: |
   
   Aufgrund ihrer Kurzlebigkeit und ihrem besonderen Aktivitätsrhythmus sind gezielte Beobachtungen dieser Tierarten schwierig.
   
-  Dennoch lohnt sich eine [Pirsch, wenn sie auf den beschriebenen Wegen gehen] und die Sinne schärfen!
+  Dennoch lohnt sich eine Pirsch, wenn sie auf den beschriebenen Wegen gehen und die Sinne schärfen!
   
 date: 06-24-2021
 preview: wieselprisch_intro.jpg
