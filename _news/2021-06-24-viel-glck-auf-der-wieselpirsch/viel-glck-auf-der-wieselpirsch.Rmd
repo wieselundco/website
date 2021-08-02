@@ -4,7 +4,9 @@ description: |
   Sichtungen von Wiesel & Co brauchen etwas Glück.
   
   Aufgrund ihrer Kurzlebigkeit und ihrem besonderen Aktivitätsrhythmus sind gezielte Beobachtungen dieser Tierarten schwierig.
+  
   Dennoch lohnt sich eine [Pirsch, wenn sie auf den beschriebenen Wegen gehen] und die Sinne schärfen!
+  
 date: 06-24-2021
 preview: wieselprisch_intro.jpg
 output:
@@ -14,7 +16,7 @@ output:
 
 Die [Zwei-Seeli-Tour](https://map.wanderland.ch/?lang=de&p=&route=all&photos=yes&logo=yes&season=summer&resolution=1.01&E=2692342&N=1226467&bgLayer=pk&layers=Wanderland%2CStation&trackId=6665128) führt durch die Hügellandschaft zwischen Hütten, Schönenberg und Samstagern.
 
-[Flyer BirdLiefZürich](BirdLifeZurich-Wieselpirsch.pdf)
+[Flyer BirdLifeZürich](BirdLifeZurich-Wieselpirsch.pdf)
 
 ```{r, echo = FALSE}
 knitr::include_graphics("BirdLifeZurich-Wieselpirsch.jpg")
