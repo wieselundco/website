@@ -1,7 +1,7 @@
 ---
 title: 'zum Kontaktformular'
 description: |
-  Email mit Beobachtungsmeldung senden   
+  Email mit Beobachtungsmeldung senden
 date: 2014-05-20
 output:
   distill::distill_article:
