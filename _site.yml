@@ -3,6 +3,7 @@ title: "Wiesel & Co am Zimmerberg"
 description: |
   Wiesel & Co am Zimmerberg
 output_dir: "docs"
+base_url: https://wieselundco.github.io/website
 navbar:
   left:
     - text: "Home"
