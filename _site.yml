@@ -61,4 +61,6 @@ collections:
     categories: false
   wissenschaft-externe-projekte:
     categories: false
-output: distill::distill_article
+output:
+  distill::distill_article:
+    css: styles.css
