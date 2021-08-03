@@ -4,6 +4,8 @@ description: |
   Wiesel & Co am Zimmerberg
 output_dir: "docs"
 base_url: https://wieselundco.github.io/website
+cookie_consent:
+  style: simple
 navbar:
   left:
     - text: "Home"
