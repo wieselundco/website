@@ -1,5 +1,5 @@
 name: "Wiesel & Co am Zimmerberg"
-title: "Wiesel & Co am Zimmerberg"
+title: "Wiesel & Co am Zimmerberg (2014 - 2021)"
 description: |
   Wiesel & Co am Zimmerberg
 output_dir: "docs"
@@ -8,8 +8,6 @@ cookie_consent:
   style: simple
 navbar:
   left:
-    - text: "Home"
-      href: index.html
     - text: "Das Projekt"
       menu:
       - text: "Ausgangslage und Ziele"
