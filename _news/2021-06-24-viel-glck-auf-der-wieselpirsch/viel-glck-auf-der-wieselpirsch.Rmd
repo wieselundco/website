@@ -19,7 +19,7 @@ Die [Zwei-Seeli-Tour](https://map.wanderland.ch/?lang=de&p=&route=all&photos=yes
 [Flyer BirdLifeZürich](BirdLifeZurich-Wieselpirsch.pdf)
 
 ```{r, echo = FALSE}
-knitr::include_graphics("BirdLifeZurich-Wieselpirsch.jpg")
+knitr::include_graphics("wieselpirsch.jpg")
 ```
 
 
