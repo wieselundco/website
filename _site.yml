@@ -14,8 +14,6 @@ navbar:
       menu:
       - text: "Ausgangslage und Ziele"
         href: Ausgangslage-und-Ziele.html
-      - text: "Welche Massnahmen?"
-        href: Welche-Massnahmen.html
       - text: "Bonus System"
         href: Bonus-System.html
       - text: "Resultate"
@@ -29,8 +27,10 @@ navbar:
           href: Wiesel-und-Co-Projekte.html
         - text: "Externe Projekte"
           href: Externe-Projekte.html
-    - text: "Mitwirken"
+    - text: "Förderung"
       menu:
+        - text: "Welche Massnahmen?"
+          href: Welche-Massnahmen.html
         - text: "Anpacken"
           href: Anpacken.html
         - text: "Beobachtung melden"
