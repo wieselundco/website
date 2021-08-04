@@ -15,26 +15,6 @@ params:
 ---
 
 
-<!-- {vsig} bilder/verwandschaft{/vsig} -->
-
-<!-- {vsig\_c}1|1\_Mustela\_nivalis\_1.jpg|Mauswiesel|*Mustela -->
-<!-- nivalis*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|1\_Mustela\_nivalis\_2.jpg|Mauswiesel|*Mustela -->
-<!-- nivalis*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|1\_Mustela\_nivalis\_3.jpg|Mauswiesel|*Mustela -->
-<!-- nivalis*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|2\_Mustela\_erminea.jpg|Hermelin|*Mustela erminea*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|3\_Martes\_martes.jpg|Baummarder|*Martes martes*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|4\_Martes\_foina.jpg|Steinmarder|*Martes foina*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|5\_Mustela\_putorius.jpg|Iltis|*Mustela putorius*{/vsig\_c} -->
-
-<!-- {vsig\_c}1|6\_Meles\_meles.jpg|Dachs|*Meles meles*{/vsig\_c} -->
 
 Sie alle sind Raubtiere, charakterisiert durch frontal augerichtete
 Augen, einen muskulösen Körper, ihr Gebiss mit Reisszähnen und

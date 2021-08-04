@@ -15,16 +15,11 @@ params:
 ---
 
 
- {vsig}fotos/2014\_01\_28\_braun-weisses\_hermelin{/vsig}
+```{r, echo = FALSE}
+knitr::include_graphics("D90_20140127_39322_387_257_90.jpg")
+knitr::include_graphics("D90_20140127_39328_387_257_90.jpg")
+```
 
-{vsig\_c}0|D90\_20140127\_39322.jpg|Chirchmoos Kilchberg: Ein Nicht ganz
-weisses Hermelin  ...|{/vsig\_c}
-
-{vsig\_c}0|D90\_20140127\_39328.jpg|... verschafft sich im "Männchen"
-Überblick.{/vsig\_c}
-
-{vsig\_c}0|PICT\_20120722\_32711.jpg|Seit wenigen Jahren wieder
-möglich: Altgras mit Asthaufen im Chirchmoos, Kilchberg|{/vsig\_c}
 
 Im letztjährigen Frühling (also im Jahr 2013) war es, als ich mit meinem
 Hund ganz in der Nähe besagter Tennisplätze unterwegs war. Die Wiesen

@@ -1,7 +1,7 @@
 ---
 title: 'Newsletter abonnieren'
 description: |
-  Der Newsletter erreicht Sie mit den interessantesten Aktivitäten und Plänen rund um Wiesel & Co am Zimmerberg - vor allem im Winterhalbjahr mit Möglichkeiten zum Mitwirken. Unsere Neuigkeiten verschicken wir ca. 4 Mal jährlich - Abmeldung jederzeit möglich. An- und Abmeldung bitte an mail@wieselundco.ch.
+  Der Newsletter erreicht Sie mit den interessantesten Aktivitäten und Plänen rund um Wiesel & Co am Zimmerberg - vor allem im Winterhalbjahr mit Möglichkeiten zum Mitwirken. Unsere Neuigkeiten verschicken wir ca. 4 Mal jährlich - Abmeldung jederzeit möglich. An- und Abmeldung bitte an mail_at_wieselundco.ch.
 date: 2014-01-30
 output:
   distill::distill_article:
@@ -11,10 +11,6 @@ params:
   rmdpath: _mithelfen-anpacken-mithelfen/19-newsletter-abonnieren/19-newsletter-abonnieren.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
-
-
-
-
 
 
 ```{r,results='asis', echo = FALSE}
