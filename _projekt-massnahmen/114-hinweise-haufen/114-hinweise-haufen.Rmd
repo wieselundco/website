@@ -35,7 +35,9 @@ Nebst der guten Zugänglichkeit dürfte ein weiterer Grund die vorteilhafte Bekl
 
 Idealerweise wird ein Asthaufen von Beginn weg aus grobem, massivem Material wie Wurzelstöcken, Stamm- und Stangenholz aufgebaut - bestenfalls aus beständigen Holzarten. Denn die realisierten Asthaufen sollen auch möglichst lange bestehen. Zu bedenken ist, dass selbst voluminöse Asthaufen innert weniger Jahren stark zerfallen, sofern sie aus Weichholz aufgebaut werden. Diesem Zerfall kann mit einer periodischen Aufstockung begegnet werden.
 
-(**Bild Hermelin in Asthaufen #32**) 
+```{r , echo = FALSE}
+knitr::include_graphics('127888904-d6406100-e937-4c96-adc9-f5bd8afc576a.jpg', error = FALSE) 
+```
 
 
 Holz- und Steinhaufen können sowohl von Hand wie auch maschinell
@@ -56,9 +58,10 @@ bestimmen. Der Aufbau beginnt in diesem Fall mit einer Lage Astmaterial,
 die für den talseitigen Schutz der bergseitig anschliessenden Nistkammer
 sorgen wird:
 
-<img src="images/fotos/Massnahmen-Page/WiCoZ-Schulklasse-Maerz-2018-2_red.jpg" width="330" height="440" />
+```{r , echo = FALSE}
+knitr::include_graphics('IMG_0173_red.jpg', error = FALSE) 
+```
 
- 
 
 **Die maschinelle Anlage** von Haufen mit Hilfe von forstlichen
 Kranwagen o.ä. verfolgt die gleichen Prinzipien wie im PDF mit den
@@ -89,9 +92,6 @@ anzubieten.
 
  
 
- <img src="images/fotos/Massnahmen-Page/Lebensraum_Beispiel.png" width="381" height="216" />
-
-<img src="images/fotos/Massnahmen-Page/quelle.jpg" width="369" height="16" />
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
