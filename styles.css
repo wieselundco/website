@@ -10,3 +10,7 @@ d-article a {
   border-bottom: 2px solid #E3865B;
   text-decoration: none;
 }
+
+.nav-search {
+    font-size: large;
+}
