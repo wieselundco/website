@@ -90,6 +90,10 @@ von Wühlmäusen) sehr wichtig, an ungestörten Orten mit Nahrungsvorkommen
 gleich etwa fünf Deckungsstrukturen wie z.B. Holz- oder Steinhaufen
 anzubieten.    
 
+```{r , echo = FALSE}
+knitr::include_graphics('Lebensraum_Beispiel.png', error = FALSE) 
+```
+
  
 
 
