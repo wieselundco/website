@@ -1,6 +1,6 @@
 ---
-title: "Wiesel & Co am Zimmerberg"
-image: ""
+title: "2014 - 2021"
+image: "white.jpg"
 links:
   - label: GitHub
     url: "https://github.com/wieselundco/"
