@@ -15,7 +15,7 @@ params:
 ---
 
 
-<!-- [{vsig}fotos/2014\_01\_28\_NSV\_Schoenenberg{/vsig}](http://www.nv-schoenenberg.ch/joomla/index.php)   -->
+<!-- <a href='http://www.nv-schoenenberg.ch/joomla/index.php' target='_blank'>{vsig}fotos/2014\_01\_28\_NSV\_Schoenenberg{/vsig}</a>   -->
 <!-- {vsig\_c}0|haufenbau.jpg|Bau von Asthaufen nach -->
 <!-- Wieselnetz-Art|{/vsig\_c}   -->
 <!-- {vsig\_c}0|hermelin\_fotofalle.jpg|Normalerweise sind Hermeline zu flink -->
@@ -24,7 +24,7 @@ params:
 <!-- haben Spuren hinterlassen|{/vsig\_c} -->
 
 Interessierten Lesern steht der Schlussbericht des Projekts zum [Download](Schlussbericht_Schoenenberg.pdf) bereit. Die Website des
-[Naturschutzvereins Schönenberg](http://www.nv-schoenenberg.ch/) vermittelt zudem eindrückliche Bilder und Worte.
+<a href='http://www.nv-schoenenberg.ch/' target='_blank'>Naturschutzvereins Schönenberg</a> vermittelt zudem eindrückliche Bilder und Worte.
 
   
 Das erfolgreiche Projekt zeigte schon während seiner Laufzeit Wirkung in

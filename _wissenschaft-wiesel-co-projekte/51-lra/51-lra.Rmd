@@ -38,7 +38,7 @@ die Legende.
 Das Resultat der studentischen Arbeit ist im Eigentum der [Zürcher
 Hochschule für Angewandte Wissenschaften](http://lsfm.zhaw.ch/de.html).
 
-[<img src="images/bilder/GIS/lra.png" width="265" height="122" alt="LRA" />](https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21)
+<a href='https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21' target='_blank'><img src="images/bilder/GIS/lra.png" width="265" height="122" alt="LRA" /></a>
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

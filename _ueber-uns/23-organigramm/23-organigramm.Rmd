@@ -24,12 +24,12 @@ sind möglich:
 
 Landwirtschaft und -eigentümer:
 
-- [Werner und Karin Fankhauser, Schluchtalhof Wädenswil](http://www.schluchtalhof.ch/)
+- <a href='http://www.schluchtalhof.ch/' target='_blank'>Werner und Karin Fankhauser, Schluchtalhof Wädenswil</a>
 - Werner Höhn, Stocken
 - Esther Scherz, Aahalden
 - Susanna Kramer, Steinweid
 - Emmi und Ernst Streuli, Untere Rietwies
-- [Werner und Eva Haab, Steinacherhof](http://www.biohof-steinacher.ch)
+- <a href='http://www.biohof-steinacher.ch' target='_blank'>Werner und Eva Haab, Steinacherhof</a>
 - Stephan Vetsch, Stockengut Kilchberg
 - Hannes Leuthold, Hirzel
 
@@ -37,7 +37,7 @@ Landwirtschaft und -eigentümer:
 Jagd:
 
 - Jagdgesellschaft Bocken, George Scott
-- [Fischerei- und Jagdverwaltung des Kantons Zürich](http://www.aln.zh.ch/internet/baudirektion/aln/de/fjv.html), Jagdadjunkt Jürg Zinggeler
+- <a href='http://www.aln.zh.ch/internet/baudirektion/aln/de/fjv.html' target='_blank'>Fischerei- und Jagdverwaltung des Kantons Zürich</a>, Jagdadjunkt Jürg Zinggeler
 - Gilbert De Steffani , Leiter des Jagdbezirks Amt
 - Jagdgesellschaft Schönenberg, Hanspeter Pfister
 - Jagdgesellschaft Hütten, Willy Baumann
@@ -51,8 +51,8 @@ Naturschutz:
 - Livia Haag, Obstgartenprojekt Horgen-Wädenswil
 - Michael Schlitner, Vernetzungsprojekt Wädenswil-Horgen und Hütten
 - Daniel Winter und Hannes Leuthold, Vernetzungsprojekt Hirzel-Schönenberg
-- Cristina Boschi, [Stiftung Wieselnetz](http://www.wieselnetz.ch/)
-- Mathias Villiger, [ZVS/Birdlife-Zürich](http://www.birdlife-zuerich.ch)
+- Cristina Boschi, <a href='http://www.wieselnetz.ch/' target='_blank'>Stiftung Wieselnetz</a>
+- Mathias Villiger, <a href='http://www.birdlife-zuerich.ch' target='_blank'>ZVS/Birdlife-Zürich</a>
 - Heiko Schindler, Vernetzungsprojekt Rüschlikon
 - Darius Weber, Hintermannweber
 - Matthias Wüst, freischaffender Umweltpädagoge und Wildtierbiologe
@@ -85,8 +85,8 @@ Forst:
 
 Forschung
 
-- [Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil](http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html)
-- [Forschungsgruppe Geoinformatik der ZHAW Wädenswil](http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html)
+- <a href='http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html' target='_blank'>Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil</a>
+- <a href='http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html' target='_blank'>Forschungsgruppe Geoinformatik der ZHAW Wädenswil</a>
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

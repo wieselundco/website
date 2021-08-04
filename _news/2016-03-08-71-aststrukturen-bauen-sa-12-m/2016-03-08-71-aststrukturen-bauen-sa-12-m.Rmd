@@ -25,7 +25,7 @@ knitr::include_graphics('IMG_0103.JPG', error = FALSE) #images/fotos/2015_03_14-
 **Am Samstag Vormittag (12.3)** werden wir entlang dem verbliebenen
 Bachlauf zwischen Pappelweg und Neuhofstrasse im Langacher (Horgen)
 Strukturen errichten. Wir bewegen uns auf dem Land von der Familie
-Leuthold [www.chueweidli.ch](http://chueweidli.ch/), die die
+Leuthold <a href='http://chueweidli.ch/' target='_blank'>www.chueweidli.ch</a>, die die
 Kleinraubtiere mit der Bereitschaft zum Asthaufenbau unterstützt. Das
 Astmaterial stammt von der Durchforstung des Bachgehölz und wurde
 ausgeführt vom Werkhof der Gemeinde. Von 9 bis 12 Uhr nehmen wir uns

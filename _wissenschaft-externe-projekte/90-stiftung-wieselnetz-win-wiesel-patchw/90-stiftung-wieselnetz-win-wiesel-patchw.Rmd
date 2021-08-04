@@ -39,7 +39,7 @@ Ergänzungen der aufgewerteten Flächen oder Verbesserungen und Unterhalt
 von schon getroffenen Massnahmen können aber auch in Zukunft dazukommen.
 
 (Direkt übernommen von:
-[www.wieselnetz.ch](http://wieselnetz.ch/de/home/projekte-win/praxisprojekte/))
+<a href='http://wieselnetz.ch/de/home/projekte-win/praxisprojekte/)' target='_blank'>www.wieselnetz.ch</a>
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

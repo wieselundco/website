@@ -26,7 +26,7 @@ Spurentunneln versehen.
 
 Zum Zmittag bräteln wir am Feuer.
 
-[Hier geht es zur Anmeldung](http://goo.gl/forms/p06Q4LO7VX) - wir
+<a href='http://goo.gl/forms/p06Q4LO7VX' target='_blank'>Hier geht es zur Anmeldung</a> - wir
 freuen uns auf junge Menschen, die einen aktiven und respektvollen Tag
 im Wald erleben möchten! 
 

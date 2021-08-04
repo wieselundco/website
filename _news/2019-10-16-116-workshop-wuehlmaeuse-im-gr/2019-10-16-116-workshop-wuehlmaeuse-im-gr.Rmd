@@ -33,7 +33,7 @@ Teilnehmerzahl beschränkt – Berücksichtigung nach Eingang der Anmeldung.
 
  
 **Anmeldung via diesen Link 
-[ANMELDUNG](https://www.google.com/url?q=https://goo.gl/forms/6kydQp1sDhqOFjP33&sa=D&usd=2&usg=AOvVaw1JNT8VTkfOsrouo0vtxd29) oder
+<a href='https://www.google.com/url?q=https://goo.gl/forms/6kydQp1sDhqOFjP33&sa=D&usd=2&usg=AOvVaw1JNT8VTkfOsrouo0vtxd29' target='_blank'>ANMELDUNG</a> oder
 <keller@wieselundco.ch> **
 
 **bis spätestens Dienstag 22. Oktober 2019**

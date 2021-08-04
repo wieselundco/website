@@ -16,7 +16,7 @@ params:
 
 Nebst den untenstehenden Sequenzen gibt es auch fortlaufend regionale
 Wiesel-Filmchen auf unserem
-[youtube-Kanal](https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ/videos).**
+<a href='https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ/videos' target='_blank'>youtube-Kanal</a>.**
 
 
 Unglaublich, was ein Hermelin an Beute machen kann!
