@@ -5,6 +5,7 @@ all_rmds <- list.files(pattern = ".Rmd", recursive = TRUE, full.names = TRUE)
 
 ## Gets all urls
 url_df <- map_dfr(all_rmds, function(x){
+
     rl <- read_lines(x)
 
     res <- str_match(rl, "\\[(.+)\\]\\((http.+)\\)")
@@ -19,7 +20,10 @@ url_df <- map_dfr(all_rmds, function(x){
 
 
 ## converts external urls (starting with http) into html urls
-url_df <- map_dfr(all_rmds, function(x){
+imap(all_rmds, function(x, i){
+
+  print(paste(i, x))
+
   rl <- read_lines(x)
 
   rl_new <- str_replace(rl,"\\[(.+)\\]\\((http.+)\\)", "<a href='\\2' target='_blank'>\\1</a>")
