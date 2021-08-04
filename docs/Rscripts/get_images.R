@@ -1,42 +1,25 @@
 
 library(tidyverse)
+
 all_rmds <- list.files(pattern = ".Rmd", recursive = TRUE, full.names = TRUE)
 
-
-## Gets all urls
-url_df <- map_dfr(all_rmds, function(x){
-
+map_dfr(all_rmds, function(x){
     rl <- read_lines(x)
 
-    res <- str_match(rl, "\\[(.+)\\]\\((http.+)\\)")
+    cha <- rl[str_detect(rl, "\\[.+\\]")]
 
+    res <- str_match(rl, "\\[(.+)\\]\\((.+)\\)")
 
     as.data.frame(res) %>%
-      mutate(file = x)
+      mutate(file = x) %>%
+      select(-V1, -V2)
 
 
-  })
+  }) %>%
+  filter(!is.na(V3)) %>%
+  knitr::kable(format = "pipe")
 
-
-
-## converts external urls (starting with http) into html urls
-imap(all_rmds, function(x, i){
-
-  print(paste(i, x))
-
-  rl <- read_lines(x)
-
-  rl_new <- str_replace(rl,"\\[(.+)\\]\\((http.+)\\)", "<a href='\\2' target='_blank'>\\1</a>")
-
-  write_lines(rl_new, file = x)
-})
-
-## checks if urls are external
-
-url_df %>%
-  filter(!is.na(V1)) %>%
-  filter(startsWith(V3, "http")) %>% View
-
+cat(res$char, sep = "\n")
 
 res <- res %>%
   mutate(g = str_replace_all(str_match(gallery, "\\}(.+)\\{")[,2], fixed("\\"),""))
