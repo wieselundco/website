@@ -1,6 +1,6 @@
 ---
 title: "2014 - 2021"
-image: "white.jpg"
+image: "Wiesel_Logo_RGB_zugeschnitten_square.png"
 links:
   - label: GitHub
     url: "https://github.com/wieselundco/"
@@ -10,13 +10,14 @@ output:
 ---
 
 ```{r, echo = FALSE}
-knitr::include_graphics("Wiesel_Logo_RGB_zugeschnitten_700px.png")
+# knitr::include_graphics("Wiesel_Logo_RGB_zugeschnitten_700px.png")
 ```
 
 
+Das Projekt im Bezirk Horgen ZH war von 2014 bis 2021 aktiv.
 
-Das Projekt Wiesel & Co am Zimmerberg war von 2014 bis 2021 aktiv.
-Viele der News sind auch heute noch interessant.
+
+Unser Knowhow stellen wir gerne zur Verfügung.
 
 ```{r, echo = FALSE}
 # library(dplyr)
