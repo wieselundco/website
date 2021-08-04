@@ -5,76 +5,76 @@
       "title": "Anpacken",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:10+02:00"
+      "last_modified": "2021-08-04T11:14:03+02:00"
     },
     {
       "path": "Ausgangslage-und-Ziele.html",
       "title": "Ausgangslage und Ziele",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:11+02:00"
+      "last_modified": "2021-08-04T11:14:04+02:00"
     },
     {
       "path": "Beobachtung-Melden.html",
       "title": "Beobachtung Melden",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:12+02:00"
+      "last_modified": "2021-08-04T11:14:04+02:00"
     },
     {
       "path": "Bonus-System.html",
       "title": "Bonus System",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:13+02:00"
+      "last_modified": "2021-08-04T11:14:05+02:00"
     },
     {
       "path": "Externe-Projekte.html",
       "title": "Externe Projekte",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:14+02:00"
+      "last_modified": "2021-08-04T11:14:06+02:00"
     },
     {
       "path": "index.html",
       "title": "2014 - 2021",
       "author": [],
       "contents": "\n\n          \n          \n          Wiesel & Co am Zimmerberg (2014 - 2021)\n          \n          \n          Das Projekt\n           \n          ▾\n          \n          \n          Ausgangslage und Ziele\n          Bonus System\n          Resultate\n          \n          \n          \n          \n          Wissenschaft\n           \n          ▾\n          \n          \n          TubeCam\n          Wiesel & Co Projekte\n          Externe Projekte\n          \n          \n          \n          \n          Förderung\n           \n          ▾\n          \n          \n          Welche Massnahmen?\n          Anpacken\n          Beobachtung melden\n          \n          \n          \n          \n          Faszination Kleinraubtiere\n           \n          ▾\n          \n          \n          Unsere Zielarten\n          Mensch und Wiesel\n          Wühlmäuse im Griff?\n          \n          \n          Über uns\n          News\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            2014 - 2021\n          \n          \n            \n              \n              Das Projekt Wiesel & Co am Zimmerberg war von 2014 bis 2021 aktiv. Viele der News sind auch heute noch interessant.\n            \n            \n              \n              Das Projekt Wiesel & Co am Zimmerberg war von 2014 bis 2021 aktiv. Viele der News sind auch heute noch interessant.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-08-04T11:11:14+02:00"
+      "last_modified": "2021-08-04T11:14:07+02:00"
     },
     {
       "path": "Mensch-und-Wiesel.html",
       "title": "Mensch und Wiesel",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:15+02:00"
+      "last_modified": "2021-08-04T11:14:07+02:00"
     },
     {
       "path": "News.html",
       "title": "News",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:16+02:00"
+      "last_modified": "2021-08-04T11:14:09+02:00"
     },
     {
       "path": "Projekt.html",
       "title": "Projekt",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:17+02:00"
+      "last_modified": "2021-08-04T11:14:10+02:00"
     },
     {
       "path": "Readme.html",
       "author": [],
       "contents": "\nNotes for publishers\n\nI am publishing this website via netlify, because website redirects are very simple with netlify. My (Nils) netlify account has been granted access to all wieselundco github repos and I created an netlify site wieselundco. Everytime I push to https://github.com/wieselundco/website, netlify pulls the Publish directory, builds the site and publishes it to wieselundco.netlify.app.\nIn the very near future, I need to create a CNAME record in metanet which points wieselundco.ch to https://wieselundco.netlify.app/. Then, I need to Enable automatic TLS certificates with Let’s Encrypt.\n\n\n",
-      "last_modified": "2021-08-04T11:11:17+02:00"
+      "last_modified": "2021-08-04T11:14:10+02:00"
     },
     {
       "path": "Resultate.html",
       "title": "Resultate",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:18+02:00"
+      "last_modified": "2021-08-04T11:14:11+02:00"
     },
     {
       "path": "TubeCam.html",
@@ -82,42 +82,42 @@
       "description": "Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:19+02:00"
+      "last_modified": "2021-08-04T11:14:12+02:00"
     },
     {
       "path": "Ueber-uns.html",
       "title": "Über uns",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:20+02:00"
+      "last_modified": "2021-08-04T11:14:13+02:00"
     },
     {
       "path": "Unsere-Zielarten.html",
       "title": "Unsere Zielarten",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:21+02:00"
+      "last_modified": "2021-08-04T11:14:14+02:00"
     },
     {
       "path": "Welche-Massnahmen.html",
       "title": "Welche Massnahmen?",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:22+02:00"
+      "last_modified": "2021-08-04T11:14:15+02:00"
     },
     {
       "path": "Wiesel-und-Co-Projekte.html",
       "title": "Wiesel & Co Projekte",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:23+02:00"
+      "last_modified": "2021-08-04T11:14:15+02:00"
     },
     {
       "path": "Wuehlmaeuse-im-Griff.html",
       "title": "Wühlmäuse im Griff?",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-04T11:11:24+02:00"
+      "last_modified": "2021-08-04T11:14:16+02:00"
     }
   ],
   "collections": ["projekt-ausgangslage/projekt-ausgangslage.json", "projekt-massnahmen/projekt-massnahmen.json", "projekt-resultate/projekt-resultate.json", "wissenschaft-tubecam/wissenschaft-tubecam.json", "wissenschaft-wiesel-co-projekte/wissenschaft-wiesel-co-projekte.json", "wissenschaft-externe-projekte/wissenschaft-externe-projekte.json", "mithelfen-anpacken-mithelfen/mithelfen-anpacken-mithelfen.json", "mithelfen-anpacken-beobachtung/mithelfen-anpacken-beobachtung.json", "projekt-1-1-untersuetzung/projekt-1-1-untersuetzung.json", "faszination-kleinraubtiere-mensch-wiesel/faszination-kleinraubtiere-mensch-wiesel.json", "news/news.json", "projekt/projekt.json", "ueber-uns/ueber-uns.json", "faszination-kleinraubtiere-unsere-leitarten/faszination-kleinraubtiere-unsere-leitarten.json", "faszination-kleinraubtiere-wuehlmaeuse/faszination-kleinraubtiere-wuehlmaeuse.json"]
