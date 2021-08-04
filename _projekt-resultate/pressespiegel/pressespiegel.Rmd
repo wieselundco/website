@@ -1,0 +1,31 @@
+---
+title: 'Pressespiegel'
+description: |
+  Die Aktivitäten von Wiesel & Co am Zimmerberg fanden in verschiedenen Pressehäusern Resonanz.
+  
+  Folgend einige Artikel und Verweise auf lesens- oder sehenswerte Publikationen: 
+date: 2021-08-04
+preview: 28_FS-Seeli_1000px.jpg
+image_intro: images/fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen/28_FS-Seeli_1000px.jpg
+image_fulltext: images/fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen/11_FS-Chrutzelenmoos_1000px.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/pressespiegel
+params:
+  rmdpath: _projekt-resultate/pressespiegel/pressespiegel.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
+---
+
+
+- [April 2021, Zürichsee-Zeitung "Landwirte und Wiesel helfen sich gegenseitig" (Abo)](https://www.zsz.ch/landwirte-und-wiesel-helfen-sich-gegenseitig-900393926751)
+- [Mai 2021, Wädenswiler-/Richterswiler Anzeiger "Grosser Einsatz für kleine Raubtiere"](https://waedenswiler-anzeiger.ch/2021/05/19/grosser-einsatz-fuer-kleine-raubtiere)
+- [Mai 2021, Kilchberger Gemeindeblatt "Mehr Lebensraum für Kleinraubtiere"](KIBG_s6_WiCoZ_21_05_12.pdf))
+
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+```
+
