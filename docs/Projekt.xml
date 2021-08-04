@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Wiesel &amp; Co am Zimmerberg
-(2014 - 2021)</title>
+    <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021)</title>
     <link>https://wieselundco.github.io/website</link>
     <atom:link href="https://wieselundco.github.io/website/Projekt.xml" rel="self" type="application/rss+xml"/>
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
   </channel>
 </rss>
