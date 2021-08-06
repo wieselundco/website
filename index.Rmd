@@ -1,40 +1,19 @@
 ---
-title: "2014 - 2021"
+title: "Wiesel & Co am Zimmerberg"
 image: "Wiesel_Logo_RGB_zugeschnitten_square.png"
 links:
   - label: GitHub
     url: "https://github.com/wieselundco/"
 site: distill::distill_website
-output:
-  postcards::jolla
 ---
 
-```{r, echo = FALSE}
-# knitr::include_graphics("Wiesel_Logo_RGB_zugeschnitten_700px.png")
-```
+<img src="hermelin-mit-fetter-beute-974efa75-6f44-49f1-bf21-c088b1e32468.jpg" alt="Iltis" id = "ltis">
 
 
-Das Projekt im Bezirk Horgen ZH war von 2014 bis 2021 aktiv.
+<p style="font-size: x-large; text-align: center;">Das Projekt im Bezirk Horgen ZH war von 2014 bis 2021 aktiv.</h1>
 
 
-Unser Knowhow stellen wir gerne zur Verfügung.
+<p style="font-size: x-large; text-align: center;">Unser Knowhow stellen wir gerne zur Verfügung.</h1>
 
-```{r, echo = FALSE}
-# library(dplyr)
-# library(kableExtra)
-# texts <- c(
-#   "Hatten Sie das Glück einen Iltis, Hermelin oder ein Mauswiesel in seiner natürlichen Umgebung zu beobachten? Dann Melden Sie uns ihre Sichtung!",
-#   "Was gibt's neues bei Wiesel & Co? Erfahren Sie hier was bei uns gerade so läuft",
-#   "Was wollen wir mit unserem Projekt erreichen? Erfahren Sie hier mehr über unsere Ziele",
-#   "Warum sind wir von Kleinraubtieren so fasziniert? Hier können Sie mehr über diese spannenden Tierarten lernen!"
-#   )
-# 
-# images <- c("beobachtung.jpg",  "news.jpg",  "ziele.jpg",  "faszination.jpg")
-# links <- c("Beobachtung-Melden.html","News.html","Projekt.html","Unsere-Zielarten.html")
-# 
-# 
-# tibble(imgs = "", text = texts) %>%
-#   kableExtra::kbl(col.names = NULL) %>%
-#   column_spec(1, image = images,width = "10cm",link = links) 
-```
+<img src="wieselundco_logo.png" alt="Logo">
 

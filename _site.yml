@@ -7,6 +7,8 @@ base_url: https://wieselundco.github.io/website
 cookie_consent:
   style: simple
 navbar:
+  logo:
+    image: wieselundco_logo.png
   left:
     - text: "Das Projekt"
       menu:

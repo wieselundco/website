@@ -14,3 +14,10 @@ d-article a {
 .nav-right {
     color: #E3865B;
 }
+
+#iltis {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
