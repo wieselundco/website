@@ -3,7 +3,7 @@ title: "Wiesel & Co am Zimmerberg (2014 - 2021)"
 description: |
   Wiesel & Co am Zimmerberg
 output_dir: "docs"
-base_url: https://wieselundco.github.io/website
+base_url: https://wieselundco.netlify.app/
 cookie_consent:
   style: simple
 navbar:
