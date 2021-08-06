@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021)</title>
+    <link>https://wieselundco.netlify.app/</link>
+    <atom:link href="https://wieselundco.netlify.app/Externe-Projekte.xml" rel="self" type="application/rss+xml"/>
+    <description>Wiesel &amp; Co am Zimmerberg
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Einzigartiges Nistkammer-Monitoring</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring</link>
+      <description>Auf dem Campus Grüental der ZHAW Wädenswil entstanden dank einer experimentellen Installation einzigartige Bilder vom Innenleben eines Asthaufens. Dass Asthaufen mit Nistkammern attraktive Unterschlüpfe für Wiesel &amp; Co sind, ist unbestritten. Aber was darin vorgeht, entzieht sich i.d.R. unserem Auge. Nun konnten während 17 Monaten über 10'000 Besuche diverser Tierarten im Zentrum eines Asthaufens fotografisch dokumentiert werden. Zeitraffer zeigen erstaunliche Verhaltensweisen.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring/07260411-korr-hochf.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Entwicklung MammaliaBox</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/126-mammaliabox</link>
+      <description>Die Bachelorarbeit von Silvio Aegerter in Umweltingenieurwesen an der ZHAW Wädenswil drehte sich um die Weiterentwicklung der niederländischen 'Mostela'.In dem Sinne wird an der ZHAW weiterhin nach einer Modernisierung der Nachweismethodik geforscht; Weg von den Spurentunneln, die zwar effizient Resultate liefern, dessen Tinte aber zweifelhafte Substanzen enthält. Nachdem das Projekt TubeCam 2019 eingestellt wurde, sucht man weiter nach einer funktionalen Kombination der Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die Kleinraubtiere instinktiv anlockt. Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel &amp; Co am Zimmerberg (Etappe 1) hat sich die MammaliaBox als sehr feldtauglich erwiesen.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/126-mammaliabox</guid>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/126-mammaliabox/DSC01117-schmal.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Monitoring der Kleinmusteliden in der Schweiz (CSCF)</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/87-monitoring-der-kleinmusteliden-in-der</link>
+      <description>Die kleineren Vertreter der Musteliden (Marderartigen) sind eine Artengruppe, über deren Verbreitung und Bestandesdichte in der Schweiz relativ wenig bekannt ist. Es handelt sich dabei um das Mauswiesel, das Hermelin und der Iltis, die alle seit 1988 gemäss Bundesgesetz über die Jagd geschützt sind. Damit fallen die früher über die Jagd und den Fang für diese Arten anfallenden Daten weg, die bei einer Beurteilung hilfreich sein können. Mit einem gesamtschweizerischen Monitoring soll deshalb Vorkommen dieser Arten besser erfasst und dokumentiert werden.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/87-monitoring-der-kleinmusteliden-in-der</guid>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/87-monitoring-der-kleinmusteliden-in-der/CSCF.png" medium="image" type="image/png" width="875" height="584"/>
+    </item>
+    <item>
+      <title>Fördermassnahmen für Wiesel im Landwirtschaftsgebiet (Wieselnetz)</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/89-stiftung-wieselnetz-win-foerdermassna</link>
+      <description>Ziel dieses Projektes war es, Grundlagen zur Wieselförderung im gesamten Landwirtschaftsgebiet der Schweiz zur Verfügung zu stellen. Dabei wurden zusammen mit dem Partner Agrofutura interdisziplinär praktische Anleitungen erarbeitet, welche Landwirten und Landwirtschaftsberatern einen Überblick über wirkungsvolle Massnahmen zur Wieselförderung bieten.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/89-stiftung-wieselnetz-win-foerdermassna</guid>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/89-stiftung-wieselnetz-win-foerdermassna/WIN_foerdermassnahmen.png" medium="image" type="image/png" width="585" height="390"/>
+    </item>
+    <item>
+      <title>Wiesel-Patchwork (Wieselnetz)</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/90-stiftung-wieselnetz-win-wiesel-patchw</link>
+      <description>„Wiesel-Patchwork“ war ein Pilotprojekt zur Förderung von Hermelin- und Mauswiesel-Populationen im Kanton Aargau (Schweiz) und zur Entwicklung und Prüfung der angewandten Methoden. Dabei stand von Anfang an die Förderung und Stützung ganzer Populationen im Fokus, unter Berücksichtigung der natürlichen zeitlichen und räumlichen Dynamik.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/90-stiftung-wieselnetz-win-wiesel-patchw</guid>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/90-stiftung-wieselnetz-win-wiesel-patchw/WIN_patchwork.png" medium="image" type="image/png" width="591" height="395"/>
+    </item>
+    <item>
+      <title>Untersuchung der Nutzung unterschiedlich strukturierter Lebensräume durch Kleinmusteliden und Schläfer</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/91-untersuchung-der-nutzung-unterschiedl</link>
+      <description>Im Rahmen seiner Bachelorarbeit hat ein Student der ZHAW Wädenswil untersucht, wie oft Kleinmusteliden und Schläfer in unterschiedlich strukturierten Lebensräumen vorkommen. Dabei galt es die Hypothese zu belegen, dass strukturgebundene kleinere Säugetiere in stark fragmentierten und isolierten Lebensräumen oft fehlen.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/91-untersuchung-der-nutzung-unterschiedl</guid>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/91-untersuchung-der-nutzung-unterschiedl/engelerpng.png" medium="image" type="image/png" width="745" height="497"/>
+    </item>
+  </channel>
+</rss>

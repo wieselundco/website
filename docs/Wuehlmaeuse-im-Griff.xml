@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021)</title>
+    <link>https://wieselundco.netlify.app/</link>
+    <atom:link href="https://wieselundco.netlify.app/Wuehlmaeuse-im-Griff.xml" rel="self" type="application/rss+xml"/>
+    <description>Wiesel &amp; Co am Zimmerberg
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Die Wühlmaus, ein Schädling? Jein.</title>
+      <link>https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/103-ein-schaedling-mitnichten</link>
+      <description>Unter dem Begriff "Wühlmäuse" werden im Mittelland hauptsächlich folgende Arten verstanden: Schermaus, Feldmaus, Erdmaus, Rötelmaus. Diese Gruppe vornehmlich in Erdgängen lebender Mäuse übernimmt zweifelsohne wichtige Funktionen in unserem Ökosystem. Sie bilden für diverse räuberische Tierarten eine reiche Nahrungsquelle. Zudem lockern Sie den Boden mit Ihren Grabtätigkeiten und bringen aktiv Biomasse in den Boden ein. In Verbindung mit der verbesserten Durchlüftung wird damit das Bodenleben und die -fruchtbarkeit gefördert. Ausserdem sorgen die Tiere für die Verbreitung von Pflanzensamen.  Landwirte und Gärtner bekämpfen aber Schermäuse, Feldmäuse und ihre nächsten Verwandten, weil Sie Ihren Kulturen Schaden zufügen.</description>
+      <guid>https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/103-ein-schaedling-mitnichten</guid>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/103-ein-schaedling-mitnichten/Feldmaus_Microtus_arvalis.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Bekämpfung mit Verstand</title>
+      <link>https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/104-bekaempfung-mit-verstand</link>
+      <description>Eine Massenvermehrung von Wühlmäusen wünscht sich kein Produzent in seinen Kulturen. Mit einer steten Bekämpfung bzw. Bejagung ist ein solches Ereignis sehr unwahrscheinlich.  Natürliche Feinde wie Greif- und Schreitvögel, Fuchs und Hauskatze und insbesondere die beiden Wieselarten sorgen zuverlässig für diese Regulierung, falls Ihnen ein geeigneter Lebensraum zugestanden wird. Greifvögeln kann beispielsweise mit Sitzstangen gut die Jagd erleichtert werden.  Im Fall von Wieseln werden dahingehende Lebensraumaufwertungen durch unser Projekt gefördert. Wiesel sind insofern gegenüber anderen Jägern im Vorteil, als dass sie in die Gänge der Wühlmäuse vordringen und damit sogar deren Brut rauben können. Pro Woche vertilgt ein Hermelin ca. 10 Wühlmäuse. Während der Jungenaufzucht werden für die durchschnittlich 8 Jungen weitere ca.  15 Mäuse pro Woche benötigt!</description>
+      <guid>https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/104-bekaempfung-mit-verstand</guid>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/104-bekaempfung-mit-verstand/hermelin-mit-fetter-beute-974efa75-6f44-49f1-bf21-c088b1e32468.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Wühlmaus-Dossier und Workshop</title>
+      <link>https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/117-info-dossier-und-workshop-2</link>
+      <description>Am 27. Oktober 2017 und 25. Oktober 2019 veranstaltete Wiesel &amp; Co am Zimmerberg in Zusammenarbeit mit dem Wildtierbiologen und "Mauser" Matthias Wüst den Workshop "Wühlmäuse im Griff?". Das eigens für den Workshop zusammengestellte Info-Dossier "Wühlmäuse im Griff?" ist zum Download frei verfügbar. Darin wird das Thema umfassend beschrieben, beginnend bei der Beschreibung von Wühlmausarten und Schadbildern, über ökonomische und strategische Überlegungen bis hin zur Vorstellung der verschiedenen Präventions- und Bekämpfungsmassnahmen.</description>
+      <guid>https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/117-info-dossier-und-workshop-2</guid>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/faszination-kleinraubtiere-wuehlmaeuse/117-info-dossier-und-workshop-2/2017-10-27-15.11.26r.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

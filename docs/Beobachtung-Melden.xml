@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021)</title>
+    <link>https://wieselundco.netlify.app/</link>
+    <atom:link href="https://wieselundco.netlify.app/Beobachtung-Melden.xml" rel="self" type="application/rss+xml"/>
+    <description>Wiesel &amp; Co am Zimmerberg
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>zur interaktiven Karte</title>
+      <link>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte</link>
+      <description>zur Interaktiven Karte</description>
+      <guid>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/39-zur-interaktiven-karte</guid>
+      <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>zum Kontaktformular</title>
+      <link>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/40-zum-kontaktformular</link>
+      <description>Email mit Beobachtungsmeldung senden</description>
+      <guid>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/40-zum-kontaktformular</guid>
+      <pubDate>Tue, 20 May 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warum hilft meine Beobachtungs-Meldung?</title>
+      <link>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-</link>
+      <description>Verlässliche Daten über die Kleinraubtier-Bestände und ihre Entwicklung fehlen schweizweit. Somit sind selbst die Verbreitungskarten, die das Centre Suisse de Cartographie de la Faune (CSCF) anhand den vorhandenen Daten zeigt, mit Vorsicht zu geniessen. Offensichtlich beeinflussen regionale Erhebungen die zitierten Verbreitungskarten so stark, dass sie ein falsches Abbild der Artvorkommen suggerieren könnten. So resultierte aus einem kürzlich erfolgten Monitoring im Kanton Aargau, dass der Baummarder dort weit verbreitet ist. Vergleichbare Landschaften angrenzender Kantone zeigen hingegen auf der Verbreitungskarte eine auffallend lückige Verbreitung. Das fehlende Wissen über das Vorkommen von Kleinraubtieren wird damit augenfällig. Welche Gründe gibt es dafür?</description>
+      <guid>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-</guid>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>via Mail</title>
+      <link>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/32-eine-beobachtung-melden-2</link>
+      <description>via Mail Bitte Kontaktmöglichkeit angeben, damit wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Es ist für uns sehr hilfreich, wenn wir mit Ihnen zur Beobachtung Rücksprache nehmen können. Wir bitten deshalb um eine Kontaktinformation (Name, Tel. oder eMail). Diese Angaben bleiben bei uns und werde nicht für andere Zwecke missbraucht! Damit wir sichergehen können, dass es sich um eine seriöse Beobachtungsmeldung handelt, brauchen wir ein paar Worte welche die Beobachtung beschreibt. Neben der Tierart brauchen können dies Details zum Kleid (Sommer / Winter), Verhalten, Verlässlichkeit der Bestimmung oder Ähnliches sein. Ausserdem wichtig ist der Sichtungszeitpunkt (ungefähr oder genau) und der Ort: Landschaftsnamen, Beschreibungen oder gar die Koordinaten sind sehr erwünscht.</description>
+      <guid>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/32-eine-beobachtung-melden-2</guid>
+      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>via interaktive Karte</title>
+      <link>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/33-eine-beobachtung-melden-3</link>
+      <description>via interaktive Karte Den gewünschten Ort aufsuchen Zoomen mit Mausrad oder + / - geografische Namen oder Adressen mit Suchfeld in Kopfzeile finden  Bei Bedarf unter "Grundkarte" in Kopfzeile den Kartentyp wechseln In der Kopfzeile rechts oben auf "Smart Editor" klicken Die gesichtete Tierart anklicken, wieder loslassen und am gewünschten Ort platzieren. möglichst präzise Angaben und Kontaktmöglichkeit in Maske eintippen. Unter Anlagen können Sie gerne auch ein Bild/Video anhängen. Speichern. Die eigene Sichtungsmeldung verschwindet gleich nach der Erfassung. Sie wird innert einem Monat validiert und danach (ohne ihre Kontaktangaben!) öffentlich angezeigt. Bei den weiteren Farbpunkten auf der Karte handelt es sich ebenfalls um Sichtungsmeldungen. Mit den weiteren Funktionen in der Kopfzeile können Sie übrigens auch Abfragen tätigen und andere Infos anzeigen. Der Layer "Korridore und Patches" bildet eine unserer Planungsgrundlagen.</description>
+      <guid>https://wieselundco.netlify.app/mithelfen-anpacken-beobachtung/33-eine-beobachtung-melden-3</guid>
+      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
