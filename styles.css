@@ -10,3 +10,7 @@ d-article a {
 .nav-search {
     font-size: large;
 }
+
+nav-right, .nav-toggle {
+    color: #E3865B;
+}
