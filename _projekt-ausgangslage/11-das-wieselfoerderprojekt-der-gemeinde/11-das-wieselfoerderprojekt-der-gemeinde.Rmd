@@ -1,7 +1,8 @@
 ---
 title: 'Inspiration'
 description: |
-  Der Naturschutzverein Schönenberg (NVS) wurde durch die Stiftung Wieselnetz (WIN) auf die Thematik der Kleinraubtiere aufmerksam und realisierte mit deren Unterstützung von 2009-2012 ein Wieselprojekt auf ihrem Gemeindegebiet. Die Projektierung erfolgte so überzeugend, dass innert kurzer Frist die nötigen finanziellen Mittel zur Realisierung des Projekts von privaten wie öffentlichen Geldgebern gesprochen wurden.
+  Der Naturschutzverein Schönenberg (NVS) wurde durch die Stiftung Wieselnetz (WIN) auf die Thematik der Kleinraubtiere aufmerksam und realisierte mit deren Unterstützung von 2009-2012 ein Wieselprojekt auf ihrem Gemeindegebiet. 
+  Die Projektierung erfolgte so überzeugend, dass innert kurzer Frist die nötigen finanziellen Mittel zur Realisierung des Projekts von privaten wie öffentlichen Geldgebern gesprochen wurden.
 date: 2014-01-28
 preview: haufenbau_2.jpg
 image_intro: images/fotos/diverse/haufenbau_2.jpg
