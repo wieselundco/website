@@ -1,7 +1,11 @@
 ---
 title: 'Acht Torf- bzw. Streuhütten leben länger'
 description: |
-  Die vergangenen beiden Winterhalbjahre brachten nochmals die Chance, kulturlandschaftlich und ökologisch bedeutende Kleinbauten in Stand zu stellen. Welchen Beteiligten ist es zu verdanken, dass fünf weitere Feldscheunen saniert werden können? Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen wurden: 
+  Die vergangenen beiden Winterhalbjahre brachten nochmals die Chance, kulturlandschaftlich und ökologisch bedeutende Kleinbauten in Stand zu stellen. 
+  
+  Welchen Beteiligten ist es zu verdanken, dass fünf weitere Feldscheunen saniert werden können? 
+  
+  Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen wurden: 
 date: 2021-01-15
 preview: 28_FS-Seeli_1000px.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen/28_FS-Seeli_1000px.jpg
