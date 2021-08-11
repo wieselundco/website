@@ -1,0 +1,33 @@
+---
+title: "Gewässerdurchlässe faunagerecht gestalten"
+description: |
+  Zugunsten der Lebensraumvernetzung hat sich WiCoZ zum Ziel gesetzt, beratende Arbeit hinsichtlich faunagerechter Sanierungen und Gestaltungen von Gewässerdurchlässen zu leisten.
+  
+  Im Zentrum unserer Interessen stehen die Kleinraubtiere, wobei wir uns uns nach der Schweizer Norm 640 696 und dementsprechenden Merkblättern richten.
+date: 08-11-2021
+prewview: 128796016-9f4318d9-5f77-419e-9134-dfc41dd447d4.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Durchlässe bilden eine Schnittstelle von Gewässern und Strassen. Da heute Gewässer und ihre Ufergehölze in der Zimmerberg-Landschaft einen wesentlichen Anteil der ausgedehnten Grünkorridore ausmachen, ist die Funktionalität ihrer Vernetzungsleistung sehr wichtig. 
+
+![](https://user-images.githubusercontent.com/49158554/128794777-065577f4-17a8-4141-9d87-702b9aed7007.jpg)
+
+Idealweise ist ein Durchlass grosszügig dimensioniert und weist beidseitig breite, naturnahe Uferbereiche auf. Damit die Wildtiere Strassenquerungen meiden, sind ausgeprägte Leitelemente entscheidend. Dies können z.B. Hecken oder störungsarme, gut strukturierte Uferwiesen sein. 
+
+![](https://user-images.githubusercontent.com/49158554/128795851-33a438db-b6fd-4d78-a0cc-64bfb8e6291d.JPG)
+
+In engen Durchlässen, wo situationsbedingt keine Uferstreifen möglich sind, ist die Installation von künstlichen Laufflächen eine bewährte Notlösung. Als Material kann Holz, Beton oder Stein zum Einsatz kommen, dies in Abhängigkeit zu den Zielarten und hydrologischen Gegebenheiten. 
+Zentral sind dabei der nahtlose Anschluss der Laufflächenenden an das anschliessende Terrain und Leitstrukturen, die den Wildtieren einen attraktiven Zugang bieten.
+
+![](https://user-images.githubusercontent.com/49158554/128794393-5f3243fb-7b07-492d-814d-ab430894a289.jpg)
+
+WiCoZ regt solche Sanierungen bzw. Gestaltungen wo möglich an und begleitet die Planungs- und Baumassnahmen beraterisch. Dazu können auch Wirkungskontrollen zählen. 
+
+Das Projekt [«Wiederherstellung von Landschaftsverbindungen»](https://naturschutz.ch/hintergrund/portrait/interview-stolpersteine-und-chancen-fu%CC%88r-neue-verbindungen/144666) des Tiefbauamtes des Kantons Zürich diente als hervorragender Partner, um unsere Anliegen einzubringen.
+Bei der [Sanierung des Durchlasses des Meilibachs](https://naturschutz.ch/hintergrund/wissen/im-durchgang-queren-fuchs-und-hase-die-autobahn/143122), wo er die Seestrasse auf Gemeindegebiet Horgen unterquert, wurden wir begleitend einbezogen.
+
+[In der Rubrik Resultate ist zudem unser grosses Engagement bei der Sanierung des Duchlasses Aabach X Zugerstrasse dokumentiert](/news/2021-08-11-effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse/).
+
