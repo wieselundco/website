@@ -3,10 +3,10 @@ title: "Sehenswerte Projekt-Videos mit Interviews u.v.m"
 description: |
   Reservieren Sie sich einen kleinen Heimkinoabend mit Wiesel & Co!
 
-  Zum Projektabschluss war keine Präsenzveranstaltung mit Podiumsdiskussion möglich.
+    Zum Projektabschluss war keine Präsenzveranstaltung mit Podiumsdiskussion möglich.
   Rückblickend ein Glücksfall?
   
-  Wiesel & Co am Zimmerberg hat 15 Projektbeteiligte interviewt und viele tolle Kurzvideos und Bilder aus dem Archiv zu sehenswerten Kurzfilmen zusammengestellt.
+    Wiesel & Co am Zimmerberg hat 15 Projektbeteiligte interviewt und viele tolle Kurzvideos und Bilder aus dem Archiv zu sehenswerten Kurzfilmen zusammengestellt.
 date: 08-11-2021
 preview: 128898050-0d8849c5-39a5-42e7-a9cc-9ad41bf224ca.JPG
 output:
@@ -31,4 +31,7 @@ Wir würden uns sehr freuen, wenn Sie sich Zeit nehmen, um die Videos anzuschaue
 ... denn ist Ihnen schon bekannt, dass derzeit die [Trägerschaft des Naturnetzes Zimmerberg aufgebaut wird?](/_news/2021-08-11-das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut/das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut.html) 
 
 
-HIER UNTEN DIE BEIDEN YOUTUBE FILME (AUCH NOCH) EINBETTEN.
+reminder: HIER UNTEN DIE BEIDEN YOUTUBE FILME (AUCH NOCH) EINBETTEN.
+
+  
+
