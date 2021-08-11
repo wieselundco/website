@@ -3,7 +3,7 @@ title: 'Überarbeitete Karten für Massnahmen und Sichtungen online!'
 description: |
   Die neuen Webkarten geben einen eindrücklichen Überblick und Einblick ins Projekt Wiesel & Co am Zimmerberg. Die Massahmenkarte zeigt stets den aktuellen Stand der realisierten Klein- und Grossstrukturen, der begleiteten faunagerechten Durchlasssanierungen und der sanierten Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es können auch einige weitere Infos abgefragt werden. 
   
-  Die Sichtungskarte erlaubte es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
+    Die Sichtungskarte erlaubte es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
 date: 2019-10-16
 preview: sichtung.jpg
 image_intro: images/bilder/GIS/sichtung.jpg
