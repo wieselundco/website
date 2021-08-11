@@ -1,8 +1,8 @@
 ---
 title: 'Porträt und Ziele'
 description: |
-  "Wiesel & Co am Zimmerberg" ist ein gemeinsames Projekt der Naturschutzvereine des Bezirks Horgen. Wir stärken und vernetzen seit 2014 die Lebensräume der Kleinraubtiere und werten damit auch jene vieler weiterer Arten auf. Die intensive Zusammenarbeit mit Landwirten, den Jagdgesellschaften, Schulklassen, Wissenschaftlern und weiteren Interessierten aus der Bevölkerung ist zentral für unser Projekt. Denn sie schafft Vertrauen zwischen den verschiedenen Interessengruppen, fördert ihr Knowhow und sorgt für eigeninitiativen, integrativen Naturschutz. 
-date: 2014-01-26
+  "Wiesel & Co am Zimmerberg" ist ein gemeinsames Projekt der Naturschutzvereine des Bezirks Horgen. Wir stärkten und vernetzten von 2014 bis 2021 die Lebensräume der Kleinraubtiere und werteten damit auch jene vieler weiterer Arten auf. Die intensive Zusammenarbeit mit Landwirten, den Jagdgesellschaften, Schulklassen, Wissenschaftlern und weiteren Interessierten aus der Bevölkerung war zentral für unser Projekt. Denn sie schafft Vertrauen zwischen den verschiedenen Interessengruppen, fördert ihr Knowhow und sorgt für eigeninitiativen, integrativen Naturschutz. 
+date: 2014-02-26
 preview: Marc_Keller_wwwbilderundwortech.jpg
 image_intro: images/fotos/2014_05_24-25_Wildnissafari/Marc_Keller_wwwbilderundwortech.jpg
 image_fulltext: images/Workshops_Kurstage/0100a_b_20150131_036_02.jpg
@@ -21,14 +21,17 @@ knitr::include_graphics('0100a_b_20150131_036_02.jpg', error = FALSE) #images/Wo
 ```
 
 Die Trägerschaft des Projekts
-besteht aus den Naturschutzvereinen des Bezirks Horgen, der gleichzeitig
+bestand aus den Naturschutzvereinen des Bezirks Horgen, der gleichzeitig
 den geografischen Rahmen darstellt.
 
 Zur Förderung von Wiesel & Co
-werden in erster Linie ihre Lebensräume aufgewertet und untereinander
-vernetzt. Dazu werden u.a. natürliche Strukturen wie Asthaufen und
+wurden in erster Linie ihre Lebensräume aufgewertet und untereinander
+vernetzt. Dazu wurden u.a. natürliche Strukturen wie Asthaufen und
 Hecken geschaffen, die mehr Unterschlüpfe, grösseren Beuteerfolg und
 bessere Bedingungen für die Aufzucht von Jungen schaffen.
+
+   [Download Plakat "Lebensraum - Ansprüche und Anpassungen"](https://github.com/wieselundco/website/files/6970869/Plakat.Lebensraum.pdf)
+
 
 
 
@@ -44,59 +47,55 @@ mitbestimmen.
 
 
 Die
-Trägerschaft sucht seither aktiv die Zusammenarbeit mit
+Trägerschaft suchte seither aktiv die Zusammenarbeit mit
 [Interessengruppen](index.php/die-traegerschaft/23-organigramm), die
 eine Schnittstelle zu Wiesel & Co aufweisen. Die geschaffenen Synergien
-sollen in erster Linie Wiesel & Co am Zimmerberg zur Realisierung der
-Aufwertungs-Massnahmen dienen, aber auch darüber hinaus Vertrauen
-schaffen, das in Zukunft der Entwicklung der Zimmerberglandschaft, ihrer
+dienten in erster Linie Wiesel & Co am Zimmerberg zur Realisierung der
+Aufwertungs-Massnahmen, schufen darüber hinaus auch Vertrauen, das in Zukunft der Entwicklung der Zimmerberglandschaft, ihrer
 Bewohner und ihrer Naturwerte zuträglich sein wird.
 
 
 Die
 [Umsetzungsphase](/projekt-ausgangslage/66-beschrieb-umsetzungsphase/)
-startet in der zweiten Hälfte des Jahres 2015 und endet Mitte
+startete in der zweiten Hälfte des Jahres 2015 und endete Mitte
 2021.
 
 
 Es
-werden einerseits Massnahmen gefördert, die die Stiftung WIN Wieselnetz
-und Agrofutura in der kürzlich erschienenen Broschüre ["Fördermassnahmen
+wurden einerseits Massnahmen gefördert, die die Stiftung WIN Wieselnetz
+und Agrofutura in der Broschüre ["Fördermassnahmen
 für Wiesel im
 Landwirtschaftsgebiet"](http://www.wieselnetz.ch/fileadmin/DATA/pdf_Word/Wieselfoerdermassnahmen_LW.pdf) beschreiben. Für
 die<span
 style="line-height: 13.984000205993652px;"> LandbesitzerInnen <span
 style="line-height: 13.984000205993652px;">bzw.
 -bewirtschafterInnen<span
-style="line-height: 13.984000205993652px;"> kann mit dem projekteigenen
-Bonussytem eine finanzielle Belohnung erfolgen, z.B. für Landwirte die
+style="line-height: 13.984000205993652px;"> konnte mit dem projekteigenen
+Bonussytem eine finanzielle Belohnung erfolgen. Dies z.B. für Landwirte die
 Mehrleistungen erbringen (im Vergleich zu den
 Biodiversitätsförderflächen der Direktzahlungsverordnung des Bundes).  
-Das Projekt begleitet ausserdem
-auch faunagerechte Sanierungen von Bachdurchlässen, unterstützt den
-Erhalt von Feldscheunen (Zufllucht und Nahrung im Winter), das Schaffen
-von Feuchtbiotopen u.a. am Herzen.   
+  
+   Das Projekt begleitete ausserdem
+faunagerechte Sanierungen von Bachdurchlässen und unterstützte den
+Erhalt von Feldscheunen (Zufllucht und Nahrung im Winter).  
 Die Attraktivität der Massnahmen wird laufend geprüft und in der
 Endphase sorgt eine systematische Wirkungskontrolle für Erkenntnisse zu
 den getätigten Massnahmen.
 
 Die Bevölkerung
-soll durch das Projekt zusätzlich in Form von Umweltbildungsangeboten
-und Öffentlichkeitsarbeit profitieren. Je nach Zielgruppe werden dabei
+profitierte durch das Projekt zusätzlich in Form von Umweltbildungsangeboten
+und Öffentlichkeitsarbeit. Je nach Zielgruppe wurden dabei
 z.B. die ökologische Bedeutung der Kleinraubtiere und die aufgewerteten
 Lebensräume oder die Problematik mit Steinmarder im Siedlungsraum
 thematisiert.
 
 Genutzt
-wird die geografische Nähe zur [Forschungsgruppe Wildtiermanagement an
+wurde die geografische Nähe zur [Forschungsgruppe Wildtiermanagement an
 der ZHAW
 Wädenswil](http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html). Die
-Partnerschaft ermöglicht den Austausch von Fachkenntnissen und Synergien
-im Rahmen von studentischen Arbeiten. Hierbei handelt es sich z.B. um
+Partnerschaft ermöglichte den Austausch von Fachkenntnissen und Synergien
+im Rahmen von studentischen Arbeiten. Hierbei handelte es sich z.B. um
 die Erforschung neuer Nachweismethoden von Kleinraubtieren.  
-
-[Wirken Sie mit und tragen Sie zu einem erfolgreichen Projekt
-bei!](/mithelfen-anpacken-mithelfen/20-anpacken/)
 
  
 
