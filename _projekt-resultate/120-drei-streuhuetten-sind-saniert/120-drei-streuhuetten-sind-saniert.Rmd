@@ -3,9 +3,9 @@ title: 'Drei Streuhütten sind saniert'
 description: |
   Im Frühling 2019 konnten die zum Teil sehr aufwändigen Instandstellungen dreier kulturlandschaftlich bedeutender Streuhütten in Schönenberg erfolgreich abgeschlossen werden. 
   
-  Unser Projekt unterstützte die Sanierungen ideell und finanziell, doch zum Erfolg trugen hauptsächlich die initiativen Besitzer der Feldscheunen bei. Ihnen gilt ein grosses Dankeschön, dass uns diese regionaltypischen Bauten für weitere Jahrzehnte von der traditionellen Bewirtschaftung der Streuwiesen erzählen. 
+    Unser Projekt unterstützte die Sanierungen ideell und finanziell, doch zum Erfolg trugen hauptsächlich die initiativen Besitzer der Feldscheunen bei. Ihnen gilt ein grosses Dankeschön, dass uns diese regionaltypischen Bauten für weitere Jahrzehnte von der traditionellen Bewirtschaftung der Streuwiesen erzählen. 
   
-  Erfahren Sie in Bild und Wort, wie die Objekte saniert und ökologisch aufgewertet wurden.
+    Erfahren Sie in Bild und Wort, wie die Objekte saniert und ökologisch aufgewertet wurden.
 date: 2019-06-16
 preview: 807_FS-Steinweid_2019-04-01_092855_red.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/chronik_Steinweid_Hinterberg_Chaltenboden/807_FS-Steinweid_2019-04-01_092855_red.jpg
