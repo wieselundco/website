@@ -1,7 +1,8 @@
 ---
 title: 'Die Trägerschaft stellt sich vor'
 description: |
-  Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare Zusammenarbeit während der kommenden Jahre.
+  Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau. Alle Vereine haben das Projekt die ganze Dauer über getragen. Der NVV Hirzel fusionierte 2021 mir Natur Horgen. 
+  Die untenstehenden Ansprechpersonen dürfen für Fragen und Anliegen auch nach Projektende kontaktiert werden.
 date: 2014-01-08
 
 
@@ -21,13 +22,13 @@ params:
 library(dplyr)
 tribble(
   ~image, ~name,
-  "NVH_Logo_neu_grau.jpg", "Natur Horgen",
-  "Logo_NK_RGB_150dpi.jpg", "Naturschutz Kilchberg",
-  "singdrossel_2.jpg", "Singdrossel Langnau",
-  "nsv_oberrieden_2.jpg", "Natur- und Vogelschutzverein Oberrieden",
-  "nsv_richterswil.png", "Naturschutz Richterswil-Samstagern",
-  "nsv_thalwil_2.gif", "Natur- und Vogelschutzverein Thalwil",
-  "NW_Logo_grau_280px.jpg", "Naturschutz Wädenswil"
+  "NVH_Logo_neu_grau.jpg", "Natur Horgen", "[Thomas Rubin](mailto:trubin@sunrise.ch)"
+  "Logo_NK_RGB_150dpi.jpg", "Naturschutz Kilchberg","[Fabian Schwarzenbach]mailto:fabian.schwarzenbach@bluemail.ch)"
+  "singdrossel_2.jpg", "Singdrossel Langnau","[André Mauley](mailto:a.mauley@hispeed.ch)"
+  "nsv_oberrieden_2.jpg", "Natur- und Vogelschutzverein Oberrieden","[Maurus Frei](mailto:maurus.frei@gruenliberale.ch)"
+  "nsv_richterswil.png", "Naturschutz Richterswil-Samstagern","[Regula Büchler](mailto:buechler@naturschutz-r-s.ch)"
+  "nsv_thalwil_2.gif", "Natur- und Vogelschutzverein Thalwil","[Manuel Brändli](mailto:braendli.manuel@gmx.ch)"
+  "NW_Logo_grau_280px.jpg", "Naturschutz Wädenswil","[Sabina Stokar](mailto:ss@naturwaedi.ch)"
 ) -> df
 
 
