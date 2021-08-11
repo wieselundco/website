@@ -1,8 +1,12 @@
 ---
 title: 'Wieselförderung am Beispiel "Mosli"'
 description: |
-  Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel & Co am Zimmerberg zu zeigen:  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.  
-date: 2017-10-22
+  Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel & Co am Zimmerberg zu zeigen:  
+  
+  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  
+  
+  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.  
+date: 2018-10-22
 preview: beute-hochformat.jpg
 image_intro: images/fotos/Fotofallenbilder/beute-hochformat.jpg
 image_fulltext: images/fotos/Fotofallenbilder/titel-reportage.JPG
@@ -19,8 +23,9 @@ params:
 ```{r , echo = FALSE}
 knitr::include_graphics('titel-reportage.JPG', error = FALSE) #images/fotos/Fotofallenbilder/titel-reportage.JPG
 ```
+[Kurzreportage Schweiz Aktuell](https://tp.srgssr.ch/p/portal?urn=urn:srf:video:7bb03a36-285a-42b7-ac32-135bccec30c7&autoplay=true&legacy=true&width=640&height=360&playerType=)
 
-Nicht zuletzt weil Stygers auf ihrem Land Wiesel gesichtet hatten,
+  Nicht zuletzt weil Stygers auf ihrem Land Wiesel gesichtet hatten,
 zeigten sie sich interessiert um u.a. entlang der Pferderundbahn auf
 offenem Wiesland Unterschlüpfe für Wiesel anzulegen.
 
