@@ -3,7 +3,7 @@ title: 'Systematische Wirkungskontrolle, Etappe 1von2'
 description: |
   Entsprechend [unseren Projektzielen](https://github.com/wieselundco/website/files/6971747/WiCoZ_Phase_2_Projektbeschrieb.pdf)
 wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](https://github.com/wieselundco/website/files/6971748/AnhangC_Patch_Vernetzungsplanung.1.pdf)
- auf den schematischen Korridoren liegen. 
+ auf den schematischen Korridoren liegen.  
  
  Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. 
  
