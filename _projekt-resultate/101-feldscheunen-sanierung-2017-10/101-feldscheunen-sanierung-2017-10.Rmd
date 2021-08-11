@@ -1,7 +1,13 @@
 ---
 title: 'Streuhütte im Hinterbergried steht wieder auf dem Trockenen'
 description: |
-  Sanierungsetappe 2 der Streuhütte im Hinterbergried: Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung. 
+  Sanierungsetappe 2 der Streuhütte im Hinterbergried: 
+  
+  Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. 
+  
+  Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. 
+  
+  Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung. 
 date: 2017-10-22
 preview: Hinterberg_Sanierung_5.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Hinterberg2016_7/Hinterberg_Sanierung_5.jpg
