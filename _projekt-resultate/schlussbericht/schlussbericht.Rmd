@@ -19,6 +19,10 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+```{r, echo = FALSE}
+knitr::include_graphics("schlussbericht.JPG")
+```
+
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
