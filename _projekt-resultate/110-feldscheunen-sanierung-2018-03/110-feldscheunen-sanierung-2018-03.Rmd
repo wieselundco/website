@@ -1,8 +1,10 @@
 ---
 title: 'Die Streuhütte in der Steinweid lebt auf '
 description: |
-  Auch die Streuhütte in der Steinweid erfuhr die zweite Sanierungsetappe. Wie im Fall des Objekts im Hinterbergried ist auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige Stunden zur Restauration des Holzbaus.  Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der Instandstellung ist. 
-date: 2017-10-22
+  Auch die Streuhütte in der Steinweid erfuhr die zweite Sanierungsetappe. Wie im Fall des Objekts im Hinterbergried ist auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige Stunden zur Restauration des Holzbaus.  
+  
+  Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der Instandstellung ist. 
+date: 2018-03-22
 preview: 1430314439048_red.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Steinweid/1430314439048_red.jpg
 image_fulltext: images/fotos/Feldscheunen/Sanierungen/Steinweid/Maerz2018/09_FS-Steinweid_Maerz18.jpg
