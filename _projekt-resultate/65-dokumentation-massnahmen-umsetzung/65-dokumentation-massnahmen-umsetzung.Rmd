@@ -8,7 +8,7 @@ image_intro: images/fotos/2016_01_23_Zopfbach_Heckenpflege/20160123_134612.jpg
 output:
   distill::distill_article:
     self_contained: false
-canonical: /projekt/resultate/65-dokumentation-massnahmen-umsetzung
+canonical: /projekt/resultate/65-dokumentation-massnahmen-umsetzung 
 params:
   rmdpath: _projekt-resultate/65-dokumentation-massnahmen-umsetzung/65-dokumentation-massnahmen-umsetzung.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
