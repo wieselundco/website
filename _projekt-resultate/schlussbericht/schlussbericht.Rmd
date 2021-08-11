@@ -13,6 +13,7 @@ output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/schlussbericht
+preview: schlussbericht.JPG
 params:
   rmdpath: _projekt-resultate/schlussbericht/schlussbericht.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
