@@ -1,15 +1,18 @@
 ---
 title: "Gesamtschau der Wirkungskontrolle"
 description: |
-  In den Jahren 2019 und 2020 hat die ZHAW Wädenswil in unserem Auftrag 50 der realisierten Asthaufen und 11 der realisierten Winterquartiere untersucht. Diese Erhebungen ergeben darüber Aufschluss, wie attraktiv die im Projekt umgesetzten Massnahmen für die Zielarten Hermelin, Mauswiesel und Iltis sind.
+  In den Jahren 2019 und 2020 hat die ZHAW Wädenswil in unserem Auftrag 50 der realisierten Asthaufen und 11 der realisierten Winterquartiere untersucht. 
+  
+    Diese Erhebungen ergeben darüber Aufschluss, wie attraktiv die im Projekt umgesetzten Massnahmen für die Zielarten Hermelin, Mauswiesel und Iltis sind.
+    
+    Das Fazit: Sehr attraktiv
+
+    Eine weitere Erkenntnis ist, dass ein gewisser Faktor besonders zur Attraktivität eines Asthaufens beiträgt...
 date: 08-12-2021
 output:
   distill::distill_article:
     self_contained: false
 ---
-
-_Das Fazit: Sehr attraktiv!_
-_Eine weitere Erkenntnis ist, dass ein gewisser Faktor besonders zur Attraktivität eines Asthaufens beiträgt...__
 
 
 [Der Schlussbericht](https://forschung.wieselundco.ch/erfolgskontrolle/) schafft eine Synthese von verschiedenen Erhebungen und Datensätzen. 
