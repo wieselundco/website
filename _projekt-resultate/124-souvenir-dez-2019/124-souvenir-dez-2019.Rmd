@@ -1,7 +1,11 @@
 ---
 title: 'Impressionen von den Dezember-Aktionen'
 description: |
-  Zeit für Impressionen von unseren Aktionstagen! Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. Die Aktionstage im Dezember waren wieder abwechslungsreich... Sehen Sie selbst:
+  Zeit für Impressionen von unseren Aktionstagen! Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. 
+  
+  Die Aktionstage im Dezember waren wieder abwechslungsreich... 
+  
+  Sehen Sie selbst:
 date: 2019-12-21
 preview: 2019-12-07_134428_red.jpg
 image_intro: images/fotos/diverse/2019-12-07_134428_red.jpg
