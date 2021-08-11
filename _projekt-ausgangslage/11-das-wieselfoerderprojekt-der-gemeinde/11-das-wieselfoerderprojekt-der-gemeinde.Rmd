@@ -34,7 +34,7 @@ weitere Aktionen zusammen mit Naturschutz Wädenswil auf
 dessen Gemeindegebiet zu realisieren. Innert Jahresfrist einigten sich
 die Naturschutzvereine des Bezirks Horgen auf eine Zusammenarbeit
 zugunsten der Kleinraubtiere und geben der [Trägerschaft von Wiesel &
-Co](ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor) am Zimmerberg
+Co](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/) am Zimmerberg
 die nötige Verankerung in der ganzen Region.
 
 ```{r,results='asis', echo = FALSE}
