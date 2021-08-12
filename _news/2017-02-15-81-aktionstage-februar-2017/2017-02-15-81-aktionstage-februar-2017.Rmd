@@ -1,7 +1,9 @@
 ---
 title: 'Kinderaugen, Äste, Wienerli und Tinte'
 description: |
-  Was braucht es mehr für einen kompletten Aktionstag mit Wiesel & Co am Zimmerberg? Vielleicht Sonnenstrahlen? Auch diese segneten unser geschäftiges Treiben an den beiden ersten Einsätzen im 2017. Etwas zeigte sich uns wieder einmal auf erfreuliche Weise:
+  Was braucht es mehr für einen kompletten Aktionstag mit Wiesel & Co am Zimmerberg? Vielleicht Sonnenstrahlen? Auch diese segneten unser geschäftiges Treiben an den beiden ersten Einsätzen im 2017. 
+  
+    Etwas zeigte sich uns wieder einmal auf erfreuliche Weise:
 date: 2017-02-15
 preview: 30_Ausee.jpg
 image_intro: images/fotos/Aktionstage_Winter_2015_6/Moos_Ausee_Feb2017/30_Ausee.jpg
