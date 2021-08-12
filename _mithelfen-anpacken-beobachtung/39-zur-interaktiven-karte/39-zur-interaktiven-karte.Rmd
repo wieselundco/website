@@ -15,6 +15,7 @@ params:
 Seit Beginn des Projekts wurde die Bevölkerung dazu aufgerufen, Beobachtungen von Kleinraubtieren zu melden. Meldungen wurden via das projekteigene Webtool, ein Faltblatt sowie per Mail oder auch mündlich aufgenommen. Die Beobachtungsmeldungen wurden in der Folge verifiziert. 
 
 Rund 500 Meldungen wurden als “plausibel” oder “sicher” beurteilt und sind auf der [interaktiven Sichtungskarte von Wiesel & Co am Zimmerberg](http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36b8f1202244b7bdcc860e06be2270) abrufbar.
+Möglicherweise fragen Sie sich, warum das Mauswiesel in der Region so selten zu sein schein?  [Wir haben auch nur vage Antworten.](https://github.com/wieselundco/website/files/6973002/21-Plakat.Mauswiesel.Erfassung_2021.pdf)
 
 Dieser umfassende Datensatz wird übrigens auch in der [Wirkungskontrolle der Aufwertungsmassnahmen für Wiesel und Co. am Zimmerberg](https://forschung.wieselundco.ch/erfolgskontrolle) behandelt. 
 
