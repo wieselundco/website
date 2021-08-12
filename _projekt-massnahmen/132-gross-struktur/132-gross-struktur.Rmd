@@ -1,7 +1,11 @@
 ---
 title: 'Gross-Strukturen im Bereich von Gittermasten'
 description: |
-  Eine extensiv bewirtschaftete Fläche ab einer Are Grundfläche, die mit mindestens 2 unterschiedlichen Deckungstypen strukturiert ist, kann gemäss unserem Bonus-System als Gross-Struktur gelten. Oftmals sind nicht nur ökologische, sondern auch betriebswirtschaftliche Aspekte entscheidend, ob solch eine Massnahme realisiert werden kann. Wo bereits Bewirtschaftungshindernisse bestehen, wird die Anlage aus der betrieblichen Sicht eher gutgeheissen. Unser Ziel sind solche Pilotmassnahmen nach folgendem Prinzip: 
+  Eine extensiv bewirtschaftete Fläche ab einer Are Grundfläche, die mit mindestens 2 unterschiedlichen Deckungstypen strukturiert ist, kann gemäss unserem Bonus-System als Gross-Struktur gelten. 
+  
+    Oftmals sind nicht nur ökologische, sondern auch betriebswirtschaftliche Aspekte entscheidend, ob solch eine Massnahme realisiert werden kann. Wo bereits Bewirtschaftungshindernisse bestehen, wird die Anlage aus der betrieblichen Sicht eher gutgeheissen. 
+    
+    Unser Ziel sind solche Pilotmassnahmen nach folgendem Prinzip: 
 date: 2021-01-09
 preview: 2021-03-02_100045_1000px.jpg
 image_intro: images/bilder/Gross-Struktur/2021-03-02_100045_1000px.jpg
