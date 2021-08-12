@@ -1,7 +1,7 @@
 ---
 title: 'Netzwerk'
 description: |
-  Gemäss den Projektzielen sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.
+  Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.
 date: 2014-01-22
 output:
   distill::distill_article:
@@ -18,9 +18,8 @@ knitr::include_graphics("Organigramm_WiCoZ.png")
 ```
 
 
-Unter anderem mit folgenden Interessengruppen ist schon eine
-Zusammenarbeit angelaufen bzw. ist der Kontakt hergestellt und Synergien
-sind möglich:
+Mit folgenden Interessengruppen wurde schon früh eine
+Zusammenarbeit möglich und das Netzwerk sollte noch um einiges grösser werden:
 
 Landwirtschaft und -eigentümer:
 
