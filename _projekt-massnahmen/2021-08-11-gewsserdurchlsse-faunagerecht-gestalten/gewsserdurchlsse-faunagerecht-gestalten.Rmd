@@ -3,7 +3,7 @@ title: "Gewässerdurchlässe faunagerecht gestalten"
 description: |
   Zugunsten der Lebensraumvernetzung hat sich WiCoZ zum Ziel gesetzt, beratende Arbeit hinsichtlich faunagerechter Sanierungen und Gestaltungen von Gewässerdurchlässen zu leisten.
   
-  Im Zentrum unserer Interessen stehen die Kleinraubtiere, wobei wir uns uns nach der Schweizer Norm 640 696 und dementsprechenden Merkblättern richten.
+    Im Zentrum unserer Interessen stehen die Kleinraubtiere, wobei wir uns uns nach der Schweizer Norm 640 696 und dementsprechenden Merkblättern richten.
 date: 08-11-2020
 prewview: 128796016-9f4318d9-5f77-419e-9134-dfc41dd447d4.jpg
 output:
