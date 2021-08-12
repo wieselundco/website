@@ -1,7 +1,10 @@
 ---
 title: 'Kleine Tiere - grosse Jäger'
 description: |
-  Bis am 28. Oktober 2018 sei Ihnen die professionell und liebevoll gestaltete Sonderausstellung zu Hermelin und Mauswiesel im Besucherzentrum Sihlwald empfohlen. Dem Besuchenden eröffnet sich eine Menge bestens veranschaulichte Hintergrundinfos zu den beiden kleinsten Raubtieren der Schweiz. Verbinden Sie ihren Ausflug mit dem Schmökern im reichen Buchsortiment, einer Grillade an der Sihl oder dem Beobachten von Fischottern. Die Zusammenarbeit mit dem Wildnispark hat zwei Museums-Tafeln zu unserem Projekt hervorgebracht und wir dürfen auch unseren Teil zum einen oder anderen kommenden Anlass des Wildnisparks beitragen. 
+  Bis am 28. Oktober 2018 sei Ihnen die professionell und liebevoll gestaltete Sonderausstellung zu Hermelin und Mauswiesel im Besucherzentrum Sihlwald empfohlen. 
+  
+    Dem Besuchenden eröffnet sich eine Menge bestens veranschaulichte Hintergrundinfos zu den beiden kleinsten Raubtieren der Schweiz. Verbinden Sie ihren Ausflug mit dem Schmökern im reichen Buchsortiment, einer Grillade an der Sihl oder dem Beobachten von Fischottern. 
+      
 date: 2017-04-03
 preview: schaeppi_snipe.JPG
 image_intro: images/fotos/diverse/schaeppi_snipe.JPG
@@ -14,6 +17,8 @@ params:
   rmdpath: _news/2017-04-03-96-sonderausstellung-wildnispa/2017-04-03-96-sonderausstellung-wildnispa.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
+
+Die Zusammenarbeit mit dem Wildnispark hat zwei Museums-Tafeln zu unserem Projekt hervorgebracht und wir dürfen auch unseren Teil zum einen oder anderen kommenden Anlass des Wildnisparks beitragen. 
 
 An den Waldrändern des Sihlwaldes sind schon einige Kleinstrukturen mit Nistkammer für Wiesel & Co erstellt worden und aktuell startet eine studentische Arbeit, um die Wirkung besagter Strukturen zu prüfen.  Welche anderen wissenschaftlichen Arbeiten uns derzeit beschäftigen, erfahren sie auf der neuen Seite: http://www.wieselundco.ch/wissenschaft
 
