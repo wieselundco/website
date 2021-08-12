@@ -1,7 +1,12 @@
 ---
 title: 'Neues Faltblatt'
 description: |
-  Unsere "Visitenkarte" kommt frisch aus der Presse. Ein Faltblatt, das über das Projekt informiert, Die Zielarten vorstellt und Ihnen die Möglichkeit gibt, uns unkompliziert & bequem Ihre Kleinraubtier-Beobachtungen zu melden. Aber sehen Sie selbst! Die selben Informationen sind übrigens auch als pdf Projektflyer verfügbar. Wir freuen uns über dessen Verbreitung durch Sie!
+  Unsere "Visitenkarte" kommt frisch aus der Presse. Ein Faltblatt, das über das Projekt informiert, Die Zielarten vorstellt und Ihnen die Möglichkeit gibt, uns unkompliziert & bequem Ihre Kleinraubtier-Beobachtungen zu melden. 
+  
+    Aber sehen Sie selbst! 
+  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N4trSo8Vvps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
 date: 2014-01-29
 preview: faltblatt.png
 image_intro: images/bilder/diverse/faltblatt.png
