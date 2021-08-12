@@ -2,7 +2,7 @@
 title: 'Frage - Antwort Spiel'
 description: |
   Wie alt wird ein Hermelin? Was für Geräusche machen Mauswiesel? Teste dein Wissen in diesem spannenden Quiz zu den Wieseln! 
-date: 2014-05-07
+date: 2013-05-07
 output:
   distill::distill_article:
     self_contained: false
