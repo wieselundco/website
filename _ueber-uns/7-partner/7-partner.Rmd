@@ -1,8 +1,8 @@
 ---
 title: 'Geldgeber und Partner'
 description: |
-  Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können: Fonds Landschaft Schweiz, Stiftung Wieselnetz, Fachstelle Naturschutz Kanton Zürich, ZVS/Birdlife-Zürich, Forschungsgruppe Geoinformatik der ZHAW Wädenswil, Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil... Folgend vollständig aufgelistet: 
-date: 2014-01-15
+  Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können: 
+date: 2016-01-15
 output:
   distill::distill_article:
     self_contained: false
@@ -63,7 +63,7 @@ names <- c(
 "WLS WildLife Solutions", 
 "Fachstelle Naturschutz Kanton Zürich", 
 "Naturschutzverein Schönenberg", 
-"ZVS Birdlife-Zürich", 
+"BirdLife Zürich; naturkurse.ch", 
 "Forschungsgruppen Geoinformatik und Wildtiermanagement der ZHAW Wädenswil", 
 "Centre Suisse de Cartographie de la Faune", 
 "Die Schweizer Online Buchhaltung", 
@@ -86,11 +86,7 @@ tibble(logos = "", names = names) %>%
 
 ```
 
- 
 
-Mit [einigen weiteren Vertretern von
-Interessengruppen](ueber-uns/23-organigramm) haben wir schon Kontakt
-aufgenommen.
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
