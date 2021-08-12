@@ -2,7 +2,7 @@
 title: 'Stand der Entwicklung (2021)'
 description: |
   Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel erhältliche Wildtierkameras und modifiziert diese so, dass sie für Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.
-date: 2017-03-05
+date: 2021-03-05
 output:
   distill::distill_article:
     self_contained: false
@@ -26,6 +26,8 @@ bewährt](http://wieselundco.ch/wissenschaft/externe-projekte/126-mammaliabox)
  
 
 ![](images/bilder/mostela_interior_small.png)
+![mostela_interior_small](https://user-images.githubusercontent.com/49158554/129122006-f89b96c9-abee-4e12-b863-25f00fc6df3d.png)
+
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
