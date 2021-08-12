@@ -71,7 +71,7 @@ names <- c(
 <a href="https://dokumentarfilme.ch" target="_blank">www.dokumentarfilme.ch</a>,
 "Jagdgesellschaft Bocken", 
 <a href="http://www.syndrega.ch/" target="_blank">Syndrega GmbH</a>,
-<a href="http://www.illustrat.ch/" target="_blank">Illustrat, Atelier für Grafik und Illustration</a>,
+<a href="http://www.illustrat.ch/" target="_blank">Illustrat, Atelier für Grafik und Illustration</a>, 
 "Harald Cigler, wissenschaftlicher Zeichner", 
 <a href="http://www.schluchtalhof.ch/" target="_blank">Werner und Karin Fankhauser, Schluchtalhof Wädenswil</a>,
 <a href="https://www.stallstreuli.ch/" target="_blank">Streuli Aktivstall, Horgenberg</a>,
