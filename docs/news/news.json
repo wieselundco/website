@@ -12,18 +12,6 @@
     "input_file": {}
   },
   {
-    "path": "news/2021-08-11-effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse/",
-    "title": "Effekt der faunagerechten Sanierung des Durchlasses Zugerstrasse",
-    "description": "Der Gewässerdurchlass des Aabachs unter der Zugerstrasse befindet sich auf Stadtgebiet Wädenswil. Da er auf der gesamten Breite Wasser führt und keine naturnahen Elemente aufweist , überquerten die meisten Wildtiere an dieser Stelle die stark befahrene Strasse.\n\nDie faunagerechte Sanierung durch das Tiefbauamt des Kantons Zürich setzte sich zum Ziel, dass Kleintiere künftig den Durchlass passieren.\n\nWelche Massnahmen werden getroffen und wie ist ihre Wirkung?",
-    "author": [],
-    "date": "2021-08-11",
-    "categories": [],
-    "contents": "\n\nIm Jahr 2019 wurde der Durchlass [entsprechend unseren Absichten] (LINK BEITRAG Gewässerdurchlässe faunagerecht gestalten) saniert. Zugunsten der Durchlässigkeit für Kleintiere (Fuchs und kleiner) wurden beidseitig Betonbankette mit Laufflächen installiert. Zudem bieten integrierte Unterschlüpfe insbesondere Kleinsäugern und Wieseln die Möglichkeit auf dem Weg Deckung aufzusuchen.\n\nUnsere aufwändige Wirkungskontrolle mit Fotofallen zeigt nach 10 monatiger Aufnahme des Ausgangszustands und eben so langer Erhebung des Sollzustandes bisher geringe Wirkung. Welche Tierarten die Laufflächen bereits benutzen und welche nach wie vor nur an den Portalen nachgewiesen werden, zeigt der folgende Bericht. Die Diskussion der Resultate führt zu Massnahmenempfehlungen, die die Frequentierung der Laufflächen in Zukunft steigern sollen.\nDOWNLOAD BERICHT\n.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}\n\nWirkungskontrolle Durchlass Zugerstrasse\n\n\n\n",
-    "preview": "news/2021-08-11-effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse/128798178-54c809da-c6b3-463c-835c-cf032d65b68f.jpg",
-    "last_modified": "2021-08-11T23:50:14+02:00",
-    "input_file": {}
-  },
-  {
     "path": "news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/",
     "title": "Sehenswerte Projekt-Videos mit Interviews u.v.m",
     "description": "Reservieren Sie sich einen kleinen Heimkinoabend mit Wiesel & Co!\n\nZum Projektabschluss war keine Präsenzveranstaltung mit Podiumsdiskussion möglich.\nRückblickend ein Glücksfall?\n\nWiesel & Co am Zimmerberg hat 15 Projektbeteiligte interviewt und viele tolle Kurzvideos und Bilder aus dem Archiv zu sehenswerten Kurzfilmen zusammengestellt.",
@@ -34,6 +22,18 @@
     "preview": "news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/128898050-0d8849c5-39a5-42e7-a9cc-9ad41bf224ca.JPG",
     "last_modified": "2021-08-11T23:41:58+02:00",
     "input_file": {}
+  },
+  {
+    "path": "news/2021-08-11-effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse/",
+    "title": "Effekt der faunagerechten Sanierung des Durchlasses Zugerstrasse",
+    "description": "Der Gewässerdurchlass des Aabachs unter der Zugerstrasse befindet sich auf Stadtgebiet Wädenswil. Da er auf der gesamten Breite Wasser führt und keine naturnahen Elemente aufweist , überquerten die meisten Wildtiere an dieser Stelle die stark befahrene Strasse.\n\nDie faunagerechte Sanierung durch das Tiefbauamt des Kantons Zürich setzte sich zum Ziel, dass Kleintiere künftig den Durchlass passieren.\n\nWelche Massnahmen werden getroffen und wie ist ihre Wirkung?",
+    "author": [],
+    "date": "2021-08-11",
+    "categories": [],
+    "contents": "\n\nIm Jahr 2019 wurde der Durchlass entsprechend unseren Absichten saniert. Zugunsten der Durchlässigkeit für Kleintiere (Fuchs und kleiner) wurden beidseitig Betonbankette mit Laufflächen installiert. Zudem bieten integrierte Unterschlüpfe insbesondere Kleinsäugern und Wieseln die Möglichkeit auf dem Weg Deckung aufzusuchen.\n\nUnsere aufwändige Wirkungskontrolle mit Fotofallen zeigt nach 10 monatiger Aufnahme des Ausgangszustands und eben so langer Erhebung des Sollzustandes bisher geringe Wirkung. Welche Tierarten die Laufflächen bereits benutzen und welche nach wie vor nur an den Portalen nachgewiesen werden, zeigt der folgende Bericht. Die Diskussion der Resultate führt zu Massnahmenempfehlungen, die die Frequentierung der Laufflächen in Zukunft steigern sollen.\nDOWNLOAD BERICHT\n.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}\n\nWirkungskontrolle Durchlass Zugerstrasse\n\n\n\n",
+    "preview": "news/2021-08-11-effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse/128798178-54c809da-c6b3-463c-835c-cf032d65b68f.jpg",
+    "last_modified": "2021-08-13T13:58:50+02:00",
+    "input_file": "effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse.knit.md"
   },
   {
     "path": "news/2021-06-24-viel-glck-auf-der-wieselpirsch/",
