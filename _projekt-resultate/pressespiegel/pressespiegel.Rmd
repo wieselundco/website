@@ -4,7 +4,7 @@ description: |
   Die Aktivitäten von Wiesel & Co am Zimmerberg fanden in verschiedenen Pressehäusern Resonanz.
   
   Folgend einige Artikel und Verweise auf lesens- oder sehenswerte Publikationen: 
-date: 2021-08-04
+date: 2021-06-04
 output:
   distill::distill_article:
     self_contained: false
