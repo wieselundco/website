@@ -14,10 +14,12 @@ navbar:
       menu:
       - text: "Ausgangslage und Ziele"
         href: Ausgangslage-und-Ziele.html
+      - text: "Resultate"
+        href: Resultate.html.
+      - text: "Wirkungskontrolle"
+        href: Wirkungskontrolle.html
       - text: "Bonus System"
         href: Bonus-System.html
-      - text: "Resultate"
-        href: Resultate.html
     - text: "Wissenschaft"
       href: Wissenschaft.html                         # diese seite wird gar nicht angezeigt
       menu:
@@ -31,18 +33,20 @@ navbar:
       menu:
         - text: "Welche Massnahmen?"
           href: Welche-Massnahmen.html
-        - text: "Anpacken"
+        - text: "Praktischer Naturschutz"
           href: Anpacken.html
-        - text: "Beobachtung melden"
-          href: Beobachtung-Melden.html
+        - text: "Wühlmäuse im Griff?"
+          href: Wuehlmaeuse-im-Griff.html
+        - text: "Infoveranstaltungen"
+          href: Infoveranstaltungen.html
+        # - text: "Beobachtung melden"
+        #   href: Beobachtung-Melden.html
     - text: "Faszination Kleinraubtiere"
       menu:
-      - text: "Unsere Zielarten"
-        href: Unsere-Zielarten.html
-      - text: "Mensch und Wiesel"
-        href: Mensch-und-Wiesel.html
-      - text: "Wühlmäuse im Griff?"
-        href: Wuehlmaeuse-im-Griff.html
+        - text: "Unsere Zielarten"
+          href: Unsere-Zielarten.html
+        - text: "Mensch und Wiesel"
+          href: Mensch-und-Wiesel.html
     - text: "Über uns"
       href: Ueber-uns.html
     - text: "News"
@@ -63,6 +67,8 @@ collections:
   wissenschaft-wiesel-co-projekte:
     categories: false
   wissenschaft-externe-projekte:
+    categories: false
+  wirkungskontrolle:
     categories: false
 output:
   distill::distill_article:

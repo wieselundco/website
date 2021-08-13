@@ -1,0 +1,4 @@
+---
+title: "Infoveranstaltungen"
+listing: infoveranstaltungen
+---

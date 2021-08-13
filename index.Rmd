@@ -8,9 +8,9 @@ site: distill::distill_website
 ---
 
 <figure>
-<img src="14022804796_9b801c278e_c.jpg" alt="Iltis" id = "ltis">
+<img src="https://user-images.githubusercontent.com/49158554/128779892-9b2bafca-513e-4ecc-b32b-5f3f08b461f1.jpg" alt="Iltis" id = "ltis">
 <figcaption>
-Foto von <a href="https://flic.kr/p/nn9xju">Kentish Plumber (Flickr)</a
+Foto von Susanne Heusser</a
 
 </figcaption>
 </figure>
