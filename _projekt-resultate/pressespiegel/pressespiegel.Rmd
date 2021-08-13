@@ -19,8 +19,7 @@ params:
 
 - [Februar 2015, Zürichsee-Zeitung "Wie die Wiesel im Bezirk überleben sollen"](https://user-images.githubusercontent.com/49158554/129247794-b5b1acbe-f25d-4777-b64d-a104528a1bc6.jpg)
 
-
-![Januar 2016, Zürcher Bauer, Hinweis Infoveranstaltung](https://user-images.githubusercontent.com/49158554/129119391-4b4566fe-e536-4bb7-aeb3-0de9d6358dc0.png)
+[Januar 2016, Zürcher Bauer, Hinweis Infoveranstaltung](https://github.com/wieselundco/website/files/6982530/Abdruck.Veranstaltungshinweis.pdf)
 
 
 - [Februar 2016, Zürichsee-Zeitung "Ein sicherer Ort gegen Füchse und andere Widrigkeiten"](https://github.com/wieselundco/website/files/6972002/WDENSW.1.PDF)
