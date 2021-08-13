@@ -1,7 +1,10 @@
 ---
 title: 'Neuerscheinung: Atlas der Säugetiere'
 description: |
-  Dieses neue Standardwerk porträtiert nicht nur den aktuellsten Wissensstand über die 99 Säugetierarten der Schweiz und Liechtensteins. Auch die Biologie und Erforschung der Säuger wird thematisiert, die Ökologische Infrastruktur in den Fokus gestellt und vieles mehr.Vom Mauswiesel zum Braunbären über die Schabrackenspitzmaus zum Braunen Langohr:Über 70 Autorinnen leisteten ihren wissenschaftlichen Beitrag.
+  Dieses neue Standardwerk porträtiert nicht nur den aktuellsten Wissensstand über die 99 Säugetierarten der Schweiz und Liechtensteins. Auch die Biologie und Erforschung der Säuger wird thematisiert, die Ökologische Infrastruktur in den Fokus gestellt und vieles mehr. 
+  
+    Vom Mauswiesel zum Braunbären über die Schabrackenspitzmaus zum Braunen Langohr: 
+    Über 70 Autorinnen leisteten ihren wissenschaftlichen Beitrag.
 date: 2021-04-19
 preview: 9783258081786.jpg
 image_intro: images/bilder/00_Wissenschaft/9783258081786.jpg
@@ -16,7 +19,9 @@ params:
 
 
 
-Herzliche Gratulation den Herausgebern der Schweizerischen Gesellschaft für Wildtierbiologie und im Speziellen dem Wädenswiler Wildtierbiologen Roland Graf!Zur Lancierung gibt es das Buch bis zum 30. Juni noch mit 20% Rabatt. Haben Sie übrigens schon das "Ballenberg der Wiesel" auf dem Campus Grüental der ZHAW Wädenswil entdeckt? Die möblierte "Seeparzelle" hatte hier ihren ersten prominenten Auftritt.
+Herzliche Gratulation den Herausgebern der [Schweizerischen Gesellschaft für Wildtierbiologie](https://mitglied.scnat.ch/sgw-ssbf/uuid/i/60b43ec3-43f3-5dfd-b954-2ea46c334bc5-12_S%C3%A4ugetierarten_mehr_als_vor_25_Jahren) und im Speziellen dem Wädenswiler Wildtierbiologen Roland Graf!
+
+Haben Sie übrigens schon das "Ballenberg der Wiesel" auf dem Campus Grüental der ZHAW Wädenswil entdeckt? [Die möblierte "Seeparzelle" hatte hier ihren ersten prominenten Auftritt.](https://srf.ch/play/tv/redirect/detail/48dd0342-872e-4c8b-a550-29947ec00bb3)
 
 
 ```{r,results='asis', echo = FALSE}

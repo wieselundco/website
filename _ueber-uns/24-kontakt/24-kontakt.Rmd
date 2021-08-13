@@ -1,8 +1,12 @@
 ---
 title: 'Kontakt'
 description: |
-  Sie können uns auf folgende Weise kontaktieren:   Wiesel & Co am Zimmerberg  c/o Stefan Keller Aeschstrasse 239122 Mogelsberg Tel: 044 500 52 82     allgemeine Fragen:mail@wieselundco.ch GIS, Website, IT: ratnaweera@wieselundco.ch   Anmeldung Newsletter: mail@wieselundco.ch   
-date: 2014-01-01
+ Nach Projektende dürfen sie für regionspezifische Fragen und Anliegen die [Ansprechpersonen der einstigen Trägerschaft kontaktieren](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/).
+  
+    Für weitere Anliegen zu Wiesel & Co am Zimmerberg kann auch der damalige Projektleiter [Stefan Keller](mailto:umschwung@gmail.com) angeschrieben werden.
+
+    Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](mailto:rata@zhaw.ch)
+date: 2020-01-01
 output:
   distill::distill_article:
     self_contained: false

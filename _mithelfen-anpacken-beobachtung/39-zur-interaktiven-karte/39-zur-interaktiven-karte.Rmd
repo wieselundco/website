@@ -1,8 +1,8 @@
 ---
-title: 'zur interaktiven Karte'
+title: 'Sichtungskarte von Wiesel & Co am Zimmerberg'
 description: |
   zur Interaktiven Karte
-date: 2014-05-20
+date: 2020-05-20
 output:
   distill::distill_article:
     self_contained: false
@@ -12,6 +12,24 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+Seit Beginn des Projekts wurde die Bevölkerung dazu aufgerufen, Beobachtungen von Kleinraubtieren zu melden. Meldungen wurden via das projekteigene Webtool, ein Faltblatt sowie per Mail oder auch mündlich aufgenommen. Die Beobachtungsmeldungen wurden in der Folge verifiziert. 
+
+Rund 500 Meldungen wurden als “plausibel” oder “sicher” beurteilt und sind auf der [interaktiven Sichtungskarte von Wiesel & Co am Zimmerberg](http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36b8f1202244b7bdcc860e06be2270) abrufbar.
+Möglicherweise fragen Sie sich, warum das Mauswiesel in der Region so selten zu sein schein?  [Wir haben auch nur vage Antworten.](https://github.com/wieselundco/website/files/6973002/21-Plakat.Mauswiesel.Erfassung_2021.pdf)
+
+Dieser umfassende Datensatz wird übrigens auch in der [Wirkungskontrolle der Aufwertungsmassnahmen für Wiesel und Co. am Zimmerberg](https://forschung.wieselundco.ch/erfolgskontrolle) behandelt. 
+
+Folgend einige Tipps zur Benutzung der [Sichtunskarte](http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36b8f1202244b7bdcc860e06be2270):
+
+Die Legende kann über das linke Bedienfeld oben rechts in der Kopfzeile eingesehen werden.
+
+Beim Click auf einen Kartenpunkt werden Details zur realisierten Massnahme dargestellt.
+
+In der Layerliste (Bedienfeld "Ebenen" rechts davon) können die Planungsgrundlagen eingeblendet und transparent dargestellt werden.
+
+Abfragen können über das Lupensymbol getätigt und kombiniert werden. Das Ergebnis erscheint als Liste und als blaue Umrandung der zutreffenden Kartenpunkte.
+
+Zur kartographischen Orientierung können ganz rechts die gewünschte Hintergrundkarten gewählt und im Suchfeld oben links nach geografischen Namen (Flurnamen, Adressen, Gemeinden etc.) gesucht werden.
 
 
 ```{r,results='asis', echo = FALSE}

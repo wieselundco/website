@@ -1,7 +1,9 @@
 ---
 title: 'Einzigartiges Nistkammer-Monitoring'
 description: |
-  Auf dem Campus Grüental der ZHAW Wädenswil entstanden dank einer experimentellen Installation einzigartige Bilder vom Innenleben eines Asthaufens. Dass Asthaufen mit Nistkammern attraktive Unterschlüpfe für Wiesel & Co sind, ist unbestritten. Aber was darin vorgeht, entzieht sich i.d.R. unserem Auge. Nun konnten während 17 Monaten über 10'000 Besuche diverser Tierarten im Zentrum eines Asthaufens fotografisch dokumentiert werden. Zeitraffer zeigen erstaunliche Verhaltensweisen.
+  Auf dem Campus Grüental der ZHAW Wädenswil entstanden dank einer experimentellen Installation einzigartige Bilder vom Innenleben eines Asthaufens. Dass Asthaufen mit Nistkammern attraktive Unterschlüpfe für Wiesel & Co sind, ist unbestritten. Aber was darin vorgeht, entzieht sich i.d.R. unserem Auge. 
+  
+    Nun konnten während 17 Monaten über 10'000 Besuche diverser Tierarten im Zentrum eines Asthaufens fotografisch dokumentiert werden. Zeitraffer zeigen erstaunliche Verhaltensweisen.
 date: 2021-01-01
 preview: 07260411-korr-hochf.jpg
 image_intro: images/bilder/00_Wissenschaft/03_extern/07260411-korr-hochf.jpg
@@ -50,8 +52,7 @@ spannende Errungenschaft und viel Erfolg bei der Weiterentwicklung!
 faszinieren
 lassen. ](faszination-kleinraubtiere/mensch-wiesel/115-vernetzungsideen)
 
- 
-
+ ![20180317_093955](https://user-images.githubusercontent.com/49158554/129122587-16d571e0-653f-4f58-bf06-858a13f21b37.jpg)
 ![](images/20180317_093955.jpg)
 
  

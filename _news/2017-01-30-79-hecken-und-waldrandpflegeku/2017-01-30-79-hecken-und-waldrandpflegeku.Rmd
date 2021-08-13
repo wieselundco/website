@@ -1,7 +1,9 @@
 ---
 title: 'Erfreuliche Beteiligung am Hecken- und Waldrandpflegekurs'
 description: |
-  Der Einladung von den vier Organisatoren (Forstrevier linkes Seeufer/Höhronen, Obstgartenprojekt Horgen-Wädenswil, Vernetzungsprojekt Horgen-Wädenswil, Wiesel & Co. am Zimmerberg) folgten zu unserer Freude 32 InteressentInnen, so dass der Kurs in Vollbesetzung von Statten ging.  Die Waldränder und verschiedenen Heckentypen im Bereich der Weiden auf dem Hof von Esther Scherz in der Aahalden sorgten für ein perfektes Terrain für den Kurs vom 25. Januar 2017. 
+  Der Einladung von den vier Organisatoren (Forstrevier linkes Seeufer/Höhronen, Obstgartenprojekt Horgen-Wädenswil, Vernetzungsprojekt Horgen-Wädenswil, Wiesel & Co. am Zimmerberg) folgten zu unserer Freude 32 InteressentInnen, so dass der Kurs in Vollbesetzung von Statten ging.  
+  
+    Die Waldränder und verschiedenen Heckentypen im Bereich der Weiden auf dem Hof von Esther Scherz in der Aahalden sorgten für ein perfektes Terrain für den Kurs vom 25. Januar 2017. 
 date: 2017-01-30
 preview: titelbild.PNG
 image_intro: images/fotos/Heckenkurs_20170125/titelbild.PNG

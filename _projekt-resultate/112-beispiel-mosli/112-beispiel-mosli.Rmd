@@ -3,9 +3,9 @@ title: 'Wieselförderung am Beispiel "Mosli"'
 description: |
   Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel & Co am Zimmerberg zu zeigen:  
   
-  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  
+    Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  
   
-  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.  
+    Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.  
 date: 2018-10-22
 preview: beute-hochformat.jpg
 image_intro: images/fotos/Fotofallenbilder/beute-hochformat.jpg

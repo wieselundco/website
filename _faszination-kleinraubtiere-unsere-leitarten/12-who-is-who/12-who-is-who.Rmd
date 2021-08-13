@@ -2,7 +2,7 @@
 title: 'Who is Who? Unsere Zielarten'
 description: |
   Flink hüpfen Hermelin und Mauswiesel über die Wiese. Hin und wieder verschwinden sie in der Erde. Hier jagen die geschickten Räuber langgestreckt und mit kurzen Beinen den Wühlmäusen in ihren Gängen nach.
-date: 2014-01-28
+date: 2015-01-28
 preview: 3_iltis.jpg
 image_intro: images/bilder/arten/proportional/3_iltis.jpg
 output:
@@ -18,6 +18,9 @@ In den engen Mäusebauten können die Wiesel sich keine Fettreserven
 erlauben und so sind sie im ständigen Wechsel von Ruhe- und
 Aktivitätsphasen. Daher lassen sich die neugierigen Tiere über das ganze
 Jahr und zu jeder Tages- und Nachtzeit beobachten.
+
+
+[Kurzporträts aller Säugetiere der Schweiz finden Sie online](https://apps.wildtier.ch/mammals/) oder im 2021 erschienenen [Atlas der Säugetiere](https://www.haupt.ch/buecher/natur-garten/atlas-der-saeugetiere-schweiz-und-liechtenstein.html) der [Schweizerischen Gesellschaft für Wildtierbiologie](https://mitglied.scnat.ch/sgw-ssbf). 
 
 
  

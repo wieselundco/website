@@ -1,7 +1,13 @@
 ---
 title: 'Entwicklung MammaliaBox'
 description: |
-  Die Bachelorarbeit von Silvio Aegerter in Umweltingenieurwesen an der ZHAW Wädenswil drehte sich um die Weiterentwicklung der niederländischen 'Mostela'.In dem Sinne wird an der ZHAW weiterhin nach einer Modernisierung der Nachweismethodik geforscht; Weg von den Spurentunneln, die zwar effizient Resultate liefern, dessen Tinte aber zweifelhafte Substanzen enthält. Nachdem das Projekt TubeCam 2019 eingestellt wurde, sucht man weiter nach einer funktionalen Kombination der Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die Kleinraubtiere instinktiv anlockt. Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel & Co am Zimmerberg (Etappe 1) hat sich die MammaliaBox als sehr feldtauglich erwiesen.
+  Die Bachelorarbeit von Silvio Aegerter in Umweltingenieurwesen an der ZHAW Wädenswil drehte sich um die Weiterentwicklung der niederländischen 'Mostela'.
+  
+    In dem Sinne wird an der ZHAW weiterhin nach einer Modernisierung der Nachweismethodik geforscht; Weg von den Spurentunneln, die zwar effizient Resultate liefern, dessen Tinte aber zweifelhafte Substanzen enthält. 
+    
+    Nachdem das Projekt TubeCam 2019 eingestellt wurde, sucht man weiter nach einer funktionalen Kombination der Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die Kleinraubtiere instinktiv anlockt. 
+    
+    Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel & Co am Zimmerberg (Etappe 1) hat sich die MammaliaBox als sehr feldtauglich erwiesen.
 date: 2020-01-01
 preview: DSC01117-schmal.jpg
 image_intro: images/fotos/diverse/DSC01117-schmal.jpg
@@ -30,7 +36,7 @@ Bemerkenswert ist, dass Silvio Aegerter die Box so konstruierte, dass
 sie sich kompakt ins Feld transportieren und dort unkompliziert
 zusammenstecken lässt. 
 
-Erfahren Sie mehr auf dem Poster (Download Link oben) und in der
+Erfahren Sie mehr auf dem Poster und in der
 Galerie.
 
 

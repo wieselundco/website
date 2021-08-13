@@ -3,12 +3,14 @@ title: 'Schlussbericht der Umsetzungsphase 2015 -2021'
 description: |
   Das Projekt Wiesel & Co am Zimmerberg ist abgeschlossen. 
   
-  Die Inhalte dieser Website geben viele Impressionen zu den vergangenen Jahren.
+    Der vorliegende, bebilderte Schlussbericht fasst die Errungenschaften zusammen, bilanziert die gesetzten Projektziele und wagt einen kurzen Ausblick.
+    
+    Die kürzlich [publizierten Projekt-Videos](https://wieselundco.github.io/website/news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/) vertiefen die Impressionen und den Ausblick in die Zukunft von Wiesel & Co am Zimmerberg.
   
-  Die kürzlich publizierten Videosequenzen wagen sogar einen Ausblick in die Zukunft von Wiesel & Co am Zimmerberg
-  
-  Der bebilderte Schlussbericht fasst die Resultate zusammen und wagt ebenfalls in kurzer Form einen Ausblick. 
-date: 2021-08-04
+    [Download Schlussbericht](LINK FOLGT IM SEPTEMBER)
+    YUMPU LINK FOLGT DANN AUCH
+    
+date: 2021-09-20
 output:
   distill::distill_article:
     self_contained: false

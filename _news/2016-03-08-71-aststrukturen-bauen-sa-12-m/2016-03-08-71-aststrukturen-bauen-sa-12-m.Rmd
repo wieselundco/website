@@ -1,7 +1,9 @@
 ---
 title: 'Aststrukturen bauen am 12., 14. und 19. März'
 description: |
-  Am kommenden Samstag (12.3) bekommen die Kleinraubtiere gleich in zwei verschiedenen Landschaftskammern (Horgen und Wädenswil) Kleinstrukturen gebaut. Am Montag (14.3) wie auch am Samstag darauf (19.3) werden weitere Massnahmen in Wädenswil umgesetzt. Es handelt sich bei diesen Gelegenheiten um die Erstellung von Unterschlupf und Jungenaufzuchtstätten aus Asthaufen mit Hohlraum im Innern. Momentan konzentrieren wir uns auf diese Massnahmentypen, denn sie sind bei bei Wiesel & Co sehr beliebt.
+  Am kommenden Samstag (12.3) bekommen die Kleinraubtiere gleich in zwei verschiedenen Landschaftskammern (Horgen und Wädenswil) Kleinstrukturen gebaut. Am Montag (14.3) wie auch am Samstag darauf (19.3) werden weitere Massnahmen in Wädenswil umgesetzt. 
+  
+      Es handelt sich bei diesen Gelegenheiten um die Erstellung von Unterschlupf und Jungenaufzuchtstätten aus Asthaufen mit Hohlraum im Innern. Momentan konzentrieren wir uns auf diese Massnahmentypen, denn sie sind bei bei Wiesel & Co sehr beliebt.
 date: 2016-03-08
 preview: 20160123_133145.jpg
 image_intro: images/fotos/2016_01_23_Zopfbach_Heckenpflege/20160123_133145.jpg
@@ -67,7 +69,7 @@ erstellen wir zwischen Landwirtschaftsfläche und Waldrand mehrere
 Asthaufen. Eine willkommene Ergänzung der Nistmöglichkeiten für die
 Hermeline, die dort schon gesichtet wurden! Weitere Infos zum Treffpunkt
 und zur Ausrüstung bitte dem [Flyer Samstag
-Eichhof](images/Einladungen/2016_03_16_Einladung_Eichhof.pdf) entnehmen.
+Eichhof](images/Einladungen/2016_03_16_Einladung_Eichhof.pdf) entnehmen. 
 
 Wir freuen uns über Ihr Kommen!!
 

@@ -1,8 +1,8 @@
 ---
 title: 'Geldgeber und Partner'
 description: |
-  Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können: Fonds Landschaft Schweiz, Stiftung Wieselnetz, Fachstelle Naturschutz Kanton Zürich, ZVS/Birdlife-Zürich, Forschungsgruppe Geoinformatik der ZHAW Wädenswil, Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil... Folgend vollständig aufgelistet: 
-date: 2014-01-15
+  Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können: 
+date: 2016-01-15
 output:
   distill::distill_article:
     self_contained: false
@@ -47,35 +47,35 @@ images <- c("Logo_lotteriefonds_ZH.jpg",
 
 
 names <- c(
-"Lotteriefonds Kanton Zürich", 
-"Fonds Landschaft Schweiz", 
-"Ernst Goehner Stiftung", 
-"Temperatio Stiftung", 
+<a href="http://www.lotteriefonds.zh.ch/" target="_blank">Lotteriefonds Kanton Zürich</a>,
+<a href="http://www.fls-fsp.ch/" target="_blank">Fonds Landschaft Schweiz</a>,
+<a href="http://www.ernst-goehner-stiftung.ch/index.php/de" target="_blank">Ernst Goehner Stiftung</a>,
+<a href="http://temperatio.ch/" target="_blank">Temperatio Stiftung</a> ,
 "Graf Fabrice, von Gundlach und Payne Smith-Stiftung", 
-"Paul Schiller Stiftung", 
-"Gemeinde Horgen", 
-"Gemeinde Kilchberg", 
-"Gemeinde Langnau a.A.", 
-"Gemeinde Richterswil", 
-"Gemeinde Thalwil", 
-"Gemeinde Wädenswil", 
-"Stiftung Wieselnetz", 
-"WLS WildLife Solutions", 
-"Fachstelle Naturschutz Kanton Zürich", 
-"Naturschutzverein Schönenberg", 
-"ZVS Birdlife-Zürich", 
-"Forschungsgruppen Geoinformatik und Wildtiermanagement der ZHAW Wädenswil", 
-"Centre Suisse de Cartographie de la Faune", 
-"Die Schweizer Online Buchhaltung", 
-"Stiftung Wildnispark Zürich", 
-"Jost Schneider (www.dokumentarfilme.ch)",
+<a href="http://www.paul-schiller-stiftung.ch/" target="_blank">Paul Schiller Stiftung</a>,
+<a href="http://www.horgen.ch/" target="_blank">Gemeinde Horgen</a>,
+<a href="http://www.kilchberg.ch/" target="_blank">Gemeinde Kilchberg</a>,
+<a href="http://www.langnauamalbis.ch/" target="_blank">Gemeinde Langnau a.A.</a>,
+<a href="http://www.richterswil.ch/" target="_blank">Gemeinde Richterswil</a>,
+<a href="http://www.thalwil.ch/" target="_blank">Gemeinde Thalwil</a>,
+<a href="http://www.waedenswil.ch/" target="_blank">Gemeinde Wädenswil</a>,
+<a href="http://www.wieselnetz.ch/" target="_blank">Stiftung Wieselnetz</a>,
+<a href="http://www.wls.ch/" target="_blank">WLS WildLife Solutions</a>,
+<a href="https://aln.zh.ch/internet/baudirektion/aln/de/naturschutz.html" target="_blank">Fachstelle Naturschutz Kanton Zürich</a>,
+<a href="http://www.nv-schoenenberg.ch/" target="_blank">Fachstelle Naturschutz Kanton Zürich</a>,
+<a href="https://www.birdlife-zuerich.ch/home/" target="_blank">BirdLife Zürich</a>,
+<a href="http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html" target="_blank"Forschungsgruppen Geoinformatik und Wildtiermanagement der ZHAW Wädenswil</a>,
+<a href="http://www.cscf.ch/" target="_blank"> Centre Suisse de Cartographie de la Faune</a>,
+<a href="http://www.cashctrl.com/de/" target="_blank">Die Schweizer Online Buchhaltung mit FREE Version.</a>,
+<a href="https://wildnispark.ch/" target="_blank"> Stiftung Wildnispark Zürich</a>,
+<a href="https://dokumentarfilme.ch" target="_blank">www.dokumentarfilme.ch</a>,
 "Jagdgesellschaft Bocken", 
-"Syndrega GmbH", 
-"Illustrat, Atelier für Grafik und Illustration", 
+<a href="http://www.syndrega.ch/" target="_blank">Syndrega GmbH</a>,
+<a href="http://www.illustrat.ch/" target="_blank">Illustrat, Atelier für Grafik und Illustration</a>, 
 "Harald Cigler, wissenschaftlicher Zeichner", 
-"Werner und Karin Fankhauser, Schluchtalhof Wädenswil", 
-"Streuli Aktivstall, Horgenberg", 
-"Hintermann Weber"
+<a href="http://www.schluchtalhof.ch/" target="_blank">Werner und Karin Fankhauser, Schluchtalhof Wädenswil</a>,
+<a href="https://www.stallstreuli.ch/" target="_blank">Streuli Aktivstall, Horgenberg</a>,
+<a href="http://www.hintermannweber.ch/" target="_blank">Hintermann Weber</a>
 )
 
 library(dplyr)
@@ -86,11 +86,7 @@ tibble(logos = "", names = names) %>%
 
 ```
 
- 
 
-Mit [einigen weiteren Vertretern von
-Interessengruppen](ueber-uns/23-organigramm) haben wir schon Kontakt
-aufgenommen.
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()

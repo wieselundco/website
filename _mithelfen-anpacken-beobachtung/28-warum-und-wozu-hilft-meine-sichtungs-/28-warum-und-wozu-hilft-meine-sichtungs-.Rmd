@@ -1,7 +1,11 @@
 ---
 title: 'Warum hilft meine Beobachtungs-Meldung?'
 description: |
-  Verlässliche Daten über die Kleinraubtier-Bestände und ihre Entwicklung fehlen schweizweit. Somit sind selbst die Verbreitungskarten, die das Centre Suisse de Cartographie de la Faune (CSCF) anhand den vorhandenen Daten zeigt, mit Vorsicht zu geniessen. Offensichtlich beeinflussen regionale Erhebungen die zitierten Verbreitungskarten so stark, dass sie ein falsches Abbild der Artvorkommen suggerieren könnten. So resultierte aus einem kürzlich erfolgten Monitoring im Kanton Aargau, dass der Baummarder dort weit verbreitet ist. Vergleichbare Landschaften angrenzender Kantone zeigen hingegen auf der Verbreitungskarte eine auffallend lückige Verbreitung. Das fehlende Wissen über das Vorkommen von Kleinraubtieren wird damit augenfällig. Welche Gründe gibt es dafür?
+  Verlässliche Daten über die Kleinraubtier-Bestände und ihre Entwicklung fehlen schweizweit. 
+  
+    Selbst die Verbreitungskarten, die das [Centre Suisse de Cartographie de la Faune (CSCF)](http://www.cscf.ch/cscf/de/home.html) anhand den vorhandenen Daten zeigt, sind mit Vorsicht zu geniessen. Offensichtlich beeinflussen regionale Erhebungen die zitierten Verbreitungskarten so stark, dass sie ein falsches Abbild der Artvorkommen suggerieren könnten. So resultierte aus einem kürzlich erfolgten Monitoring im Kanton Aargau, dass der Baummarder dort weit verbreitet ist. Vergleichbare Landschaften angrenzender Kantone zeigen hingegen auf der Verbreitungskarte eine auffallend lückige Verbreitung. 
+  
+    Das fehlende Wissen über das Vorkommen von Kleinraubtieren wird damit augenfällig. Welche Gründe gibt es dafür?
 date: 2014-02-01
 output:
   distill::distill_article:
@@ -45,20 +49,10 @@ erscheinen.
 Die Datenlücken der Kleinraubtier-Bestände dürften mit ein Grund sein
 dafür, dass ein gezielter Schutzbedarf gemäss der Liste der national
 prioritären Arten des Bundesamts für Umwelt für Mauswiesel und Iltis als
-"unsicher" taxiert wird. Aus dem Text geht zumindest hervor, dass die
-Aufwertung des Lebensraums von Nöten ist, um den Rückgang der Population
-abzufangen:
+"unsicher" taxiert wird. 
 
-<img src="images/bilder/diverse/massnahmenbedarf_listepriorarten.JPG" width="646" height="153" />
-
-Quelle: Liste der National Prioritären Arten (BAFU 2011)
-
-Mit ihrer Sichtungs-Meldung
-versuchen wir die Datenlücken zu schliessen um damit den Handlungsbedarf
-in Bezug auf die Kleinraubtiere zu klären. Die erfassten Meldungen
-reichen wir regelmässig dem CSCF weiter, ihre persönlichen Daten reichen
-wir jedoch nicht an Dritte ausserhalb des Projekts Wiesel & Co am
-Zimmerberg weiter.
+Mit ihrer Sichtungs-Meldung tragen Sie dazu bei, den Handlungsbedarf
+in Bezug auf die Kleinraubtiere zu klären. 
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
