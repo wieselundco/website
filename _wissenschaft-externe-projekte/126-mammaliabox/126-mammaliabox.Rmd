@@ -38,7 +38,7 @@ zusammenstecken lässt.
 
 Erfahren Sie mehr auf dem Poster, das auch in der Galerie enthalten ist.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719671434929" title="MammaliaBox"><img src="https://live.staticflickr.com/65535/51374542584_d29aeeecee_z.jpg" width="640" height="480" alt="MammaliaBox"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719671434929" title="MammaliaBox"><img src="https://live.staticflickr.com/65535/51374542584_d29aeeecee_z.jpg" width="640" height="480" alt="MammaliaBox"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>>
 
  
 
