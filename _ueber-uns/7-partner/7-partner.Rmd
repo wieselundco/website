@@ -63,7 +63,7 @@ urls <- c(
   "https://aln.zh.ch/internet/baudirektion/aln/de/naturschutz.html",
   "http://www.nv-schoenenberg.ch/",
   "https://www.birdlife-zuerich.ch/home/",
-  "http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html",
+  "https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/ecosystems-and-biodiversity/",
   "http://www.cscf.ch/",
   "http://www.cashctrl.com/de/",
   "https://wildnispark.ch/",
