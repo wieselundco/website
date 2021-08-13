@@ -9,10 +9,13 @@ output:
   distill::distill_article:
     self_contained: false
 canonical: /projekt/resultate/pressespiegel
+preview: https://user-images.githubusercontent.com/49158554/129121007-6ce0a617-2888-4f96-a1e6-0662ae97aca4.jpg
 params:
   rmdpath: _projekt-resultate/pressespiegel/pressespiegel.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
+
+
 
 
 [Dezember 2015, Zürichsee-Zeitung "Regierungsrat unterstützt regionales Wieselprojekt - Horgen - zsz.pdf](https://github.com/wieselundco/website/files/6971985/Horgen_.Regierungsrat.unterstutzt.regionales.Wieselprojekt.-.Horgen.-.zsz.pdf)
@@ -38,6 +41,8 @@ params:
 - <a href='https://waedenswiler-anzeiger.ch/2021/05/19/grosser-einsatz-fuer-kleine-raubtiere' target='_blank'>Mai 2021, Wädenswiler-/Richterswiler Anzeiger "Grosser Einsatz für kleine Raubtiere"</a>
 - [Mai 2021, Kilchberger Gemeindeblatt "Mehr Lebensraum für Kleinraubtiere"](KIBG_s6_WiCoZ_21_05_12.pdf))
 [August 2021, Zürichsee-Zeitung "Neuese Netzwerk soll Natur am linken Seeufer fördern" (Abo)](https://www.zsz.ch/neues-netzwerk-soll-natur-am-linken-seeufer-foerdern-822039542417)
+
+![](https://user-images.githubusercontent.com/49158554/129121054-4eb7d66e-e581-4012-ab17-8f7526bcbe47.JPG)
 
 ```{r,results='asis', echo = FALSE}
 pander::pandoc.horizontal.rule()
