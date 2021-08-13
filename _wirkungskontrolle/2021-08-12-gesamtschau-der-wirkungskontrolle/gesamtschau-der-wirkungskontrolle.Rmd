@@ -9,6 +9,7 @@ description: |
 
     Eine weitere Erkenntnis ist, dass ein gewisser Faktor besonders zur Attraktivität eines Asthaufens beiträgt...
 date: 08-12-2021
+preview: https://user-images.githubusercontent.com/49158554/129116401-4c31ce31-2a54-4d6c-a4e7-0c589f863533.jpg
 output:
   distill::distill_article:
     self_contained: false
