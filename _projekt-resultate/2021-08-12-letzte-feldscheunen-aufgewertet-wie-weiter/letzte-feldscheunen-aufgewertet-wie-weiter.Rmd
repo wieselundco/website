@@ -7,6 +7,7 @@ description: |
   
   Erfahren Sie mehr und machen sich ein Bild von den Sanierungen.
 date: 08-12-2021
+preview: https://user-images.githubusercontent.com/49158554/129117922-8c8120d3-644f-4cd7-8be2-d55280667437.jpg
 output:
   distill::distill_article:
     self_contained: false
