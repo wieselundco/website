@@ -1,0 +1,35 @@
+---
+title: "Rückblick auf die Wildnissafari 2014"
+description: |
+  Der Schritt von Wiesel & Co am Zimmerberg an die Öffentlichkeit glückte dank vielen begeisterungsfähigen Besuchern und herrlichem Frühsommer-Wetter.
+
+  Ein Naturlabor sei die interaktive Form eines Standes – dies die Vorgabe seitens der Organisatoren des Wildnisparks Zürich. Wir liessen uns natürlich nicht zweimal bitten – Sehen Sie selbst das Feuerwerk von anschaulichen und spielerischen Elementen im Album.
+preview: https://user-images.githubusercontent.com/49158554/129252764-7b0bcf6a-c08f-4032-93dc-d647d324280c.JPG
+date: 08-30-2014
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Die Präsenz an der Wildnis-Safari diente einerseits zur Information über die weitgehend unbekannte Welt von Wiesel und Co:
+
+Präparate und Kurzfilme offenbarten ihre Erscheinungsweise und deren Bestimmungsmöglichkeiten. Ihr erhöhter Gefährdungsgrad wurde anhand von Plakaten begründet und machte den Handlungsbedarf am Zimmerberg zugunsten der drei Kleinraubtierarten offensichtlich. Dass die Bevölkerung im Rahmen des Projekts praktische Mitmachmöglichkeiten erhält, war ebenso Thema des Naturlabors.
+
+Einige der Besuchenden konnten schon freudig von ihren Beobachtungen dieser sympathischen Tiere berichten. Ihr Eintrag auf der lebensgrossen Landkarte brachte der Trägerschaft des Projekts weitere wichtige Anhaltspunkte für zukünftige Aufwertungsmassnahmen in der Landschaft.
+
+Andererseits sorgte das Naturlabor dazu, in die Lebenswelt eines Kleinraubtiers einzutauchen. Den kleinen Besuchern stellten sich alsbald einige Fragen:
+
+- Sich schminken lassen wie ein possierliches Hermelin oder doch lieber wie ein furchterregender Iltis?
+- Welche Schwanzfarbe passt zu meinem geschminkten Gesicht?
+- Wie hüpft es sich als Kleinraubtier?
+- Wie fühlt sich die Enge des Innern eines Asthaufens an?
+- Erwische ich tastend das gesuchte Fressen?
+- Ist die Tatze eines Mauswiesels tatsächlich so klein?
+- Wo in der Landschaft lauern Gefahren auf Wiesel & Co?
+- Kann ich mir nochmals eine Schoggimaus verdienen, wenn ich das Quiz löse?
+
+Bei den älteren Besuchern sorgten die „Wieselgeschichten für Erwachsene“ für Stirnrunzeln. Ein Wiesel gebärt durch das Ohr? Wiesel als Unglücksboten? Oder Bezwinger des Basilisken? Aber auch die realen Aspekte von Wiesel & Co: Existiert am Zimmerberg tatsächlich das kleinste Raubtier der Welt? Wie kann es möglich sein, dass Kleinraubtiere Beute machen, die ein Vielfaches grösser und schwerer ist als sie selbst?
+
+Danke für Euer spürbares Interesse! Sollten Sie nicht zu den BesucherInnen gezählt haben – Besuchen Sie uns gerne an den kommenden Standaktionen, die auf dieser Website angekündigt werden. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719724921580" title="Wildnissafari, Besucherzentrum Sihlwald, 2014"><img src="https://live.staticflickr.com/65535/51374971200_7e90b9a3fa_z.jpg" width="640" height="480" alt="Wildnissafari, Besucherzentrum Sihlwald, 2014"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
