@@ -9,7 +9,7 @@ b <- function(str){
 }
 
 
-keyword_open <- function(keyword){
+keyword_open <- function(keyword, open_i = NULL){
   library(tidyverse)
 
   level0 <- list.files(pattern = ".Rmd",recursive = FALSE)
@@ -22,14 +22,18 @@ keyword_open <- function(keyword){
 
   res <- all_rmd_files[str_detect(all_rmd_files, keyword)]
 
+  if(!is.null(open_i)) res <- res[open_i]
+
   res_len <- length(res)
+
   if(res_len == 0){
     print("Sorry, noting found")
   }  else if(res_len == 1){
+
     print(paste("opening",res))
     b(res)
-
-  } else{
-    print(res)
-  }
+  } else(
+    res
+  )
 }
+
