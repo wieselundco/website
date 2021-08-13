@@ -5,7 +5,7 @@ description: |
   
     Im Zentrum unserer Interessen stehen die Kleinraubtiere, wobei wir uns uns nach der Schweizer Norm 640 696 und dementsprechenden Merkblättern richten.
 date: 08-11-2020
-prewview: 128796016-9f4318d9-5f77-419e-9134-dfc41dd447d4.jpg
+prewview: https://user-images.githubusercontent.com/49158554/128796016-9f4318d9-5f77-419e-9134-dfc41dd447d4.jpg
 output:
   distill::distill_article:
     self_contained: false
