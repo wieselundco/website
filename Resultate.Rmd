@@ -2,3 +2,9 @@
 title: "Resultate"
 listing: projekt-resultate
 ---
+
+<style>
+.publishedDate{
+  visibility: visible;
+}
+</style>
