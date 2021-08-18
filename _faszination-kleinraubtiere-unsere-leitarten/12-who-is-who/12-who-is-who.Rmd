@@ -20,7 +20,9 @@ Aktivitätsphasen. Daher lassen sich die neugierigen Tiere über das ganze
 Jahr und zu jeder Tages- und Nachtzeit beobachten.
 
 
-[Kurzporträts aller Säugetiere der Schweiz finden Sie online](https://apps.wildtier.ch/mammals/) oder im 2021 erschienenen [Atlas der Säugetiere](https://www.haupt.ch/buecher/natur-garten/atlas-der-saeugetiere-schweiz-und-liechtenstein.html) der [Schweizerischen Gesellschaft für Wildtierbiologie](https://mitglied.scnat.ch/sgw-ssbf). 
+Kurze, aussagekräftige Porträts der Arten gibt <a href="https://apps.wildtier.ch/mammals/" target="_blank">
+die Wildtier-App (unter Raubtiere)</a>.
+Ausführlicher sind sie beschrieben im 2021 erschienenen <a href="https://www.haupt.ch/buecher/natur-garten/atlas-der-saeugetiere-schweiz-und-liechtenstein.html" target="_blank">Atlas der Säugetiere</a> der <a href="https://mitglied.scnat.ch/sgw-ssbf" target="_blank">Schweizerischen Gesellschaft für Wildtierbiologie</a>. 
 
 
  
