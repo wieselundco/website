@@ -7,7 +7,18 @@
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Kontakt</title>
+      <link>https://wieselundco.netlify.app/ueber-uns/24-kontakt</link>
+      <description>Nach Projektende dürfen sie für regionspezifische Fragen und Anliegen die [Ansprechpersonen der einstigen Trägerschaft kontaktieren](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/).
+
+Für weitere Anliegen zu Wiesel &amp; Co am Zimmerberg kann auch der damalige Projektleiter [Stefan Keller](mailto:umschwung@gmail.com) angeschrieben werden.
+
+Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](mailto:nils.ratnaweera@zhaw.ch)</description>
+      <guid>https://wieselundco.netlify.app/ueber-uns/24-kontakt</guid>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Geldgeber und Partner</title>
       <link>https://wieselundco.netlify.app/ueber-uns/7-partner</link>
@@ -29,13 +40,6 @@
       <description>Für das im Jahr 2014 lancierte Projekt Wiesel &amp; Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare Zusammenarbeit während der kommenden Jahre.</description>
       <guid>https://wieselundco.netlify.app/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor</guid>
       <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kontakt</title>
-      <link>https://wieselundco.netlify.app/ueber-uns/24-kontakt</link>
-      <description>Sie können uns auf folgende Weise kontaktieren:   Wiesel &amp; Co am Zimmerberg  c/o Stefan Keller Aeschstrasse 239122 Mogelsberg Tel: 044 500 52 82     allgemeine Fragen:mail@wieselundco.ch GIS, Website, IT: ratnaweera@wieselundco.ch   Anmeldung Newsletter: mail@wieselundco.ch</description>
-      <guid>https://wieselundco.netlify.app/ueber-uns/24-kontakt</guid>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

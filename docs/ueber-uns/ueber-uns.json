@@ -1,5 +1,17 @@
 [
   {
+    "path": "ueber-uns/24-kontakt/",
+    "title": "Kontakt",
+    "description": "Nach Projektende dürfen sie für regionspezifische Fragen und Anliegen die [Ansprechpersonen der einstigen Trägerschaft kontaktieren](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/).\n\nFür weitere Anliegen zu Wiesel & Co am Zimmerberg kann auch der damalige Projektleiter [Stefan Keller](mailto:umschwung@gmail.com) angeschrieben werden.\n\nFür Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](mailto:nils.ratnaweera@zhaw.ch)",
+    "author": [],
+    "date": "2020-01-01",
+    "categories": [],
+    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-08-19T00:13:25+02:00",
+    "input_file": "24-kontakt.knit.md"
+  },
+  {
     "path": "ueber-uns/7-partner/",
     "title": "Geldgeber und Partner",
     "description": "Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können:",
@@ -33,18 +45,6 @@
     "date": "2014-01-08",
     "categories": [],
     "contents": "\n\n\n\n\n\n\n\n\n\n\nNatur Horgen\n\n\n\n\n\n\nNaturschutz Kilchberg\n\n\n\n\n\n\nSingdrossel Langnau\n\n\n\n\n\n\nNatur- und Vogelschutzverein Oberrieden\n\n\n\n\n\n\nNaturschutz Richterswil-Samstagern\n\n\n\n\n\n\nNatur- und Vogelschutzverein Thalwil\n\n\n\n\n\n\nNaturschutz Wädenswil\n\n\n\nArtikel bearbeiten\n\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-08-06T16:12:47+02:00",
-    "input_file": {}
-  },
-  {
-    "path": "ueber-uns/24-kontakt/",
-    "title": "Kontakt",
-    "description": "Sie können uns auf folgende Weise kontaktieren:   Wiesel & Co am Zimmerberg  c/o Stefan Keller Aeschstrasse 239122 Mogelsberg Tel: 044 500 52 82     allgemeine Fragen:mail@wieselundco.ch GIS, Website, IT: ratnaweera@wieselundco.ch   Anmeldung Newsletter: mail@wieselundco.ch",
-    "author": [],
-    "date": "2014-01-01",
-    "categories": [],
-    "contents": "\n\nArtikel bearbeiten\n\n\n\n\n\n",
     "preview": {},
     "last_modified": "2021-08-06T16:12:47+02:00",
     "input_file": {}

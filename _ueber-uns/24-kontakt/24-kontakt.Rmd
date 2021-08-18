@@ -1,11 +1,11 @@
 ---
 title: 'Kontakt'
 description: |
- Nach Projektende dürfen sie für regionspezifische Fragen und Anliegen die [Ansprechpersonen der einstigen Trägerschaft kontaktieren](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/).
+  Nach Projektende dürfen sie für regionspezifische Fragen und Anliegen die [Ansprechpersonen der einstigen Trägerschaft kontaktieren](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/).
   
-    Für weitere Anliegen zu Wiesel & Co am Zimmerberg kann auch der damalige Projektleiter [Stefan Keller](mailto:umschwung@gmail.com) angeschrieben werden.
+  Für weitere Anliegen zu Wiesel & Co am Zimmerberg kann auch der damalige Projektleiter [Stefan Keller](mailto:umschwung@gmail.com) angeschrieben werden.
 
-    Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](mailto:rata@zhaw.ch)
+  Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](mailto:nils.ratnaweera@zhaw.ch)
 date: 2020-01-01
 output:
   distill::distill_article:
