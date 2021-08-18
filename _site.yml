@@ -47,6 +47,8 @@ navbar:
           href: Unsere-Zielarten.html
         - text: "Mensch und Wiesel"
           href: Mensch-und-Wiesel.html
+        - text: "Beobachtungen"
+          href: Beobachtungen.html
     - text: "Über uns"
       href: Ueber-uns.html
     - text: "News"

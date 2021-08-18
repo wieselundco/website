@@ -1,17 +1,15 @@
 ---
 title: 'Systematische Wirkungskontrolle, Etappe 1von2'
 description: |
-  Entsprechend [unseren Projektzielen](https://github.com/wieselundco/website/files/6971747/WiCoZ_Phase_2_Projektbeschrieb.pdf)
-wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](https://github.com/wieselundco/website/files/6971748/AnhangC_Patch_Vernetzungsplanung.1.pdf)
- auf den schematischen Korridoren liegen.  
+  Entsprechend [unseren Projektzielen](https://github.com/wieselundco/website/files/6971747/WiCoZ_Phase_2_Projektbeschrieb.pdf)wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](https://github.com/wieselundco/website/files/6971748/AnhangC_Patch_Vernetzungsplanung.1.pdf) auf den schematischen Korridoren liegen.  
  
-    Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. 
+  Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. 
  
     Aus den Jahresberichten geht hervor, dass wir an ca. 2 von 3 Standorten der "spontanen Wirkungskontrolle" [Zusammenfassung von 2015/16](http://www.wieselundco.ch/projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv) die Zielarten Hermelin und/oder Iltis nachweisen konnten.  
  
-    Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. 
+  Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. 
  
-    Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1von2.
+  Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1von2.
 date: 2020-01-06
 preview: steinmarder_wq_Oberfelsen.jpg
 image_intro: images/fotos/Fotofallenbilder/systematische-WK_Etappe1/steinmarder_wq_Oberfelsen.jpg

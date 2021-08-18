@@ -1,4 +1,0 @@
----
-title: "Beobachtung Melden"
-listing: mithelfen-anpacken-beobachtung
----

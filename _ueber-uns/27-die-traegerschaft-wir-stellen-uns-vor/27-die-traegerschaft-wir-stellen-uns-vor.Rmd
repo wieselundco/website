@@ -21,22 +21,26 @@ params:
 
 library(dplyr)
 tribble(
-  ~image, ~name,
-  "NVH_Logo_neu_grau.jpg", "Natur Horgen", "[Thomas Rubin](mailto:trubin@sunrise.ch)"
-  "Logo_NK_RGB_150dpi.jpg", "Naturschutz Kilchberg","[Fabian Schwarzenbach]mailto:fabian.schwarzenbach@bluemail.ch)"
-  "singdrossel_2.jpg", "Singdrossel Langnau","[André Mauley](mailto:a.mauley@hispeed.ch)"
-  "nsv_oberrieden_2.jpg", "Natur- und Vogelschutzverein Oberrieden","[Maurus Frei](mailto:maurus.frei@gruenliberale.ch)"
-  "nsv_richterswil.png", "Naturschutz Richterswil-Samstagern","[Regula Büchler](mailto:buechler@naturschutz-r-s.ch)"
-  "nsv_thalwil_2.gif", "Natur- und Vogelschutzverein Thalwil","[Manuel Brändli](mailto:braendli.manuel@gmx.ch)"
-  "NW_Logo_grau_280px.jpg", "Naturschutz Wädenswil","[Sabina Stokar](mailto:ss@naturwaedi.ch)"
+  ~image, ~name, ~kontakt, ~email,
+  "NVH_Logo_neu_grau.jpg", "Natur Horgen", "Thomas Rubin", "mailto:trubin@sunrise.ch",
+  "Logo_NK_RGB_150dpi.jpg", "Naturschutz Kilchberg","Fabian Schwarzenbach", "mailto:fabian.schwarzenbach@bluemail.ch",
+  "singdrossel_2.jpg", "Singdrossel Langnau","André Mauley", "mailto:a.mauley@hispeed.ch",
+  "nsv_oberrieden_2.jpg", "Natur- und Vogelschutzverein Oberrieden","Maurus Frei", "mailto:maurus.frei@gruenliberale.ch",
+  "nsv_richterswil.png", "Naturschutz Richterswil-Samstagern","Regula Büchler", "mailto:buechler@naturschutz-r-s.ch",
+  "nsv_thalwil_2.gif", "Natur- und Vogelschutzverein Thalwil","Manuel Brändli", "mailto:braendli.manuel@gmx.ch",
+  "NW_Logo_grau_280px.jpg", "Naturschutz Wädenswil","Sabina Stokar", "mailto:ss@naturwaedi.ch"
 ) -> df
 
 
 
 df %>%
-  mutate(image = "") %>%
-  kableExtra::kable(col.names = c("","")) %>%
-  kableExtra::column_spec(1, image = df$image, width = "4cm")
+  mutate(
+    image = "",
+    kontakt = kableExtra::cell_spec(kontakt, "html", link = email)
+    ) %>%
+  select(-email) %>%
+  kableExtra::kable(col.names = c("","", ""),escape = FALSE) %>%
+  kableExtra::column_spec(1, image = df$image, width = "4cm") %>% kableExtra::kable_styling()
 
 
 ```

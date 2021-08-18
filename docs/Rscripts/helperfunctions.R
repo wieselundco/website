@@ -9,16 +9,42 @@ b <- function(str){
 }
 
 
+get_rmd_files <- function(levels = "both", excludes = c("./docs", "./www", "./images", "./Rscripts")){
+  level0 <- list.files(pattern = ".Rmd",recursive = FALSE)
+
+  level1 <- list.dirs(recursive = FALSE)
+  level1 <- level1[!level1 %in% excludes]
+
+  level1 <- map(level1, ~list.files(path = .x, pattern = ".Rmd", recursive = TRUE, full.names = TRUE)) %>%
+    unlist()
+
+  if(levels == "both"){
+    c(level0, level1)
+
+  } else if(levels == "0"){
+    level0
+  } else if(levels == "1"){
+    level1
+  }
+}
+
+
+move_article <- function(keyword, folder){
+
+  all_rmd_files <- get_rmd_files()
+
+  res <- all_rmd_files[str_detect(all_rmd_files, keyword)]
+
+  dir <- dirname(res)
+
+  dir
+}
+
+
 keyword_open <- function(keyword, open_i = NULL){
   library(tidyverse)
 
-  level0 <- list.files(pattern = ".Rmd",recursive = FALSE)
-
-  level1 <- list.dirs(recursive = FALSE) %>%
-    map(~list.files(path = .x, pattern = ".Rmd", recursive = TRUE, full.names = TRUE)) %>%
-    unlist()
-
-  all_rmd_files <- c(level0, level1)
+  all_rmd_files <- get_rmd_files()
 
   res <- all_rmd_files[str_detect(all_rmd_files, keyword)]
 
@@ -36,4 +62,24 @@ keyword_open <- function(keyword, open_i = NULL){
     res
   )
 }
+
+
+
+
+render_all <- function(levels = "1", startfrom = 1){
+  cleaned <- get_rmd_files(levels) %>%
+    str_trim() %>%
+    unique()
+
+  tibble(files = cleaned, i = seq_along(cleaned)) %>%
+    filter(i >= startfrom) %>%
+    pmap(function(files, i){
+      print(paste("i:",i))
+      print(files)
+      rmarkdown::render(files)
+    })
+
+}
+render_all()
+
 

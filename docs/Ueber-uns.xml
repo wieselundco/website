@@ -7,7 +7,15 @@
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Trägerschaft und Ansprechpersonen</title>
+      <link>https://wieselundco.netlify.app/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor</link>
+      <description>Für das im Jahr 2014 lancierte Projekt Wiesel &amp; Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau. Alle Vereine haben das Projekt die ganze Dauer über getragen. Der NVV Hirzel fusionierte 2021 mir Natur Horgen. 
+Die untenstehenden Ansprechpersonen dürfen für Fragen und Anliegen auch nach Projektende kontaktiert werden.</description>
+      <guid>https://wieselundco.netlify.app/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor</guid>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kontakt</title>
       <link>https://wieselundco.netlify.app/ueber-uns/24-kontakt</link>
@@ -29,17 +37,10 @@ Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](
     <item>
       <title>Netzwerk</title>
       <link>https://wieselundco.netlify.app/ueber-uns/23-organigramm</link>
-      <description>Gemäss den Projektzielen sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.</description>
+      <description>Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.</description>
       <guid>https://wieselundco.netlify.app/ueber-uns/23-organigramm</guid>
       <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
       <media:content url="https://wieselundco.netlify.app/ueber-uns/23-organigramm/Organigramm_WiCoZ.png" medium="image" type="image/png" width="1354" height="746"/>
-    </item>
-    <item>
-      <title>Die Trägerschaft stellt sich vor</title>
-      <link>https://wieselundco.netlify.app/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor</link>
-      <description>Für das im Jahr 2014 lancierte Projekt Wiesel &amp; Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau! Wir freuen uns auf eine fruchtbare Zusammenarbeit während der kommenden Jahre.</description>
-      <guid>https://wieselundco.netlify.app/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor</guid>
-      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
