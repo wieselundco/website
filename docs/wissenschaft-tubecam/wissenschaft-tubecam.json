@@ -1,5 +1,17 @@
 [
   {
+    "path": "wissenschaft-tubecam/85-stand-der-entwicklung/",
+    "title": "Stand der Entwicklung (2021)",
+    "description": "Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel erhältliche Wildtierkameras und modifiziert diese so, dass sie für Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.",
+    "author": [],
+    "date": "2021-03-05",
+    "categories": [],
+    "contents": "\nDiese Herangehensweise ermöglicht eine kostengünstigere Produktion solcher Fotofallensysteme. Sie beruht auf dem Konzept “Mostela” von Mos und Hofmeester (2020).\nHier ist beschrieben wie sich die daraus entwickelte MammaliaBox im Feld bewährt (Bild unten).\n\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-08-19T00:25:37+02:00",
+    "input_file": "85-stand-der-entwicklung.knit.md"
+  },
+  {
     "path": "wissenschaft-tubecam/83-projektziel/",
     "title": "Projektziel",
     "description": "Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.",
@@ -19,18 +31,6 @@
     "date": "2017-03-05",
     "categories": [],
     "contents": "\n\n\n\nArtikel bearbeiten\n\n\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-08-06T16:12:47+02:00",
-    "input_file": {}
-  },
-  {
-    "path": "wissenschaft-tubecam/85-stand-der-entwicklung/",
-    "title": "Stand der Entwicklung (2021)",
-    "description": "Im TubeCam Projekt hat das Team neue Wege eingeschlagen. Anstatt die Technik selbst zu entwickeln, setzt das Forscherteam auf im Handel erhältliche Wildtierkameras und modifiziert diese so, dass sie für Kleinraubtiere optimiert sind. Zudem wurde die Plastikhülle (bisher bestehend aus einem Abflussrohr) mit einer Holzbox ersetzt.",
-    "author": [],
-    "date": "2017-03-05",
-    "categories": [],
-    "contents": "\nDiese Herangehensweise ermöglicht eine kostengünstigere Produktion solcher Fotofallensysteme. Sie beruht auf dem Konzept “Mostela” von Mos und Hofmeester (2020).\nHier ist beschrieben wie sich die daraus entwickelte MammaliaBox im Feld bewährt (Bild unten).\n\n\nArtikel bearbeiten\n\n\n\n\n\n",
     "preview": {},
     "last_modified": "2021-08-06T16:12:47+02:00",
     "input_file": {}

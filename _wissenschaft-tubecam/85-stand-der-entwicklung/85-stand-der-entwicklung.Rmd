@@ -25,8 +25,8 @@ bewährt](http://wieselundco.ch/wissenschaft/externe-projekte/126-mammaliabox)
 
  
 
-![](images/bilder/mostela_interior_small.png)
-![mostela_interior_small](https://user-images.githubusercontent.com/49158554/129122006-f89b96c9-abee-4e12-b863-25f00fc6df3d.png)
+
+![](https://user-images.githubusercontent.com/49158554/129122006-f89b96c9-abee-4e12-b863-25f00fc6df3d.png)
 
 
 ```{r,results='asis', echo = FALSE}
