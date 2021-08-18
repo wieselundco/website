@@ -21,3 +21,7 @@ d-article a {
   margin-right: auto;
   width: 50%;
 }
+
+.publishedDate{
+  visibility: hidden;
+}
