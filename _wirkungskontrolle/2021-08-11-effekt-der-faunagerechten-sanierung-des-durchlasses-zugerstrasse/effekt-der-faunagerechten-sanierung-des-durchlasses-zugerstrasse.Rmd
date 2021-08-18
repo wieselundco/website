@@ -1,11 +1,11 @@
 ---
 title: "Effekt der faunagerechten Sanierung des Durchlasses Zugerstrasse"
 description: |
-  Der Gewässerdurchlass des Aabachs unter der Zugerstrasse befindet sich auf Stadtgebiet Wädenswil. Da er auf der gesamten Breite Wasser führt und keine naturnahen Elemente aufweist , überquerten die meisten Wildtiere an dieser Stelle die stark befahrene Strasse.
+  Der Gewässerdurchlass des Aabachs unter der Zugerstrasse befindet sich auf Stadtgebiet Wädenswil. Da er auf der gesamten Breite Wasser führt und keine naturnahen Elemente aufweist, überquerten die meisten Wildtiere an dieser Stelle die stark befahrene Strasse.
 
   Die faunagerechte Sanierung durch das Tiefbauamt des Kantons Zürich setzte sich zum Ziel, dass Kleintiere künftig den Durchlass passieren.
 
-  Welche Massnahmen werden getroffen und wie ist ihre Wirkung?
+  Welche Massnahmen wurden getroffen und wie ist ihre Wirkung?
 preview: 128798178-54c809da-c6b3-463c-835c-cf032d65b68f.jpg
 date: 08-11-2021
 output:
