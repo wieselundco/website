@@ -13,7 +13,7 @@ output:
     self_contained: false
 ---
 
-[Diese Hintergründe und Rahmenbedingungen](/projekt-massnahmen/62-wir-unterstuetzen-die-instanstellung-/) begleiteten uns bei der Instandstellung und Aufwertung von Feldscheunen. 
+[Diese Hintergründe und Rahmenbedingungen](https://wieselundco.github.io/website/projekt-massnahmen/62-wir-unterstuetzen-die-instanstellung-/) begleiteten uns bei der Instandstellung und Aufwertung von Feldscheunen. 
 In den vergangenen Monaten zeigten die Besitzer erneut viel Eigenleistungen, so dass man von einem langfristigen Erhalt dieser für Natur & Landschaft wertvollen Objekte ausgehen kann.
 
 ![](https://user-images.githubusercontent.com/49158554/128791183-69f69152-4a43-4ae4-aa13-73737174a43e.jpg)
