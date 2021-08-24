@@ -49,7 +49,7 @@ Feldscheunen, der Erarbeitung von Grossstrukturen und der Durchführung
 von Wieselwerken mit Schulklassen.  
 Dahingehend profitierten alle Interessengruppen von dem, was das Projekt
 schon an Grundlagen geschaffen hatte und in der Endphase noch vollenden
-bzw. abrunden konnte
+bzw. abrunden konnte.
 
 ```{r,results='asis', echo = FALSE}
 
