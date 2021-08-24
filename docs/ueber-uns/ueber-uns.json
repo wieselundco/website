@@ -1,19 +1,5 @@
 [
   {
-    "path": "ueber-uns/23-organigramm/",
-    "title": "Netzwerk",
-    "description": "Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.",
-    "author": [],
-    "date": "2014-01-22",
-    "categories": [],
-    "contents": "\n\n\n\nMit folgenden Interessengruppen wurde schon früh eine Zusammenarbeit möglich und das Netzwerk sollte noch um einiges grösser werden:\nLandwirtschaft und -eigentümer:\nWerner und Karin Fankhauser, Schluchtalhof Wädenswil\nWerner Höhn, Stocken\nEsther Scherz, Aahalden\nSusanna Kramer, Steinweid\nEmmi und Ernst Streuli, Untere Rietwies\nWerner und Eva Haab, Steinacherhof\nStephan Vetsch, Stockengut Kilchberg\nHannes Leuthold, Hirzel\nJagd:\nJagdgesellschaft Bocken, George Scott\nFischerei- und Jagdverwaltung des Kantons Zürich, Jagdadjunkt Jürg Zinggeler\nGilbert De Steffani , Leiter des Jagdbezirks Amt\nJagdgesellschaft Schönenberg, Hanspeter Pfister\nJagdgesellschaft Hütten, Willy Baumann\nSepp Leu, Präsident der Jagdaufseher des Kt. Zürich\nJagdgesellschaft Adliswil, Ulrich von Rickenbach\nNaturschutz:\nFachstelle Naturschutz, Corina Schiess und Sylvia Urbscheit\nLivia Haag, Obstgartenprojekt Horgen-Wädenswil\nMichael Schlitner, Vernetzungsprojekt Wädenswil-Horgen und Hütten\nDaniel Winter und Hannes Leuthold, Vernetzungsprojekt Hirzel-Schönenberg\nCristina Boschi, Stiftung Wieselnetz\nMathias Villiger, ZVS/Birdlife-Zürich\nHeiko Schindler, Vernetzungsprojekt Rüschlikon\nDarius Weber, Hintermannweber\nMatthias Wüst, freischaffender Umweltpädagoge und Wildtierbiologe\nUrsula Bollens, LEK und Vernetzungsprojekt Kilchberg\nUeli Bauer, Naturschutzkomission Schönenberg\nGemeinden:\nAndreas Stoll, Planen und Bauen, Wädenswil\nDenkmalpflege und Naturschutzkomission Wädenswil\nHannes Leuthold, Gemeinderat Hirzel\nLEK-Gruppe der Gemeinde Kilchberg\nHans Bär, Ackerbaustellenleiter Hirzel\nErnst Brändli, Ackerbaustellenleiter Wädenswil\nRolf Schatz, Naturschutzbeauftragter Langnau am Albis\nDamian Wyrsch, Forst Adliswil\nRichard Gautschi, Planen und Bauen Thalwil\nThomas Dischl, Gemeindeschreiber Oberrieden\nForst:\nPatrick Jordil, Förster des Reviers Richterswil, Wädenswil, Hütten, Schönenberg und Staatswald linkes Seeufer\nRuedi Fluri, Förster des Reviers Hirzel, Horgen, Wildnispark und Sihlwald/Horgen\nDamian Wyrsch, Förster des Reviers Adliswil, Kilchberg und Rüschlikon\nEugen Carisch, Förster des Reviers Thalwil, Oberrieden, Langnau am Albis\n\nForschung\nForschungsgruppe Wildtiermanagement der ZHAW Wädenswil\nForschungsgruppe Geoinformatik der ZHAW Wädenswil\n\n\n\n\n\n\n\n",
-    "preview": "ueber-uns/23-organigramm/Organigramm_WiCoZ.png",
-    "last_modified": "2021-08-24T15:50:30+02:00",
-    "input_file": {},
-    "preview_width": 1354,
-    "preview_height": 746
-  },
-  {
     "path": "ueber-uns/24-kontakt/",
     "title": "Kontakt",
     "description": "Nach Projektende dürfen sie für regionspezifische Fragen und Anliegen zu Wiesel & Co so vorgehen:",
@@ -48,5 +34,19 @@
     "preview": {},
     "last_modified": "2021-08-24T15:50:33+02:00",
     "input_file": {}
+  },
+  {
+    "path": "ueber-uns/23-organigramm/",
+    "title": "Netzwerk",
+    "description": "Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.",
+    "author": [],
+    "date": "2014-01-22",
+    "categories": [],
+    "contents": "\n\n\n\nMit folgenden Interessengruppen wurde schon früh eine Zusammenarbeit möglich und das Netzwerk sollte noch um einiges grösser werden:\nLandwirtschaft und -eigentümer:\nWerner und Karin Fankhauser, Schluchtalhof Wädenswil\nWerner Höhn, Stocken\nEsther Scherz, Aahalden\nSusanna Kramer, Steinweid\nEmmi und Ernst Streuli, Untere Rietwies\nWerner und Eva Haab, Steinacherhof\nStephan Vetsch, Stockengut Kilchberg\nHannes Leuthold, Hirzel\nJagd:\nJagdgesellschaft Bocken, George Scott\nFischerei- und Jagdverwaltung des Kantons Zürich, Jagdadjunkt Jürg Zinggeler\nGilbert De Steffani , Leiter des Jagdbezirks Amt\nJagdgesellschaft Schönenberg, Hanspeter Pfister\nJagdgesellschaft Hütten, Willy Baumann\nSepp Leu, Präsident der Jagdaufseher des Kt. Zürich\nJagdgesellschaft Adliswil, Ulrich von Rickenbach\nNaturschutz:\nFachstelle Naturschutz, Corina Schiess und Sylvia Urbscheit\nLivia Haag, Obstgartenprojekt Horgen-Wädenswil\nMichael Schlitner, Vernetzungsprojekt Wädenswil-Horgen und Hütten\nDaniel Winter und Hannes Leuthold, Vernetzungsprojekt Hirzel-Schönenberg\nCristina Boschi, Stiftung Wieselnetz\nMathias Villiger, ZVS/Birdlife-Zürich\nHeiko Schindler, Vernetzungsprojekt Rüschlikon\nDarius Weber, Hintermannweber\nMatthias Wüst, freischaffender Umweltpädagoge und Wildtierbiologe\nUrsula Bollens, LEK und Vernetzungsprojekt Kilchberg\nUeli Bauer, Naturschutzkomission Schönenberg\nGemeinden:\nAndreas Stoll, Planen und Bauen, Wädenswil\nDenkmalpflege und Naturschutzkomission Wädenswil\nHannes Leuthold, Gemeinderat Hirzel\nLEK-Gruppe der Gemeinde Kilchberg\nHans Bär, Ackerbaustellenleiter Hirzel\nErnst Brändli, Ackerbaustellenleiter Wädenswil\nRolf Schatz, Naturschutzbeauftragter Langnau am Albis\nDamian Wyrsch, Forst Adliswil\nRichard Gautschi, Planen und Bauen Thalwil\nThomas Dischl, Gemeindeschreiber Oberrieden\nForst:\nPatrick Jordil, Förster des Reviers Richterswil, Wädenswil, Hütten, Schönenberg und Staatswald linkes Seeufer\nRuedi Fluri, Förster des Reviers Hirzel, Horgen, Wildnispark und Sihlwald/Horgen\nDamian Wyrsch, Förster des Reviers Adliswil, Kilchberg und Rüschlikon\nEugen Carisch, Förster des Reviers Thalwil, Oberrieden, Langnau am Albis\n\nForschung\nForschungsgruppe Wildtiermanagement der ZHAW Wädenswil\nForschungsgruppe Geoinformatik der ZHAW Wädenswil\n\n\n\n\n\n\n\n",
+    "preview": "ueber-uns/23-organigramm/Organigramm_WiCoZ.png",
+    "last_modified": "2021-08-24T15:50:30+02:00",
+    "input_file": {},
+    "preview_width": 1354,
+    "preview_height": 746
   }
 ]

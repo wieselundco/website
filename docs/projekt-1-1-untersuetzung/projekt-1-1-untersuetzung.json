@@ -1,19 +1,5 @@
 [
   {
-    "path": "projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/",
-    "title": "Was unterstützen wir auch finanziell?",
-    "description": "Unsere Pilot-Massnahme zeigte Erfolg: Die erstellten Asthaufen mit Nistkammer wurden sogleich vom Iltis und dem Hermelin regelmässig besucht! \n\nEine solche Struktur kann auch maschinell erstellt werden; wichtig sind letztlich Schutz, Trockenheit und beständiger Hohlraum! Für die kommenden Jahre wollen wir die nützlichen Kleinraubiere mit fünf ausgewählten Massnahmen-Typen fördern. Können solche Elemente auf ihrem Land realisiert werden? \n\nWir unterstützen Sie beratend, tatkräftig und finanziell!",
-    "author": [],
-    "date": "2016-01-09",
-    "categories": [],
-    "contents": "\n\n\n\n\n\n\n\n\n\n\n",
-    "preview": "projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/finanzielle_unterstuetzung.png.PNG",
-    "last_modified": "2021-08-24T15:50:00+02:00",
-    "input_file": {},
-    "preview_width": 1114,
-    "preview_height": 770
-  },
-  {
     "path": "projekt-1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massn/",
     "title": "Bonussystem zur Massnahmen-Realisierung",
     "description": "Das Bonus-System von Wiesel & Co am Zimmerberg zur Realisierung von Kleinraubtier-freundlichen Massnahmen definiert eingangs die Rahmenbedingungen für eine finanzielle Unterstützung im Rahmen des Projektfonds. Zahlungen sind beispielsweise an Landwirte möglich, wobei sie die Direktzahlungen zur Biodiversitäts-Förderung unabhängig von dessen Anforderungen ergänzen können.",
@@ -38,5 +24,19 @@
     "preview": "projekt-1-1-untersuetzung/63-unsere-massnahmen-mit-landwirtschaftl/hermelin_mit_beute.jpg",
     "last_modified": "2021-08-24T15:50:02+02:00",
     "input_file": {}
+  },
+  {
+    "path": "projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/",
+    "title": "Was unterstützen wir auch finanziell?",
+    "description": "Unsere Pilot-Massnahme zeigte Erfolg: Die erstellten Asthaufen mit Nistkammer wurden sogleich vom Iltis und dem Hermelin regelmässig besucht! \n\nEine solche Struktur kann auch maschinell erstellt werden; wichtig sind letztlich Schutz, Trockenheit und beständiger Hohlraum! Für die kommenden Jahre wollen wir die nützlichen Kleinraubiere mit fünf ausgewählten Massnahmen-Typen fördern. Können solche Elemente auf ihrem Land realisiert werden? \n\nWir unterstützen Sie beratend, tatkräftig und finanziell!",
+    "author": [],
+    "date": "2016-01-09",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n\n\n\n\n\n",
+    "preview": "projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/finanzielle_unterstuetzung.png.PNG",
+    "last_modified": "2021-08-24T15:50:00+02:00",
+    "input_file": {},
+    "preview_width": 1114,
+    "preview_height": 770
   }
 ]

@@ -7,15 +7,7 @@
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 02 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Lebensraumanalyse für den Bezirk Horgen</title>
-      <link>https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/51-lra</link>
-      <description>Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel &amp; Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.</description>
-      <guid>https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/51-lra</guid>
-      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
-      <media:content url="https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/51-lra/lra.png" medium="image" type="image/png" width="1311" height="602"/>
-    </item>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Ermittlung des Mauswieselvorkommens im Bezirk Horgen</title>
       <link>https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/86-ermittlung-des-mauswieselvorkommens-m</link>
@@ -31,6 +23,14 @@
       <guid>https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/92-spurentunnel-erhebungen</guid>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
       <media:content url="https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/92-spurentunnel-erhebungen/DSC04639.JPG" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Lebensraumanalyse für den Bezirk Horgen</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/51-lra</link>
+      <description>Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel &amp; Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/51-lra</guid>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-wiesel-co-projekte/51-lra/lra.png" medium="image" type="image/png" width="1311" height="602"/>
     </item>
   </channel>
 </rss>

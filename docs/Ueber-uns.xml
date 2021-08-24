@@ -7,15 +7,7 @@
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 22 Jan 2014 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Netzwerk</title>
-      <link>https://wieselundco.netlify.app/ueber-uns/23-organigramm</link>
-      <description>Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.</description>
-      <guid>https://wieselundco.netlify.app/ueber-uns/23-organigramm</guid>
-      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
-      <media:content url="https://wieselundco.netlify.app/ueber-uns/23-organigramm/Organigramm_WiCoZ.png" medium="image" type="image/png" width="1354" height="746"/>
-    </item>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Kontakt</title>
       <link>https://wieselundco.netlify.app/ueber-uns/24-kontakt</link>
@@ -36,6 +28,14 @@
       <description>Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können:</description>
       <guid>https://wieselundco.netlify.app/ueber-uns/7-partner</guid>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netzwerk</title>
+      <link>https://wieselundco.netlify.app/ueber-uns/23-organigramm</link>
+      <description>Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.</description>
+      <guid>https://wieselundco.netlify.app/ueber-uns/23-organigramm</guid>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/ueber-uns/23-organigramm/Organigramm_WiCoZ.png" medium="image" type="image/png" width="1354" height="746"/>
     </item>
   </channel>
 </rss>
