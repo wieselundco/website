@@ -20,8 +20,7 @@ params:
 knitr::include_graphics('WIN_foerdermassnahmen.png', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/WIN_foerdermassnahmen.png
 ```
 
-Die 2014er- und 2018 überarbeitete Publikation (siehe Link oben)
-ermöglicht es Praktikerinnen und Praktikern, eigenständig zu überlegen
+Die <a href="http://wieselnetz.ch/wp-content/uploads/2018/02/Heft_Wieselfoerdermassnahmen_D_Ed2_CMYK.pdf" target="_blank">2014er- und 2018 überarbeitete Publikation</a> ermöglicht es Praktikerinnen und Praktikern, eigenständig zu überlegen
 und planen, welche Massnahmen zur Unterstützung der Wiesel auf einen
 Betrieb passen. Die Massnahmen können so auch ohne Hilfe von aussen mit
 der für Wiesel notwendigen Qualität und Wirksamkeit umgesetzt werden.
