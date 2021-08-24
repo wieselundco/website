@@ -7,7 +7,19 @@
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Wieselförderung am Beispiel "Mosli"</title>
+      <link>https://wieselundco.netlify.app/wirkungskontrolle/112-beispiel-mosli</link>
+      <description>Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel &amp; Co am Zimmerberg zu zeigen:  
+
+  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  
+
+  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.</description>
+      <guid>https://wieselundco.netlify.app/wirkungskontrolle/112-beispiel-mosli</guid>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wirkungskontrolle/112-beispiel-mosli/beute-hochformat.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>Effekt der faunagerechten Sanierung des Durchlasses Zugerstrasse</title>
       <link>https://wieselundco.netlify.app/wirkungskontrolle/2021-08-11-effekt-der-faunagerechten-sanierung-des-durchlasses-zugerstrasse</link>
@@ -33,6 +45,16 @@ Welche Massnahmen wurden getroffen und wie ist ihre Wirkung?</description>
       <guid>https://wieselundco.netlify.app/wirkungskontrolle/2021-08-12-gesamtschau-der-wirkungskontrolle</guid>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       <media:content url="https://user-images.githubusercontent.com/49158554/129116401-4c31ce31-2a54-4d6c-a4e7-0c589f863533.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Massnahmen sind nachweislich attraktiv</title>
+      <link>https://wieselundco.netlify.app/wirkungskontrolle/80-massnahmen-sind-nachweislich-attrakti</link>
+      <description>Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. 
+
+Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:</description>
+      <guid>https://wieselundco.netlify.app/wirkungskontrolle/80-massnahmen-sind-nachweislich-attrakti</guid>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wirkungskontrolle/80-massnahmen-sind-nachweislich-attrakti/rebekkaIltis.PNG" medium="image" type="image/png" width="500" height="402"/>
     </item>
   </channel>
 </rss>

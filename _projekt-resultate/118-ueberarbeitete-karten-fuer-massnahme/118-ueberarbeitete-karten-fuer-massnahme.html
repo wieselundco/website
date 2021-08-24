@@ -56,7 +56,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -77,13 +77,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>Überarbeitete Karten für Massnahmen und Sichtungen online!</title>
@@ -1262,7 +1263,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -1486,8 +1490,7 @@ Beim Click auf einen Kartenpunkt werden Details zur realisierten Massnahme darge
 <p><strong>Mit Hilfe der <a href='http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36b8f1202244b7bdcc860e06be2270' target='_blank'>Sichtungskarte</a> können Sie die erfassten Sichtungsmeldungen von Kleinraubtieren ansehen.</strong> Ähnlich der obigen Beschreibung können Sie auch hier Abfragen und Ebeneneinstellungen vornehmen.</p>
 <p><a href="https://wieselundco.github.io/website/Beobachtung-Melden.html">Hier gibt es Hinweise, wie Sie Ihre Beobachtung melden können.</a></p>
 <div class="layout-chunk" data-layout="l-body">
-<hr />
-<p><a href="https://github.com/wieselundco/website/edit/master/_projekt-resultate/118-ueberarbeitete-karten-fuer-massnahme/118-ueberarbeitete-karten-fuer-massnahme.Rmd">Artikel bearbeiten</a></p>
+
 </div>
 <!--http://wieselundco.ch/projekt/resultate/118-ueberarbeitete-karten-fuer-massnahmen-und-sichtungen-online-->
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>

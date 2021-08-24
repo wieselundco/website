@@ -1,4 +1,6 @@
 library(tidyverse)
+
+
 b <- function(str){
   filpath <- str_remove(str, "\\(.+\\)") %>%
     str_trim()
@@ -83,4 +85,43 @@ render_all <- function(levels = "1", startfrom = 1){
 
 
 
+get_links_ungreedy <- function(mystring){
+  res <- gregexpr("(?U)\\[.+\\]\\(.+\\)", mystring, perl = TRUE)
+
+  regmatches(mystring, res) %>%
+    unlist()
+
+
+}
+
+search_links <- function(){
+  filenames <- get_rmd_files()
+
+  map_dfr(filenames, function(x){
+    rl <- read_lines(x)
+
+    urls <- get_links_ungreedy(rl)
+
+
+    tibble(file = x, urls = urls)
+
+  })
+}
+
+
+search_links() %>%
+  mutate(
+    text = str_match(urls, "\\[(.+)\\]")[,2],
+    hyperlink = str_match(urls, "\\((.+)\\)")[,2]
+  ) %>%
+  filter(str_detect(hyperlink, "wieselundco")) %>%
+
+
+
+  mutate(
+    link = str_replace(file, "^\\./","https://github.com/wieselundco/website/blob/master/"),
+    file = glue::glue("[{file})[{link}]")
+    ) %>%
+  select(-link) %>%
+  View()
 

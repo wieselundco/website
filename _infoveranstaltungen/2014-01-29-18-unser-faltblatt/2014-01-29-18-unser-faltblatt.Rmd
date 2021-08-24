@@ -1,0 +1,30 @@
+---
+title: 'Neues Faltblatt'
+description: |
+  Unsere "Visitenkarte" kommt frisch aus der Presse. Ein Faltblatt, das über das Projekt informiert, Die Zielarten vorstellt und Ihnen die Möglichkeit gibt, uns unkompliziert & bequem Ihre Kleinraubtier-Beobachtungen zu melden. 
+  
+    Aber sehen Sie selbst! 
+  
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N4trSo8Vvps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+date: 2014-01-29
+preview: faltblatt.png
+image_intro: images/bilder/diverse/faltblatt.png
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /14-news/18-unser-faltblatt
+params:
+  rmdpath: _news/2014-01-29-18-unser-faltblatt/2014-01-29-18-unser-faltblatt.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
+---
+
+
+
+```{r,results='asis', echo = FALSE}
+
+
+
+```
+
+<!--http://wieselundco.ch/14-news/18-unser-faltblatt-->
