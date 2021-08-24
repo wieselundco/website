@@ -22,11 +22,4 @@ params:
   
 <style>.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}</style><div class='embed-container' data-page-width='453' data-page-height='640' id='ypembedcontainer' ><iframe   src="https://www.yumpu.com/de/embed/view/kBl6Foz5TavU2jsf" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/de/document/view/65810365/zwischenbericht-2015-16-wiesel-co-am-zimmerberg" title="Zwischenbericht 2015-16 Wiesel & Co am Zimmerberg" target="_blank">Zwischenbericht 2015-16 Wiesel & Co am Zimmerberg</a></div><script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' ></script>
 
-
-```{r,results='asis', echo = FALSE}
-
-
-
-```
-
 <!--http://wieselundco.ch/projekt/resultate/99-zwischenbericht-2015-16-von-phase-2-->

@@ -5,83 +5,83 @@
       "title": "Praktischer Naturschutz",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:19+02:00"
+      "last_modified": "2021-08-24T10:35:56+02:00"
     },
     {
       "path": "Ausgangslage-und-Ziele.html",
       "title": "Ausgangslage und Ziele",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:19+02:00"
+      "last_modified": "2021-08-24T10:35:56+02:00"
     },
     {
       "path": "Beobachtungen.html",
       "title": "Beobachtungen",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:20+02:00"
+      "last_modified": "2021-08-24T10:35:57+02:00"
     },
     {
       "path": "Bonus-System.html",
       "title": "Bonus System",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:20+02:00"
+      "last_modified": "2021-08-24T10:35:57+02:00"
     },
     {
       "path": "Externe-Projekte.html",
       "title": "Externe Projekte",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:21+02:00"
+      "last_modified": "2021-08-24T10:35:57+02:00"
     },
     {
       "path": "index.html",
       "title": "Wiesel & Co am Zimmerberg",
       "author": [],
       "contents": "\n\nFoto von Susanne Heusser\n\nDas Projekt im Bezirk Horgen ZH war von 2014 bis 2021 aktiv.\n\n\nUnser Knowhow stellen wir gerne zur Verfügung.\n\n\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:21+02:00"
+      "last_modified": "2021-08-24T10:35:58+02:00"
     },
     {
       "path": "Infoveranstaltungen.html",
       "title": "Infoveranstaltungen",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:21+02:00"
+      "last_modified": "2021-08-24T10:35:58+02:00"
     },
     {
       "path": "Mensch-und-Wiesel.html",
       "title": "Mensch und Wiesel",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:22+02:00"
+      "last_modified": "2021-08-24T10:35:59+02:00"
     },
     {
       "path": "News.html",
       "title": "News",
       "author": [],
       "contents": "\n\n.publishedDate{\n  visibility: visible;\n}\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:22+02:00"
+      "last_modified": "2021-08-24T10:35:59+02:00"
     },
     {
       "path": "Projekt.html",
       "title": "Projekt",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:23+02:00"
+      "last_modified": "2021-08-24T10:36:00+02:00"
     },
     {
       "path": "Readme.html",
       "author": [],
       "contents": "\nNotes for publishers\n\nI am publishing this website via netlify, because website redirects are very simple with netlify. My (Nils) netlify account has been granted access to all wieselundco github repos and I created an netlify site wieselundco. Everytime I push to https://github.com/wieselundco/website, netlify pulls the Publish directory, builds the site and publishes it to wieselundco.netlify.app.\nIn the very near future, I need to create a CNAME record in metanet which points wieselundco.ch to https://wieselundco.netlify.app/. Then, I need to Enable automatic TLS certificates with Let’s Encrypt.\n\n\n",
-      "last_modified": "2021-08-24T10:32:23+02:00"
+      "last_modified": "2021-08-24T10:36:00+02:00"
     },
     {
       "path": "Resultate.html",
       "title": "Resultate",
       "author": [],
       "contents": "\n\n.publishedDate{\n  visibility: visible;\n}\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:23+02:00"
+      "last_modified": "2021-08-24T10:36:00+02:00"
     },
     {
       "path": "TubeCam.html",
@@ -89,49 +89,49 @@
       "description": "Der Lebensraumverlust durch den Siedlungsausbau und die Intensivierung der Landwirtschaft sind für viele Tierarten eine grosse Bedrohung geworden. Auch die Bestände von Mauswiesel, Hermelin, Iltis und Baummarder im Schweizer Mittelland sind nach einheitlicher Beurteilung von Fachleuten im Rückgang begriffen.\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:24+02:00"
+      "last_modified": "2021-08-24T10:36:01+02:00"
     },
     {
       "path": "Ueber-uns.html",
       "title": "Über uns",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:24+02:00"
+      "last_modified": "2021-08-24T10:36:01+02:00"
     },
     {
       "path": "Unsere-Zielarten.html",
       "title": "Unsere Zielarten",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:25+02:00"
+      "last_modified": "2021-08-24T10:36:01+02:00"
     },
     {
       "path": "Welche-Massnahmen.html",
       "title": "Welche Massnahmen?",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:25+02:00"
+      "last_modified": "2021-08-24T10:36:02+02:00"
     },
     {
       "path": "Wiesel-und-Co-Projekte.html",
       "title": "Wiesel & Co Projekte",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:25+02:00"
+      "last_modified": "2021-08-24T10:36:02+02:00"
     },
     {
       "path": "Wirkungskontrolle.html",
       "title": "Wirkungskontrolle",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:26+02:00"
+      "last_modified": "2021-08-24T10:36:03+02:00"
     },
     {
       "path": "Wuehlmaeuse-im-Griff.html",
       "title": "Wühlmäuse im Griff?",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-24T10:32:26+02:00"
+      "last_modified": "2021-08-24T10:36:03+02:00"
     }
   ],
   "collections": ["projekt-ausgangslage/projekt-ausgangslage.json", "projekt-massnahmen/projekt-massnahmen.json", "projekt-resultate/projekt-resultate.json", "wissenschaft-tubecam/wissenschaft-tubecam.json", "wissenschaft-wiesel-co-projekte/wissenschaft-wiesel-co-projekte.json", "wissenschaft-externe-projekte/wissenschaft-externe-projekte.json", "wirkungskontrolle/wirkungskontrolle.json", "mithelfen-anpacken-mithelfen/mithelfen-anpacken-mithelfen.json", "mithelfen-anpacken-beobachtung/mithelfen-anpacken-beobachtung.json", "projekt-1-1-untersuetzung/projekt-1-1-untersuetzung.json", "infoveranstaltungen/infoveranstaltungen.json", "faszination-kleinraubtiere-mensch-wiesel/faszination-kleinraubtiere-mensch-wiesel.json", "news/news.json", "projekt/projekt.json", "ueber-uns/ueber-uns.json", "faszination-kleinraubtiere-unsere-leitarten/faszination-kleinraubtiere-unsere-leitarten.json", "faszination-kleinraubtiere-wuehlmaeuse/faszination-kleinraubtiere-wuehlmaeuse.json"]
