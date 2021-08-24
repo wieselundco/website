@@ -20,7 +20,7 @@ und Hofmeester
 
 [Hier ist beschrieben wie sich die daraus entwickelte MammaliaBox im
 Feld
-bewährt](http://wieselundco.ch/wissenschaft/externe-projekte/126-mammaliabox)
+bewährt](/wissenschaft-externe-projekte/126-mammaliabox/)
 (Bild unten).
 
  
