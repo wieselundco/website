@@ -21,7 +21,7 @@ Jahr und zu jeder Tages- und Nachtzeit beobachten.
 
   Der Iltis kann sich Winterspeck anfressen und legt daher in rauhen Winterphasen schonmal einige Ruhetage an geschützten Orten ein, vgl. [Massnahme "Winterquartier"](http://wieselundco.ch/projekt/massnahmen/135-winterquartier). Im Allgemeinen bewegt er sich gern in Schutz der Vegetation und Dunkeheit und wird dementsprechend selten gesichtet obwohl er sich gern auch in Siedlungsnähe aufhält. [Mehr dazu auf unserem Iltis-Poster.](https://github.com/wieselundco/website/files/7025295/22-Plakat.Iltis_2021.pdf)
  
-  [Hier finden Sie unser Poster mit einigen Stichworten zu den drei Zielarten.](https://github.com/wieselundco/website/files/7025298/Plakat.Steckbrief.pdf)
+[Hier finden Sie unser Poster mit einigen Stichworten zu den drei Zielarten.](https://github.com/wieselundco/website/files/7025298/Plakat.Steckbrief.pdf)
 
   
   Kurze, aussagekräftige Porträts der Arten gibt <a href="https://apps.wildtier.ch/mammals/" target="_blank">
@@ -32,58 +32,6 @@ Ausführlicher sind sie beschrieben im 2021 erschienenen <a href="https://www.ha
   <div class="l-body-outset">
 <p><img src="https://user-images.githubusercontent.com/49158554/129403256-98bb4d87-9293-4530-bde9-63ee70300766.PNG" style="width: 100%"></p>
 </div>
-
-
- 
-<!-- <table> -->
-<!--  <thead> -->
-<!--   <tr> -->
-<!--    <th style="text-align:left;">  </th> -->
-<!--    <th style="text-align:left;"> Mauswiesel </th> -->
-<!--    <th style="text-align:left;"> Hermelin </th> -->
-<!--    <th style="text-align:left;"> Iltis </th> -->
-<!--   </tr> -->
-<!--  </thead> -->
-<!-- <tbody> -->
-<!--   <tr> -->
-<!--    <td style="text-align:left;"> Kopf-Rumpf-Länge </td> -->
-<!--    <td style="text-align:left;"> 20cm </td> -->
-<!--    <td style="text-align:left;"> 30cm </td> -->
-<!--    <td style="text-align:left;"> 40cm </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--    <td style="text-align:left;"> Schwanz Länge </td> -->
-<!--    <td style="text-align:left;"> 5cm </td> -->
-<!--    <td style="text-align:left;"> 15cm </td> -->
-<!--    <td style="text-align:left;"> 15cm </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--    <td style="text-align:left;"> Fellfärbung </td> -->
-<!--    <td style="text-align:left;"> Ganzjährig braun-weiss Unruhige Trennlinie Ober-/Unterseite </td> -->
-<!--    <td style="text-align:left;"> Auffälliger Schwanz mit schwarzer Schwanzspitze Weisses Winterfell Scharfe Trennlinie Ober-/Unterseite im Sommerfell </td> -->
-<!--    <td style="text-align:left;"> Unverkennbare Gesichtsmaske Dunkle Grannenhaare, beige Unterwolle </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--    <td style="text-align:left;"></td> -->
-<!--    <td style="text-align:left;"> <img src="1_mauswiesel.jpg" width = "200"> </td> -->
-<!--    <td style="text-align:left;"> <img src="2_hermelin.jpg" width = "200"> </td> -->
-<!--    <td style="text-align:left;"> <img src="3_iltis.jpg" width = "200"> </td> -->
-<!--   </tr> -->
-<!-- </tbody> -->
-<!-- </table> -->
-
- 
-
- 
-
- 
-
-```{r,results='asis', echo = FALSE}
-
-
-
-```
-
 
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/12-who-is-who-->
