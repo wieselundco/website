@@ -25,31 +25,15 @@ params:
 knitr::include_graphics('Feldscheune_Rinderweid.jpg', error = FALSE) #images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg
 ```
 
-Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu
-haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate
-berichtet.](projekt/resultate)
+Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate berichtet.](projekt/resultate)
 
-Die Schutzwürdigkeit der Feldscheunen steigt mit ihrer ökologischen
-sowie kulturlandschaftlichen Bedeutung. Die kulturlandschaftliche
-Bedeutung ist dort besonders hoch wo u.a. folgende Punkte gegeben sind:
+Die Schutzwürdigkeit der Feldscheunen steigt mit ihrer ökologischen sowie kulturlandschaftlichen Bedeutung. Die kulturlandschaftliche Bedeutung ist dort besonders hoch wo u.a. folgende Punkte gegeben sind: 
 
--   historische Nutzung typisch für Region (insbesondere Einlagerung von
-    Torf und Streu)
--   eingebettet in ein aktuell noch intaktes Landschaftsbild, bevorzugt
-    in Nachbarschaft von weiteren Feldscheunen.
--   zukünftig ist eine zonenkonforme, extensive Nutzung vorgesehen, die
-    den Erhalt des Objekts für die kommenden Jahrzehnte gewährleistet.
+-   historische Nutzung typisch für Region (insbesondere Einlagerung von Torf und Streu)
+-   eingebettet in ein aktuell noch intaktes Landschaftsbild, bevorzugt in Nachbarschaft von weiteren Feldscheunen.
+-   zukünftig ist eine zonenkonforme, extensive Nutzung vorgesehen, die den Erhalt des Objekts für die kommenden Jahrzehnte gewährleistet.
 
-Nebst der kulturlandschaftlichen Bedeutung haben Feldscheunen
-ökologisches Potential als Teillebensraum für Fledermäuse, Vögel,
-Kleinsäuger, Insekten etc.  
-Historisch ist belegt (z.B. vgl. „Die wilden Tiere in der Stadt“ von
-S. Inneichen, 1997), dass auch die Zielarten von WiCoZ stets Behausungen
-von Menschen und ihren Nutztieren auf der Suche nach Nahrung, Deckung
-und Brutstätten besucht haben.  
-Kleinraubtiere können sie als Deckungsmöglichkeit und Jagdgrund nutzen,
-wenn der Anschluss an geeignete Lebensräume gewährleistet ist und
-störungsfreie Unterschlüpfe vorhanden sind. 
+Nebst der kulturlandschaftlichen Bedeutung haben Feldscheunen ökologisches Potential als Teillebensraum für Fledermäuse, Vögel, Kleinsäuger, Insekten etc. Historisch ist belegt (z.B. vgl. „Die wilden Tiere in der Stadt“ von S. Inneichen, 1997), dass auch die Zielarten von WiCoZ stets Behausungen von Menschen und ihren Nutztieren auf der Suche nach Nahrung, Deckung und Brutstätten besucht haben.   Kleinraubtiere können sie als Deckungsmöglichkeit und Jagdgrund nutzen, wenn der Anschluss an geeignete Lebensräume gewährleistet ist und störungsfreie Unterschlüpfe vorhanden sind. 
 
 Im Frühling/Sommer werden extensiv genutzte, deckungsreiche Innenräume
 landwirtschaftlicher Gebäude gemäss Erfahrungen im Bezirk Horgen vom
@@ -73,8 +57,7 @@ verlängert werden.
 
 Geeignete Deckungs- und Niststrukturen für Kleinraubtiere und andere
 Wildtiere sollen gefördert werden. Die Massnahmen für unsere Zielarten
-orientieren sich am [projekteigenen
-Bonussystem](images/dokumente/Bonussystem_WiCoZ.pdf), sind aber
+orientieren sich am [projekteigenen Bonussystem](images/dokumente/Bonussystem_WiCoZ.pdf), sind aber
 fallweise zu definieren, was auch für die Förderung anderer Artengruppen
 gilt. 
 
