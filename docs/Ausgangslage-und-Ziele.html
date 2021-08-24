@@ -2225,6 +2225,7 @@ function init_posts_list() {
 
       // mark posts that match the category visible
       var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
       var posts = $('.post-metadata').map(function(idx, script) {
         var metadata = $.parseJSON($(script).html());
         var post = null;
@@ -2240,7 +2241,7 @@ function init_posts_list() {
       set_posts_visible(posts, true);
 
       // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
 
       // update the list_caption
       var list_caption = $('.posts-list-caption');
@@ -2303,25 +2304,42 @@ function init_posts_list() {
 <div class="posts-container posts-apply-limit l-page">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Ausgangslage und Ziele">Ausgangslage und Ziele</h1>
-<a href="projekt-ausgangslage/66-beschrieb-umsetzungsphase/" class="post-preview">
+<a href="projekt-ausgangslage/11-das-wieselfoerderprojekt-der-gemeinde/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 18, 2016</div>
+<div class="publishedDate">Jan. 28, 2014</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="projekt-ausgangslage/66-beschrieb-umsetzungsphase/0100a_b_20150131_099_02.jpg"/>
+<img src="projekt-ausgangslage/11-das-wieselfoerderprojekt-der-gemeinde/haufenbau_2.jpg"/>
 </div>
 <div class="description">
-<h2>Umsetzungsphase bis Mitte 2021</h2>
+<h2>Inspiration</h2>
 <div class="dt-tags"></div>
-<p>Dank dem Erfolg der konzeptionellen ersten Projektphase (vgl. Schlussbericht Phase 1) konnte Wiesel &amp; Co am Zimmerberg Ende 2015 wie geplant in die Umsetzungsphase starten.
+<p>Der Naturschutzverein Schönenberg (NVS) wurde durch die Stiftung Wieselnetz (WIN) auf die Thematik der Kleinraubtiere aufmerksam und realisierte mit deren Unterstützung von 2009-2012 ein Wieselprojekt auf ihrem Gemeindegebiet. 
 
-Sie konnte von den Resultaten aus dem ersten Projektjahr profitieren; Kontakte mit verschiedenen Interessengruppen, Planungsinstrumente und Know-How bei der Erstellung von Massnahmen in der Landschaft sowie bei der Wirkungskontrolle waren beste Voraussetzung dafür. 
+Die Projektierung erfolgte so überzeugend, dass innert kurzer Frist die nötigen finanziellen Mittel zur Realisierung des Projekts von privaten wie öffentlichen Geldgebern gesprochen wurden.</p>
+</div>
+</a>
+<a href="projekt-ausgangslage/2-motivation/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Jan. 24, 2014</div>
+<div class="dt-authors"></div>
+</div>
+<div class="thumbnail">
+<img src="https://user-images.githubusercontent.com/49158554/129086886-0c180de4-7094-4dc0-aeeb-7806cfdac47c.jpg"/>
+</div>
+<div class="description">
+<h2>Motivation</h2>
+<div class="dt-tags"></div>
+<p>Im Zentrum dieses Naturschutzprojekts standen die Arten Hermelin, Mauswiesel und Iltis, die zur Familie der Marderartigen gehören.  
+     
+[Förderung? Warum eigentlich?](https://github.com/wieselundco/website/files/6970804/Plakat.Gefahrdung.pdf)
 
-Das Projekt wurde am 31. Mai 2021 beendet. 
+Die genannten Arten sind im Schweizer Mittelland nach einheitlicher Beurteilung von Fachleuten in den letzten Jahrzehnten deutlich zurückgegangen. Iltis und Mauswiesel werden sogar auf der Roten Liste der gefährdeten Tierarten der Schweiz als verletzlich aufgeführt. Sichere Daten über die Bestände und deren Entwicklung fehlen allerdings. 
 
-Den Beschrieb der Phase 2 inkl. der referenzierten Anhänge finden Sie nachfolgend - den Schlussbericht unter der Rubrik Resultate:</p>
+Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.</p>
 </div>
 </a>
 <a href="projekt-ausgangslage/3-ziele-des-projekts-wiesel-co-am-zimmer/" class="post-preview">
@@ -2343,42 +2361,25 @@ Wir stärkten und vernetzten von 2014 bis 2021 die Lebensräume der Kleinraubtie
 Die intensive Zusammenarbeit mit Landwirten, den Jagdgesellschaften, Schulklassen, Wissenschaftlern und weiteren Interessierten aus der Bevölkerung war zentral für unser Projekt. Denn sie schafft Vertrauen zwischen den verschiedenen Interessengruppen, fördert ihr Knowhow und sorgt für eigeninitiativen, integrativen Naturschutz.</p>
 </div>
 </a>
-<a href="projekt-ausgangslage/11-das-wieselfoerderprojekt-der-gemeinde/" class="post-preview">
+<a href="projekt-ausgangslage/66-beschrieb-umsetzungsphase/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 28, 2014</div>
+<div class="publishedDate">Jan. 18, 2016</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="projekt-ausgangslage/11-das-wieselfoerderprojekt-der-gemeinde/haufenbau_2.jpg"/>
+<img src="projekt-ausgangslage/66-beschrieb-umsetzungsphase/0100a_b_20150131_099_02.jpg"/>
 </div>
 <div class="description">
-<h2>Inspiration</h2>
+<h2>Umsetzungsphase bis Mitte 2021</h2>
 <div class="dt-tags"></div>
-<p>Der Naturschutzverein Schönenberg (NVS) wurde durch die Stiftung Wieselnetz (WIN) auf die Thematik der Kleinraubtiere aufmerksam und realisierte mit deren Unterstützung von 2009-2012 ein Wieselprojekt auf ihrem Gemeindegebiet. 
+<p>Dank dem Erfolg der konzeptionellen ersten Projektphase (vgl. Schlussbericht Phase 1) konnte Wiesel &amp; Co am Zimmerberg Ende 2015 wie geplant in die Umsetzungsphase starten.
 
-Die Projektierung erfolgte so überzeugend, dass innert kurzer Frist die nötigen finanziellen Mittel zur Realisierung des Projekts von privaten wie öffentlichen Geldgebern gesprochen wurden.</p>
-</div>
-</a>
-<a href="projekt-ausgangslage/2-motivation/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 25, 2014</div>
-<div class="dt-authors"></div>
-</div>
-<div class="thumbnail">
-<img src="projekt-ausgangslage/2-motivation/"/>
-</div>
-<div class="description">
-<h2>Motivation</h2>
-<div class="dt-tags"></div>
-<p>Im Zentrum dieses Naturschutzprojekts standen die Arten Hermelin, Mauswiesel und Iltis, die zur Familie der Marderartigen gehören.  
-     
-  [Förderung? Warum eigentlich?](https://github.com/wieselundco/website/files/6970804/Plakat.Gefahrdung.pdf)
+Sie konnte von den Resultaten aus dem ersten Projektjahr profitieren; Kontakte mit verschiedenen Interessengruppen, Planungsinstrumente und Know-How bei der Erstellung von Massnahmen in der Landschaft sowie bei der Wirkungskontrolle waren beste Voraussetzung dafür. 
 
-  Die genannten Arten sind im Schweizer Mittelland nach einheitlicher Beurteilung von Fachleuten in den letzten Jahrzehnten deutlich zurückgegangen. Iltis und Mauswiesel werden sogar auf der Roten Liste der gefährdeten Tierarten der Schweiz als verletzlich aufgeführt. Sichere Daten über die Bestände und deren Entwicklung fehlen allerdings. 
+Das Projekt wurde am 31. Mai 2021 beendet. 
 
-Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.</p>
+Den Beschrieb der Phase 2 inkl. der referenzierten Anhänge finden Sie nachfolgend - den Schlussbericht unter der Rubrik Resultate:</p>
 </div>
 </a>
 </div>

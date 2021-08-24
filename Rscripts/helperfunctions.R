@@ -1,4 +1,4 @@
-
+library(tidyverse)
 b <- function(str){
   filpath <- str_remove(str, "\\(.+\\)") %>%
     str_trim()
