@@ -14,18 +14,22 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-In den engen Mäusebauten können die Wiesel sich keine Fettreserven
+In den engen Mäusebauten können sich die beiden Wieselarten keine Fettreserven
 erlauben und so sind sie im ständigen Wechsel von Ruhe- und
 Aktivitätsphasen. Daher lassen sich die neugierigen Tiere über das ganze
 Jahr und zu jeder Tages- und Nachtzeit beobachten.
 
+  Der Iltis kann sich Winterspeck anfressen und legt daher in rauhen Winterphasen schonmal einige Ruhetage an geschützten Orten ein, vgl. [Massnahme "Winterquartier"](http://wieselundco.ch/projekt/massnahmen/135-winterquartier). Im Allgemeinen bewegt er sich gern in Schutz der Vegetation und Dunkeheit und wird dementsprechend selten gesichtet obwohl er sich gern auch in Siedlungsnähe aufhält. [Mehr dazu auf unserem Iltis-Poster.](https://github.com/wieselundco/website/files/7025295/22-Plakat.Iltis_2021.pdf)
+ 
+  [Hier finden Sie unser Poster mit einigen Stichworten zu den drei Zielarten.](https://github.com/wieselundco/website/files/7025298/Plakat.Steckbrief.pdf)
 
-Kurze, aussagekräftige Porträts der Arten gibt <a href="https://apps.wildtier.ch/mammals/" target="_blank">
+  
+  Kurze, aussagekräftige Porträts der Arten gibt <a href="https://apps.wildtier.ch/mammals/" target="_blank">
 die Wildtier-App (unter Raubtiere)</a>.
 Ausführlicher sind sie beschrieben im 2021 erschienenen <a href="https://www.haupt.ch/buecher/natur-garten/atlas-der-saeugetiere-schweiz-und-liechtenstein.html" target="_blank">Atlas der Säugetiere</a> der <a href="https://mitglied.scnat.ch/sgw-ssbf" target="_blank">Schweizerischen Gesellschaft für Wildtierbiologie</a>. 
 
 
-<div class="l-body-outset">
+  <div class="l-body-outset">
 <p><img src="https://user-images.githubusercontent.com/49158554/129403256-98bb4d87-9293-4530-bde9-63ee70300766.PNG" style="width: 100%"></p>
 </div>
 

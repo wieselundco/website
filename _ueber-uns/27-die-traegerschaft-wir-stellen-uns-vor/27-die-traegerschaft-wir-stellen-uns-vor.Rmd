@@ -1,8 +1,7 @@
 ---
 title: 'Trägerschaft und Ansprechpersonen'
 description: |
-  Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau. Alle Vereine haben das Projekt die ganze Dauer über getragen. Der NVV Hirzel fusionierte 2021 mir Natur Horgen. 
-  Die untenstehenden Ansprechpersonen dürfen für Fragen und Anliegen auch nach Projektende kontaktiert werden.
+  Für das im Jahr 2014 lancierte Projekt Wiesel & Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau. Alle Vereine haben das Projekt die ganze Dauer über getragen. 
 date: 2021-01-08
 
 
@@ -15,7 +14,9 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+Der NVV Hirzel fusionierte 2021 mir Natur Horgen. 
 
+  Die untenstehenden Ansprechpersonen dürfen für Fragen und Anliegen auch nach Projektende kontaktiert werden.
 
 ```{r, echo = FALSE}
 

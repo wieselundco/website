@@ -5,7 +5,7 @@ description: |
   
     Oftmals sind nicht nur ökologische, sondern auch betriebswirtschaftliche Aspekte entscheidend, ob solch eine Massnahme realisiert werden kann. Wo bereits Bewirtschaftungshindernisse bestehen, wird die Anlage aus der betrieblichen Sicht eher gutgeheissen. 
     
-    Unser Ziel sind solche Pilotmassnahmen nach folgendem Prinzip: 
+    Unser Ziel sind Pilotmassnahmen nach folgendem Prinzip: 
 date: 2021-01-09
 preview: 2021-03-02_100045_1000px.jpg
 image_intro: images/bilder/Gross-Struktur/2021-03-02_100045_1000px.jpg
@@ -24,10 +24,12 @@ params:
 knitr::include_graphics('2020-11-18_115141_1500px.jpg', error = FALSE) #images/bilder/Gross-Struktur/2020-11-18_115141_1500px.jpg
 ```
 
-Die aufwändig zu bewirtschaftenden Kleinflächen um die Stelen deutlich
-extensivieren und mit unterschiedlichen Elementen strukturieren. Was
+Die aufwändig zu bewirtschaftenden Kleinflächen um die Stelen sollen deutlich
+extensiviert und mit unterschiedlichen Elementen strukturiert werden. Was
 erlaubt ist, regeln einige Netzbetreiber in schriftlichen Dokumenten, so
 z.B. die swissgrid und die Elektizitätswerke der Stadt Zürich (EWZ).
+
+  Und so konnten dank der unkomplizierten Zusammenarbeit mit den erwähnten Netzbetreiberinnen in der Schlussphase des Projekts noch [zwei Pilotmassnahmen realisiert werden.](projekt-resultate/133-erste-mast-strukturen/)
 
 Die jeweilige Lage des Mastens zur Bewirtschaftungsrichtung,
 Parzellengrenze, Topografie etc. sind ebenso massgeblich für die

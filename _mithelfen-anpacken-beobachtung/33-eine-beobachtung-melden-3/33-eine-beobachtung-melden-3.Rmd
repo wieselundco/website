@@ -3,15 +3,8 @@ title: 'Sichtungsmeldung mit Webfauna'
 description: |
   Ihre Beobachtungsmeldung ist wichtig für künftige Förder- und Forschungsprojekte zugunsten von Wiesel & Co. 
   
-    Nach Projektende können wir die Sichtungsmeldungen nicht mehr entgegennehmen und verweisen auf infofauna/CSCF, das Schweizerische Zenrum für die Kartografie der Fauna.
-  
-    [Mit Webfauna stellen sie eine hervorragende App zur Verfügung, als Desktop- und Mobile-Version. ](https://webfauna.cscf.ch/Webfauna/Welcome.do)
-  
-    Dazu braucht es ein schnelles Anmeldeverfahren, [das hier begründet wird. ](http://www.cscf.ch/cscf/Webfauna/FAQ#cide2cfa8d1-a0b0-4dc2-9f7a-c710a5176b0f)
-  
-  
- 
-  
+    Nach Projektende können wir die Sichtungsmeldungen nicht mehr entgegennehmen und verweisen auf die App von infofauna/CSCF, dem Schweizerischen Zentrum für die Kartografie der Fauna.  
+
   
 date: 2021-08-26
 output:
@@ -22,7 +15,9 @@ params:
   rmdpath: _mithelfen-anpacken-beobachtung/33-eine-beobachtung-melden-3/33-eine-beobachtung-melden-3.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
-
+ [Mit Webfauna stellen sie eine hervorragende App zur Verfügung, als Desktop- und Mobile-Version.](https://webfauna.cscf.ch/Webfauna/Welcome.do)
+  
+    Dazu braucht es ein schnelles Anmeldeverfahren, [das hier begründet wird. ](http://www.cscf.ch/cscf/Webfauna/FAQ#cide2cfa8d1-a0b0-4dc2-9f7a-c710a5176b0f)
  
 
 ```{r,results='asis', echo = FALSE}
