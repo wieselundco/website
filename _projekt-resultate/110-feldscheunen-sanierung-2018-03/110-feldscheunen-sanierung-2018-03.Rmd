@@ -39,7 +39,7 @@ Tore verwendet.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719598339363" title="Album"><img src="https://live.staticflickr.com/65535/51340519213_f5fc5fc05d_z.jpg" width="640" height="480" alt="Album"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Während die Hälfte der Fassadenseiten bereits neue, sägerohe
+  Während die Hälfte der Fassadenseiten bereits neue, sägerohe
 Verschalungsbretter verpasst bekam, ist die andere Hälfte noch
 ausstehend für die kommende, voraussichtlich abschliessende
 Sanierungsetappe. Auch für das Eindecken des Daches sind noch einige
@@ -50,7 +50,7 @@ Hüttenbesitzern in der Steinweid und dem Hinterbergried beste äussere
 Bedingungen und viel Erfolg!
 
 [Hintergründe zur Sanierung von
-Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen-die-instanstellung-von-feldscheunen) 
+Feldscheunen.](/projekt-massnahmen/62-wir-unterstuetzen-die-instanstellung-/) 
 
  
 
