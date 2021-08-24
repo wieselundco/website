@@ -3,10 +3,9 @@ title: 'Überarbeitete Karten für Massnahmen und Sichtungen online!'
 description: |
   Die neuen Webkarten geben einen eindrücklichen Überblick und Einblick ins Projekt Wiesel & Co am Zimmerberg. Die Massahmenkarte zeigt stets den aktuellen Stand der realisierten Klein- und Grossstrukturen, der begleiteten faunagerechten Durchlasssanierungen und der sanierten Feldscheunen. Nicht nur der Ort der Massnahmen ist sichtbar, sondern es können auch einige weitere Infos abgefragt werden. 
   
-    Die Sichtungskarte erlaubte es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
+
 date: 2019-10-16
 preview: sichtung.jpg
-image_intro: images/bilder/GIS/sichtung.jpg
 image_fulltext: images/bilder/GIS/sichtung.jpg
 output:
   distill::distill_article:
@@ -21,10 +20,11 @@ params:
 ```{r , echo = FALSE}
 knitr::include_graphics('sichtung.jpg', error = FALSE) #images/bilder/GIS/sichtung.jpg
 ```
+   Die Sichtungskarte erlaubte es, eigene Sichtungen von Kleinraubtieren zu melden und damit das Grundlagewissen zu dieser Artengruppe zu erweitern. Gleichzeitig können auf der Karte bei uns jene Sichtungsmeldungen angezeigt werden, die wir verifiziert haben bzw. als plausibel erachten. 
 
-In Zusammenarbeit mit Landwirten und anderen Interessengruppen
+  In Zusammenarbeit mit Landwirten und anderen Interessengruppen
 werden seit 2014 u.a. gemäss den [Projektzielen](/Ausgangslage-und-Ziele.html)
-und dem [projekteigenen Bonussystem](/projekt-1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterst/) verschiedene Kleinstrukturen
+und dem [projekteigenen Bonussystem](/Bonus-System.html) verschiedene Kleinstrukturen
 erstellt, Feldscheunen in Stand gestellt und Gewässerdurchlässe
 faunagerecht saniert.
 
@@ -52,7 +52,7 @@ der <a href='http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36
 Sie die erfassten Sichtungsmeldungen von Kleinraubtieren ansehen.**
 Ähnlich der obigen Beschreibung können Sie auch hier Abfragen und Ebeneneinstellungen vornehmen.
 
-[Hier gibt es Hinweise, wie Sie Ihre Beobachtung melden können.](https://wieselundco.github.io/website/Beobachtung-Melden.html)
+[Hier gibt es Hinweise, wie Sie Ihre Beobachtung melden können.](Beobachtungen.html)
 
 
  
