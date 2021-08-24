@@ -1,15 +1,8 @@
 ---
 title: 'Bereits mehr als 100 Massnahmen realisiert'
 description: |
-  Die seriöse Vorbereitung auf die Umsetzungsphase des Projekts in den Jahren 2014 und 2015 hat sich offensichtlich gelohnt. Dank den guten Kontakten mit Landwirten, Jägern und Förstern konnten im ersten Quartal 2016 bereits über hundert Massnahmen umgesetzt werden: Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen.  
-  
-  Gelungen ist dies nicht zuletzt dank der massgeblichen Beteiligung der Ackerbaustellenleiter und Leiter von Vernetzungsprojekten. 
-  
-  Ohne das Mitwirken von unzähligen HelferInnen von Naturschutzvereinen, Pfadfinder-Abteilungen, Schulklassen, Jagdgesellschaften, Anwohnerschaften etc. wäre dies nicht möglich gewesen. 
-  
-  Ihnen allen gebührt ein herzliches Dankeschön! Wiesel & Co am Zimmerberg blickt zuversichtlich auf den April und die kommenden Saisons voller Aufwertungsmassnahmen für die Lebensräume der Kleinraubtiere. 
-  
-  Machen Sie sich ein Bild von den in schöner Erinnerung bleibenden Aktionstagen:
+  Die seriöse Vorbereitung auf die Umsetzungsphase des Projekts in den Jahren 2014 und 2015 hat sich offensichtlich gelohnt. Dank den guten Kontakten mit Landwirten, Jägern und Förstern konnten im ersten Quartal 2016 bereits über hundert Massnahmen umgesetzt werden: Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen.
+    Machen Sie sich ein Bild von den in schöner Erinnerung bleibenden Aktionstagen:
 date: 2016-02-05
 preview: 7_Aktiontage_Winter15_6.jpg
 image_intro: images/fotos/Aktionstage_Winter_2015_6/7_Aktiontage_Winter15_6.jpg
@@ -27,6 +20,12 @@ params:
 ```{r , echo = FALSE}
 knitr::include_graphics('47_Aktiontage_Winter15_6.jpg', error = FALSE) #images/fotos/Aktionstage_Winter_2015_6/47_Aktiontage_Winter15_6.jpg
 ```
+  Gelungen ist dies nicht zuletzt dank der massgeblichen Beteiligung der Ackerbaustellenleiter und Leiter von Vernetzungsprojekten. 
+  
+  Ohne das Mitwirken von unzähligen HelferInnen von Naturschutzvereinen, Pfadfinder-Abteilungen, Schulklassen, Jagdgesellschaften, Anwohnerschaften etc. wäre dies nicht möglich gewesen. 
+  
+  Ihnen allen gebührt ein herzliches Dankeschön! Wiesel & Co am Zimmerberg blickt zuversichtlich auf den April und die kommenden Saisons voller Aufwertungsmassnahmen für die Lebensräume der Kleinraubtiere. 
+  
 
 Machen Sie sich ein Bild von den in schöner Erinnerung
 bleibenden Aktionstagen: 
