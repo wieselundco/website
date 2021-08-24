@@ -29,9 +29,9 @@ knitr::include_graphics('26_Aktiontage_Winter15_6.JPG', error = FALSE) #images/f
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/14-news/96-sonderausstellung-wildnispark-->

@@ -24,9 +24,9 @@ Dahingehend profitieren alle Interessengruppen von dem, was das Projekt schon an
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/127-projektverlaengerung-->

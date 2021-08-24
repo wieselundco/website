@@ -52,9 +52,9 @@ erlebnisreiches Lernen in einem echten (Arbeits-)Umfeld.
 Sie wünschen Erfahrungsberichte aus dem Berufskollegium? Die Klassenlehrpersonen Karin Wildberger (karin.wildberger*_at_*oswaedenswil.ch) vom Schulhaus Fuhr und Tom Künsch (thomas.kuensch*_at_*oswaedenswil.ch) vom Schulhaus Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft über ihre Wieselwerk-Erfahrungen.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/mithelfen-anpacken/mithelfen/108-wieselwerk-mit-schulklassen-->

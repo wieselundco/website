@@ -40,9 +40,9 @@ Preis geben können.
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv-->

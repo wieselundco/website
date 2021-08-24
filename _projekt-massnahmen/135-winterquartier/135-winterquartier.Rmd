@@ -87,9 +87,9 @@ Winterquartiere und ihre Attraktivität auf unsere Zielarten.
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/massnahmen/135-winterquartier-->

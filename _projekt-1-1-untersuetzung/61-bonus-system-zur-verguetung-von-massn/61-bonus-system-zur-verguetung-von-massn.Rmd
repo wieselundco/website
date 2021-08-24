@@ -53,9 +53,9 @@ für gemeinnützige Zwecke vorgesehen sind und belastet insofern nicht das
 Budget der öffentlichen Hand.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/1-1-untersuetzung/61-bonus-system-zur-verguetung-von-massnahmen-->

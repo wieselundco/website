@@ -53,9 +53,9 @@ sehr erfolgreich bezeichnet werden und stimmt zuversichtlich für den
 Start der Phase 2.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/64-phase-1-schlussbericht-->

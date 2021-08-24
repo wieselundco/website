@@ -55,9 +55,9 @@ Mit ihrer Sichtungs-Meldung tragen Sie dazu bei, den Handlungsbedarf
 in Bezug auf die Kleinraubtiere zu klären. 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/mithelfen-anpacken/beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-meldung-->

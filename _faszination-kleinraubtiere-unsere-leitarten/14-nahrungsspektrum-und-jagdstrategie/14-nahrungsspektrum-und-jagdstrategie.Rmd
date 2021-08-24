@@ -48,9 +48,9 @@ anderer wesentlicher Anteil der Nahrung des Iltis sind Mäuse, aber auch
 er verschmäht weder Pflanzliches noch Wirbellose.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/14-nahrungsspektrum-und-jagdstrategie-->

@@ -48,9 +48,9 @@ Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719611397442" title="Hinterberg2016_7"><img src="https://live.staticflickr.com/65535/51341174139_0a2e069c20_z.jpg" width="640" height="480" alt="Hinterberg2016_7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/94-feldscheunen-sanierung-2016-7-->

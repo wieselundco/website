@@ -52,9 +52,9 @@ schon an Grundlagen geschaffen hatte und in der Endphase noch vollenden
 bzw. abrunden konnte
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/ausgangslage/66-beschrieb-umsetzungsphase-->

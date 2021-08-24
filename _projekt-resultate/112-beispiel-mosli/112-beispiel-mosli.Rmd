@@ -65,9 +65,9 @@ Die Beteiligten bleiben weiterhin im Einsatz für solche gelungene
 Wieselförderungen!
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/112-beispiel-mosli-->

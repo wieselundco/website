@@ -59,9 +59,9 @@ Trägerschaft somit die Arbeit des NV Schönenberg auf bereits hohem
 Niveau weiterentwickeln.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/ausgangslage/2-motivation-->

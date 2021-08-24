@@ -64,9 +64,9 @@ Sie die erfassten Sichtungsmeldungen von Kleinraubtieren ansehen.**
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/118-ueberarbeitete-karten-fuer-massnahmen-und-sichtungen-online-->

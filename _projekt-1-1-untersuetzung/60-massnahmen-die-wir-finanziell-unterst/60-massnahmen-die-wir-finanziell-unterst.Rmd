@@ -27,9 +27,9 @@ knitr::include_graphics('finanzielle_unterstuetzung.png.PNG', error = FALSE) #im
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/1-1-untersuetzung/60-massnahmen-die-wir-finanziell-unterstuetzen-->

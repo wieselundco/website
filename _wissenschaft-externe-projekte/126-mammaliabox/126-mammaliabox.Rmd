@@ -42,9 +42,9 @@ Erfahren Sie mehr auf dem Poster, das auch in der Galerie enthalten ist.
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/126-mammaliabox-->

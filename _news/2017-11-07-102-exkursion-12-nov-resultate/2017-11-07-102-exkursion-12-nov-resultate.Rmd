@@ -54,9 +54,9 @@ Tanne](https://fahrplan.search.ch/..Sch%C3%B6nenberg,Tanne)
 Leitung: Stefan Keller
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/102-exkursion-12-nov-resultate-bis-dato-->

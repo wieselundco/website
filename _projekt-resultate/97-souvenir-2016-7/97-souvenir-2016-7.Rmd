@@ -44,9 +44,9 @@ Und jetzt zu den Souvenirs - in Form unverstaubter Bilder:
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719611415557" title="Saison_2016_7"><img src="https://live.staticflickr.com/65535/51341450860_2e26f640ed.jpg" width="640" height="480" alt="Saison_2016_7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/97-souvenir-2016-7-->

@@ -41,8 +41,8 @@ params:
 ![](https://user-images.githubusercontent.com/49158554/129121054-4eb7d66e-e581-4012-ab17-8f7526bcbe47.JPG)
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 

@@ -41,9 +41,9 @@ Landschaftsqualitäts-Massnahmen auf Stand des Jahres
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/1-1-untersuetzung/63-unsere-massnahmen-mit-landwirtschaftlichen-direktzahlungen-kombinieren-->

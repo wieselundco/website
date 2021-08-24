@@ -64,9 +64,9 @@ lassen. ](faszination-kleinraubtiere/mensch-wiesel/115-vernetzungsideen)
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/131-nistkammer-monitoring-->

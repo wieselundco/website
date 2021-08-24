@@ -29,9 +29,9 @@ in der Region!! Ihre Mithilfe bildet das Fundament für zukünftige
 Lebensraum-Aufwertungen!**
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/14-news/16-exkursion-kleinraubtiere-kennen-keine-grenzen-->

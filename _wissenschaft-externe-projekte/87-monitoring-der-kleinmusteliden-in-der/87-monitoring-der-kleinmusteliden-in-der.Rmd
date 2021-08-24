@@ -48,9 +48,9 @@ die 8 bearbeiteten Gebiete.
 Kleinmusteliden in der Schweiz. Resultate der Erhebungen von 2010)
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/87-monitoring-der-kleinmusteliden-in-der-schweiz-cscf-->

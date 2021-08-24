@@ -104,9 +104,9 @@ die Erforschung neuer Nachweismethoden von Kleinraubtieren.
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/ausgangslage/3-ziele-des-projekts-wiesel-co-am-zimmerberg-->

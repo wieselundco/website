@@ -29,9 +29,9 @@ Unter geeigneten Voraussetzungen kann ein fix installierter Mäusezaun ein sehr 
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/104-bekaempfung-mit-verstand-->

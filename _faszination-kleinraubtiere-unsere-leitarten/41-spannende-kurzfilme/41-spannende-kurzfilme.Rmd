@@ -27,9 +27,9 @@ Auch das Mauswiesel hat Beute gewittert:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U7Y_oMRnAy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme-->

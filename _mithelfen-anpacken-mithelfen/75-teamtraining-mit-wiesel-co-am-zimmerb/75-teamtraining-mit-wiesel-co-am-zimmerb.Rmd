@@ -34,9 +34,9 @@ Das Angebot für solche gemeinsame "Wieselwerke" ist in der Regel in den Monaten
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/mithelfen-anpacken/mithelfen/75-teamtraining-mit-wiesel-co-am-zimmerberg-2-->

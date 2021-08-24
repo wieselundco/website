@@ -108,9 +108,9 @@ EIDMATT](images/Einladungen/2016_04_21_Einladung_Daechenwis.pdf)
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/14-news/74-aktionstage-april-2016-->

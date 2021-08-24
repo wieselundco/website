@@ -28,9 +28,9 @@ knitr::include_graphics('titelbild_snipe.JPG', error = FALSE) #images/bilder/div
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/99-zwischenbericht-2015-16-von-phase-2-->

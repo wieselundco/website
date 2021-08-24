@@ -30,9 +30,9 @@ Hermelin nicht auszuschliessen ist. Ziele der Arbeit sind:
 Die Arbeit findet im Zeitraum Februar - Juni 2017 statt
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/wiesel-co-projekte/86-ermittlung-des-mauswieselvorkommens-mustela-nivalis-im-bezirk-horgen-->

@@ -37,9 +37,9 @@ unterschiedlich strukturierten Lebensräumen des Untersuchungsgebietes
 vorkommen.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/91-untersuchung-der-nutzung-unterschiedlich-strukturierter-lebensraeume-durch-kleinmusteliden-und-schlaefer-->

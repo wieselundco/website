@@ -36,9 +36,9 @@ bleibenden Aktionstagen:
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719600215299" title="Aktionstage_Winter_2015_6"><img src="https://live.staticflickr.com/65535/51340511748_98db98a3f9_z.jpg" width="640" height="480" alt="Aktionstage_Winter_2015_6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/77-100-massnahmen-realisiert-->

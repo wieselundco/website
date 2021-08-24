@@ -50,9 +50,9 @@ Natura](https://www.pronatura.ch/de/gelbbauchunken-unter-strommasten).
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/massnahmen/132-gross-struktur-->

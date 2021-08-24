@@ -68,9 +68,9 @@ Einsatz von natürlichen Feinde ansehen.
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/14-news/116-workshop-wuehlmaeuse-im-griff-2-->

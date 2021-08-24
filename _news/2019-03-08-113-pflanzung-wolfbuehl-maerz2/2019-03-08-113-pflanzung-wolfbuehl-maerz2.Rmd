@@ -27,9 +27,9 @@ knitr::include_graphics('Aktionstag-VorderWiden-17-03-2018_5_red.jpg', error = F
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/113-pflanzung-wolfbuehl-maerz2019-->

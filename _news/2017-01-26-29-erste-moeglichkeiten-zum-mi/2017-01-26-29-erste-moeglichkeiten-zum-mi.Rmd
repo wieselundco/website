@@ -27,9 +27,9 @@ knitr::include_graphics('natur-portrait.de-daniel.jpg', error = FALSE) #images/b
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/14-news/29-erste-moeglichkeiten-zum-mitwirken-im-winter-2017-->

@@ -30,9 +30,9 @@ Es ist also im Interesse der Bewirtschafter von Gr√ºnland, die Vermehrung der W√
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/103-ein-schaedling-mitnichten-->

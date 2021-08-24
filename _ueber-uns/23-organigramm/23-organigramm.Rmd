@@ -88,9 +88,9 @@ Forschung
 - <a href='http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html' target='_blank'>Forschungsgruppe Geoinformatik der ZHAW Wädenswil</a>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/ueber-uns/23-organigramm-->

@@ -15,9 +15,9 @@ params:
 Klicke [hier](Wieselfragen_web.pdf) um den Test durchzuführen. Bist du fertig? [Hier](Wieselantworten_Web.pdf) sind die richtigen Antworten.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/36-fragen-rund-um-die-wiesel-->

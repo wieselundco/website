@@ -62,9 +62,9 @@ man ja noch Kind sein. 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719653736630" title="Moos_Ausee_Feb2017"><img src="https://live.staticflickr.com/65535/51339712812_056199c4ca_z.jpg" width="640" height="480" alt="Moos_Ausee_Feb2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/81-aktionstage-februar-2017-->

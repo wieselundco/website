@@ -25,9 +25,9 @@ knitr::include_graphics('18_Ausee.jpg', error = FALSE) #images/fotos/Aktionstage
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/111-strukturenbau-14-april-->

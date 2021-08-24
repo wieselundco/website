@@ -25,9 +25,9 @@ Das Heft von Agrofutura und WIN Wieselnetz zeigt auf, mit welchen Massnahmen man
 WiCoZ ist der Meinung, dass Klein- und Grossstrukturen nicht dogmatisch nach Schema X gebaut werden sollen; Schliesslich sind die unzähligen Organismen unseres Ökosystems auf die Koexistenz sehr unterschiedlicher Teillebensräume angewiesen.  Erfahren Sie in den folgenden Beiträgen, wie einzelne Typen von Deckungsstrukturen für Wiesel & Co besonders wirkungsvoll werden. Kleine Empfehlungen zur Vorgehensweise bei der Anlage können den Unterschied ausmachen, dass sich die Zielarten wirklich ansiedeln.  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/massnahmen/59-welche-massnahmen-nuetzen-den-kleinraubtieren-am-zimmerberg-->

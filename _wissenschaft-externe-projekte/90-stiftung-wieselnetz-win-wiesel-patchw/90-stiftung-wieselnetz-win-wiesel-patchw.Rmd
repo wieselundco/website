@@ -42,9 +42,9 @@ von schon getroffenen Massnahmen können aber auch in Zukunft dazukommen.
 <a href='http://wieselnetz.ch/de/home/projekte-win/praxisprojekte/)' target='_blank'>www.wieselnetz.ch</a>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/90-stiftung-wieselnetz-win-wiesel-patchwork-->

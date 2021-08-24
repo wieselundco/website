@@ -33,9 +33,9 @@ Um die Organisation des jeweils offerierten Zmittags zu vereinfachen, ist vorgä
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/123-aktionstage-feb-20-->

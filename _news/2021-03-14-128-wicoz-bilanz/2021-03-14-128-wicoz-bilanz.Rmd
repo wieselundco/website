@@ -32,9 +32,9 @@ Dazu durften wir bereits mit 15 Beteiligten ein Interview führen. Sie dürfen m
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/2-uncategorised/128-wicoz-bilanz-->

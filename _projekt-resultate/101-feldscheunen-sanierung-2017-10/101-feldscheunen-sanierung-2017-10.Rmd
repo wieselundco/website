@@ -52,9 +52,9 @@ Feldscheunen.](http://www.wieselundco.ch/projekt/massnahmen/62-wir-unterstuetzen
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719603584876" title="2017-10-22"><img src="https://live.staticflickr.com/65535/51340950329_d42c24af92_z.jpg" width="640" height="480" alt="2017-10-22"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/resultate/101-feldscheunen-sanierung-2017-10-->

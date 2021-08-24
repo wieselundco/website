@@ -58,9 +58,9 @@ Altgrasstreifen und Steinhaufen haben sicher einiges dazu beigetragen.
 Susanne Heusser
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/faszination-kleinraubtiere/mensch-wiesel/25-braun-weisses-hermelin-in-kilchberg-->

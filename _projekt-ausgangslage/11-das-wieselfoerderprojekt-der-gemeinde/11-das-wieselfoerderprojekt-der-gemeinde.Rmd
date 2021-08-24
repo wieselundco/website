@@ -40,9 +40,9 @@ Co](https://wieselundco.github.io/website/ueber-uns/27-die-traegerschaft-wir-ste
 die nötige Verankerung in der ganzen Region.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/projekt/ausgangslage/11-das-wieselfoerderprojekt-der-gemeinde-schoenenberg-2009-2012-->

@@ -215,9 +215,9 @@ Ich hoffe auf ganz schnell wieder ganz gutes Wetter und Danke Euch
 schonmal im Vorab.
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/wiesel-co-projekte/92-spurentunnel-erhebungen-->

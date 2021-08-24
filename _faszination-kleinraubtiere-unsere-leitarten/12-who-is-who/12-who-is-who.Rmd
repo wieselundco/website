@@ -75,9 +75,9 @@ Ausführlicher sind sie beschrieben im 2021 erschienenen <a href="https://www.ha
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 

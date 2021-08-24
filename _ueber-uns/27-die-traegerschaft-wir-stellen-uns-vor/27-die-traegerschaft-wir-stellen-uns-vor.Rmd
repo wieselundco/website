@@ -46,9 +46,9 @@ df %>%
 ```
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor-->

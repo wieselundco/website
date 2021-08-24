@@ -31,9 +31,9 @@ Massnahmen auf (Beitragsansätze Agrarpolitik 2018 – 2021).
 
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/wissenschaft/externe-projekte/89-stiftung-wieselnetz-win-foerdermassnahmen-fuer-wiesel-im-landwirtschaftsgebiet-->

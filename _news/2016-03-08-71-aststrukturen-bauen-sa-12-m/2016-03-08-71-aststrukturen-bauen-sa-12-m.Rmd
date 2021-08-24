@@ -76,9 +76,9 @@ Wir freuen uns über Ihr Kommen!!
  
 
 ```{r,results='asis', echo = FALSE}
-pander::pandoc.horizontal.rule()
 
-pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+
+
 ```
 
 <!--http://wieselundco.ch/14-news/71-aststrukturen-bauen-sa-12-maerz-->
