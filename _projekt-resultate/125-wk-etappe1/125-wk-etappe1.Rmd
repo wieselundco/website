@@ -1,15 +1,11 @@
 ---
-title: 'Systematische Wirkungskontrolle, Etappe 1von2'
+title: 'Systematische Wirkungskontrolle, Etappe 1 von 2'
 description: |
-  Entsprechend [unseren Projektzielen](https://github.com/wieselundco/website/files/6971747/WiCoZ_Phase_2_Projektbeschrieb.pdf)wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](https://github.com/wieselundco/website/files/6971748/AnhangC_Patch_Vernetzungsplanung.1.pdf) auf den schematischen Korridoren liegen.  
- 
-  Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. 
- 
-    Aus den Jahresberichten geht hervor, dass wir an ca. 2 von 3 Standorten der "spontanen Wirkungskontrolle" [Zusammenfassung von 2015/16](http://www.wieselundco.ch/projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv) die Zielarten Hermelin und/oder Iltis nachweisen konnten.  
- 
-  Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. 
- 
-  Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1von2.
+     Aus den Zwischenberichten geht hervor, dass wir an ca. 2 von 3 Standorten der "spontanen Wirkungskontrolle" die Zielarten Hermelin und/oder Iltis nachweisen konnten.  
+     
+   Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. 
+
+  Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1 von 2:
 date: 2020-01-06
 preview: steinmarder_wq_Oberfelsen.jpg
 image_intro: images/fotos/Fotofallenbilder/systematische-WK_Etappe1/steinmarder_wq_Oberfelsen.jpg
@@ -27,8 +23,11 @@ params:
 ```{r , echo = FALSE}
 knitr::include_graphics('RCNX0029.jpg', error = FALSE) #images/fotos/Fotofallenbilder/systematische-WK_Etappe1/RCNX0029.jpg
 ```
-
-Die systematische Wirkungskontrolle hat zum Ziel, in der Endphase des
+  Entsprechend [unseren Projektzielen](WiCoZ_Phase_2_Projektbeschrieb.pdf) wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](AnhangC_Patch_Vernetzungsplanung.1.pdf) auf den schematischen Korridoren liegen.  
+ 
+  Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. Hier eine [Zusammenfassung von 2015/16](/wirkungskontrolle/80-massnahmen-sind-nachweislich-attrakti/)
+ 
+  Die systematische Wirkungskontrolle hat zum Ziel, in der Endphase des
 Projekts folgende Erkenntnisse zu gewinnen: 
 
 -   Zu welchem Anteil lassen sich bei den von uns erstellten Strukturen  die [Zielarten Hermelin, Mauswiesel und Iltis](/Unsere-Zielarten.html) sowie andere Säuger feststellen?
@@ -41,7 +40,7 @@ Zimmerberg aufgewertet wurden.
 -   An 11 Standorten werden Winterquartiere mit Fotofallen überwacht,
     wobei die Geräte Fotos und Videosequenzen aufnehmen.
 -   An 39 Standorten werden Asthaufen mit Spurentunneln kontrolliert. In
-    den 6 Wochen kamen pro Tunnel 4 Spurenpapiere zum Einsatz. 10 der
+    der ersten Etappe kamen pro Tunnel 4 Spurenpapiere zum Einsatz. 10 der
     Asthaufen wurden zusätzlich mit einer
     [MammaliaBox](/wissenschaft-externe-projekte/126-mammaliabox/)
     bestückt. Es handelt sich dabei um eine für Kleintiere zugängliche
