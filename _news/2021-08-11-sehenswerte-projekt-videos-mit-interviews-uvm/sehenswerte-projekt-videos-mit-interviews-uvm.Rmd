@@ -9,6 +9,7 @@ description: |
     Wiesel & Co am Zimmerberg hat 15 Projektbeteiligte interviewt und viele tolle Kurzvideos und Bilder aus dem Archiv zu sehenswerten Kurzfilmen zusammengestellt.
 date: 08-11-2021
 preview: 128898050-0d8849c5-39a5-42e7-a9cc-9ad41bf224ca.JPG
+draft: true
 output:
   distill::distill_article:
     self_contained: false
