@@ -46,7 +46,7 @@ hinterlegter Betrag)
 
 [Der Vergütungs-Rechner vereinfacht die Berechnung stark - machen Sie
 sich hier eine Vorstellung
-davon.](images/dokumente/Verguetungs-Rechner_web.xlsx) 
+davon.](Verguetungs-Rechner_web.xlsx) 
 
 Der Projektfond wird übrigens hauptsächlich ermöglicht durch Gelder, die
 für gemeinnützige Zwecke vorgesehen sind und belastet insofern nicht das
