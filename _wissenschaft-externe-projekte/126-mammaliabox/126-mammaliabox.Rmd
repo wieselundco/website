@@ -5,9 +5,7 @@ description: |
   
     In dem Sinne wird an der ZHAW weiterhin nach einer Modernisierung der Nachweismethodik geforscht; Weg von den Spurentunneln, die zwar effizient Resultate liefern, dessen Tinte aber zweifelhafte Substanzen enthält. 
     
-    Nachdem das Projekt TubeCam 2019 eingestellt wurde, sucht man weiter nach einer funktionalen Kombination der Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die Kleinraubtiere instinktiv anlockt. 
-    
-    Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel & Co am Zimmerberg (Etappe 1) hat sich die MammaliaBox als sehr feldtauglich erwiesen.
+
 date: 2020-01-01
 preview: DSC01117-schmal.jpg
 image_intro: images/fotos/diverse/DSC01117-schmal.jpg
@@ -20,7 +18,9 @@ params:
   rmdpath: _wissenschaft-externe-projekte/126-mammaliabox/126-mammaliabox.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
-
+   Nachdem das Projekt TubeCam 2019 eingestellt wurde, sucht man weiter nach einer funktionalen Kombination der Fotofallentechnik mit dem Anreiz der kleinen runden Öffnung, die Kleinraubtiere instinktiv anlockt. 
+    
+   Beim Einsatz in der systematischen Wirkungskontrolle von Wiesel & Co am Zimmerberg [(Etappe 1)](/wirkungskontrolle/125-wk-etappe1/) hat sich die MammaliaBox als sehr feldtauglich erwiesen.
 
 ```{r , echo = FALSE}
 knitr::include_graphics('Poster_Bachelorarbeit_Silvio_Aegerter_100dpi.jpg', error = FALSE) #images/fotos/MammaliaBox/Poster_Bachelorarbeit_Silvio_Aegerter_100dpi.jpg
