@@ -3,9 +3,8 @@ title: 'Was unterstützen wir auch finanziell?'
 description: |
   Unsere Pilot-Massnahme zeigte Erfolg: Die erstellten Asthaufen mit Nistkammer wurden sogleich vom Iltis und dem Hermelin regelmässig besucht! 
   
-  Eine solche Struktur kann auch maschinell erstellt werden; wichtig sind letztlich Schutz, Trockenheit und beständiger Hohlraum! Für die kommenden Jahre wollen wir die nützlichen Kleinraubiere mit fünf ausgewählten Massnahmen-Typen fördern. Können solche Elemente auf ihrem Land realisiert werden? 
+  Eine solche Struktur kann auch maschinell erstellt werden; wichtig sind letztlich Schutz, Trockenheit und beständiger Hohlraum! 
   
-  Wir unterstützen Sie beratend, tatkräftig und finanziell! 
 date: 2016-01-09
 preview: finanzielle_unterstuetzung.png.PNG
 image_intro: images/bilder/diverse/finanzielle_unterstuetzung.png.PNG
@@ -19,6 +18,11 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+  Für die kommenden Jahre wollen wir die nützlichen Kleinraubiere mit fünf ausgewählten [Massnahmen-Typen](/Welche-Massnahmen.html) fördern. 
+  
+   Können solche Elemente auf ihrem Land realisiert werden? 
+  
+   Wir unterstützen Sie beratend, tatkräftig und finanziell! 
 
 ```{r , echo = FALSE}
 knitr::include_graphics('finanzielle_unterstuetzung.png.PNG', error = FALSE) #images/bilder/diverse/finanzielle_unterstuetzung.png
