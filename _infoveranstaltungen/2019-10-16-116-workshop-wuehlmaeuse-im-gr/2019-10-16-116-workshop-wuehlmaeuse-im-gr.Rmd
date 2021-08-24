@@ -5,7 +5,7 @@ description: |
    
       Welches sind die effizientesten und nachhaltigsten Bekämpfungsmethoden? Wie vergrämt man Wühlmäuse? Wie fördert man die natürlichen Wühlmaus-Feinde und ihren Zugriff auf die Nager?   
       
-      Der professionelle Mauser Matthias Wüst vermittelt seine Erfahrungen in Praxis & Theorie und bietet Raum für Diskussionen. Zudem thematisiert er aktuelle Entwicklungen zum Thema Wühlmäuse in der Landwirtschaft.
+     
 date: 2019-10-16
 preview: maulwurf_haufen_titel.jpg
 image_intro: images/Workshops_Kurstage/Wuehlmaeuse_im_Griff/maulwurf_haufen_titel.jpg
@@ -19,12 +19,15 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+[Hier geht's zur Rubrik "Wühlmäuse im Griff?"(/Wuehlmaeuse-im-Griff.html)
+
 
 ```{r , echo = FALSE}
 knitr::include_graphics('2017-10-27_112236_red.jpg', error = FALSE) #images/Workshops_Kurstage/Wuehlmaeuse_im_Griff/2017-10-27_112236_red.jpg
 ```
-
-Das Angebot richtet sich im Speziellen an Personen aus der Landwirtschaft, dem Gartenbau, dem Naturschutz und andere Grünflächenbewirtschafter. Teilnehmende können bei der Anmeldung Anregungen und Fragen zu spezifischen Themen einbringen.   Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler Berg.  «Mehr erfahren» für Programm und Anmeldung. Wir freuen uns über Ihre Teilnahme!
+ Der professionelle Mauser Matthias Wüst vermittelt seine Erfahrungen in Praxis & Theorie und bietet Raum für Diskussionen. Zudem thematisiert er aktuelle Entwicklungen zum Thema Wühlmäuse in der Landwirtschaft.
+ 
+   Das Angebot richtet sich im Speziellen an Personen aus der Landwirtschaft, dem Gartenbau, dem Naturschutz und andere Grünflächenbewirtschafter. Teilnehmende können bei der Anmeldung Anregungen und Fragen zu spezifischen Themen einbringen.   Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler Berg.  «Mehr erfahren» für Programm und Anmeldung. Wir freuen uns über Ihre Teilnahme!
 
 
 Austragungsort ist der diversifizierte Schluchtalhof am Wädenswiler
