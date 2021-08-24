@@ -5,7 +5,7 @@ description: |
   
     Welchen Beteiligten ist es zu verdanken, dass fünf weitere Feldscheunen saniert werden können? 
   
-    Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen wurden: 
+    Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter trotzen können und welche Quartiere für die Kleinraubtiere geschaffen wurden: 
 date: 2021-01-15
 preview: 28_FS-Seeli_1000px.jpg
 image_intro: images/fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen/28_FS-Seeli_1000px.jpg
@@ -44,7 +44,7 @@ Feldscheunen verbleiben, ein lohnender Einsatz für das Landschaftsbild.
 Ein Objekt hat sich besonders herausgeputzt und darf sich in Zukunft
 über Besuch von Jugendlichen und anderen Interessierten freuen. Eine
 Torfziegelpresse und andere Werkzeuge erzählen vom Kontrast zwischen
-Kriegszeiten und der heutigen Wahrnehmung unter Naturschutz.  
+Kriegszeiten und der heutigen Wahrnehmung von Naturschutz.  
 
 Natürlich profitieren auch Kleintiere vom Erhalt der Streuhütten.  
 Für Wiesel & Co werden in oder unter all diesen Objekten geeignete
@@ -52,8 +52,7 @@ Unterschlüpfe (Winterquartiere) eingerichtet. Sei es
 mit verschnürten Strohballen oder mit kleinen Anpassungen im Bereich des
 Fussbodens (gepolsterte Zwischenböden, Schlupflöcher etc.).
 
-Sehen Sie nun anhand zweier Beispiele, wie die Bauten wieder dem Wetter
-gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen
+Sehen Sie nun anhand zweier Beispiele, wie die Bauten wieder dem Wetter trotzen können und welche Quartiere für die Kleinraubtiere geschaffen
 wurden: 
 
 <!-- {gallery}fotos/Feldscheunen/Sanierungen/Seeli-Chrutzelen{/gallery} -->
