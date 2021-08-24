@@ -51,7 +51,7 @@ Naturschutz:
 - Michael Schlitner, Vernetzungsprojekt Wädenswil-Horgen und Hütten
 - Daniel Winter und Hannes Leuthold, Vernetzungsprojekt Hirzel-Schönenberg
 - Cristina Boschi, <a href='http://www.wieselnetz.ch/' target='_blank'>Stiftung Wieselnetz</a>
-- Mathias Villiger, <a href='http://www.birdlife-zuerich.ch' target='_blank'>ZVS/Birdlife-Zürich</a>
+- Mathias Villiger, <a href='http://www.birdlife-zuerich.ch' target='_blank'>BirdLife Zürich</a>
 - Heiko Schindler, Vernetzungsprojekt Rüschlikon
 - Darius Weber, Hintermannweber
 - Matthias Wüst, freischaffender Umweltpädagoge und Wildtierbiologe
@@ -80,12 +80,11 @@ Forst:
 - Ruedi Fluri, Förster des Reviers Hirzel, Horgen, Wildnispark und Sihlwald/Horgen
 - Damian Wyrsch, Förster des Reviers Adliswil, Kilchberg und Rüschlikon
 - Eugen Carisch, Förster des Reviers Thalwil, Oberrieden, Langnau am Albis
--  
 
 Forschung
 
-- <a href='http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html' target='_blank'>Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil</a>
-- <a href='http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/geoinformatik.html' target='_blank'>Forschungsgruppe Geoinformatik der ZHAW Wädenswil</a>
+- <a href='https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/ecosystems-and-biodiversity/wildtiermanagement/' target='_blank'>Forschungsgruppe Wildtiermanagement der ZHAW Wädenswil</a>
+- <a href='https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/ecosystems-and-biodiversity/geoinformatik/' target='_blank'>Forschungsgruppe Geoinformatik der ZHAW Wädenswil</a>
 
 ```{r,results='asis', echo = FALSE}
 
