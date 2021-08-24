@@ -46,7 +46,7 @@ Unterschlupf gegenüber der traditioinellen Streuhütten kleiner ist.
 
 Inspiriert von der Empfehlung eines "Iltisnests" von Darius Weber (S. 57
 in ["Schutz der kleinen Säugetiere - eine
-Arbeitshilfe"](http://www.wieselundco.ch/images/Dokus_Faktenblaetter/Schutz_der_kleinen_saeugetiere_-_eine_arbeitshilfe_red.pdf);
+Arbeitshilfe"](Schutz_der_kleinen_saeugetiere_-_eine_arbeitshilfe_red.pdf);
 Sonderausgabe von Umwelt Aargau) leitet Wiesel & Co am Zimmerberg die
 Erstellung von "Winterquartieren" ab, deren Erstellung durch das
 [projekteigene Bonus-System](Bonussystem_WiCoZ.pdf)
@@ -67,7 +67,7 @@ auch mit Stroh gefüllte und umgedrehte Obstharassen dienen, die
 allerdings fixiert bzw. beschwert werden müssen. 
 
 Unsere [Wirkungskontrolle (Etappe 1 von
-2)](projekt/resultate/125-wk-etappe1) zeigt auf schwacher Datenlage,
+2)](/wirkungskontrolle/125-wk-etappe1/) zeigt auf schwacher Datenlage,
 dass knapp 50% der Winterquartiere besucht wurden, wobei der Iltis
 proportional häufiger bei den Winterquartieren als Asthaufen
 festgestellt wurde. 
