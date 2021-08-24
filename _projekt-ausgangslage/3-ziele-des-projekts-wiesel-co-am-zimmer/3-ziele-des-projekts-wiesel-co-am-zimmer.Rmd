@@ -34,7 +34,7 @@ vernetzt. Dazu wurden u.a. natürliche Strukturen wie Asthaufen und
 Hecken geschaffen, die mehr Unterschlüpfe, grösseren Beuteerfolg und
 bessere Bedingungen für die Aufzucht von Jungen schaffen.
 
-   [Download Plakat "Lebensraum - Ansprüche und Anpassungen"](https://github.com/wieselundco/website/files/6970869/Plakat.Lebensraum.pdf)
+   [Download Plakat "Lebensraum - Ansprüche und Anpassungen"](Plakat.Lebensraum.pdf)
 
 
 
@@ -43,7 +43,7 @@ Für
 eine seriöse Planung der
 [Massnahmen](/Welche-Massnahmen.html) sorgte im
 Jahr 2014 u.a. die [Vorabklärung zur momentanen Verbreitung von Wiesel &
-Co](index.php/beobachtung-melden/28-warum-und-wozu-hilft-meine-sichtungs-meldung)
+Co](/mithelfen-anpacken-beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-/)
 mit verwandten Interessengruppen. Zusätzlich wurden die Bedürfnisse der
 Kleinraubtiere mit dem Potential der Landschaftsräume und den
 politischen Instrumenten abgeglichen, die die Landschaftsentwicklung
@@ -52,15 +52,15 @@ mitbestimmen.
 
 Die
 Trägerschaft suchte seither aktiv die Zusammenarbeit mit
-[Interessengruppen](index.php/die-traegerschaft/23-organigramm), die
+[Interessengruppen](/ueber-uns/23-organigramm/), die
 eine Schnittstelle zu Wiesel & Co aufweisen. Die geschaffenen Synergien
 dienten in erster Linie Wiesel & Co am Zimmerberg zur Realisierung der
-Aufwertungs-Massnahmen, schufen darüber hinaus auch Vertrauen, das in Zukunft der Entwicklung der Zimmerberglandschaft, ihrer
-Bewohner und ihrer Naturwerte zuträglich sein wird.
+Aufwertungs-Massnahmen.
+Darüber hinasu schufen sie auch Vertrauen, das in Zukunft der Entwicklung der Zimmerberglandschaft, ihrer
+Bewohnerinnen und ihrer Naturwerte zuträglich sein wird.
 
 
-Die
-[Umsetzungsphase](/projekt-ausgangslage/66-beschrieb-umsetzungsphase/)
+Die [Umsetzungsphase](/projekt-ausgangslage/66-beschrieb-umsetzungsphase/)
 startete in der zweiten Hälfte des Jahres 2015 und endete Mitte
 2021.
 
@@ -69,37 +69,35 @@ Es
 wurden einerseits Massnahmen gefördert, die die Stiftung WIN Wieselnetz
 und Agrofutura in der Broschüre ["Fördermassnahmen
 für Wiesel im
-Landwirtschaftsgebiet"](http://www.wieselnetz.ch/fileadmin/DATA/pdf_Word/Wieselfoerdermassnahmen_LW.pdf) beschreiben. Für
+Landwirtschaftsgebiet"](http://wieselnetz.ch/wp-content/uploads/2018/02/Heft_Wieselfoerdermassnahmen_D_Ed2_CMYK.pdf) beschreiben. Für
 die<span
 style="line-height: 13.984000205993652px;"> LandbesitzerInnen <span
 style="line-height: 13.984000205993652px;">bzw.
 -bewirtschafterInnen<span
 style="line-height: 13.984000205993652px;"> konnte mit dem projekteigenen
 Bonussytem eine finanzielle Belohnung erfolgen. Dies z.B. für Landwirte die
-Mehrleistungen erbringen (im Vergleich zu den
-Biodiversitätsförderflächen der Direktzahlungsverordnung des Bundes).  
+Mehrleistungen erbringen im Vergleich zu den
+Biodiversitätsförderflächen der Direktzahlungsverordnung des Bundes.  
   
    Das Projekt begleitete ausserdem
-faunagerechte Sanierungen von Bachdurchlässen und unterstützte den
-Erhalt von Feldscheunen (Zufllucht und Nahrung im Winter).  
+[faunagerechte Sanierungen von Bachdurchlässen](/projekt-massnahmen/2021-08-11-gewsserdurchlsse-faunagerecht-gestalten/) und unterstützte den
+[Erhalt von Feldscheunen](/projekt-massnahmen/62-wir-unterstuetzen-die-instanstellung-/).  
 Die Attraktivität der Massnahmen wird laufend geprüft und in der
-Endphase sorgt eine systematische Wirkungskontrolle für Erkenntnisse zu
+Endphase sorgt eine [systematische Wirkungskontrolle](/wirkungskontrolle/2021-08-12-gesamtschau-der-wirkungskontrolle/) für Erkenntnisse zu
 den getätigten Massnahmen.
 
 Die Bevölkerung
-profitierte durch das Projekt zusätzlich in Form von Umweltbildungsangeboten
-und Öffentlichkeitsarbeit. Je nach Zielgruppe wurden dabei
+profitierte durch das Projekt zusätzlich in Form von [Umweltbildungsangeboten](/Anpacken.html)
+und [Öffentlichkeitsarbeit](/Infoveranstaltungen.html). Je nach Zielgruppe wurden dabei
 z.B. die ökologische Bedeutung der Kleinraubtiere und die aufgewerteten
 Lebensräume oder die Problematik mit Steinmarder im Siedlungsraum
 thematisiert.
 
 Genutzt
-wurde die geografische Nähe zur [Forschungsgruppe Wildtiermanagement an
-der ZHAW
-Wädenswil](http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html). Die
+wurde die geografische Nähe zur <a href="http://www.lsfm.zhaw.ch/de/science/institute-zentren/iunr-integrativeoekologie/wilma.html" target="_blank">Forschungsgruppe Wildtiermanagement an der ZHAW Wädenswil</a> . Die
 Partnerschaft ermöglichte den Austausch von Fachkenntnissen und Synergien
 im Rahmen von studentischen Arbeiten. Hierbei handelte es sich z.B. um
-die Erforschung neuer Nachweismethoden von Kleinraubtieren.  
+die Erforschung [neuer Nachweismethoden von Kleinraubtieren](TubeCam.html).  
 
  
 
