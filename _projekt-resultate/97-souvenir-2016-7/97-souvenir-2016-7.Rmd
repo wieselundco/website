@@ -25,7 +25,7 @@ knitr::include_graphics('63_steinweid_red.jpg', error = FALSE) #images/fotos/Fel
 ```
 
 [Wie bereits
-berichtet](projekt/resultate/94-feldscheunen-sanierung-2016-7) starteten
+berichtet](/projekt-resultate/94-feldscheunen-sanierung-2016-7/) starteten
 zudem erste Sanierungen von Feldscheunen. 
 
 Die zunehmende Vernetzung der Lebensräume haben wir weitsichtigen
