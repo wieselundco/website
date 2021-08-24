@@ -15,7 +15,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-Der Landwirt in der Kräh (Horgen) freut sich aber auch über tatkräftige Unterstützung, um die nützlichen Mäusejäger mittels Strukturenbau näher an die "geplagten" Wiesen heranzuführen.   Damit wir den Aktiven einen Zmittag offerieren können, ist eine Anmeldung bis 12. April erwünscht.  [DOWNLOAD DETAILS AKTIONSTAG KRÄH HORGEN](https://github.com/wieselundco/website/files/6972662/2018_04_14_Einladung_Kraeh.pdf)
+Der Landwirt in der Kräh (Horgen) freut sich aber auch über tatkräftige Unterstützung, um die nützlichen Mäusejäger mittels Strukturenbau näher an die "geplagten" Wiesen heranzuführen.   Damit wir den Aktiven einen Zmittag offerieren können, ist eine Anmeldung bis 12. April erwünscht.  [DOWNLOAD DETAILS AKTIONSTAG KRÄH HORGEN](2018_04_14_Einladung_Kraeh.pdf)
 
 
 ```{r , echo = FALSE}
