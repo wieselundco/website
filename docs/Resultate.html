@@ -57,7 +57,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -78,13 +78,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021): Resultate</title>
@@ -1860,7 +1861,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2225,6 +2229,7 @@ function init_posts_list() {
 
       // mark posts that match the category visible
       var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
       var posts = $('.post-metadata').map(function(idx, script) {
         var metadata = $.parseJSON($(script).html());
         var post = null;
@@ -2240,7 +2245,7 @@ function init_posts_list() {
       set_posts_visible(posts, true);
 
       // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
 
       // update the list_caption
       var list_caption = $('.posts-list-caption');
@@ -2303,143 +2308,100 @@ function init_posts_list() {
 <div class="posts-container posts-apply-limit l-page">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Resultate">Resultate</h1>
-<a href="projekt-resultate/2021-08-12-letzte-feldscheunen-aufgewertet-wie-weiter/" class="post-preview">
+<a href="projekt-resultate/100-massnahmenstande-ende-2016/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Aug. 12, 2021</div>
+<div class="publishedDate">Jan. 22, 2017</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="https://user-images.githubusercontent.com/49158554/129364027-619afe7b-d105-45bf-842a-20a833fadfa6.jpg"/>
+<img src="projekt-resultate/100-massnahmenstande-ende-2016/ausschnitt_MnGIS16.JPG"/>
 </div>
 <div class="description">
-<h2>Letzte Feldscheunen aufgewertet - wie weiter?</h2>
+<h2>Plandarstellung zum Massnahmenstand Ende 2016</h2>
 <div class="dt-tags"></div>
-<p>In der Schlussphase des Projektes konnten zwei weitere Streu- bzw. Torfhütten in Stand gestellt und mit Strukturen für Wiesel &amp; Co ausgestattet werden.
+<p>Die kartografische Darstellung zeigt den fulminanten Start in die Phase 2 mit weit über 100 realisierten Lebensraumaufwertungen bis Ende des Jahres 2016.  
 
-Sie befinden sich am Rand des Chrutzelenmooses.
+ Es lassen sich interessante Aspekte darstellen: 
 
-Erfahren Sie mehr und machen Sie sich ein Bild von den Sanierungen.</p>
+ Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  
+ [Plandarstellung öffnen](https://zhaw.maps.arcgis.com/apps/View/index.html?appid=ef50669618af4f12911246b67674fce4&amp;extent=8.4012,47.1373,8.9506,47.3063)</p>
 </div>
 </a>
-<a href="projekt-resultate/pressespiegel/" class="post-preview">
+<a href="projekt-resultate/101-feldscheunen-sanierung-2017-10/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">June 4, 2021</div>
+<div class="publishedDate">Oct. 22, 2017</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="https://user-images.githubusercontent.com/49158554/129121007-6ce0a617-2888-4f96-a1e6-0662ae97aca4.jpg"/>
+<img src="projekt-resultate/101-feldscheunen-sanierung-2017-10/Hinterberg_Sanierung_5.jpg"/>
 </div>
 <div class="description">
-<h2>Pressespiegel</h2>
+<h2>Streuhütte im Hinterbergried steht wieder auf dem Trockenen</h2>
 <div class="dt-tags"></div>
-<p>Die Aktivitäten von Wiesel &amp; Co am Zimmerberg fanden in verschiedenen Pressehäusern Resonanz.
+<p>Sanierungsetappe 2 der Streuhütte im Hinterbergried: 
 
-Folgend einige Artikel und Verweise auf lesens- oder sehenswerte Publikationen:</p>
+  Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. 
+
+  Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. 
+
+  Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung.</p>
 </div>
 </a>
-<a href="projekt-resultate/133-erste-mast-strukturen/" class="post-preview">
+<a href="projekt-resultate/109-zwischenbericht-2017-von-phase-2/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 23, 2021</div>
+<div class="publishedDate">Jan. 23, 2018</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="projekt-resultate/133-erste-mast-strukturen/2020-11-18_115126_1500px.jpg"/>
+<img src="projekt-resultate/109-zwischenbericht-2017-von-phase-2/mn2017_bezirk_schmal.JPG"/>
 </div>
 <div class="description">
-<h2>Erste Gross-Strukturen bei Gittermasten </h2>
+<h2>Zwischenbericht und Massnahmenkarte Ende 2017</h2>
 <div class="dt-tags"></div>
-<p>Inspiriert durch die Stiftung Lebensraum Linthebene und in Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen: 
+<p>Bereits ist Halbzeit in der umsetzungsorientierten Phase 2 unseres Projekts. 
 
-  Es handelt sich um Gross-Strukturen im Bereich von Gittermasten - Hintergründe und Absichten sind hier umrissen. 
+  Erneut können wir eine sehr positive Bilanz ziehen. Was die Realisierung der bis Projektende zum Ziel gesetzten 300 Klein- und Grossstrukturen angeht, sind bereits 215 erstellt.  Glücklicherweise haben wir für die zweite Halbzeit klare Perspektiven und grosse Motivation sowohl für kommende Lebensraumaufwertungen wie auch für weitere Ziele wie die Wieselwerke mit Schulklassen. 
 
-  Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope im Sinne der Ökologischen Infrastruktur.  
-
-  Folgend einige Impressionen:</p>
+  Gerne zählen wir weiterhin auf das Interesse und die Aktivität der Bevölkerung. Lesen sie von den wichtigsten Errungenschaften bis Ende 2017 und wagen sie mit uns den Ausblick auf das Jahr 2018.</p>
 </div>
 </a>
-<a href="projekt-resultate/134-acht-streuhuetten-saniert/" class="post-preview">
+<a href="projekt-resultate/110-feldscheunen-sanierung-2018-03/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 15, 2021</div>
+<div class="publishedDate">March 22, 2018</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="projekt-resultate/134-acht-streuhuetten-saniert/28_FS-Seeli_1000px.jpg"/>
+<img src="projekt-resultate/110-feldscheunen-sanierung-2018-03/1430314439048_red.jpg"/>
 </div>
 <div class="description">
-<h2>Acht Torf- bzw. Streuhütten leben länger</h2>
+<h2>Die Streuhütte in der Steinweid lebt auf </h2>
 <div class="dt-tags"></div>
-<p>Die vergangenen beiden Winterhalbjahre brachten nochmals die Chance, kulturlandschaftlich und ökologisch bedeutende Kleinbauten in Stand zu stellen. 
+<p>Auch die Streuhütte in der Steinweid erfuhr die zweite Sanierungsetappe. Wie im Fall des Objekts im Hinterbergried ist auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige Stunden zur Restauration des Holzbaus.  
 
-  Welchen Beteiligten ist es zu verdanken, dass fünf weitere Feldscheunen saniert werden können? 
-
-  Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen wurden:</p>
+  Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der Instandstellung ist.</p>
 </div>
 </a>
-<a href="projekt-resultate/129-zwischenbericht-2019/" class="post-preview">
+<a href="projekt-resultate/112-beispiel-mosli/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 23, 2020</div>
+<div class="publishedDate">Oct. 22, 2018</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img src="projekt-resultate/129-zwischenbericht-2019/Zwbericht19_Deckblatt.jpg"/>
+<img src="projekt-resultate/112-beispiel-mosli/beute-hochformat.jpg"/>
 </div>
 <div class="description">
-<h2>Zwischenbericht Ende 2019</h2>
+<h2>Wieselförderung am Beispiel "Mosli"</h2>
 <div class="dt-tags"></div>
-<p>Bis Ende 2019 konnten die meisten Projektziele deutlich übertroffen werden. Beispielsweise sind schon ca. 450 statt total 300 projektierte Klein- und Grossstrukturen realisiert!
+<p>Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel &amp; Co am Zimmerberg zu zeigen:  
 
-Die letzten 18 Monate fokussieren sich auf die Instandstellung von Feldscheunen und die Erstellung von Gross-Strukturen. 
+  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  
 
-Ebenso wird auf eine nachhaltige Anschlusslösung für die regionale Natur- und Landschaftsförderung hingearbeitet. 
-
-Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns einen Rück- und Ausblick.</p>
-</div>
-</a>
-<a href="projekt-resultate/125-wk-etappe1/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 6, 2020</div>
-<div class="dt-authors"></div>
-</div>
-<div class="thumbnail">
-<img data-src="projekt-resultate/125-wk-etappe1/steinmarder_wq_Oberfelsen.jpg"/>
-</div>
-<div class="description">
-<h2>Systematische Wirkungskontrolle, Etappe 1von2</h2>
-<div class="dt-tags"></div>
-<p>Entsprechend [unseren Projektzielen](https://github.com/wieselundco/website/files/6971747/WiCoZ_Phase_2_Projektbeschrieb.pdf)wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](https://github.com/wieselundco/website/files/6971748/AnhangC_Patch_Vernetzungsplanung.1.pdf) auf den schematischen Korridoren liegen.  
-
-Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. 
-
-  Aus den Jahresberichten geht hervor, dass wir an ca. 2 von 3 Standorten der "spontanen Wirkungskontrolle" [Zusammenfassung von 2015/16](http://www.wieselundco.ch/projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv) die Zielarten Hermelin und/oder Iltis nachweisen konnten.  
-
-Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. 
-
-Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1von2.</p>
-</div>
-</a>
-<a href="projekt-resultate/124-souvenir-dez-2019/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Dec. 21, 2019</div>
-<div class="dt-authors"></div>
-</div>
-<div class="thumbnail">
-<img data-src="projekt-resultate/124-souvenir-dez-2019/2019-12-07_134428_red.jpg"/>
-</div>
-<div class="description">
-<h2>Impressionen von den Dezember-Aktionen</h2>
-<div class="dt-tags"></div>
-<p>Zeit für Impressionen von unseren Aktionstagen! Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. 
-
-  Die Aktionstage im Dezember waren wieder abwechslungsreich... 
-
-  Sehen Sie selbst:</p>
+  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.</p>
 </div>
 </a>
 <a href="projekt-resultate/118-ueberarbeitete-karten-fuer-massnahme/" class="post-preview">
@@ -2497,172 +2459,143 @@ Bis Ende 2018 konnten bereits einige Projektziele übertroffen werden. Beispiels
 Doch es gilt noch andere Ziele zu erreichen und ohnehin ist das Potential vorhanden, mehr zu realisieren als geplant.  Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns den Ausblick auf das Jahr 2019.</p>
 </div>
 </a>
-<a href="projekt-resultate/112-beispiel-mosli/" class="post-preview">
+<a href="projekt-resultate/124-souvenir-dez-2019/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Oct. 22, 2018</div>
+<div class="publishedDate">Dec. 21, 2019</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/112-beispiel-mosli/beute-hochformat.jpg"/>
+<img data-src="projekt-resultate/124-souvenir-dez-2019/2019-12-07_134428_red.jpg"/>
 </div>
 <div class="description">
-<h2>Wieselförderung am Beispiel "Mosli"</h2>
+<h2>Impressionen von den Dezember-Aktionen</h2>
 <div class="dt-tags"></div>
-<p>Wahrlich eine schöne Gelegenheit, um die praktische Lebensraumaufwertung, die angewandte Forschung, die Umweltbildung und die Wirkungskontrolle von Wiesel &amp; Co am Zimmerberg zu zeigen:  
+<p>Zeit für Impressionen von unseren Aktionstagen! Schliesslich folgen auf all die Einladungen jeweils gefreute Aktivitäten mit Erwachsenen sowie Kindern. Persönliche Gespräche, fachlicher Austausch, Gärtnerarbeiten und warme Verpflegung - alles hat seinen Platz. 
 
-  Am Beispiel des Landwirtschaftsbetriebs der Familie Styger im Mosli, Wädenswil.  
+  Die Aktionstage im Dezember waren wieder abwechslungsreich... 
 
-  Die Fotogalerie und eine kurze Reportage von "Schweiz aktuell" illustrieren das Beispiel "Mosli" eindrücklich.</p>
+  Sehen Sie selbst:</p>
 </div>
 </a>
-<a href="projekt-resultate/110-feldscheunen-sanierung-2018-03/" class="post-preview">
+<a href="projekt-resultate/125-wk-etappe1/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">March 22, 2018</div>
+<div class="publishedDate">Jan. 6, 2020</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/110-feldscheunen-sanierung-2018-03/1430314439048_red.jpg"/>
+<img data-src="projekt-resultate/125-wk-etappe1/steinmarder_wq_Oberfelsen.jpg"/>
 </div>
 <div class="description">
-<h2>Die Streuhütte in der Steinweid lebt auf </h2>
+<h2>Systematische Wirkungskontrolle, Etappe 1von2</h2>
 <div class="dt-tags"></div>
-<p>Auch die Streuhütte in der Steinweid erfuhr die zweite Sanierungsetappe. Wie im Fall des Objekts im Hinterbergried ist auch hier die Besitzerfamilie fachkundig und leistet eigens unzählige Stunden zur Restauration des Holzbaus.  
+<p>Entsprechend [unseren Projektzielen](https://github.com/wieselundco/website/files/6971747/WiCoZ_Phase_2_Projektbeschrieb.pdf)wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](https://github.com/wieselundco/website/files/6971748/AnhangC_Patch_Vernetzungsplanung.1.pdf) auf den schematischen Korridoren liegen.  
 
-  Die Fotogalerie zeigt, wie aufwändig das legale Vorgehen der Instandstellung ist.</p>
+Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. 
+
+  Aus den Jahresberichten geht hervor, dass wir an ca. 2 von 3 Standorten der "spontanen Wirkungskontrolle" [Zusammenfassung von 2015/16](http://www.wieselundco.ch/projekt/resultate/80-massnahmen-sind-nachweislich-attraktiv) die Zielarten Hermelin und/oder Iltis nachweisen konnten.  
+
+Mit dem Start der "systematischen Wirkungskontrolle" in der Endphase des Projekts stieg die Spannung, ob sich die hohen Nachweisraten bestätigen lassen würden. 
+
+Lassen Sie sich positiv überraschen von den Resultaten der Etappe 1von2.</p>
 </div>
 </a>
-<a href="projekt-resultate/109-zwischenbericht-2017-von-phase-2/" class="post-preview">
+<a href="projekt-resultate/129-zwischenbericht-2019/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 23, 2018</div>
+<div class="publishedDate">Jan. 23, 2020</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/109-zwischenbericht-2017-von-phase-2/mn2017_bezirk_schmal.JPG"/>
+<img data-src="projekt-resultate/129-zwischenbericht-2019/Zwbericht19_Deckblatt.jpg"/>
 </div>
 <div class="description">
-<h2>Zwischenbericht und Massnahmenkarte Ende 2017</h2>
+<h2>Zwischenbericht Ende 2019</h2>
 <div class="dt-tags"></div>
-<p>Bereits ist Halbzeit in der umsetzungsorientierten Phase 2 unseres Projekts. 
+<p>Bis Ende 2019 konnten die meisten Projektziele deutlich übertroffen werden. Beispielsweise sind schon ca. 450 statt total 300 projektierte Klein- und Grossstrukturen realisiert!
 
-  Erneut können wir eine sehr positive Bilanz ziehen. Was die Realisierung der bis Projektende zum Ziel gesetzten 300 Klein- und Grossstrukturen angeht, sind bereits 215 erstellt.  Glücklicherweise haben wir für die zweite Halbzeit klare Perspektiven und grosse Motivation sowohl für kommende Lebensraumaufwertungen wie auch für weitere Ziele wie die Wieselwerke mit Schulklassen. 
+Die letzten 18 Monate fokussieren sich auf die Instandstellung von Feldscheunen und die Erstellung von Gross-Strukturen. 
 
-  Gerne zählen wir weiterhin auf das Interesse und die Aktivität der Bevölkerung. Lesen sie von den wichtigsten Errungenschaften bis Ende 2017 und wagen sie mit uns den Ausblick auf das Jahr 2018.</p>
+Ebenso wird auf eine nachhaltige Anschlusslösung für die regionale Natur- und Landschaftsförderung hingearbeitet. 
+
+Überzeugen Sie sich selbst anhand der  Fakten und Impressionen und wagen sie mit uns einen Rück- und Ausblick.</p>
 </div>
 </a>
-<a href="projekt-resultate/101-feldscheunen-sanierung-2017-10/" class="post-preview">
+<a href="projekt-resultate/133-erste-mast-strukturen/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Oct. 22, 2017</div>
+<div class="publishedDate">Jan. 23, 2021</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/101-feldscheunen-sanierung-2017-10/Hinterberg_Sanierung_5.jpg"/>
+<img data-src="projekt-resultate/133-erste-mast-strukturen/2020-11-18_115126_1500px.jpg"/>
 </div>
 <div class="description">
-<h2>Streuhütte im Hinterbergried steht wieder auf dem Trockenen</h2>
+<h2>Erste Gross-Strukturen bei Gittermasten </h2>
 <div class="dt-tags"></div>
-<p>Sanierungsetappe 2 der Streuhütte im Hinterbergried: 
+<p>Inspiriert durch die Stiftung Lebensraum Linthebene und in Zusammenarbeit mit interessierten Landwirten sowie swissgrid und den Elektrizitätswerken der Stadt Zürich (EWZ) kommt es in der Schlussphase des Projekts erfreulicherweise noch zu den geplanten Pilotmassnahmen: 
 
-  Feuchtigkeit oder Wechselfeuchtigkeit bedeutet bekanntlich für die meisten Hölzer den schnellen Zerfall. 
+  Es handelt sich um Gross-Strukturen im Bereich von Gittermasten - Hintergründe und Absichten sind hier umrissen. 
 
-  Streuhütten haben dementsprechend sprichwörtlich einen schlechten Stand. 
+  Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope im Sinne der Ökologischen Infrastruktur.  
 
-  Die Besitzer des Objekts im Hinterbergried (Schönenberg) nutzten das prächtige Herbstwetter für die Fortführung der Instandstellung.</p>
+  Folgend einige Impressionen:</p>
 </div>
 </a>
-<a href="projekt-resultate/97-souvenir-2016-7/" class="post-preview">
+<a href="projekt-resultate/134-acht-streuhuetten-saniert/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">June 21, 2017</div>
+<div class="publishedDate">Jan. 15, 2021</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/97-souvenir-2016-7/027_abMaerz2017.jpg"/>
+<img data-src="projekt-resultate/134-acht-streuhuetten-saniert/28_FS-Seeli_1000px.jpg"/>
 </div>
 <div class="description">
-<h2>Souvenir! Taten der Saison 2016/7.</h2>
+<h2>Acht Torf- bzw. Streuhütten leben länger</h2>
 <div class="dt-tags"></div>
-<p>Der Rückblick auf die Saison lohnt auch dieses Jahr! 
+<p>Die vergangenen beiden Winterhalbjahre brachten nochmals die Chance, kulturlandschaftlich und ökologisch bedeutende Kleinbauten in Stand zu stellen. 
 
-Engagierte Naturfreunde sorgten für weitere Dutzende Aufwertungsmassnahmen und zwar an 16 Orten im Bezirk Horgen. 
+  Welchen Beteiligten ist es zu verdanken, dass fünf weitere Feldscheunen saniert werden können? 
 
-Seit dem Frühjahr 2016 bieten damit stolze 174 neu erstellte Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen Wiesel &amp; Co Unterschlupf.</p>
+  Sehen Sie zudem anhand zweier Beispiele, wie die Bauten wieder dem Wetter gewappnet wurden und welche Quartiere für die Kleinraubtiere geschaffen wurden:</p>
 </div>
 </a>
-<a href="projekt-resultate/94-feldscheunen-sanierung-2016-7/" class="post-preview">
+<a href="projekt-resultate/2021-08-12-letzte-feldscheunen-aufgewertet-wie-weiter/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">March 15, 2017</div>
+<div class="publishedDate">Aug. 12, 2021</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/94-feldscheunen-sanierung-2016-7/Hinterberg_Sanierung.jpg"/>
+<img data-src="https://user-images.githubusercontent.com/49158554/129364027-619afe7b-d105-45bf-842a-20a833fadfa6.jpg"/>
 </div>
 <div class="description">
-<h2>Instandstellung von Feldscheunen gestartet</h2>
+<h2>Letzte Feldscheunen aufgewertet - wie weiter?</h2>
 <div class="dt-tags"></div>
-<p>Wiesel &amp; Co am Zimmerberg unterstützt Besitzer von Feldscheunen finanziell, ideell und wo möglich auch handwerklich, wenn sie beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares Objekt baulich zu unterhalten. Dachschäden, sich senkende Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu Schäden, die diese kleinen Objekte bald substanziell betreffen. 
+<p>In der Schlussphase des Projektes konnten zwei weitere Streu- bzw. Torfhütten in Stand gestellt und mit Strukturen für Wiesel &amp; Co ausgestattet werden.
 
-Im Frühjahr 2017 konnten erste Sanierungen starten. 
+Sie befinden sich am Rand des Chrutzelenmooses.
 
-Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das Engagement der Besitzer und unseres Projekts.</p>
+Erfahren Sie mehr und machen Sie sich ein Bild von den Sanierungen.</p>
 </div>
 </a>
-<a href="projekt-resultate/80-massnahmen-sind-nachweislich-attrakti/" class="post-preview">
+<a href="projekt-resultate/64-phase-1-schlussbericht/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 31, 2017</div>
+<div class="publishedDate">Jan. 18, 2016</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/80-massnahmen-sind-nachweislich-attrakti/rebekkaIltis.PNG"/>
+<img data-src="projekt-resultate/64-phase-1-schlussbericht/0100a_b_20150131_136.JPG"/>
 </div>
 <div class="description">
-<h2>Massnahmen sind nachweislich attraktiv</h2>
+<h2>Phase 1: Schlussbericht</h2>
 <div class="dt-tags"></div>
-<p>Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. 
+<p>Die Trägerschaft von Wiesel &amp; Co am Zimmerberg (WiCoZ) hat in Phase 1 viel Energie investiert, um die Ziele und Projektinhalte für die kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher zu bringen und sie zur Partizipation einzuladen. 
 
-Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:</p>
-</div>
-</a>
-<a href="projekt-resultate/99-zwischenbericht-2015-16-von-phase-2/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 23, 2017</div>
-<div class="dt-authors"></div>
-</div>
-<div class="thumbnail">
-<img data-src="projekt-resultate/99-zwischenbericht-2015-16-von-phase-2/titelbild_snipe.JPG"/>
-</div>
-<div class="description">
-<h2>Zwischenbericht 2015/16 von Phase 2</h2>
-<div class="dt-tags"></div>
-<p>Der Zwischenbericht gibt insbesondere Auskunft über die Resultate von Beginn der Projektphase 2 im Oktober 2015 bis Ende 2016. 
-
-Er wagt ausserdem einen Ausblick auf das Jahr 2017 und zeigt Beweggründe und Organisationsform von Wiesel &amp; Co am Zimmerberg auf.</p>
-</div>
-</a>
-<a href="projekt-resultate/100-massnahmenstande-ende-2016/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 22, 2017</div>
-<div class="dt-authors"></div>
-</div>
-<div class="thumbnail">
-<img data-src="projekt-resultate/100-massnahmenstande-ende-2016/ausschnitt_MnGIS16.JPG"/>
-</div>
-<div class="description">
-<h2>Plandarstellung zum Massnahmenstand Ende 2016</h2>
-<div class="dt-tags"></div>
-<p>Die kartografische Darstellung zeigt den fulminanten Start in die Phase 2 mit weit über 100 realisierten Lebensraumaufwertungen bis Ende des Jahres 2016.  
-
- Es lassen sich interessante Aspekte darstellen: 
-
- Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  
- [Plandarstellung öffnen](https://zhaw.maps.arcgis.com/apps/View/index.html?appid=ef50669618af4f12911246b67674fce4&amp;extent=8.4012,47.1373,8.9506,47.3063)</p>
+Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel &amp; Co wissen.</p>
 </div>
 </a>
 <a href="projekt-resultate/77-100-massnahmen-realisiert/" class="post-preview">
@@ -2688,21 +2621,93 @@ Ihnen allen gebührt ein herzliches Dankeschön! Wiesel &amp; Co am Zimmerberg b
 Machen Sie sich ein Bild von den in schöner Erinnerung bleibenden Aktionstagen:</p>
 </div>
 </a>
-<a href="projekt-resultate/64-phase-1-schlussbericht/" class="post-preview">
+<a href="projekt-resultate/80-massnahmen-sind-nachweislich-attrakti/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 18, 2016</div>
+<div class="publishedDate">Jan. 31, 2017</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img data-src="projekt-resultate/64-phase-1-schlussbericht/0100a_b_20150131_136.JPG"/>
+<img data-src="projekt-resultate/80-massnahmen-sind-nachweislich-attrakti/rebekkaIltis.PNG"/>
 </div>
 <div class="description">
-<h2>Phase 1: Schlussbericht</h2>
+<h2>Massnahmen sind nachweislich attraktiv</h2>
 <div class="dt-tags"></div>
-<p>Die Trägerschaft von Wiesel &amp; Co am Zimmerberg (WiCoZ) hat in Phase 1 viel Energie investiert, um die Ziele und Projektinhalte für die kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher zu bringen und sie zur Partizipation einzuladen. 
+<p>Gut zwei Dutzend Standorte konnte das Projekt im Winterhalbjahr 2015/16 aufwerten - 8 davon statteten wir mit Spurentunneln aus. 
 
-Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel &amp; Co wissen.</p>
+Obwohl im letzten Sommerhalbjahr vielerorts Zurückhaltung beim Aufwand für die Wirkungskontrolle geübt wurde, das nasse Wetter zudem die Papiere schädigte und damit die Ergebnisse wissenschaftlichen Zwecken nicht ganz gerecht wurden, liessen sich die BetreuerInnen der Spurentunnel positiv überraschen:</p>
+</div>
+</a>
+<a href="projekt-resultate/94-feldscheunen-sanierung-2016-7/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">March 15, 2017</div>
+<div class="dt-authors"></div>
+</div>
+<div class="thumbnail">
+<img data-src="projekt-resultate/94-feldscheunen-sanierung-2016-7/Hinterberg_Sanierung.jpg"/>
+</div>
+<div class="description">
+<h2>Instandstellung von Feldscheunen gestartet</h2>
+<div class="dt-tags"></div>
+<p>Wiesel &amp; Co am Zimmerberg unterstützt Besitzer von Feldscheunen finanziell, ideell und wo möglich auch handwerklich, wenn sie beabsichtigen ihre traditionelle Streuhütte oder ein vergleichbares Objekt baulich zu unterhalten. Dachschäden, sich senkende Fundamentsteine und Einwachsen von Gehölzen führen in wenigen Jahren zu Schäden, die diese kleinen Objekte bald substanziell betreffen. 
+
+Im Frühjahr 2017 konnten erste Sanierungen starten. 
+
+Sehen Sie dazu erste Impressionen und erfahren sie die Gründe für das Engagement der Besitzer und unseres Projekts.</p>
+</div>
+</a>
+<a href="projekt-resultate/97-souvenir-2016-7/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">June 21, 2017</div>
+<div class="dt-authors"></div>
+</div>
+<div class="thumbnail">
+<img data-src="projekt-resultate/97-souvenir-2016-7/027_abMaerz2017.jpg"/>
+</div>
+<div class="description">
+<h2>Souvenir! Taten der Saison 2016/7.</h2>
+<div class="dt-tags"></div>
+<p>Der Rückblick auf die Saison lohnt auch dieses Jahr! 
+
+Engagierte Naturfreunde sorgten für weitere Dutzende Aufwertungsmassnahmen und zwar an 16 Orten im Bezirk Horgen. 
+
+Seit dem Frühjahr 2016 bieten damit stolze 174 neu erstellte Asthaufen, Winterquartiere, Gebüschgruppen und Gross-Strukturen Wiesel &amp; Co Unterschlupf.</p>
+</div>
+</a>
+<a href="projekt-resultate/99-zwischenbericht-2015-16-von-phase-2/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Jan. 23, 2017</div>
+<div class="dt-authors"></div>
+</div>
+<div class="thumbnail">
+<img data-src="projekt-resultate/99-zwischenbericht-2015-16-von-phase-2/titelbild_snipe.JPG"/>
+</div>
+<div class="description">
+<h2>Zwischenbericht 2015/16 von Phase 2</h2>
+<div class="dt-tags"></div>
+<p>Der Zwischenbericht gibt insbesondere Auskunft über die Resultate von Beginn der Projektphase 2 im Oktober 2015 bis Ende 2016. 
+
+Er wagt ausserdem einen Ausblick auf das Jahr 2017 und zeigt Beweggründe und Organisationsform von Wiesel &amp; Co am Zimmerberg auf.</p>
+</div>
+</a>
+<a href="projekt-resultate/pressespiegel/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">June 4, 2021</div>
+<div class="dt-authors"></div>
+</div>
+<div class="thumbnail">
+<img data-src="https://user-images.githubusercontent.com/49158554/129121007-6ce0a617-2888-4f96-a1e6-0662ae97aca4.jpg"/>
+</div>
+<div class="description">
+<h2>Pressespiegel</h2>
+<div class="dt-tags"></div>
+<p>Die Aktivitäten von Wiesel &amp; Co am Zimmerberg fanden in verschiedenen Pressehäusern Resonanz.
+
+Folgend einige Artikel und Verweise auf lesens- oder sehenswerte Publikationen:</p>
 </div>
 </a>
 </div>

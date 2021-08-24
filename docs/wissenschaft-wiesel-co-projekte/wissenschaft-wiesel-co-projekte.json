@@ -1,5 +1,19 @@
 [
   {
+    "path": "wissenschaft-wiesel-co-projekte/51-lra/",
+    "title": "Lebensraumanalyse für den Bezirk Horgen",
+    "description": "Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von \"Wiesel & Co am Zimmerberg\", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.",
+    "author": [],
+    "date": "2015-03-02",
+    "categories": [],
+    "contents": "\nDas Resultate kann hier online begutachtet werden.**\nDie Dokumentation dieser Arbeit kann im obigen Link runtergeladen werden. Für Rückfragen zur Entstehungsweise und für Ihre Rückmeldungen zur Karte kontaktieren Sie bitte Nils Ratnaweera ratnaweera@wieselundco.ch.\nNoch ein Hinweis für die Handhabung der online Karte:\nIn der Grundeinstellung werden die Lebensraum-Potentiale aller drei Zielarten (Hermelin, Mauswiesel und Iltis) angezeigt. Für eine bessere Übersicht clicken Sie unterhalb dem Titel “Lebensraumanalyse” auf Layer, und wählen in der Folge die gewünschte Zielart aus. In der Menu-Leiste finden Sie zudem einige weitere praktische Einstellungsmöglichkeiten wie die Legende.\nUrheberrechtshinweis\nDas Resultat der studentischen Arbeit ist im Eigentum der Zürcher Hochschule für Angewandte Wissenschaften.\n\n\nArtikel bearbeiten\n\n\n\n\n\n",
+    "preview": "wissenschaft-wiesel-co-projekte/51-lra/lra.png",
+    "last_modified": "2021-08-19T01:50:40+02:00",
+    "input_file": {},
+    "preview_width": 1311,
+    "preview_height": 602
+  },
+  {
     "path": "wissenschaft-wiesel-co-projekte/86-ermittlung-des-mauswieselvorkommens-m/",
     "title": "Ermittlung des Mauswieselvorkommens im Bezirk Horgen",
     "description": "Das Mauswiesel Mustela nivalis ist ein kleines, überaus agiles Raubtier und als solches sogar der kleinste Angehörige der Ordnung Carnivora. Neben dem Hermelin M. erminea ist es die einzige Wieselart der Schweiz. Als Lebensraum bevorzugt das Mauswiesel offenes strukturreiches Grünland, welches noch vor wenigen Jahrzehnten durch die traditionelle Landwirtschaft weit verbreitet war. Darin fand das Mauswiesel genügend Futter, Schutz vor Feinden und konnte seine Jungen grossziehen.",
@@ -22,19 +36,5 @@
     "preview": "wissenschaft-wiesel-co-projekte/92-spurentunnel-erhebungen/DSC04639.JPG",
     "last_modified": "2021-08-19T01:50:43+02:00",
     "input_file": {}
-  },
-  {
-    "path": "wissenschaft-wiesel-co-projekte/51-lra/",
-    "title": "Lebensraumanalyse für den Bezirk Horgen",
-    "description": "Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von \"Wiesel & Co am Zimmerberg\", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.",
-    "author": [],
-    "date": "2015-03-02",
-    "categories": [],
-    "contents": "\nDas Resultate kann hier online begutachtet werden.**\nDie Dokumentation dieser Arbeit kann im obigen Link runtergeladen werden. Für Rückfragen zur Entstehungsweise und für Ihre Rückmeldungen zur Karte kontaktieren Sie bitte Nils Ratnaweera ratnaweera@wieselundco.ch.\nNoch ein Hinweis für die Handhabung der online Karte:\nIn der Grundeinstellung werden die Lebensraum-Potentiale aller drei Zielarten (Hermelin, Mauswiesel und Iltis) angezeigt. Für eine bessere Übersicht clicken Sie unterhalb dem Titel “Lebensraumanalyse” auf Layer, und wählen in der Folge die gewünschte Zielart aus. In der Menu-Leiste finden Sie zudem einige weitere praktische Einstellungsmöglichkeiten wie die Legende.\nUrheberrechtshinweis\nDas Resultat der studentischen Arbeit ist im Eigentum der Zürcher Hochschule für Angewandte Wissenschaften.\n\n\nArtikel bearbeiten\n\n\n\n\n\n",
-    "preview": "wissenschaft-wiesel-co-projekte/51-lra/lra.png",
-    "last_modified": "2021-08-19T01:50:40+02:00",
-    "input_file": {},
-    "preview_width": 1311,
-    "preview_height": 602
   }
 ]

@@ -57,7 +57,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { color: #20794d; } /* Attribute */
+code span.at { } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -78,13 +78,14 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
-code span.sc { color: #20794d; } /* SpecialChar */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021): Über uns</title>
@@ -1860,7 +1861,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          return "<p>" + $('#ref-' + ref).html() + "</p>";
+        }).join("\n");
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2225,6 +2229,7 @@ function init_posts_list() {
 
       // mark posts that match the category visible
       var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
       var posts = $('.post-metadata').map(function(idx, script) {
         var metadata = $.parseJSON($(script).html());
         var post = null;
@@ -2240,7 +2245,7 @@ function init_posts_list() {
       set_posts_visible(posts, true);
 
       // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
 
       // update the list_caption
       var list_caption = $('.posts-list-caption');
@@ -2303,20 +2308,19 @@ function init_posts_list() {
 <div class="posts-container posts-apply-limit l-page">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Über uns">Über uns</h1>
-<a href="ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/" class="post-preview">
+<a href="ueber-uns/23-organigramm/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 8, 2021</div>
+<div class="publishedDate">Jan. 22, 2014</div>
 <div class="dt-authors"></div>
 </div>
 <div class="thumbnail">
-<img/>
+<img src="ueber-uns/23-organigramm/Organigramm_WiCoZ.png"/>
 </div>
 <div class="description">
-<h2>Trägerschaft und Ansprechpersonen</h2>
+<h2>Netzwerk</h2>
 <div class="dt-tags"></div>
-<p>Für das im Jahr 2014 lancierte Projekt Wiesel &amp; Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau. Alle Vereine haben das Projekt die ganze Dauer über getragen. Der NVV Hirzel fusionierte 2021 mir Natur Horgen. 
-Die untenstehenden Ansprechpersonen dürfen für Fragen und Anliegen auch nach Projektende kontaktiert werden.</p>
+<p>Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.</p>
 </div>
 </a>
 <a href="ueber-uns/24-kontakt/" class="post-preview">
@@ -2338,6 +2342,22 @@ Für weitere Anliegen zu Wiesel &amp; Co am Zimmerberg kann auch der damalige Pr
 Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](mailto:nils.ratnaweera@zhaw.ch)</p>
 </div>
 </a>
+<a href="ueber-uns/27-die-traegerschaft-wir-stellen-uns-vor/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Jan. 8, 2021</div>
+<div class="dt-authors"></div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Trägerschaft und Ansprechpersonen</h2>
+<div class="dt-tags"></div>
+<p>Für das im Jahr 2014 lancierte Projekt Wiesel &amp; Co am Zimmerberg konnten sich acht Natuschutzvereine des Bezirks Horgen begeistern. Es sind dies sieben Sektionen des Bezirks Horgen des Dachverbandes BirdLife Zürich und der Verein Singdrossel von Langnau. Alle Vereine haben das Projekt die ganze Dauer über getragen. Der NVV Hirzel fusionierte 2021 mir Natur Horgen. 
+Die untenstehenden Ansprechpersonen dürfen für Fragen und Anliegen auch nach Projektende kontaktiert werden.</p>
+</div>
+</a>
 <a href="ueber-uns/7-partner/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
@@ -2351,21 +2371,6 @@ Für Forschungsfragen und Belange der Website bitte wenden an [Nils Ratnaweera](
 <h2>Geldgeber und Partner</h2>
 <div class="dt-tags"></div>
 <p>Die acht Naturschutzvereine der Trägerschaft schätzen sich glücklich, auf folgende Geldgeber und Partner zählen zu können:</p>
-</div>
-</a>
-<a href="ueber-uns/23-organigramm/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 22, 2014</div>
-<div class="dt-authors"></div>
-</div>
-<div class="thumbnail">
-<img src="ueber-uns/23-organigramm/Organigramm_WiCoZ.png"/>
-</div>
-<div class="description">
-<h2>Netzwerk</h2>
-<div class="dt-tags"></div>
-<p>Gemäss den Projektzielen waren und sind wir im Kontakt mit Interessengruppen, die Schnittstellen zu den Kleinraubtieren aufweisen und sich ebenfalls im Projekt einbringen möchten. Das Schema zeigt die Organisationsstruktur.</p>
 </div>
 </a>
 </div>

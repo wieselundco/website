@@ -1,4 +1,4 @@
-
+library(tidyverse)
 b <- function(str){
   filpath <- str_remove(str, "\\(.+\\)") %>%
     str_trim()
@@ -80,6 +80,7 @@ render_all <- function(levels = "1", startfrom = 1){
     })
 
 }
-render_all()
+
+
 
 

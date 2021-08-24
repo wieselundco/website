@@ -7,17 +7,7 @@
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Einzigartiges Nistkammer-Monitoring</title>
-      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring</link>
-      <description>Auf dem Campus Grüental der ZHAW Wädenswil entstanden dank einer experimentellen Installation einzigartige Bilder vom Innenleben eines Asthaufens. Dass Asthaufen mit Nistkammern attraktive Unterschlüpfe für Wiesel &amp; Co sind, ist unbestritten. Aber was darin vorgeht, entzieht sich i.d.R. unserem Auge. 
-
-  Nun konnten während 17 Monaten über 10'000 Besuche diverser Tierarten im Zentrum eines Asthaufens fotografisch dokumentiert werden. Zeitraffer zeigen erstaunliche Verhaltensweisen.</description>
-      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring</guid>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring/07260411-korr-hochf.jpg" medium="image" type="image/jpeg"/>
-    </item>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Entwicklung MammaliaBox</title>
       <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/126-mammaliabox</link>
@@ -31,6 +21,16 @@
       <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/126-mammaliabox</guid>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/126-mammaliabox/DSC01117-schmal.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Einzigartiges Nistkammer-Monitoring</title>
+      <link>https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring</link>
+      <description>Auf dem Campus Grüental der ZHAW Wädenswil entstanden dank einer experimentellen Installation einzigartige Bilder vom Innenleben eines Asthaufens. Dass Asthaufen mit Nistkammern attraktive Unterschlüpfe für Wiesel &amp; Co sind, ist unbestritten. Aber was darin vorgeht, entzieht sich i.d.R. unserem Auge. 
+
+  Nun konnten während 17 Monaten über 10'000 Besuche diverser Tierarten im Zentrum eines Asthaufens fotografisch dokumentiert werden. Zeitraffer zeigen erstaunliche Verhaltensweisen.</description>
+      <guid>https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://wieselundco.netlify.app/wissenschaft-externe-projekte/131-nistkammer-monitoring/07260411-korr-hochf.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
       <title>Monitoring der Kleinmusteliden in der Schweiz (CSCF)</title>
