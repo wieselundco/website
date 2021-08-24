@@ -17,8 +17,7 @@ params:
 ---
  [Mit Webfauna stellen sie eine hervorragende App zur Verfügung, als Desktop- und Mobile-Version.](https://webfauna.cscf.ch/Webfauna/Welcome.do)
   
-    Dazu braucht es ein schnelles Anmeldeverfahren, [das hier begründet wird. ](http://www.cscf.ch/cscf/Webfauna/FAQ#cide2cfa8d1-a0b0-4dc2-9f7a-c710a5176b0f)
- 
+  Dazu braucht es ein schnelles Anmeldeverfahren, <a href="http://www.cscf.ch/cscf/Webfauna/FAQ#cide2cfa8d1-a0b0-4dc2-9f7a-c710a5176b0f" target="_blank">das hier begründet wird.</a> 
 
 ```{r,results='asis', echo = FALSE}
 
