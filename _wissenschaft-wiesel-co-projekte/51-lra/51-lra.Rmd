@@ -1,7 +1,7 @@
 ---
 title: 'Lebensraumanalyse für den Bezirk Horgen'
 description: |
-  Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Präsident des Vereins Naturschutz Richterswil - Samstagern und Mitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultate kann hier online begutachtet werden.
+  Im Rahmen seines Masterstudiums erstellte Nils Ratnaweera, Ex-Präsident des Vereins Naturschutz Richterswil - Samstagern und Gründungsmitglied der Trägerschaft von "Wiesel & Co am Zimmerberg", eine Lebensraum-Analyse im Projektperimeter. Sie zeigt für die jeweilige Zielart die aufgrund verfügbarer Geodaten berechnete Eignung des Ortes als Jagdgrund. Das Resultat kann hier online begutachtet werden.
 date: 2015-03-02
 preview: lra.png
 image_intro: images/bilder/GIS/lra.png
@@ -14,18 +14,19 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-[Das
-Resultate kann hier online begutachtet
-werden](https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21).**
+<a href="https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21" target="_blank">**Das
+Resultat kann hier online begutachtet
+werden.**</a>
 
-Die Dokumentation dieser Arbeit kann im obigen Link runtergeladen
-werden. Für Rückfragen zur Entstehungsweise und für Ihre Rückmeldungen
+Für Rückfragen zur Entstehungsweise und für Ihre Rückmeldungen
 zur Karte kontaktieren Sie bitte Nils Ratnaweera
 ratnaweera@wieselundco.ch.  
   
 **Noch ein Hinweis für die Handhabung der online Karte:**  
 In der Grundeinstellung werden die Lebensraum-Potentiale aller drei
-Zielarten (Hermelin, Mauswiesel und Iltis) angezeigt. Für eine bessere
+Zielarten (Hermelin, Mauswiesel und Iltis) angezeigt. 
+
+  Für eine bessere
 Übersicht clicken Sie unterhalb dem Titel "Lebensraumanalyse" auf Layer,
 und wählen in der Folge die gewünschte Zielart aus. In der Menu-Leiste
 finden Sie zudem einige weitere praktische Einstellungsmöglichkeiten wie
@@ -35,10 +36,9 @@ die Legende.
 
 **Urheberrechtshinweis**
 
-Das Resultat der studentischen Arbeit ist im Eigentum der [Zürcher
-Hochschule für Angewandte Wissenschaften](http://lsfm.zhaw.ch/de.html).
+Das Resultat der studentischen Arbeit ist im Eigentum der <a href="https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/" target="_blank">Zürcher
+Hochschule für Angewandte Wissenschaften.</a> 
 
-<a href='https://zhaw.maps.arcgis.com/apps/Viewer/index.html?webmap=403ac2f6e28f48fc9b954a3ea2648f21' target='_blank'><img src="images/bilder/GIS/lra.png" width="265" height="122" alt="LRA" /></a>
 
 ```{r,results='asis', echo = FALSE}
 
