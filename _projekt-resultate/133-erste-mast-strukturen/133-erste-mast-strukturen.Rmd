@@ -26,12 +26,12 @@ knitr::include_graphics('2019-12-16_152356_1000px.jpg', error = FALSE) #images/b
 
 Es handelt sich um Gross-Strukturen im Bereich von
 Gittermasten - [Hintergründe und Absichten sind hier
-umrissen.](projekt/massnahmen/132-gross-struktur)
+umrissen.](/projekt-massnahmen/132-gross-struktur/)
 
   Wir sehen in den Gross-Strukturen bei Gittermasten oder vergleichbaren
 Bewirtschaftungshindernissen ein grosses Potential für Trittsteinbiotope
-im Sinne der [Ökologischen
-Infrastruktur](https://www.oekologische-infrastruktur.ch/). 
+im Sinne der <a href="https://www.oekologische-infrastruktur.ch/" target="_blank">Ökologischen
+Infrastruktur.</a>  
 
   Diese Gross-Strukturen sind je 1 bis 3 Aren gross.   
 Als Strukturen werden Gebüschgruppen, Haufen mit Wurzelstöcken,
