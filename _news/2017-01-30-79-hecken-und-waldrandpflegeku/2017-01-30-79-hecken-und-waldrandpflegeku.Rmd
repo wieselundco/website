@@ -1,0 +1,54 @@
+---
+title: 'Erfreuliche Beteiligung am Hecken- und Waldrandpflegekurs'
+description: |
+  Der Einladung von den vier Organisatoren (Forstrevier linkes Seeufer/Höhronen, Obstgartenprojekt Horgen-Wädenswil, Vernetzungsprojekt Horgen-Wädenswil, Wiesel & Co. am Zimmerberg) folgten zu unserer Freude 32 InteressentInnen, so dass der Kurs in Vollbesetzung von Statten ging.  
+  
+    Die Waldränder und verschiedenen Heckentypen im Bereich der Weiden auf dem Hof von Esther Scherz in der Aahalden sorgten für ein perfektes Terrain für den Kurs vom 25. Januar 2017. 
+date: 2017-01-30
+preview: titelbild.PNG
+image_intro: images/fotos/Heckenkurs_20170125/titelbild.PNG
+image_fulltext: images/fotos/Heckenkurs_20170125/hauptbild/2017-01-255.56.44_red.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /2-uncategorised/79-hecken-und-waldrandpflegekurs-brachte-erfreuliche-rueckmeldungen
+params:
+  rmdpath: _news/2017-01-30-79-hecken-und-waldrandpflegeku/2017-01-30-79-hecken-und-waldrandpflegeku.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
+---
+
+
+```{r , echo = FALSE}
+knitr::include_graphics('2017-01-255.56.44_red.jpg', error = FALSE) #images/fotos/Heckenkurs_20170125/hauptbild/2017-01-255.56.44_red.jpg
+```
+
+Geübt wurde eingangs die Ansprache der diversen Gehölzstrukturen mit dem
+Ziel, den Pflegeauftrag zu formulieren. 
+
+An der Wärme im Hofraum des Schluchtalhofs sahen sich die Teilnehmenden
+mit der grossen Bandbreite von Informationen des kurseigenen Dossiers
+konfrontiert: Stichworte wie agronomische Funktion, Pflanzplanung,
+Krautsaum, Persönliche Schutzausrüstung und Kopfweide wurden illustriert
+und in den Zusammenhang mit Hecken und Waldrändern gestellt. 
+
+Der Nachmittag hatte dann die Umsetzung der Pflegeaufträge zum Ziel.
+Eifrig und sorgfältig wurde Licht in die Hecken gebracht,
+langsamwachsende Straucharten begünstigt, Weiden geköpft und
+Aststrukturen mit Nistkammer erstellt. 
+
+Viele Rückmeldungen liessen auf einen gelungenen Tag mit regem
+Erfahrungsaustausch und positiven Lernerlebnissen schliessen.  Wir
+sprechen unseren Dank aus für die engagierte Teilnahme der Bauern,
+Unterhaltsteams der Gemeinden Horgen und Wädenswil, Naturschützern und
+allen weiteren Beteiligten inkl. GrundeigentümerInnen!
+
+Einige Impressionen zum winterlich-nebligen Kurstag mit sonnigen
+Gemütern:
+
+<!-- {gallery}fotos/Heckenkurs\_20170125{/gallery}<spanstyle="font-size: 12.16px;">n</span> -->
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719600597964" title="Heckenkurs_20170125"><img src="https://live.staticflickr.com/65535/51341441930_3d8666f005.jpg" width="640" height="480" alt="Heckenkurs_20170125"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+<!--http://wieselundco.ch/2-uncategorised/79-hecken-und-waldrandpflegekurs-brachte-erfreuliche-rueckmeldungen-->
