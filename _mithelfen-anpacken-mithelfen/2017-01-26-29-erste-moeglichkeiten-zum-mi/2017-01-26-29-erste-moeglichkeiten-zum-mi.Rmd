@@ -20,6 +20,7 @@ params:
 ---
 
 Wir freuen uns über ihr Mitwirken bei der Aufwertung dieser Naturräume!
+
 ```{r , echo = FALSE}
 knitr::include_graphics('natur-portrait.de-daniel.jpg', error = FALSE) #images/bilder/arten/natur-portrait.de-daniel.jpg
 ```
