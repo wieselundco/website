@@ -22,14 +22,14 @@ params:
 knitr::include_graphics('Cdy00010.JPG', error = FALSE) #images/fotos/Fotofallenbilder/Cdy00010.JPG
 ```
 
-**Sonntag 12. November. Treffpunkt: 12.25 Uhr, [Haltestelle Schönenberg,
-Tanne](https://map.search.ch/Sch%C3%B6nenberg,Tanne)**
+**Sonntag 12. November. Treffpunkt: 12.25 Uhr, Haltestelle Schönenberg,
+Tanne**
 
 **2014 ist das Projekt zur Kleinraubtierförderung gestartet und seit 2
 Jahren befindet es sich nun in der Umsetzungsphase.**
 
-**Wem die Erkenntnisse aus dem [Zwischenbericht
-2015/16](http://www.wieselundco.ch/images/dokumente/Berichte/Zwischenbericht_WiCoZ_2015-16.pdf) zu
+**Wem die Erkenntnisse aus dem Zwischenbericht
+2015/16 zu
 wenig aktuell und fassbar sind, der ist ganz herzlich eingeladen zu
 einem Augenschein in der Landschaft draussen.**
 
@@ -44,9 +44,10 @@ Apéro eingeladen.
 
   
   
-**Anreise**: [Bhf. Wädenswil ab 12.15 Uhr, Bus 160 bis Haltestelle
+**Anreise**: Bhf. Wädenswil ab 12.15 Uhr, Bus 160 bis Haltestelle
 Schönenberg,
-Tanne](https://fahrplan.search.ch/..Sch%C3%B6nenberg,Tanne)  
+Tanne 
+
 **Ausrüstung:** Wanderschuhe, ev. Feldstecher.
 
 **Endpunkt:** Speerstrasse, Wädenswil. Ca. 16:30 Uhr.

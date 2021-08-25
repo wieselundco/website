@@ -22,12 +22,12 @@ params:
 knitr::include_graphics('schema_Nistkammer-Monit-2.jpg', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/schema_Nistkammer-Monit-2.jpg
 ```
 
-Einer dieser Zeitraffer ist auf [unserem
-youtube-Kanal](https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ)
+Einer dieser Zeitraffer ist auf <a href="https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ target="_blank">unserem
+youtube-Kanal</a> 
 zu sehen. Es zeigt ein Hermelin im Innern des Asthaufens (Nistkammer),
-wo zusätzlich ein Nistkasten (Typ "Erminea") integriert wurde. [Ab
+wo zusätzlich ein Nistkasten (Typ "Erminea") integriert wurde. <a href="https://youtu.be/L8GTrNWflxA?list=PLilD7MYfI8xV9aLwFoTxpKfjO3Da2a8Nh&t=223" target="_blank">Ab
 Minute 3:45 ist das Spiel mit einer erbeuteten Wühlmaus
-dokumentiert.](https://youtu.be/L8GTrNWflxA?list=PLilD7MYfI8xV9aLwFoTxpKfjO3Da2a8Nh&t=223)
+dokumentiert.</a> 
 
 Für das Experiment von April 2017 bis Juli 2018 diente ein Asthaufen auf
 dem Campus Grüental der ZHAW. 
@@ -43,14 +43,15 @@ waren, konnte aufgrund der grossen Datenmenge nicht genau bestimmt
 werden. Stichproben zeigten jedoch, dass es sich in den meisten Fällen
 tatsächlich um Tierbesuche handelte.
 
-Erfahren Sie im zweiseitigen Bericht (Download Link oben) ausserdem die
+[Erfahren Sie im zweiseitigen Bericht](Nistkastenmonitoring_iunr-magazin-02-2020.pdf)
+ ausserdem die
 Hintergründe des Versuchs, welche Tierarten dokumentiert wurden etc.
 
 Gratulation dem Forscher- und Unterhaltsteam im Grüental für diese
 spannende Errungenschaft und viel Erfolg bei der Weiterentwicklung!  
 [Wir hatten uns übrigens schon einmal von den Geschehnissen im Grüental
 faszinieren
-lassen. ](faszination-kleinraubtiere/mensch-wiesel/115-vernetzungsideen)
+lassen. ](/faszination-kleinraubtiere-mensch-wiesel/115-vernetzungsideen/)
 
 ![](https://user-images.githubusercontent.com/49158554/129122587-16d571e0-653f-4f58-bf06-858a13f21b37.jpg)
 

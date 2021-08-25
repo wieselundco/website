@@ -20,7 +20,9 @@ params:
 
 Die Zusammenarbeit mit dem Wildnispark hat zwei Museums-Tafeln zu unserem Projekt hervorgebracht und wir dürfen auch unseren Teil zum einen oder anderen kommenden Anlass des Wildnisparks beitragen. 
 
-An den Waldrändern des Sihlwaldes sind schon einige Kleinstrukturen mit Nistkammer für Wiesel & Co erstellt worden und aktuell startet eine studentische Arbeit, um die Wirkung besagter Strukturen zu prüfen.  Welche anderen wissenschaftlichen Arbeiten uns derzeit beschäftigen, erfahren sie auf der neuen Seite: http://www.wieselundco.ch/wissenschaft
+An den Waldrändern des Sihlwaldes sind schon einige Kleinstrukturen mit Nistkammer für Wiesel & Co erstellt worden und aktuell startet eine studentische Arbeit, um die Wirkung besagter Strukturen zu prüfen.  
+
+  Welche anderen wissenschaftlichen Arbeiten uns derzeit beschäftigen, erfahren sie unter der neuen Rubrik 'Wissenschaft'.
 
 ```{r , echo = FALSE}
 knitr::include_graphics('26_Aktiontage_Winter15_6.JPG', error = FALSE) #images/fotos/Aktionstage_Winter_2015_6/26_Aktiontage_Winter15_6.JPG

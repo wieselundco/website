@@ -29,7 +29,7 @@ extensiviert und mit unterschiedlichen Elementen strukturiert werden. Was
 erlaubt ist, regeln einige Netzbetreiber in schriftlichen Dokumenten, so
 z.B. die swissgrid und die Elektizitätswerke der Stadt Zürich (EWZ).
 
-  Und so konnten dank der unkomplizierten Zusammenarbeit mit den erwähnten Netzbetreiberinnen in der Schlussphase des Projekts noch [zwei Pilotmassnahmen realisiert werden.](projekt-resultate/133-erste-mast-strukturen/)
+  Und so konnten dank der unkomplizierten Zusammenarbeit mit den erwähnten Netzbetreiberinnen in der Schlussphase des Projekts noch [zwei Pilotmassnahmen realisiert werden.](/projekt-resultate/133-erste-mast-strukturen/)
 
 Die jeweilige Lage des Mastens zur Bewirtschaftungsrichtung,
 Parzellengrenze, Topografie etc. sind ebenso massgeblich für die
@@ -40,12 +40,12 @@ des Zimmerbergs über viele Kilometer Strecke. Alleine im Südteil des
 Bezirks Horgen stehen rund 30 Gittermasten in regelmässigen, linearen
 Abständen. Deshalb sehen wir in den Gross-Strukturen bei Gittermasten
 oder vergleichbaren Bewirtschaftungshindernissen ein grosses Potential
-für Trittsteinbiotope im Sinne der [Ökologischen
-Infrastruktur](https://www.oekologische-infrastruktur.ch/).
+für Trittsteinbiotope im Sinne der <a href="https://www.oekologische-infrastruktur.ch/" target="_blank">Ökologischen
+Infrastruktur.</a> 
 
 Bereits sind auch in anderen Regionen Projekte mit derselben Absicht
-gestartet, [z.B. jenes von Pro
-Natura](https://www.pronatura.ch/de/gelbbauchunken-unter-strommasten).
+gestartet, <a href="https://www.pronatura.ch/de/gelbbauchunken-unter-strommasten" target="_blank">z.B. jenes von Pro
+Natura</a>.
 
  
 

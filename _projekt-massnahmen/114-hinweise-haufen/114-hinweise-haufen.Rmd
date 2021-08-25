@@ -25,11 +25,12 @@ knitr::include_graphics('2016-04-11_aufrecht.jpg', error = FALSE) #images/fotos/
 ```
 
 Diese Anforderungen zu erfüllen ist keine Hexerei!  
-[Das Forschungsinstitut für Biologischen Landbau (FiBL) stellt die
-Thematik in einem Video
-dar.  ](https://www.youtube.com/watch?v=8FfOk1k-eMk)
 
-Oft ist es sogar möglich, gleichzeitig geeigneten Unterschlupf für anspruchsvollere Artengruppen wie Amphibien oder Reptilien zu schaffen, wie es sich das WIN-karch-Pilotprojekt zum Ziel setzt. Was bei der Förderung der Reptilienart "Zauneidechse" zu beachten ist, illustriert <a href='https://www.zauneidechse.ch/kleinstrukturen/' target='_blank'>Zauneidechse.ch](https://www.zauneidechse.ch/) hervorragend. Sofern grosszügig angelegt, profitieren Wiesel & Co durchwegs von den [vorgeschlagenen Kleinstrukturen</a>.
+  <a href="https://www.youtube.com/watch?v=8FfOk1k-eMk" target="_blank">Das Forschungsinstitut für Biologischen Landbau (FiBL)</a> stellt die
+Thematik in einem Video
+dar.
+
+Oft ist es sogar möglich, gleichzeitig geeigneten Unterschlupf für anspruchsvollere Artengruppen wie Amphibien oder Reptilien zu schaffen, wie es sich das WIN-karch-Pilotprojekt zum Ziel setzt. Was bei der Förderung der Reptilienart "Zauneidechse" zu beachten ist, illustriert <a href='https://www.zauneidechse.ch/kleinstrukturen/' target='_blank'>Zauneidechse.ch</a> hervorragend. Sofern grosszügig angelegt, profitieren Wiesel & Co durchwegs von den vorgeschlagenen Kleinstrukturen.
 
 
 **Erkenntnisse für die Anlage von Asthaufen aus unserer Wirkungskontrolle**

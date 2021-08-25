@@ -3,7 +3,7 @@ title: 'Phase 1: Schlussbericht'
 description: |
   Die Trägerschaft von Wiesel & Co am Zimmerberg (WiCoZ) hat in Phase 1 viel Energie investiert, um die Ziele und Projektinhalte für die kommenden Jahre des Gesamtprojekts verschiedenen Interessengruppen näher zu bringen und sie zur Partizipation einzuladen. 
   
-  Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel & Co wissen.
+
 date: 2016-01-18
 preview: 0100a_b_20150131_136.JPG
 image_intro: images/fotos/diverse/0100a_b_20150131_136.JPG
@@ -16,20 +16,21 @@ params:
   rmdpath: _projekt-resultate/64-phase-1-schlussbericht/64-phase-1-schlussbericht.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
-
+ 
+ Durch persönliches Gespräch, Standaktionen, Exkursionen, Vorträge etc. wurde erreicht, dass u.a. Vertreter der Landwirtschaft, der Jagd, des Forstes und die interessierte Bevölkerung die Gefährdung der Kleinraubtiere wahrnehmen, Ihren Nutzen erkennen und um eigene Handlungsmöglichkeiten zugunsten der Förderung von Wiesel & Co wissen.
 
 ```{r , echo = FALSE}
 knitr::include_graphics('Cdy00015.JPG', error = FALSE) #images/fotos/diverse/Cdy00015.JPG
 ```
 
-Die eigens organisierte Infoveranstaltung mit Workshop war bis auf den
+Die eigens organisierte [Infoveranstaltung mit Workshop](/infoveranstaltungen/2015-02-01-ein-vielseiter-workshop-mit-reger-teilnahme/) war bis auf den
 letzten Platz ausgebucht und ermöglichte den Interessengruppen
 Erfahrungsaustausch, Diskussionen und praktisches Kennenlernen von
 zielführenden Massnahmen. Sie brachte der Trägerschaft wertvolle
 Rückmeldungen für den weiteren Projektverlauf.
 
-So zum „Bonus-System zur Realisierung von Kleinraubtier-freundlichen
-Massnahmen im Bezirk Horgen“, das den Besitzern oder Bewirtschaftern von
+So zum [„Bonus-System zur Realisierung von Kleinraubtier-freundlichen
+Massnahmen im Bezirk Horgen“](/Bonus-System.html), das den Besitzern oder Bewirtschaftern von
 Grünflächen in Phase 2 finanziellen Anreiz geben soll, um Massnahmen
 umzusetzen. Je nach Standort und Wirkungsziel werden verschiedene
 Massnahmen-Typen gefragt sein.
@@ -42,7 +43,7 @@ Lebensraumanalyse und auf dieser Basis die „Patch- und
 Vernetzungsplanung von Hermelin-, Mauswiesel- und Iltishabitaten im
 Bezirk Horgen“
 
-Bereits wurde eine umfangreiche Pilotmassnahme in einer naturnahen
+Bereits wurde eine [umfangreiche Pilotmassnahme](/mithelfen-anpacken-mithelfen/2015-09-01-kleinstrukturen-der-pilotmassnahme-erstellt/) in einer naturnahen
 Landschaftskammer am Aabach auf Wädenswiler Gemeindegebiet durchgeführt.
 Sie zeigte auf, wie die Erstellung von wirksamen Massnahmen realisiert
 werden kann und was sie für die künftige Bewirtschaftung des

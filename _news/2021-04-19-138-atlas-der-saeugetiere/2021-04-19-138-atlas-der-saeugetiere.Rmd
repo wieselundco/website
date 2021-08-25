@@ -19,9 +19,10 @@ params:
 
 
 
-Herzliche Gratulation den Herausgebern der [Schweizerischen Gesellschaft für Wildtierbiologie](https://mitglied.scnat.ch/sgw-ssbf/uuid/i/60b43ec3-43f3-5dfd-b954-2ea46c334bc5-12_S%C3%A4ugetierarten_mehr_als_vor_25_Jahren) und im Speziellen dem Wädenswiler Wildtierbiologen Roland Graf!
+Herzliche Gratulation den Herausgebern der <a href="https://mitglied.scnat.ch/sgw-ssbf/uuid/i/60b43ec3-43f3-5dfd-b954-2ea46c334bc5-12_S%C3%A4ugetierarten_mehr_als_vor_25_Jahren" target="_blank">Schweizerischen Gesellschaft für Wildtierbiologie</a>
+und im Speziellen dem Wädenswiler Wildtierbiologen Roland Graf!
 
-Haben Sie übrigens schon das "Ballenberg der Wiesel" auf dem Campus Grüental der ZHAW Wädenswil entdeckt? [Die möblierte "Seeparzelle" hatte hier ihren ersten prominenten Auftritt.](https://srf.ch/play/tv/redirect/detail/48dd0342-872e-4c8b-a550-29947ec00bb3)
+Haben Sie übrigens schon das "Ballenberg der Wiesel" auf dem Campus Grüental der ZHAW Wädenswil entdeckt? <a href="https://srf.ch/play/tv/redirect/detail/48dd0342-872e-4c8b-a550-29947ec00bb3" target="_blank">Die möblierte "Seeparzelle" hatte in der SRF Tagesschau ihren ersten prominenten Auftritt.</a> 
 
 
 ```{r,results='asis', echo = FALSE}

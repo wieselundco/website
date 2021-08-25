@@ -1,7 +1,7 @@
 ---
-title: 'Konzept'
+title: 'Videoclip zum Konzept'
 description: |
-   Anschaulichen Videoclip zum Projekt TubeCam hier ansehen! 
+   Sehen Sie hier den professionellen Videoclip zum Projekt TubeCam! 
 date: 2017-03-05
 output:
   distill::distill_article:

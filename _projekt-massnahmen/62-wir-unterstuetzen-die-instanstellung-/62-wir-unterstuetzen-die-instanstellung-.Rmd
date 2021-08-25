@@ -25,7 +25,7 @@ params:
 knitr::include_graphics('Feldscheune_Rinderweid.jpg', error = FALSE) #images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg
 ```
 
-Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate berichtet.](projekt/resultate)
+Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate berichtet.](Resultate.html)
 
 Die Schutzwürdigkeit der Feldscheunen steigt mit ihrer ökologischen sowie kulturlandschaftlichen Bedeutung. Die kulturlandschaftliche Bedeutung ist dort besonders hoch wo u.a. folgende Punkte gegeben sind: 
 
@@ -41,13 +41,13 @@ Hermelin zur Jungenaufzucht genutzt. Der Schutz vor Niederschlägen
 dürfte für den Fortpflanzungserfolg einen grossen Vorteil darstellen.   
 Im Winter nutzt insbesondere der Iltis gerne die witterungsgeschützen
 Innenräume, um sich vor der Kälte zu schützen und den Energieverlust
-durch sein schütteres Feld zu reduzieren. [Darius
-Weber](http://www.dariusweber.ch/) stellte während seiner Dissertation
+durch sein schütteres Feld zu reduzieren. <a href="http://www.dariusweber.ch/" target="_blank">Darius
+Weber</a> stellte während seiner Dissertation
 im Raum Schönenberg ZH fest, dass Iltisse während strengen Wintertagen
 im Schutz des eingelagerten Streus von ihren Reserven zehrten, um erst
 danach wieder nach Nahrung zu stöbern. Aus seinen Erfahrungen leitete
 WiCoZ den Massnahmentyp "Winterquartier" im [projekteigenen
-Bonussystem](images/dokumente/Bonussystem_WiCoZ.pdf) ab.
+Bonussystem](Bonussystem_WiCoZ.pdf) ab.
 
  
 
@@ -57,7 +57,7 @@ verlängert werden.
 
 Geeignete Deckungs- und Niststrukturen für Kleinraubtiere und andere
 Wildtiere sollen gefördert werden. Die Massnahmen für unsere Zielarten
-orientieren sich am [projekteigenen Bonussystem](images/dokumente/Bonussystem_WiCoZ.pdf), sind aber
+orientieren sich am [projekteigenen Bonussystem](Bonussystem_WiCoZ.pdf), sind aber
 fallweise zu definieren, was auch für die Förderung anderer Artengruppen
 gilt. 
 

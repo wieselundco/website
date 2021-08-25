@@ -19,10 +19,9 @@ params:
 ---
 
 
-```{r , echo = FALSE}
-knitr::include_graphics('Plakat_Gefaehrdung-Zielarten_snip.jpg', error = FALSE) #images/bilder/diverse/Plakat_Gefaehrdung-Zielarten_snip.jpg
-```
-Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.
+![](https://user-images.githubusercontent.com/49158554/129087253-f0971222-f391-48bb-a56e-068e1fa27c7a.jpg)
+
+  Der Bezirk Horgen bietet als Projektperimeter mit seiner graslandbasierten Landwirtschaft den Zielarten grundsätzlich gute Voraussetzungen.
 
   [Förderung? Warum eigentlich?](Plakat.Gefahrdung.pdf)
 

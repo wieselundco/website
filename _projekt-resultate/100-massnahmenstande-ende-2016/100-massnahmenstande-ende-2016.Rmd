@@ -5,8 +5,8 @@ description: |
   
     Es lassen sich interessante Aspekte darstellen: 
   
-    Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  
-    [Plandarstellung öffnen](https://zhaw.maps.arcgis.com/apps/View/index.html?appid=ef50669618af4f12911246b67674fce4&extent=8.4012,47.1373,8.9506,47.3063)
+    
+    
 date: 2017-01-22
 preview: ausschnitt_MnGIS16.JPG
 image_intro: images/bilder/GIS/ausschnitt_MnGIS16.JPG
@@ -20,6 +20,9 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
+   Über die Schaltfläche Layer kann z.B. unser Planungsinstrument mit den schematischen Vernetzungskorridoren angezeigt werden.  
+     
+   <a href="https://zhaw.maps.arcgis.com/apps/View/index.html?appid=ef50669618af4f12911246b67674fce4&extent=8.4012,47.1373,8.9506,47.3063" target="_blank">Plandarstellung öffnen</a> 
 
 ```{r , echo = FALSE}
 knitr::include_graphics('ausschnitt_MnGIS16.JPG', error = FALSE) #images/bilder/GIS/ausschnitt_MnGIS16.JPG
