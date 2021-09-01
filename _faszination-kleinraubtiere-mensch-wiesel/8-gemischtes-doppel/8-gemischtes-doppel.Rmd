@@ -22,7 +22,7 @@ Martha Baruffol, Wann haben Sie die Wiesel erstmals beobachtet?
 Tennis. Wir waren also oft  im Gebiet Chirchmoos dort wo auch die
 Tennisplätze sind.*
 
-![Wasserrinne_43_66_80](https://user-images.githubusercontent.com/49158554/129140170-b219fa4d-ea41-44d6-bd7b-071f78612b45.jpg)
+<img src="Wasserrinne_43_66_80.jpg" style="width: 400px;">
 
   
 Wie genau haben sich die Wiesel gezeigt?  
