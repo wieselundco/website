@@ -24,7 +24,7 @@ knitr::include_graphics('sichtung.jpg', error = FALSE) #images/bilder/GIS/sichtu
 
   In Zusammenarbeit mit Landwirten und anderen Interessengruppen
 werden seit 2014 u.a. gemäss den [Projektzielen](/Ausgangslage-und-Ziele.html)
-und dem [projekteigenen Bonussystem](/Bonus-System.html) verschiedene Kleinstrukturen
+und dem [projekteigenen Bonussystem](/Bonus.html) verschiedene Kleinstrukturen
 erstellt, Feldscheunen in Stand gestellt und Gewässerdurchlässe
 faunagerecht saniert.
 

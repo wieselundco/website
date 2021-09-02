@@ -19,7 +19,7 @@ navbar:
       - text: "Wirkungskontrolle"
         href: Wirkungskontrolle.html
       - text: "Bonus System"
-        href: Bonus-System.html
+        href: Bonus.html
     - text: "Wissenschaft"
       href: Wissenschaft.html                         # diese seite wird gar nicht angezeigt
       menu:
