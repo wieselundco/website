@@ -3,7 +3,7 @@
   <channel>
     <title>Wiesel &amp; Co am Zimmerberg (2014 - 2021)</title>
     <link>https://wieselundco.netlify.app/</link>
-    <atom:link href="https://wieselundco.netlify.app/Wuehlmaeuse-im-Griff.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://wieselundco.netlify.app/Wuehlmaeuse.xml" rel="self" type="application/rss+xml"/>
     <description>Wiesel &amp; Co am Zimmerberg
 </description>
     <generator>Distill</generator>
