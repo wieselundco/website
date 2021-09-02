@@ -19,7 +19,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-[Hier geht's zur Rubrik "Wühlmäuse im Griff?"(/Wuehlmaeuse-im-Griff.html)
+[Hier geht's zur Rubrik "Wühlmäuse im Griff?"(/Wuehlmaeuse.html)
 
 
 ```{r , echo = FALSE}
