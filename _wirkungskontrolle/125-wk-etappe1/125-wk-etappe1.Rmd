@@ -23,11 +23,12 @@ params:
 ```{r , echo = FALSE}
 knitr::include_graphics('RCNX0029.jpg', error = FALSE) #images/fotos/Fotofallenbilder/systematische-WK_Etappe1/RCNX0029.jpg
 ```
-  Entsprechend [unseren Projektzielen](WiCoZ_Phase_2_Projektbeschrieb.pdf) wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](AnhangC_Patch_Vernetzungsplanung.1.pdf) auf den schematischen Korridoren liegen.  
+
+Entsprechend [unseren Projektzielen](WiCoZ_Phase_2_Projektbeschrieb.pdf) wurden bisher einerseits jene Standorte zur Wirkungskontrolle ausgewählt, die gemäss unserem [Patch- und Vernetzungsplan](AnhangC_Patch_Vernetzungsplanung (1).pdf) auf den schematischen Korridoren liegen.  
  
-  Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. Hier eine [Zusammenfassung von 2015/16](/wirkungskontrolle/80-massnahmen-sind-nachweislich-attrakti/)
+Andererseits wurden die Standorte auch dann "spontan" zur Wirkungskontrolle ausgewählt, wenn es für die Öffentlichkeitsarbeit und Umweltbildung mit Schulklassen gelegen kam. Hier eine [Zusammenfassung von 2015/16](/wirkungskontrolle/80-massnahmen-sind-nachweislich-attrakti/)
  
-  Die systematische Wirkungskontrolle hat zum Ziel, in der Endphase des
+Die systematische Wirkungskontrolle hat zum Ziel, in der Endphase des
 Projekts folgende Erkenntnisse zu gewinnen: 
 
 -   Zu welchem Anteil lassen sich bei den von uns erstellten Strukturen  die [Zielarten Hermelin, Mauswiesel und Iltis](/Unsere-Zielarten.html) sowie andere Säuger feststellen?
