@@ -16,7 +16,7 @@ params:
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-Das eigens für den Workshop zusammengestellte [Info-Dossier "Wühlmäuse im Griff?" ist zum Download frei verfügbar](Dossier_Wuehlmaeuse-im-Griff_2019-10-25 (1).pdf). 
+Das eigens für den Workshop zusammengestellte [Info-Dossier "Wühlmäuse im Griff?" ist zum Download frei verfügbar](Dossier_Wuehlmaeuse-im-Griff_2019-10-25_red.pdf). 
 
   Darin wird das Thema umfassend beschrieben, beginnend bei der Beschreibung von Wühlmausarten und Schadbildern, über ökonomische und strategische Überlegungen bis hin zur Vorstellung der verschiedenen Präventions- und Bekämpfungsmassnahmen. 
   
