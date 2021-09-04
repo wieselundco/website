@@ -22,7 +22,7 @@ params:
 knitr::include_graphics('schema_Nistkammer-Monit-2.jpg', error = FALSE) #images/bilder/00_Wissenschaft/03_extern/schema_Nistkammer-Monit-2.jpg
 ```
 
-Einer dieser Zeitraffer ist auf <a href="https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ target="_blank">unserem
+Einer dieser Zeitraffer ist auf <a href="https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ" target="_blank">unserem
 youtube-Kanal</a> 
 zu sehen. Es zeigt ein Hermelin im Innern des Asthaufens (Nistkammer),
 wo zusätzlich ein Nistkasten (Typ "Erminea") integriert wurde. <a href="https://youtu.be/L8GTrNWflxA?list=PLilD7MYfI8xV9aLwFoTxpKfjO3Da2a8Nh&t=223" target="_blank">Ab
