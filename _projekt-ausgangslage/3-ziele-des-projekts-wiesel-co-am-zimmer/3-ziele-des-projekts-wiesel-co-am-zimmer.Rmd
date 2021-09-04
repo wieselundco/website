@@ -92,7 +92,7 @@ Genutzt
 wurde die geografische Nähe zur <a href="https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/ecosystems-and-biodiversity/" target="_blank">Forschungsgruppe Wildtiermanagement an der ZHAW Wädenswil</a> . Die
 Partnerschaft ermöglichte den Austausch von Fachkenntnissen und Synergien
 im Rahmen von studentischen Arbeiten. Hierbei handelte es sich z.B. um
-die Erforschung [neuer Nachweismethoden von Kleinraubtieren](TubeCam.html).  
+die Erforschung [neuer Nachweismethoden von Kleinraubtieren](/tubecam.html).  
 
  
 
