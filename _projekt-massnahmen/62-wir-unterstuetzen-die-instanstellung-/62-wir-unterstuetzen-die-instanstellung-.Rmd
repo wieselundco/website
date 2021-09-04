@@ -25,7 +25,7 @@ params:
 knitr::include_graphics('Feldscheune_Rinderweid.jpg', error = FALSE) #images/bilder/Feldscheunen/Feldscheune_Rinderweid.jpg
 ```
 
-Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate berichtet.](Resultate.html)
+Es ist das erklärte Ziel, bis Projektende 10 Feldscheunen saniert zu haben. [Über den Fortschritt wird laufend unter der Rubrik Resultate berichtet.](Resultate.html) 
 
 Die Schutzwürdigkeit der Feldscheunen steigt mit ihrer ökologischen sowie kulturlandschaftlichen Bedeutung. Die kulturlandschaftliche Bedeutung ist dort besonders hoch wo u.a. folgende Punkte gegeben sind: 
 
