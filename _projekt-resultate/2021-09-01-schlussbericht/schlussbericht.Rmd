@@ -9,12 +9,13 @@ output:
     self_contained: false
 canonical: /projekt/resultate/schlussbericht
 preview: https://user-images.githubusercontent.com/49158554/129113794-021c7424-07d7-49f8-a36f-6380e39b8a83.jpg
+draft: true
 params:
   rmdpath: _projekt-resultate/schlussbericht/schlussbericht.Rmd
   editurl: https://github.com/wieselundco/website/edit/master/
 ---
 
-Ergänzent zum Schlussbericht vertiefen die kürzlich [publizierten Projekt-Videos](/news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/) die Impressionen und den Ausblick in die Zukunft von Wiesel & Co am Zimmerberg.
+Ergänzend zum Schlussbericht vertiefen die kürzlich [publizierten Projekt-Videos](/news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/) die Impressionen und den Ausblick in die Zukunft von Wiesel & Co am Zimmerberg.
   
 [Download Schlussbericht](Schlussbericht_WiCoZ_Phase2_red.pdf)
     
