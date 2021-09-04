@@ -52,7 +52,7 @@ der <a href='http://gis.lsfm.zhaw.ch/portal/apps/webappviewer/index.html?id=ab36
 Sie die erfassten Sichtungsmeldungen von Kleinraubtieren ansehen.**
 Ähnlich der obigen Beschreibung können Sie auch hier Abfragen und Ebeneneinstellungen vornehmen.
 
-[Hier gibt es Hinweise, wie Sie Ihre Beobachtung melden können.](Beobachtungen.html)
+[Hier gibt es Hinweise, wie Sie Ihre Beobachtung melden können.](/beobachtungen.html)
 
 
  
