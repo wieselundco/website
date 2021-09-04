@@ -22,7 +22,7 @@ params:
 
   Strukturen werden z.T. auch für Label vorausgesetzt. Das extra [vom
 Strickhof Lindau erstellte
-Merkblatt](Strukturen_DZV_Label_Staeheli2018.pdf) zeigt
+Merkblatt](Strukturen_DZV_Label_Staeheli2019.pdf) zeigt
 dies in Stichworten.
 
 Weiter können [Massnahmen der Landschaftsqualitäts-Projekt Zürich
