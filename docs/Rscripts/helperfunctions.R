@@ -103,24 +103,15 @@ search_links <- function(){
     urls <- get_links_ungreedy(rl)
 
 
-    tibble(file = x, urls = urls)
+    tibble(file = x, urls = urls)%>%
+      mutate(
+        text = str_match(urls, "\\[(.+)\\]")[,2],
+        hyperlink = str_match(urls, "\\((.+)\\)")[,2]
+      )
 
   })
 }
 
 
-search_links() %>%
-  mutate(
-    text = str_match(urls, "\\[(.+)\\]")[,2],
-    hyperlink = str_match(urls, "\\((.+)\\)")[,2]
-  ) %>%
-  # filter(str_detect(hyperlink, "wieselundco")) %>%
-  mutate(
-    link = str_replace(file, "^\\./","https://github.com/wieselundco/website/blob/master/"),
-    file = glue::glue("[{file}]({link})"),
-    urls = glue::glue("`{urls}`")
-    ) %>%
-  select(file, urls) %>%
-  knitr::kable(format = "pipe")
 
 
