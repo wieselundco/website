@@ -50,7 +50,7 @@ erstellt werden.
 
 **Fürs Handwerk** kann man sich gern an den bebilderten [Empfehlungen
 zur handwerklichen Anlage von Holz- und
-Steinhaufen](images/dokumente/Holz-Steinhaufen_Empfehlungen_WiCoZ_20190310_red.pdf) oder
+Steinhaufen](/Holz-Steinhaufen_Empfehlungen_WiCoZ_20190310_red.pdf) oder
 dem <a href='https://www.youtube.com/watch?v=xJ9-ijG-5SE' target='_blank'>Asthaufenbau-Zeitraffer</a> vom
 Aktionstag in der Kräh orientieren.
 
