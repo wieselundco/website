@@ -1,0 +1,15 @@
+---
+title: "Präsentation WIN Wieselnetz 2018"
+date: 2021-09-14
+description: |
+  Nils hat am Wieseltreffen 2018 der aktuelle Stand der Projekte seiner Projekte berichtet.
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+Alle slides auch hier einsehbar: <a href = "https://wieselundco.github.io/WIN_Praesentation_2018/" target = "_blank">https://wieselundco.github.io/WIN_Praesentation_2018/</a>
+
+
+<iframe src="https://wieselundco.github.io/WIN_Praesentation_2018/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
