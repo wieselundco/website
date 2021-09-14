@@ -16,7 +16,7 @@ output:
 ---
 
 
-<a href="https://forschung.wieselundco.ch/erfolgskontrolle/" target="_blank">Der Schlussbericht</a> schafft eine Synthese von verschiedenen Erhebungen und Datensätzen. 
+<a href="http://erfolgskontrolle.wieselundco.ch/" target="_blank">Der Schlussbericht</a> schafft eine Synthese von verschiedenen Erhebungen und Datensätzen. 
 
 Die Resultate der erwähnten systematischen Wirkungskontrolle im Herbst 2019 und Frühling 2020 werden mit Bezug auf die erhobenen **Beobachtungsmeldungen** und die spontanen Wirkungskontrollen (2015 bis 2019 ) betrachtet und diskutiert.
 
