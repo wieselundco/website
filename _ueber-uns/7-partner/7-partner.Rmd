@@ -93,7 +93,7 @@ names <- c(
   "Stiftung Wieselnetz",
   "WLS WildLife Solutions",
   "Fachstelle Naturschutz Kanton Zürich",
-  "Fachstelle Naturschutz Kanton Zürich",
+  "Naturschutzverein Schönenberg",
   "BirdLife Zürich",
   "Forschungsgruppen Geoinformatik und Wildtiermanagement der ZHAW Wädenswil",
   "Centre Suisse de Cartographie de la Faune",
