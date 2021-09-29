@@ -1,5 +1,5 @@
 ---
-title: "Sehenswerte Projekt-Videos mit Interviews u.v.m"
+title: "Zwei Projekt-Videos mit Interviews zeigen Erkenntnisse und wagen Ausblick"
 description: |
   Reservieren Sie sich einen kleinen Heimkinoabend mit Wiesel & Co!
 
@@ -7,7 +7,9 @@ description: |
   Rückblickend ein Glücksfall?
   
     Wiesel & Co am Zimmerberg hat 15 Projektbeteiligte interviewt und viele tolle Kurzvideos und Bilder aus dem Archiv zu sehenswerten Kurzfilmen zusammengestellt.
-date: 08-11-2021
+    Das eine Video kommt lustvoll daher, das andere hat mit analytischen und visionären Inhalten mehr Tiefgang.
+    
+date: 09-29-2021
 preview: 128898050-0d8849c5-39a5-42e7-a9cc-9ad41bf224ca.JPG
 draft: true
 output:
@@ -17,22 +19,23 @@ output:
 
 Statt der Präsenzveranstaltung sind in der Schlussphase zwei semiprofessionelle Videos entstanden, die mit unterschiedlichen Stimmungen aufwarten. 
 
-Wir würden uns sehr freuen, wenn Sie sich Zeit nehmen, um die Videos anzuschauen und mit Freunden zu teilen. Sie dauern jeweils ca. 1/4 bzw. 1/2 Stunde.
+Wir würden uns sehr freuen, wenn Sie sich Zeit nehmen, um die Videos anzuschauen und mit Freunden zu teilen. Sie haben eine Länge von ca. 1/4 bzw. 1/2 Stunde.
 
-[**"Begegnungen mit Wiesel & Co"**](youtube Link folgt wohl erst im September) wartet u.a. mit einem einzigartigen Nachweis der Hermelin-Jugend im Garten eines berühmten Wädenswiler Kinderliedermacher auf. Wir stellen den Interviewpartnern die witzige Frage: "Was ist eigentlich ein Wieseltanz?" 
+<a href="https://youtu.be/pTPi_3vr2hk" target="_blank">**"Begegnungen mit Wiesel & Co"**</a> wartet u.a. mit einem einzigartigen Nachweis der Hermelin-Jugend im Garten eines berühmten Wädenswiler Kinderliedermacher auf. Mit der Frage "Was ist eigentlich ein Wieseltanz?" bringen wir die Interviewpartner und hoffentlich auch Sie zum Lachen!
 
-
-[**"Was bringt die Zukunft für Wiesel & Co am Zimmerberg?»**](youtube Link folgt wohl erst im September) geht mehr in die Tiefe und erörtert, wie verschiedene Aspekte des Projektes wahrgenommen werden. Beispielsweise: 
+<a href="https://youtu.be/1ET_8utQuwk" target="_blank">**"Was bringt die Zukunft für Wiesel & Co am Zimmerberg?"**</a> geht mehr in die Tiefe und erörtert, wie verschiedene Aspekte des Projektes wahrgenommen werden. Beispielsweise: 
 - die erzielten Resultate und Effekte
 - die Form der Zusammenarbeit
 - der Mehrwert der Regionalität
 - bearbeitete Lösungsansätze
-- und der Blick in die Zukunft ...
+- Erkenntnisse und der Blick in die Zukunft ...
 
 ... denn ist Ihnen schon bekannt, dass derzeit die [Trägerschaft des Naturnetzes Zimmerberg aufgebaut wird?](/_news/2021-08-11-das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut/das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut.html) 
 
 
-reminder: HIER UNTEN DIE BEIDEN YOUTUBE FILME (AUCH NOCH) EINBETTEN.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTPi_3vr2hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1ET_8utQuwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 
