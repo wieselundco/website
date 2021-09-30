@@ -7,7 +7,6 @@ description: |
   Und es geht weiter in anderer Form weiter, entschiedener und engagierter wie nie zuvor.
 date: 09-30-2021
 preview: 128901062-496cf831-ec15-415c-a26e-8dc8da2278b3.jpg
-draft: true
 output:
   distill::distill_article:
     self_contained: false
