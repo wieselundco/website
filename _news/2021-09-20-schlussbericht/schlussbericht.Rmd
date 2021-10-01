@@ -4,6 +4,7 @@ description: |
   Das Projekt Wiesel & Co am Zimmerberg ist abgeschlossen. 
   
   Der vorliegende, bebilderte Schlussbericht fasst die Errungenschaften zusammen, bilanziert die gesetzten Projektziele und wagt einen kurzen Ausblick.
+date: 2021-09-20
 output:
   distill::distill_article:
     self_contained: false
