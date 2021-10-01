@@ -29,7 +29,7 @@ Wir würden uns sehr freuen, wenn Sie sich Zeit nehmen, um die Videos anzuschaue
 - bearbeitete Lösungsansätze
 - Erkenntnisse und der Blick in die Zukunft ...
 
-... denn ist Ihnen schon bekannt, dass derzeit die [Trägerschaft des Naturnetzes Zimmerberg aufgebaut wird?](/_news/2021-08-11-das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut/das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut.html) 
+... denn ist Ihnen schon bekannt, dass derzeit die [Trägerschaft des Naturnetzes Zimmerberg aufgebaut wird?](/news/2021-08-11-das-ende-vom-anfang-naturnetz-zimmerberg-wird-aufgebaut.html) 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTPi_3vr2hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
