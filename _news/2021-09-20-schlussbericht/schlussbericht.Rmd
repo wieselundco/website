@@ -1,5 +1,5 @@
 ---
-title: 'Schlussbericht der Umsetzungsphase 2015 -2021'
+title: 'Schlussbericht der Umsetzungsphase 2015 - 2021'
 description: |
   Das Projekt Wiesel & Co am Zimmerberg ist abgeschlossen. 
   
@@ -17,6 +17,7 @@ params:
 Ergänzend zum Schlussbericht vertiefen die [publizierten Projekt-Videos](/news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/) die Impressionen und den Ausblick in die Zukunft von Wiesel & Co am Zimmerberg.
   
 [Download Schlussbericht](Schlussbericht_WiCoZ_Phase2_red.pdf)
+
   Für den Schlussbericht mit Finanzteil bitte anfragen. [(Kontakt)](/ueber-uns/24-kontakt/).      
     
 
