@@ -1,0 +1,33 @@
+---
+title: 'Schlussbericht der Umsetzungsphase 2015 -2021'
+description: |
+  Das Projekt Wiesel & Co am Zimmerberg ist abgeschlossen. 
+  
+  Der vorliegende, bebilderte Schlussbericht fasst die Errungenschaften zusammen, bilanziert die gesetzten Projektziele und wagt einen kurzen Ausblick.
+output:
+  distill::distill_article:
+    self_contained: false
+canonical: /projekt/resultate/schlussbericht
+preview: https://user-images.githubusercontent.com/49158554/129113794-021c7424-07d7-49f8-a36f-6380e39b8a83.jpg
+params:
+  rmdpath: _projekt-resultate/schlussbericht/schlussbericht.Rmd
+  editurl: https://github.com/wieselundco/website/edit/master/
+---
+
+Ergänzend zum Schlussbericht vertiefen die [publizierten Projekt-Videos](/news/2021-08-11-sehenswerte-projekt-videos-mit-interviews-uvm/) die Impressionen und den Ausblick in die Zukunft von Wiesel & Co am Zimmerberg.
+  
+[Download Schlussbericht](Schlussbericht_WiCoZ_Phase2_red.pdf)
+  Für den Schlussbericht mit Finanzteil bitte anfragen. [(Kontakt)](/ueber-uns/24-kontakt/).      
+    
+
+<style>.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}</style><div class='embed-container' data-page-width='453' data-page-height='640' id='ypembedcontainer' ><iframe   src="https://www.yumpu.com/de/embed/view/17kdtD9XzoA4HJp2" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/de/document/view/65835503/schlussbericht-phase-2-wiesel-co-am-zimmerberg" title="Schlussbericht Phase 2 Wiesel & Co am Zimmerberg" target="_blank">Schlussbericht Phase 2 Wiesel & Co am Zimmerberg</a></div><script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' ></script>
+    
+
+
+
+```{r,results='asis', echo = FALSE}
+
+
+
+```
+
