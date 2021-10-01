@@ -21,7 +21,7 @@ navbar:
       - text: "Bonus System"
         href: Bonus.html
     - text: "Wissenschaft"
-      href: Wissenschaft.html                         # diese seite wird gar nicht angezeigt
+      href: Wissenschaft.html       # diese seite wird gar nicht angezeigt
       menu:
         - text: "TubeCam"
           href: TubeCam.html
@@ -53,25 +53,6 @@ navbar:
       href: Ueber-uns.html
     - text: "News"
       href: News.html
-collections:
-  wissenschaft:
-    categories: true
-  projekt-ausgangslage:
-    categories: false
-  projekt-massnahmen:
-    categories: false
-  projekt-bonus:          # achtung: das hies ursprünglich 1-1-untersuetzung
-    categories: false
-  projekt-resultate:
-    categories: false
-  wissenschaft-tubecam:
-    categories: false
-  wissenschaft-wiesel-co-projekte:
-    categories: false
-  wissenschaft-externe-projekte:
-    categories: false
-  wirkungskontrolle:
-    categories: false
 output:
   distill::distill_article:
     css: styles.css
